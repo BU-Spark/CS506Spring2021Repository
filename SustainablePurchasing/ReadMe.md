@@ -5,7 +5,7 @@ Boston University strives to be an industry leader in reducing greenhouse gas em
 
 ## Meeting Schedule
 
-Weekly Meeting with the PM, Lin, Anqi, in Thurs 8:00 AM - 9:30 AM,  
+With PM, Lin, Anqi, weekly in Thurs 8:00 AM - 9:30 AM,  
 With BU Sustainability, Lisa Tornatore and Meghan Mcdonough - biweekly in Thurs 8:00 AM - 9:30 AM,   
 Second meeting with the client on Thurs March 4th,  
 Spark Liason - Greta Bruce  
@@ -44,12 +44,13 @@ How could BU track its Scope 3 emissions on a long-term basis as it relates to i
 
 ## Methods
 For scraping:  Selenium webdriver is utilized to find the greenhouse gas emissions of coffee and Toner/the price of toner and coffee.   
-For cleaning and preprocessing: use Pandas to organize the dataset into dataframes for faster computation. Data visualization libraries: use Matplotlib to create static, animated, and interactive visualizations in python EPA Sustainable Materials Management Tool  
+For cleaning and preprocessing: use Pandas to organize the dataset into dataframes for faster computation. Data visualization libraries: use Matplotlib to create static, animated, and interactive visualizations in python EPA Sustainable Materials Management Tools.  
 For data visualization libraries such as Matplotlib, Seaborn, and Bokeh (interactive web-integratable visualizations). 
 
 
 ## Discussion and Limitations
+### Deliverable 0 @Feb 19, 2021
 We only focus on tonor and coffee consumption for investigating sustainable purchasing, not so much freedom.  
 It may be challenging to trace the GHG footprint of tonor since we need to scrape some information from the merchants, not sure if they publish the details online.  
 Right now we only have “WB Mason Toner and Coffee Purchases_no pricing” data at hand and the valuable attributes are “date”, “ERP Supplier”, “Product Description” and “Category”. There’s not many numeric attributes to work on and we need to find a way to separate and classify the non-numeric attributes.  
-Note: The client is also interested in the information the project needs when collecting data, especially the data that need to start collection from now. And how could BU track its Scope 3 emissions on a long-term basis as it relates to its procurement, given the breadth of products, services, and suppliers available? 
+Note: The client is also interested in the information the project needs when collecting data, especially the data that need to start collection from now. And how could BU track its Scope 3 emissions on a long-term basis as it relates to its procurement, given the breadth of products, services, and suppliers available. 
