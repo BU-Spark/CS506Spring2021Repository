@@ -26,13 +26,13 @@ Github accounts
 milesway, jazzmynd, Tinghecui, XiongxinZ, tianjzjz
 
 ## Data Sources
-The data is collected by BU Sustainability. They sort it by time and keep in a Excel file. The file included BU office toner and coffee purchases from WB Mason.  
-We have also be provided BU Sustainability annul report as reference.  
+The data is collected by BU Sustainability. They sort it by time and keep it in an Excel file. The file included BU office toner and coffee purchases from WB Mason.  
+We have also be provided BU Sustainability annual report as reference.  
 http://www.bu.edu/sustainability/files/2020/04/BU-Sustainability-2019AnnualReport-pages-20-04-17.pdf  
 
 ## Project Scope
 Query on recent five-year BU staff’s demands on toner and coffee.  
-GHG emission on producing tonor and coffee.  
+GHG emission on producing toner and coffee.  
 
 
 ## Questions to be Answered in Analysis
@@ -50,7 +50,8 @@ For data visualization libraries such as Matplotlib, Seaborn, and Bokeh (interac
 
 ## Discussion and Limitations
 ### Deliverable 0 @Feb 19, 2021
-We only focus on tonor and coffee consumption for investigating sustainable purchasing, not so much freedom.  
-It may be challenging to trace the GHG footprint of tonor since we need to scrape some information from the merchants, not sure if they publish the details online.  
-Right now we only have “WB Mason Toner and Coffee Purchases_no pricing” data at hand and the valuable attributes are “date”, “ERP Supplier”, “Product Description” and “Category”. There’s not many numeric attributes to work on and we need to find a way to separate and classify the non-numeric attributes.  
-Note: The client is also interested in the information the project needs when collecting data, especially the data that need to start collection from now. And how could BU track its Scope 3 emissions on a long-term basis as it relates to its procurement, given the breadth of products, services, and suppliers available. 
+1.  We only focus on toner and coffee consumption for investigating sustainable purchasing, not so much freedom.  
+2.  It may be challenging to trace the GHG footprint of toner since we need to scrape some information from the merchants, not sure if they publish the details online.  
+3.  Right now we only have “WB Mason Toner and Coffee Purchases_no pricing” data at hand and the valuable attributes are “date”, “ERP Supplier”, “Product Description” and “Category”. There’s not many numeric attributes to work on and we need to find a way to separate and classify the non-numeric attributes.  
+We don’t have direct access to the original resources. Everytime we apply for the data, we need to wait for the clients’ replies, which leads to delay in progress. 
+4.  Note: The client is looking for a full-featured database for the prospective students, so we should have an eye on what else data we need in order to realize a comprehensive report in the end.
