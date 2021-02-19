@@ -20,7 +20,7 @@ Zeng, Xiongxin <zeng459@bu.edu>,
 Dong, Meichen <jazzmyn@bu.edu>,  
 Cui, Tinghe <jamescui@bu.edu>,  
 Li, Zhi <mikelili@bu.edu>,  
-Lin, Anqi <anqilin@bu.edu>  
+Yu, Tian <yutian12@bu.edu>  
 
 Github accounts  
 milesway, jazzmynd, Tinghecui, XiongxinZ, tianjzjz
