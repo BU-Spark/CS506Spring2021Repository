@@ -2,7 +2,23 @@
 ## Problem Statement
 All contractors commissioned by the state for major construction projects need to report their ethnic and gender makeup of the work forces. The WGBH would like to understand the data contained in those Summary of Workforce Utilization reports. Furthermore, the WGBH is interested in getting data-driven insights of the impact drawn upon specific groups of working forces between 2019 to 2020. The data is given in PDF format and organized by hours spent per project per organization.  Our goal is to first extract data in proper formats from the PDF files and then run some analysis.
 
-## Weekly Meeting Time with the PM is Thurs 11:30 AM - 1:00 PM
+## Weekly Meeting with the PM, Lingyan Jiang , is Thurs 11:30 AM - 1:00 PM
+### With WGBH, Paul Singer, - every other Thurs 11:30 AM - 1:00 PM  
+Second meeting with the client on Thurs March 4th  
+Spark Liason - Greta Bruce
+
+## Contact List
+
+Client Paul Singer <paul_singer@wgbh.org>,  
+Spark Liason Greta Bruce <gretab@bu.edu>,   
+PM Lingyan Jiang <lingyanj@bu.edu>,  
+Students Rep Jena Jordahl <jenajj@bu.edu>,  
+Elisa Cordeiro Lopes <elisacl@bu.edu>, Richard Lee <rlee99@bu.edu>
+Murtadha - Ahmad M Al Bahrani<murtadha@bu.edu>
+Carmen - Sabrina Araujo<sabrinaa@bu.edu>
+
+Github accounts  
+elisa3lopes, rlee99, murtio, carmen-araujo, jenajjedu
 
 ## Data Sources
 The data is collected weekly by DCAMM. They sort it by months and keep it in PDF form. DCAMM already provided WGBH the work force from 2019 and will provide in March the data from 2020. The data is organized as tables of projects (such as bridges, buildings, etc) containing the companies included, their types of workers, and the hour rate separated by race, sex, and ethnicy. For this project, no additional datasets are required to be extracted, but our team is open to get any other information as it seems relevant to analysis. 
