@@ -26,12 +26,14 @@ Github accounts
 milesway, jazzmynd, Tinghecui, XiongxinZ, tianjzjz
 
 ## Data Sources
-The data is collected by BU Sustainability. They sort it by time and keep in a Excle file. The file included BU office toner and coffee purchases from WB Mason.  
+The data is collected by BU Sustainability. They sort it by time and keep in a Excel file. The file included BU office toner and coffee purchases from WB Mason.  
 We have also be provided BU Sustainability annul report as reference.  
 http://www.bu.edu/sustainability/files/2020/04/BU-Sustainability-2019AnnualReport-pages-20-04-17.pdf  
 
 ## Project Scope
-  ### TBD
+Query on recent five-year BU staff’s demands on toner and coffee.  
+GHG emission on producing tonor and coffee.  
+
 
 ## Questions to be Answered in Analysis
 The client is seeking to understand the most impactful categories of BU spend as it relates to its Scope 3 greenhouse gas emissions so we can make effective policy determinations and/or limit categories/products available for purchase by the BU community.  
