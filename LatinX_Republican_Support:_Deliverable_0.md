@@ -17,7 +17,7 @@ Voter data includes total ballots cast, registered voters, eligible voters, and 
 Massachusetts’ State Election Results: https://electionstats.state.ma.us/
 Census Data: https://bit.ly/3duRLtd
 MA LatinX Origin Demographics (2014): https://pewrsr.ch/2ZvKCRl
-Precinct Election Data: Lawrence, Springfield, Lynn
+Precinct Election Data: Lawrence, Springfield, Lynn, Acushnet, Soutchwick, Douglas
 
 ## Methods:
 
@@ -45,11 +45,12 @@ If there is a significant change, what factors(i.e. Environment: economic, polit
 
 Project Manager: Lingyan Jiang, lingyanj@bu.edu
 Staff Lead:  Steve Backman, sbackma1@bu.edu
+
 Team Representative: Ngozi Omatu, nomatu@bu.edu    Github: nomatu
-Member: Song Xie, sxie2@bu.edu            Github: SunkCostSong
-Member: Matan Ziegel, mziegel@bu.edu        Github: Matanziegel
-Member: Gil Lotzky, glotzky@bu.edu            Github: glotzky
-Member: Anna Xie, annaxyw@bu.edu            Github: annaxieyw
+Member: Song Xie, sxie2@bu.edu                                   Github: SunkCostSong
+Member: Matan Ziegel, mziegel@bu.edu                         Github: Matanziegel
+Member: Gil Lotzky, glotzky@bu.edu                               Github: glotzky
+Member: Anna Xie, annaxyw@bu.edu                              Github: annaxieyw
 
 
 ### Project Contact: 
