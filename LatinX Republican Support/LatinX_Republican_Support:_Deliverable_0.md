@@ -47,9 +47,9 @@ Dependent on the client’s request after seeing processed data, Matplotlib, Sea
 
 ## Questions to be answered:
 
-1. Is there a significant change in voting patterns in the LatinX communities from 2016 to 2020?
+1. How has support for Trump shifted across LatinX sub-groups from 2016 to 2020?
 
-2. Which LatinX subgroup displayed significant change, if any, in their voting results from 2016 to 2020? Which communities did not show significant change?
+2. What is the breakdown of LatinX sub-groups in their support for Democratic vs. Republican candidates? Which communities did not show significant change?
 
 3. Did changes in the LatinX community voting patterns from 2016 to 2020 show a significant impact on the overall result of Massachusetts’ election results in 2020?
 
