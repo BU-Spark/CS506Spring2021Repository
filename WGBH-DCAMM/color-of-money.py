@@ -1,6 +1,6 @@
 import unittest
 from sys import argv
-from parsers.pdfparser import import_pdf
+from src.parsers.pdf_parser import import_pdf
 
 def main(arg):
     debug = False
