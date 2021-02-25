@@ -7,7 +7,6 @@ As a starting point, a subset of companies from the iShares Nasdaq Biotechnology
 
 Our initial pipeline will compare only a handful of companies from IBB. However, we plan to generalize our pipeline to later handle the entire ETF, or other arbitrary sets of companies with SEC filings. Time permitting, we would also extend our cosine similarity efforts to social media data. For example, does the “persona” of a post/tweet among company (or executive) profiles pre-COVID hold any predictive power to the company’s performance mid-COVID?
 
-
 # Data Sets
 EDGAR (the Electronic Data Gathering, Analysis, and Retrieval system)
 - Repository of submissions by companies who are required by law to file forms with the U.S. Securities and Exchange Commission (SEC)
@@ -34,3 +33,7 @@ Pandas will support cleaning and preprocessing efforts, scikit learn for cosine 
 # Installation
 # Usage
 # Examples
+# Contact Information
+Eric South; Nicholas Mosca; Evie Wan
+esouth@bu.edu; njmosca@bu.edu; ewan212@bu.edu;
+571-340-0257; 631-678-7860 ; 424-666-5906; 
