@@ -1,1 +1,8 @@
 PyPDF2==1.26.0
+tabula-py
+camelot-py
+pytest
+pytest-cov
+pandera
+testfixtures
+tox
