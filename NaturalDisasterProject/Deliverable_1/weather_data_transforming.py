@@ -18,11 +18,9 @@ current_directory = os.getcwd()
 
 location=[32.7003, -90.6783]
 weather_data = pd.read_csv('/Users/abdullaahrobins/Documents/GitHub/CS506Spring2021Repository/NaturalDisasterProject/Datasets/Tornado_Data_2010-2020.csv')
-folium.Map(location=location, zoom_start=3)
+base_map = folium.Map(location=location, zoom_start=3)
 heat_df = weather_data[['BEGIN_LAT', 'BEGIN_LON']]
 heat_df = heat_df.dropna(axis=0, subset=['BEGIN_LAT','BEGIN_LON'])
-# HeatMap(data=weather_data.groupby(['BEGIN_LAT', 'BEGIN_LON']).mean().reset_index().values.tolist(), radius=8, max_zoom=4).add_to(base_map)
-# base_map.save('tornado_heat_map.html')
 
 
 # In[27]:
@@ -93,7 +91,7 @@ base_map
 
 
 base_map.save('heatmap_weather.html')
-base_map.save('choropleth_weather.html')
+m.save('choropleth_weather.html')
 
 
 # In[ ]:
