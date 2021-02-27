@@ -1,4 +1,3 @@
-#Alvaro
 # CS 506 - Final Project Repository
 
 All final projects for CS506.
