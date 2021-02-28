@@ -1,3 +1,8 @@
 {
-    "alpha_vantage": ""
+    "alpha_vantage": "",
+    "twitter": {
+        "API_key": "",
+        "API_secret_key": "",
+        "Bearer_token": ""
+    }
 }
