@@ -10,7 +10,7 @@ holdings = list(IBB["Symbol"])
 
 
 #setting Download location
-dl = Downloader('/Users/nick/Documents/cs506/project/financial_docs')
+dl = Downloader('/Users/nick/Documents/cs506/project')
 
 
 def Bulk_extraction(ticker,filetype,date,location):

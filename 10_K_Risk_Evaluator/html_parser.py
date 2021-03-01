@@ -1,4 +1,4 @@
-from nicks_module.py import his_func
+#from nicks_module.py import his_func
 
 from bs4 import BeautifulSoup, NavigableString, Tag
 import requests
@@ -43,6 +43,7 @@ def grab_section_text(soup_object, start_terms, end_terms):
                 # Located the start of 'Item 1A: Risk Factors'
                 within_item_1A = True
                 section_text.append(tag)
+                import pdb;pdb.set_trace()
                 continue
 
         if within_item_1A:
