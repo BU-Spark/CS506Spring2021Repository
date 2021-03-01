@@ -64,7 +64,7 @@ def test_twitter_api():
 
 
 if __name__ == "__main__":
-    # test_alpha_vantage(starting_stocks)
+    test_alpha_vantage(starting_stocks)
     # test_yahoo_finance(starting_stocks)
-    test_twitter_api()
+    # test_twitter_api()
 
