@@ -1,3 +1,0 @@
-This project is concerned with understanding 
-whether the Boston Police are abusing the current 
-overtime system.
