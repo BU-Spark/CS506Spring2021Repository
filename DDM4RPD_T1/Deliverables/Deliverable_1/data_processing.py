@@ -10,7 +10,7 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-"""# CS506 - Team 2 Project """
+"""# CS506 - Team 1 Project """
 
 import pandas as pd
 import numpy  as np
@@ -19,7 +19,7 @@ import statistics as stat
 
 """# Data preprocessing"""
 
-DATASET_PATH = '/content/drive/Shareddrives/CS506_Team/Data/Blake_RPD_Dataset-2.xlsx'
+DATASET_PATH = 'Blake_RPD_Dataset_NonTwin.xlsx'
 df = pd.read_excel(DATASET_PATH, "data") # data is the sheet name
 df
 
