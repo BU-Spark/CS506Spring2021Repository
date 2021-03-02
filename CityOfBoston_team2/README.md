@@ -6,7 +6,7 @@ Final project for CAS CS 506 through Spark! BU and the City of Boston.
 
 Katelyn Lee (ktllee@bu.edu, ktllee)<br>
 Darren Liu (darrenjl@bu.edu, liudarren3)<br>
-Khaled Sulayman (khaledsh@bu.edu)<br>
+Khaled Sulayman (khaledsh@bu.edu, khaledsulayman)<br>
 Sandra Zhen (szhen@bu.edu, Zayta)<br>
 
 ## Project Description
