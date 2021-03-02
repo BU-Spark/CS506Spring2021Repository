@@ -8,32 +8,34 @@ Teams should have set up weekly meetings with their client for the remainder of 
 
 - [x] Reviewed all previous material
 - [x] Revised scope of the project if needed
-- [ ] Identify / list limitations with data and potential risks of achieving project goal
-- [ ] Meet with client to review the project
-- [ ] Schedule weekly meetings with PMs and bi-weekly with client
-- [ ] Submit a PR with the revised project proposal including list of limitations
+- [x] Identify / list limitations with data and potential risks of achieving project goal
+- [x] Meet with client to review the project
+- [x] Schedule weekly meetings with PMs and bi-weekly with client
+- [x] Submit a PR with the revised project proposal including list of limitations
 
 ## Project Deliverable 1
 
 ### Project Specifics 
-- [ ] Test the following data sources:
+- [x] Test the following data sources:
     - Alpha Vantage
     - Twitter 
     - Yahoo Finance 
     - Finhub
-- [ ] Identify key attributes in each data source and limitations 
-- [ ] Plot price vs volume of tweets with $ tag
+- [x] Identify key attributes in each data source and limitations 
+- [x] Plot price vs volume of tweets with $ tag
+
+![tweetsplot](tweetsplot.jpg)
 
 
 Sufficient data should have been collected to perform a preliminary analysis of the data and attempt to answer one question relevant to your project proposal which you will submit as a pull request. If data has already been collected for your project you must answer two questions.
 
 #### Checklist
 
-- [ ] Collect and pre-process a preliminary batch of data
-- [ ] Perform a preliminary analysis of the data
-- [ ] Answer one key question
-- [ ] Refine project scope and list of limitations with data and potential risks of achieving project goal
-- [ ] Submit a PR with the above report and modifications to original proposal
+- [x] Collect and pre-process a preliminary batch of data
+- [x] Perform a preliminary analysis of the data
+- [x] Answer one key question
+- [x] Refine project scope and list of limitations with data and potential risks of achieving project goal
+- [x] Submit a PR with the above report and modifications to original proposal
 
 
 
