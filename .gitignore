@@ -1,1 +1,4 @@
 .DS_Store
+.ipynb_checkpoints
+fcc_data_june2019.csv
+cs506MAPC.db
