@@ -5,9 +5,9 @@
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Contact      | Name: Simon Angel, Abdullaah Robins, Andrew Eramo, Alvaro Carrascosa|
-| Email | varo@bu.edu, arobins@bu.edu, aeramo@bu.edu, simonang@bu.edu |
-|Cell Phone| (786) 863-0176, (470) 269-5940, (954) 707-0907, (305) 393-9302 |
+| Contact      | Name: Simon Angel, Abdullaah Robins, Frazier Horn, Alvaro Carrascosa|
+| Email | varo@bu.edu, arobins@bu.edu, fhorn@bu.edu, simonang@bu.edu |
+|Cell Phone| (786) 863-0176, (470) 269-5940, (617) 840-4970, (305) 393-9302 |
 | Organization   |         |
 | Project Type   |  Data Science  |
 | Project Description  |  This project invloves collecting data about the prevalence of occurrences of certain natural disasters, specifically tornadoes and earthquakes, with the purpose of identifying climate and weather trends leading up to the occurrence. <br><br> The environmental patterns we would like to investigate are surface weather, rainfall, and general weather data to determine patterns and correlation between the various natural disasters. <br><br> Today we can find historical weather data and data on the significant natural disasters, but there isn’t much indication to the general public when these natural disasters will happen. <br><br> Our goal is to bring knowledge of trends and visualized quantification of aspects within the environment that lead up to the occurrence and to help predict when these disasters will happen. |
