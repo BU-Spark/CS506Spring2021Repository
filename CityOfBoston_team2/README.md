@@ -36,7 +36,7 @@ Many cities such as [Melbourne](https://www.planning.vic.gov.au/__data/assets/pd
 	<tr>
 		<td><a href='deliverable0'>Deliverable 0</a></td>
 		<td>March 02, 2021 <em>(revised)</em></td>
-		<td>No</td>
+		<td>Yes</td>
 	</tr>
 	<tr>
 		<td>Deliverable 1</td>
