@@ -117,8 +117,8 @@ We developed two general approaches for doing this. Note that these approaches a
 
 These approaches are:
 
-- Sampling a small, but representative portion of the data. In this approach, we simply select data points from a much smaller set of possibilities, and then use those data points for our analysis. For example, one idea we considered here is to obtain every data point in Massachusetts that is limited 2020, and within a time range 8:00am-8:30am, 12:00pm - 12:30pm, and 3:30pm-4:00pm. The idea here is that these are normal times when people are accessing the internet, and importantly, during school hours when students may be expected to access the classroom via Zoom, or some other digital streaming interactive service. Another possible approach here is to sample the data only from certain dates of the year. 
-  - We started with this approach, of sampling from three different times during the day. This seemed reasonable, for a number of reasons:
+- Sampling a small, but representative portion of the data. In this approach, we simply select data points from a much smaller set of possibilities, and then use those data points for our analysis. For example, one idea we considered here is to obtain every data point in Massachusetts that is limited 2020, and within a time range 8:00am-8:30am, 12:00pm - 12:30pm, 3:30pm-4:00pm, and 8:00pm-8:30pm. The idea here is that these are normal times when people are accessing the internet, and importantly, during school hours when students may be expected to access the classroom via Zoom, or some other digital streaming interactive service. Another possible approach here is to sample the data only from certain dates of the year. 
+  - We started with this approach, of sampling from four different times during the day. This seemed reasonable, for a number of reasons:
     - The sampled times are during critical hours of the day
     - The amount of data should be siginificantly smaller than the entire 2020 data set.
     - It seems a fair assumption that these times are representative of normal to heavy broadband use, which is the subset of data that is most important.
@@ -180,6 +180,10 @@ Columns:
 Example data point:
 
 2020-10-01 12:01:22.316165 UTC, TBPhGA==, 5.924981493972454, 21.283, Wellfleet, 41.9289, -70.0186, 7922
+
+##### Data Size
+
+Since we have limited the MLAB data to 2020, and within just 4 time slots (8:00am-8:30am, 12:00pm-12:30pm, 3:30pm-4:00pm, and 8:00pm-8:30pm), then csv file for MLAB is large, but not unreasonably large. It contains 437432 rows of data, and is approximately 49MB is size.
 
 ## Summary
 
