@@ -171,7 +171,7 @@ Columns:
 - TestTime: the time at which the test took place, includes both a date and a time.
 - IP: the IP address of the device being tested
 - MeanThroughputMbps: average broadband throughput in megabits per second. Note that this is different than the download and upload speeds of Ookla, since they are measuring slightly different things.
-- MinRTT: Minimum rount trip time, to send and receive http request from relevant server.
+- MinRTT: Minimum round trip time, the time it takes to send a signal or data packet and receive back the corresponding acknowledgment
 - City: the city in which the test occured
 - Latitude: latitude location of the test
 - Longitude: longitude location of the test
