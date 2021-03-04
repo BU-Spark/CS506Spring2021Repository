@@ -1,7 +1,15 @@
-#from nicks_module.py import his_func
+"""
+<CS506 Project: 10-K Risk Evaluator>.
 
+Written by Evie Wan, Nicholas Mosca, Eric South
+"""
 from bs4 import BeautifulSoup, NavigableString, Tag
-import requests
+import nltk
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
+# from nltk.stem.snowball import SnowballStemmer
+from nltk.tokenize import regexp_tokenize
+nltk.download('wordnet')
 
 
 def import_data(html_file):
@@ -43,7 +51,6 @@ def grab_section_text(soup_object, start_terms, end_terms):
                 # Located the start of 'Item 1A: Risk Factors'
                 within_item_1A = True
                 section_text.append(tag)
-                import pdb;pdb.set_trace()
                 continue
 
         if within_item_1A:
@@ -64,47 +71,56 @@ def grab_section_text(soup_object, start_terms, end_terms):
     return section_text
 
 
-def remove_trivial_strings(input_list):
+def clean_strings(input_list):
     """
-    Remove whitespace or otherwise trivial lines from a list of strings.
+    Remove whitespace/stopwords, tokenizes, and lemmatizes a list of strings.
 
     :param input_list: a list of strings.
     :return cleaned_list: a cleaned version of input_list.
     """
-    misfits = ['•', '\n', '\xa0']
-    temp = [x for x in input_list if x not in misfits]  # Remove misfit lines
-    temp = [i for n, i in enumerate(temp) if i not in temp[:n]]  # Rm duplicates
-    cleaned_list = [item.strip() for item in temp]
+    misfits = ['•', '\n', '\xa0']  # Remove misfit lines
+    input_list = [x.lower() for x in input_list if x not in misfits]
+
+    # Tokenize strings (i.e., break sentences down into a list of tokens)
+    temp = ' '.join(input_list)  # Join elements in list into single string
+    temp = regexp_tokenize(temp, "[\w']+")  # Use a regex to split words
+
+    # Lemmatization (i.e., grouping together any inflected forms of a word)
+    lemmatizer = WordNetLemmatizer()
+    temp = [lemmatizer.lemmatize(word) for word in temp]
+
+    # Uncomment to see how the lemmatization class works
+    # for w in temp:
+    #     print(w, " : ", lemmatizer.lemmatize(w))
+
+    # Removing information-poor stopwords (e.g., 'in', 'the' 'to', etc.)
+    stop_words = stopwords.words('english')
+    temp = [w for w in temp if w not in stop_words]
+
+    # Remove digit-value and single-character strings from text
+    temp = [x for x in temp if not (x.isdigit())]
+    cleaned_list = [x for x in temp if len(x) > 1]
+
     return cleaned_list
 
 
-
-def summarize_risk(section):
-    pass
-
-
-def grab_tables():
-    pass
-
-
-
-
-
-
 def main():
-    tree = import_data('filing-details2.html')  # Import html file
+    soup_object = import_data('filing-details.html')  # Import html file
 
     # Specify a set of words that are unique to the boundaries of a section
     start_terms = ['ITEM', '1A.', 'RISK', 'FACTORS']
     end_terms = ['ITEM', '1B.', 'UNRESOLVED', 'STAFF', 'COMMENTS']
 
-    risk_text = grab_section_text(tree, start_terms, end_terms)
-    risk_text = remove_trivial_strings(risk_text)
+    risk_text = grab_section_text(soup_object, start_terms, end_terms)
+    risk_text = clean_strings(risk_text)
 
-    print(risk_text)
-    print(len(risk_text))
+    # print(risk_text)
+    # print(len(risk_text))
 
+    all_text = []
+    all_text.append(risk_text)
 
+    return all_text
 
 
 if __name__ == '__main__':
