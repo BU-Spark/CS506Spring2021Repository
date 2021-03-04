@@ -187,4 +187,11 @@ Since we have limited the MLAB data to 2020, and within just 4 time slots (8:00a
 
 ## Summary
 
-In this deliverable, we started our analysis by understanding the two primary datasets, Ookla and MLAB. We describe the data format, and provide initial csv files of the data we will work with in future deliverables.
+In this deliverable, we started our analysis by understanding the two primary datasets, Ookla and MLAB. We describe the data format, and provide initial csv files of the data we will work with in future deliverables. Notably, in this deliverable, the key question answered was "how to get the data." Given that the data are large and in non-standard csv format, this was an important step, both for our analysis, as well as for the clients applications purposes. 
+
+Deliverable checklist:
+
+- Collected and pre-process a batch of data: we have collected data from both Ookla and MLAB. In addition, we have specified that these data are only for the year 2020, and in the state of MA. Finally, we have processed the raw data formats into clear csv files.
+- Perform preliminary analysis of the data: A large portion of this project is simply in the data collection, given the size of the data. We have managed to reduce the data to a usable size, while still maintaining a representative sample. Further, we have developed strategies for further aggregation, which we'll explore with the client. Finally, we also labeled the Ookla data with geographical county information for MA.
+- Answer one key question: the key question answered was how to get the data, and the previous sections described our methodology.
+- Refine project scope: as the data are too large to store locally, or run complete analyses, we reduced the size of the data so that we can run effective analyses. However, we expect that this sub-sampling of data is still representative of the broader broadband trends, and is therefore sufficient for the goals of this project.
