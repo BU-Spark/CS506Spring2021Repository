@@ -48,10 +48,16 @@ For cleaning and preprocessing: use Pandas to organize the dataset into datafram
 For data visualization libraries such as Matplotlib, Seaborn, and Bokeh (interactive web-integratable visualizations). 
 
 
-## Discussion and Limitations
-### Deliverable 0 @Feb 19, 2021
+## Deliverables
+### [Deliverable 0 @Feb 19, 2021](https://github.com/milesway/CS506Spring2021Repository/tree/master/SustainablePurchasing/Deliverable%200)
 1.  We only focus on toner and coffee consumption for investigating sustainable purchasing, not so much freedom.  
 2.  It may be challenging to trace the GHG footprint of toner since we need to scrape some information from the merchants, not sure if they publish the details online.  
 3.  Right now we only have “WB Mason Toner and Coffee Purchases_no pricing” data at hand and the valuable attributes are “date”, “ERP Supplier”, “Product Description” and “Category”. There’s not many numeric attributes to work on and we need to find a way to separate and classify the non-numeric attributes.  
 We don’t have direct access to the original resources. Everytime we apply for the data, we need to wait for the clients’ replies, which leads to delay in progress. 
 4.  Note: The client is looking for a full-featured database for the prospective students, so we should have an eye on what else data we need in order to realize a comprehensive report in the end.
+
+### [Deliverable 1 @March 5, 2021](https://github.com/milesway/CS506Spring2021Repository/tree/master/SustainablePurchasing/Deliverable%201)
+1. We did data preprocessing, data classification and visualization.
+2. We refined our project scope and answered one key question.
+3. We did follow-ups after the meeting with clients and sent emails about the questions we want to ask the manufacture for the specific coffee products we are working on.
+
