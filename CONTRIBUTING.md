@@ -1,4 +1,4 @@
-# Contributing to Project Engage
+# Contributing to CS506Spring2021Repository
 
 ## Things you will need
 
