@@ -4,7 +4,7 @@ import difflib
 import re
 
 def import_data(filename):
-    data = pd.read_csv(filename, sep=',', usecols = ['DISTRICT','ZonAgg','TypeLong','ACRES','ADDRESS','ShapeSTArea','ShapeSTLength'])
+    data = pd.read_csv(filename, sep=',', usecols = ['SITE_NAME','OWNERSHIP','DISTRICT','ZonAgg','TypeLong','ACRES','ADDRESS','ShapeSTArea','ShapeSTLength'])
     return data
 
 #https://stackoverflow.com/questions/61858903/remove-duplicate-approximate-word-matching-using-fuzzy-python
