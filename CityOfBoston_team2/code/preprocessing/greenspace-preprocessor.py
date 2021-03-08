@@ -33,10 +33,10 @@ def output_data(dataframe,path):
     dataframe.to_csv(path)
     return
 
-df = import_data("../../datasets/open_space.csv")
+df = import_data("../../dataset_ignore/open_space.csv")
 df['TypeLong'] = similarity_replace(df.TypeLong)
 
 print('Types are: ', columnValues(df,'TypeLong'))
 
-output_data(df,"../../datasets/open_space_sanitized.csv")
+output_data(df,"../../datasets_clean/open_space_sanitized.csv")
 
