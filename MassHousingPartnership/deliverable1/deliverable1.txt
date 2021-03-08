@@ -1,0 +1,16 @@
+Project Deliverable 1
+
+Client wanted a process to find the density of address per parcel using the MA addresses and MA parcels datasets.
+    For this deliverable, we developed a scaled-down process to combine the address and parcel datasets using Shapley.
+    Our process loaded the address and parcel data from Quincy and generated the density of addresses per parcel.
+
+
+Sufficient data should have been collected to perform a preliminary analysis of the data and attempt to answer one question relevant to your project proposal which you will submit as a pull request. If data has already been collected for your project you must answer two questions.
+
+Checklist
+
+ Collect and pre-process a preliminary batch of data
+ Perform a preliminary analysis of the data
+ Answer one key question
+ Refine project scope and list of limitations with data and potential risks of achieving project goal
+ Submit a PR with the above report and modifications to original proposal
