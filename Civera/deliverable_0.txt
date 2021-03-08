@@ -1,0 +1,27 @@
+Civera Software
+Project Deliverable 0
+Teams should have set up weekly meetings with their client for the remainder of the semester,  reviewed the project scope, and submitted a pull request with the revised and final project description. Project descriptions should include data sources that your team will collect, including any additional datasets you identify that you think would enhance the project, specific questions that will be answered and the step-by-step approach you will take for transforming the data (cleaning) and answering strategic questions.
+
+Checklist
+1. Reviewed all previous material.
+Each team member has reviewed the specifications of Mr. Friedman.
+We had some difficulty accessing the SQL files but Civera resolved this issue.
+We have access to the datasets, the legacy code on GitHub and write access to a database for our output.
+
+2. Revised scope of the project if needed.
+We’ve revised the SOW (attached) to address the client’s priorities.
+
+3. Identify / list limitations with data and potential risks of achieving project goal.
+Mr. Friedman has acknowledged that their scraping of this data incurs a lot of duplicate and blank fields, which makes cleaning the data rigorously a priority.
+Finding a good means of completing this(ngrams, spaCy) and pipelines for funneling the data to each team member for parallel processing may present a challenge.
+
+4. Meet with client to review the project.
+Our team has met with Mr. Friedman several times to specify priorities.
+A good working relationship has been established.
+
+5. Schedule weekly meetings with PMs and bi-weekly with client.
+We have regular meetings set as follows:
+PM, Rishab Nayak – each Thursday, 03:00 – 03:30, EST.
+Client, Adam Friedman, biweekly, Thurs, 03:00 – 03:30, EST.
+
+6. Submit a PR with the revised project proposal including list of limitations.
