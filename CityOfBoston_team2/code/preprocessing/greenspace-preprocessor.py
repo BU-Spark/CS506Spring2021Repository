@@ -35,7 +35,7 @@ def output_data(dataframe,path):
 
 df = import_data("../../dataset_ignore/Open_Space.csv")
 df['TypeLong'] = similarity_replace(df.TypeLong)
-
+df=df.sort_values(by=['ACRES'], ascending=False)
 print('Types are: ', columnValues(df,'TypeLong'))
 
 output_data(df,"../../datasets_clean/open_space_sanitized.csv")
