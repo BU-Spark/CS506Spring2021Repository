@@ -101,11 +101,16 @@ def clean_strings(input_list):
     temp = [x for x in temp if not (x.isdigit())]
     cleaned_list = [x for x in temp if len(x) > 1]
 
+<<<<<<< HEAD
     return cleaned_list
 
 
 def main():
     soup_object = import_data('filing-details.html')  # Import html file
+=======
+def main(path):
+    tree = import_data(str(path))  # Import html file
+>>>>>>>  developing function to produce bulk local file paths
 
     # Specify a set of words that are unique to the boundaries of a section
     start_terms = ['ITEM', '1A.', 'RISK', 'FACTORS']
@@ -123,5 +128,5 @@ def main():
     return all_text
 
 
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+   # main()
