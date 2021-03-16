@@ -43,7 +43,6 @@ def grab_section_text(soup_object, start_terms, end_terms):
                 # Located the start of 'Item 1A: Risk Factors'
                 within_item_1A = True
                 section_text.append(tag)
-                import pdb;pdb.set_trace()
                 continue
 
         if within_item_1A:
@@ -89,10 +88,8 @@ def grab_tables():
 
 
 
-
-
-def main():
-    tree = import_data('filing-details2.html')  # Import html file
+def main(path):
+    tree = import_data(str(path))  # Import html file
 
     # Specify a set of words that are unique to the boundaries of a section
     start_terms = ['ITEM', '1A.', 'RISK', 'FACTORS']
@@ -107,5 +104,5 @@ def main():
 
 
 
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+   # main()
