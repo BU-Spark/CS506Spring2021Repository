@@ -1,6 +1,5 @@
 # Edgar SEC 10k extracting
 import pandas as pd
-
 from sec_edgar_downloader import Downloader
 
 # importing IBB holdings. csv
