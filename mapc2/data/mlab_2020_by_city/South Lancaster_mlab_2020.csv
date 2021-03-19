@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+286188,2020-07-30 16:13:30.411519+00:00,b'\x18\xb5\xfb\x82',111.55220425345746,19.637,South Lancaster,42.4435,-71.6861,20115.0,CHARTER-NET-HKY-NC - Charter Communications

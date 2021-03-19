@@ -1,0 +1,11 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+14179,2020-01-16 13:28:30.139678+00:00,b'\x18hF\xe6',24.61577705949865,9.137,Dover,42.2362,-71.2854,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+24528,2020-01-28 20:33:53.836907+00:00,"b'&\x00\x10\x00\xb0#\xc9E\xc5,\xce\x98\xbd\xd1\x03\xa7'",14.734523888590497,36.088,Dover,42.2362,-71.2854,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+24670,2020-01-28 20:33:17.020888+00:00,"b'&\x00\x10\x00\xb0#\xc9E\xc5,\xce\x98\xbd\xd1\x03\xa7'",27.12327550697445,38.823,Dover,42.2362,-71.2854,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+25057,2020-01-28 20:32:32.881420+00:00,"b'&\x00\x10\x00\xb0#\xc9E\xc5,\xce\x98\xbd\xd1\x03\xa7'",30.955279079496883,36.93,Dover,42.2362,-71.2854,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+82192,2020-03-25 12:05:39.243130+00:00,b'J^\xa0\x82',11.585434946525304,19.065,Dover,42.2362,-71.2854,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+91283,2020-03-30 19:56:37.610619+00:00,b'\xc7\xac\xe9t',10.60838693317465,37.994,Dover,42.2362,-71.2854,3855.0,IBL-LYNX - Internet Bermuda Limited
+91394,2020-03-30 19:56:58.661335+00:00,b'\xc7\xac\xe9t',10.6730397770256,39.866,Dover,42.2362,-71.2854,3855.0,IBL-LYNX - Internet Bermuda Limited
+140616,2020-04-30 19:59:39.158815+00:00,b'J^\xa0\t',8.45849651341026,16.315,Dover,42.2362,-71.2854,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+307868,2020-08-13 16:18:54.021689+00:00,b'l\x07E\xb5',3.0872462006739783,18.064,Dover,42.2362,-71.2854,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+352852,2020-09-20 16:23:39.558266+00:00,b'l\x07E{',27.17033911620339,19.643,Dover,42.2362,-71.2854,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

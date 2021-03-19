@@ -1,0 +1,4 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+2308,2020-01-03 13:26:38.422122+00:00,b'2\xe2\xde#',572.5265842905845,10.221,Hardwick,42.3479,-72.2253,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+59112,2020-03-08 16:08:24.170496+00:00,"b""`'\x07\xce""",11.099342378580612,42.678,Hardwick,42.3479,-72.2253,20115.0,CHARTER-NET-HKY-NC - Charter Communications
+276462,2020-07-24 16:19:32.682267+00:00,b'2\xe2\xdfZ',42.679478347514696,4.33,Hardwick,42.3479,-72.2253,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

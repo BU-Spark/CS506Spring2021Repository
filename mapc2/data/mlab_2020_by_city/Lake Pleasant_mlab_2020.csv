@@ -1,0 +1,3 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+126228,2020-04-21 16:19:50.067340+00:00,"b'&\x00\x10\x00\xb1""5\x80<\\C\xba\xc4\x85\x0c\x01'",0.6030080690245583,40.703,Lake Pleasant,42.5589,-72.5137,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+137088,2020-04-28 00:17:55.440838+00:00,"b'&\x00\x10\x00\xb1""7\xb7\x80\x95\xaaa\xd9\x07\xf8\x0e'",0.5442587398157028,49.817,Lake Pleasant,42.5589,-72.5137,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
