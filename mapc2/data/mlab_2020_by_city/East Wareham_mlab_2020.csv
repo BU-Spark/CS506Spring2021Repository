@@ -1,0 +1,17 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+8797,2020-01-10 17:27:08.317170+00:00,b'Lv\x88\xdf',11.312727833087504,19.051,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+12495,2020-01-14 01:10:20.057436+00:00,b'Lv\x88\xea',4.191834519087357,26.042,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+79766,2020-03-23 16:11:12.475414+00:00,b'&\x00\x10\x00\xb01\x05\xd8\xd08\xc4\x0b\x1fVYl',0.4866737303712791,46.218,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+82497,2020-03-25 00:12:19.979228+00:00,b'&\x00\x10\x00\xb01\x05w\x01\xa2\x9eN\xe6\xa5d\xc6',8.590440327617772,44.527,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+109389,2020-04-10 19:47:50.257169+00:00,b'&\x00\x10\x00\xb016\xb6l\xccs\xc1ms\x85\xeb',0.100742908854115,41.486,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+110112,2020-04-10 16:19:45.802319+00:00,b'\xadL*\x9f',16.47034296549557,16.339,East Wareham,41.7682,-70.6532,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110265,2020-04-10 19:46:51.479457+00:00,b'&\x00\x10\x00\xb016\xb6l\xccs\xc1ms\x85\xeb',0.1821029509994767,50.758,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+120279,2020-04-17 12:21:28.839458+00:00,b'&\x00\x10\x00\xb01V\xe4\x91\xbe\xe1\x12;\x118\x02',1.0620836371914166,39.531,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+121035,2020-04-17 12:20:50.177831+00:00,b'&\x00\x10\x00\xb01V\xe4\x91\xbe\xe1\x12;\x118\x02',1.1619815274952698,55.751,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+121073,2020-04-17 12:20:17.611811+00:00,b'&\x00\x10\x00\xb01V\xe4\x91\xbe\xe1\x12;\x118\x02',0.0117910108049779,161.875,East Wareham,41.7682,-70.6532,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+338036,2020-09-05 19:53:43.248134+00:00,b'b\xd8\x9d\x88',11.757156167038024,19.584,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+343920,2020-09-11 16:05:46.271415+00:00,b'&\x01\x01\x8d\xc1\x00\xb9\xc0\xb9#b]\xea-\x8e\xf5',14.988229209432117,17.89,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+356712,2020-09-24 12:29:33.230639+00:00,b'&\x01\x01\x8d\xc1\x80\x87@\x99\x87`(\xbd\xeb\xd2\x83',5.500975335527484,24.952,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+357570,2020-09-25 16:20:51.521442+00:00,b'&\x01\x01\x8d\xc1\x80\t \xe8n}4\x90\xe48\xef',2.9460427393552395,21.227,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+358008,2020-09-25 16:19:25.860146+00:00,b'&\x01\x01\x8d\xc1\x80\t \xe8n}4\x90\xe48\xef',3.2828106405534125,51.996,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+370034,2020-10-08 00:08:04.510672+00:00,b'&\x01\x01\x8d\xc1\x80\xe6\xf0!\xa7\xd9\xc8\x97\xd0\xf6n',4.426171742263159,30.888,East Wareham,41.7682,-70.6532,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

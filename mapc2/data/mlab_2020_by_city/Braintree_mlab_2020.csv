@@ -1,0 +1,898 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+13,2020-01-01 17:18:12.496679+00:00,b'I\xba\x96l',0.2307532894376728,100.0,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+141,2020-01-01 20:55:40.942013+00:00,b'\xad0!1',86.45731457865996,9.047,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+208,2020-01-01 17:28:24.109414+00:00,b'bn\xca\x03',8.443951230760273,18.223,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+475,2020-01-01 01:23:10.006789+00:00,b'\xad0\x1e\xb3',623.1295672219021,7.469,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+537,2020-01-01 17:00:25.142029+00:00,b'\x18\xe9F\x9e',4.90009956118061,57.33,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+1056,2020-01-02 17:18:10.973605+00:00,b'I\xba\x96l',0.3130603951110423,34.218,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+1301,2020-01-02 01:14:32.800663+00:00,b'\x18\xe9F_',5.676481691785983,24.076,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+1441,2020-01-02 01:16:26.864570+00:00,b'\x18\xe9F_',5.408036881691768,24.466,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+1561,2020-01-02 20:59:46.331187+00:00,b'\x18\xe9J\x8d',18.919178693030617,39.145,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+2071,2020-01-03 20:43:28.277572+00:00,b'\xad0;\x95',272.03692023116866,8.133,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+2104,2020-01-03 20:47:14.744750+00:00,b'\xad0;G',72.73665033281804,16.941,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+2137,2020-01-03 17:18:11.397347+00:00,b'I\xba\x96l',0.3195526012067669,32.006,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+3185,2020-01-04 13:08:01.454727+00:00,"b'\xad0""\x9a'",39.9794438011671,9.487,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3242,2020-01-04 01:18:46.131179+00:00,b'\xad0!\xb5',59.268474583674426,16.907,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3547,2020-01-04 17:18:11.732567+00:00,b'I\xba\x96l',0.2786405592284153,34.358,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+4045,2020-01-05 17:18:10.551174+00:00,b'I\xba\x96l',0.2995263521561224,40.706,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+4157,2020-01-05 01:21:04.824184+00:00,b'\x18\xe9Kr',3.265945165029007,19.947,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+4161,2020-01-05 20:56:10.886125+00:00,"b'\xad0""%'",50.06819331027086,11.345,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+4416,2020-01-06 17:18:10.935132+00:00,b'I\xba\x96l',0.3122392879851848,29.983,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+4673,2020-01-06 20:35:20.334871+00:00,b'bn\xaa\xf7',47.1622531210998,9.495,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+5347,2020-01-07 17:18:27.017972+00:00,b'I\xba\x96l',0.3241844992459856,26.277,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+6778,2020-01-08 01:02:29.779934+00:00,b'\x18\xe9F\xbb',27.600296612039617,23.912,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+6921,2020-01-08 17:18:10.726772+00:00,b'I\xba\x96l',0.2223422387970351,33.522,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+7369,2020-01-09 01:22:30.465977+00:00,b'bn\xca\x15',196.05730495528584,11.251,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7653,2020-01-09 17:18:10.502153+00:00,b'I\xba\x96l',0.32257909606962,31.707,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+7906,2020-01-10 17:18:22.189514+00:00,b'I\xba\x96l',0.2088080427054822,34.461,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+8381,2020-01-10 01:02:43.625511+00:00,b'bn\xc2\x89',3.939322432888402,16.933,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+8860,2020-01-11 17:18:13.995350+00:00,b'I\xba\x96l',0.254456079711136,94.0,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+9280,2020-01-11 20:56:59.439145+00:00,b'bn\xfc\xbc',1.795293942752337,236.695,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9332,2020-01-11 20:39:53.412041+00:00,b'\x04\x1f\x1b\xc1',6.128669710416505,24.232,Braintree,42.2125,-70.9961,3356.0,LEVEL3 Level 3 Communications
+9738,2020-01-12 17:18:14.498365+00:00,b'I\xba\x96l',0.1952405651930928,102.051,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+9896,2020-01-12 01:12:01.713469+00:00,"b'\xad0\x1e,'",195.4703611682764,11.35,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9924,2020-01-12 01:28:56.761806+00:00,b'\x18\xe9I\x05',8.27976047910783,32.739,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+10523,2020-01-12 20:45:32.208808+00:00,b'\xad0\x1e\x06',45.44342851293506,18.229,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10649,2020-01-12 01:29:54.421215+00:00,b'\x18\xe9I\x05',17.82491766887609,25.965,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+10673,2020-01-12 20:45:08.455454+00:00,b'\xad0\x1e\x06',33.12153112698738,17.126,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10928,2020-01-13 17:18:13.847936+00:00,b'I\xba\x96l',0.2980032973494623,62.453,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+11691,2020-01-14 13:24:42.471785+00:00,b'\x18\xe9Tw',17.103612362924263,24.975,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+12242,2020-01-14 17:18:10.716233+00:00,b'I\xba\x96l',0.2705350677947695,29.772,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+12272,2020-01-14 17:03:48.004001+00:00,b'&\x00\x10\x00\xb00\xbd\xf8\x8cL\xab&E\x0cy\x18',1.333935301094177,49.799,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+12515,2020-01-14 20:43:42.035675+00:00,b'\x18\xe9Um',15.756585197831871,34.231,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+12583,2020-01-15 17:09:07.841158+00:00,b'\x18\xe9F\xbb',29.283851442510446,23.349,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+13194,2020-01-15 17:18:10.733355+00:00,b'I\xba\x96l',0.1887199484341576,31.986,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+13200,2020-01-15 20:54:29.657379+00:00,b'\xad04|',231.4734590580577,10.035,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13746,2020-01-16 17:00:50.067538+00:00,b'HJ\xfc\x81',53.68938220796581,10.188,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13858,2020-01-16 17:18:11.033434+00:00,b'I\xba\x96l',0.3072679281609298,39.955,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+14279,2020-01-17 01:09:50.084804+00:00,b'\x18\xe9JQ',20.675444497550107,20.679,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14401,2020-01-17 01:19:01.082586+00:00,b'\x18\xe9G\x9b',25.703712842682588,25.268,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14409,2020-01-17 01:22:55.977342+00:00,b'\x18\xe9G\x9b',11.367623260688266,34.576,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14608,2020-01-17 01:10:08.579592+00:00,b'\x18\xe9G\x9b',13.483970773765522,24.869,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14623,2020-01-17 01:11:56.961258+00:00,b'\x18\xe9JQ',19.373705465637144,26.887,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14677,2020-01-17 01:23:53.302588+00:00,b'\x18\xe9G\x9b',1.1780561757166848,29.035,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14698,2020-01-17 01:09:24.492268+00:00,b'\x18\xe9JQ',17.575580305889723,32.562,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14768,2020-01-17 01:23:18.424346+00:00,b'\x18\xe9G\x9b',1.2637800789700733,35.724,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14792,2020-01-17 17:18:15.875439+00:00,b'I\xba\x96l',0.2859583644498164,308.547,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+14808,2020-01-17 01:18:36.504792+00:00,b'\x18\xe9G\x9b',2.514396682719903,25.412,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14910,2020-01-17 01:24:20.114756+00:00,b'\x18\xe9G\x9b',1.21344652701193,38.343,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14947,2020-01-17 01:25:00.633790+00:00,b'\x18\xe9G\x9b',8.03529219899334,31.474,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+14997,2020-01-17 01:11:31.105239+00:00,b'\x18\xe9G\x9b',25.927305015183144,24.652,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+15042,2020-01-17 17:05:52.839396+00:00,b'`\xed\xc1\xc1',46.1454035840339,16.691,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15669,2020-01-18 17:18:10.732949+00:00,b'I\xba\x96l',0.3168709387114983,34.016,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+16371,2020-01-19 17:18:10.664260+00:00,b'I\xba\x96l',0.2994932551060187,34.157,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+16709,2020-01-19 20:49:20.189806+00:00,b'bn\xde\x07',18.55229075384677,11.907,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17366,2020-01-20 17:18:11.138976+00:00,b'I\xba\x96l',0.1840205667798698,32.035,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+17450,2020-01-20 01:09:32.769110+00:00,b'\xad04\xb1',228.21257235610216,11.996,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17901,2020-01-21 17:18:10.773557+00:00,b'I\xba\x96l',0.2064910624063648,34.112,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+18574,2020-01-21 17:21:06.211909+00:00,b'\xad04\xd9',41.68074344293959,9.92,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18796,2020-01-22 17:18:10.636221+00:00,b'I\xba\x96l',0.3365594188419884,35.647,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+19403,2020-01-22 01:29:02.326686+00:00,b'\xad0\x1f\xb4',3.575377959182004,10.246,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19977,2020-01-23 20:37:13.254764+00:00,b'\x18\xe9U\x8d',23.87751243548933,15.794,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+20099,2020-01-23 17:18:11.780915+00:00,b'I\xba\x96l',0.271692792179835,34.092,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+20392,2020-01-23 01:18:56.269286+00:00,b'&\x00\x10\x00\xb00\xa6 \x14\xea\xf2\xbb\xad\x18\x99w',1.1310820765053855,47.31,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+21086,2020-01-24 17:18:22.596788+00:00,b'I\xba\x96l',0.2192334203978591,1074.0,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+21779,2020-01-25 13:23:07.741605+00:00,b'\x18\xe9E\xa8',24.109440897002525,23.251,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+22085,2020-01-25 01:09:47.781886+00:00,b'\x18\xe9B\x88',0.6572466354817941,35.386,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+22086,2020-01-25 01:09:23.435908+00:00,b'\x18\xe9B\x88',7.566063074520539,20.591,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+22161,2020-01-25 17:18:10.912165+00:00,b'I\xba\x96l',0.2732176882790003,33.972,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+22737,2020-01-26 17:18:10.496463+00:00,b'I\xba\x96l',0.3342451755667246,33.956,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+23659,2020-01-27 20:48:17.677445+00:00,b'\x18\xe9D(',8.536210251157192,23.107,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+24173,2020-01-27 17:18:10.417817+00:00,b'I\xba\x96l',0.2442582541313751,35.908,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+24340,2020-01-28 17:18:19.158634+00:00,b'I\xba\x96l',0.216915826329759,68.032,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+24715,2020-01-28 01:27:47.809571+00:00,b'\xad04\xe7',44.78333950871272,11.121,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+25398,2020-01-29 17:18:13.934748+00:00,b'I\xba\x96l',0.3041282246459857,33.967,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+26223,2020-01-30 17:18:11.397463+00:00,b'I\xba\x96l',0.1694246895327203,134.009,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+27135,2020-01-31 20:43:00.582078+00:00,b'2\xe0\xf8\xaa',21.206958290913946,4.62,Braintree,42.18,-71.0892,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+27320,2020-01-31 20:48:09.726437+00:00,b'bn\xfc\xc5',60.088407371807065,10.749,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27397,2020-01-31 17:18:10.636701+00:00,b'I\xba\x96l',0.3157106121769031,32.146,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+27398,2020-01-31 13:07:20.318245+00:00,b'\xad0U\x16',81.21759005577951,9.08,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27572,2020-01-31 20:47:45.959127+00:00,b'bn\xfc\xc5',31.68808055848479,10.601,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27622,2020-01-31 01:00:42.522887+00:00,b'\x18\xe9G\xc3',3.123143679099792,58.353,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+27694,2020-02-01 17:03:46.371671+00:00,b'2\xf58\xc6',7.248446166890538,20.436,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+28697,2020-02-02 20:44:50.471250+00:00,b'\x18\xe9J?',0.9650064653280735,19.754,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+29874,2020-02-03 17:13:15.571313+00:00,b'HJ\xfcA',144.72276037948097,10.973,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+31334,2020-02-05 20:43:44.361337+00:00,"b""\xaa?'`""",71.08320969663919,11.27,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+33203,2020-02-07 20:46:10.794818+00:00,b'\x18\xe9E\x8e',3.25040904795624,21.236,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+33735,2020-02-07 01:17:43.827352+00:00,b'bn\xfc.',71.32500188242476,7.392,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34020,2020-02-08 17:17:04.797987+00:00,b'\xad0\x19F',54.5381285910091,9.186,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34080,2020-02-08 17:27:47.075239+00:00,"b'\xad0""%'",36.61267221874015,10.391,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34111,2020-02-08 17:12:45.087166+00:00,b'\xad0\x19F',40.971410960802565,10.069,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34395,2020-02-08 20:30:02.974612+00:00,b'\xad04\xb8',8.64959478678087,15.248,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34413,2020-02-08 20:31:10.746855+00:00,b'\xad04\xb8',33.3873231052877,11.486,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34460,2020-02-08 17:20:04.166855+00:00,b'\x18\xe9W\xb8',28.09752911956817,18.982,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+34574,2020-02-08 17:11:46.264834+00:00,b'\xad0\x19F',23.621308482321787,9.732,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34834,2020-02-09 17:14:32.831082+00:00,b'\xad0\x17\x12',18.051918197195377,13.09,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+35709,2020-02-10 01:07:00.166718+00:00,b'\x18\xe9B\xbd',20.843469977655246,23.481,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+35727,2020-02-10 01:19:53.270352+00:00,b'\x18\xe9B\xbd',1.642085790036068,22.842,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+35761,2020-02-10 01:25:54.798318+00:00,b'\xad0;W',77.52304967686676,20.971,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36299,2020-02-10 01:10:52.462595+00:00,b'\x18\xe9B\xbd',21.389686308519742,21.757,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+36522,2020-02-11 01:26:33.982153+00:00,b'\x18\xe9C\x93',26.964098368921075,19.881,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+36788,2020-02-11 13:26:43.406132+00:00,b'\xad0\x1e\x10',63.6046917397709,13.846,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37182,2020-02-11 01:01:40.975495+00:00,b'\x18\xe9C\x93',15.758015999831915,22.222,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+37831,2020-02-12 01:21:21.479036+00:00,b'bv2\x08',40.64360267835939,12.309,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37876,2020-02-12 17:03:41.303364+00:00,b'bn\xfc\xf3',26.059652763325666,10.09,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37892,2020-02-12 20:52:12.999620+00:00,b'bv2\x97',81.13788445726391,12.252,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38500,2020-02-13 20:33:15.052514+00:00,b'bn\xca\x15',47.82777445069608,26.772,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39179,2020-02-13 01:05:17.763615+00:00,b'\x18\xe9E\x02',2.895063335887846,15.578,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+39225,2020-02-13 01:27:28.274732+00:00,b'bv2\x97',180.6837888240869,13.373,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39234,2020-02-13 13:17:45.500094+00:00,b'\x18\xe9G\xce',25.66114844036222,20.498,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+40701,2020-02-15 20:54:16.687626+00:00,b'\xad0\x18V',113.6986824551292,14.797,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41136,2020-02-16 13:19:42.924517+00:00,b'bn\xfc\x7f',1.6531694474272185,12.184,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41142,2020-02-16 13:22:14.199929+00:00,b'G\xb8j\x88',35.47893585264124,19.25,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41717,2020-02-16 13:20:08.775787+00:00,b'bn\xfc\x7f',18.38958815375606,14.417,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42098,2020-02-17 13:29:36.665932+00:00,b'\xad0 >',16.82039023379165,16.364,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+43414,2020-02-18 20:56:07.665488+00:00,b'\x18\xe9H\x95',30.17697418069302,25.706,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+43632,2020-02-19 01:12:29.203666+00:00,b'\xad0\x17A',176.2343861103921,7.797,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+43736,2020-02-19 20:51:58.196956+00:00,b'\x18\xe9V\xee',21.279278037231823,18.906,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+46463,2020-02-22 17:02:16.410347+00:00,b'\x18\xe9BN',17.624496975176186,50.228,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+46496,2020-02-22 17:05:39.306593+00:00,b'\x18\xe9BN',22.84988443576825,48.279,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+46507,2020-02-22 20:42:55.210568+00:00,b'\x18\xe9B\x88',10.01516146989811,27.859,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+46605,2020-02-22 17:05:11.700981+00:00,b'\x18\xe9BN',7.249399242634032,60.576,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+46963,2020-02-22 17:04:01.888843+00:00,b'\x18\xe9BN',7.758547725717614,40.718,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+47048,2020-02-22 17:01:25.480537+00:00,b'\x18\xe9BN',4.363401563106081,58.493,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+47218,2020-02-23 13:20:43.753117+00:00,b'`\xe9?\x9b',75.11165298399528,14.056,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47238,2020-02-23 13:19:33.085238+00:00,b'`\xe9?\x9b',38.73822149029681,14.57,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47350,2020-02-23 13:21:31.360993+00:00,b'`\xe9?\x9b',47.1872966308944,14.464,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47395,2020-02-23 13:21:06.950869+00:00,b'`\xe9?\x9b',23.35864525818685,19.269,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47449,2020-02-23 13:20:00.045128+00:00,b'`\xe9?\x9b',72.89820095618188,14.206,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47519,2020-02-23 01:14:03.745597+00:00,b'`\xe9?_',34.47102399482986,17.082,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47777,2020-02-23 13:22:28.110213+00:00,b'`\xe9?\x9b',64.03012041789582,12.741,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48259,2020-02-24 01:21:53.715409+00:00,b'\xad0!\x9e',17.94554155546423,12.074,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48676,2020-02-25 20:41:27.966748+00:00,b'`\xe9n\x97',112.91678587829392,12.122,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48755,2020-02-25 20:48:28.642794+00:00,b'\x18\xe9K\xcf',6.431470528653837,37.081,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+48879,2020-02-25 20:36:38.491888+00:00,b'`\xe9n\x0b',182.8336810528667,18.342,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48925,2020-02-25 01:00:30.755671+00:00,b'\x18\xe9T\xf3',20.0374937390532,23.202,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+49136,2020-02-25 20:47:44.156282+00:00,b'`\xe9n\x0b',327.9563768006444,12.141,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49280,2020-02-25 01:25:09.553310+00:00,b'\x18\xe9T\xf3',19.245410714205484,34.271,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+49332,2020-02-25 01:21:43.671377+00:00,b'\x18\xe9T\xf3',20.513517230959536,26.533,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+49618,2020-02-26 20:31:33.023159+00:00,b'\x18h\x8cD',9.39760068367553,9.31,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+49651,2020-02-26 01:22:53.668298+00:00,b'\x18\xe9K\xcf',7.525905402993497,28.738,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+49699,2020-02-26 20:30:09.391741+00:00,b'\x18h\x8cD',61.83467501698805,11.315,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+49998,2020-02-26 01:24:42.609358+00:00,b'\x18\xe9B\x88',12.351783663476876,27.331,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+50246,2020-02-26 01:18:25.079724+00:00,b'`\xe9?_',28.6873077634866,14.638,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+50256,2020-02-26 20:32:14.719315+00:00,b'\xad0;\x98',59.42211605940348,9.821,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51613,2020-02-28 20:37:12.836306+00:00,b'\xad0\x1eb',35.40873523807988,19.635,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52453,2020-02-29 20:33:29.460673+00:00,b'\xad0!\xa3',391.8488881385448,9.163,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+53006,2020-02-29 17:23:43.503864+00:00,b'\xad04\xaa',588.7855326438663,9.059,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+54028,2020-03-02 16:09:06.295731+00:00,b'\x18\xe9T\xc1',29.36176691198488,21.841,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+54940,2020-03-03 00:03:32.181899+00:00,b'\x18\xe9T\xc1',16.83797079095568,39.664,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+54947,2020-03-03 00:28:12.788223+00:00,b'\x18\xe9F\x86',24.934815209459767,28.982,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+55195,2020-03-03 19:47:21.807373+00:00,"b""`C'u""",22.47889693546932,18.576,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+55262,2020-03-03 12:11:31.799690+00:00,b'bn\xca\xee',20.457013734876707,11.853,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+55634,2020-03-04 12:22:32.444901+00:00,b'\x18\xe9G\xce',25.589748374012768,20.665,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+55995,2020-03-04 00:28:54.388933+00:00,b'bn\xfc5',32.3600248964462,9.07,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+57051,2020-03-06 19:37:02.515006+00:00,b'JvI\x9a',3.6110386914443455,22.955,Braintree,42.2125,-70.9961,3061.0,PDNPVD-1 - ProvDotNet LLC
+57371,2020-03-06 19:48:02.660279+00:00,b'`\xe9?_',79.62895374700646,14.657,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+57496,2020-03-06 00:13:16.557763+00:00,b'\x18\xe9C\xce',27.41832891335655,23.644,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+58082,2020-03-07 16:25:47.621464+00:00,b'\xad0!\xf0',70.4597282308713,16.705,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+58720,2020-03-08 16:24:19.829828+00:00,b'`\xe9?_',79.31654061451476,14.647,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+59038,2020-03-08 19:43:51.072194+00:00,b'\x18\xe9H\x99',7.947695005776784,24.953,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+59116,2020-03-08 19:44:42.137230+00:00,b'\x18\xe9H\x99',27.306583071896338,20.95,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+59314,2020-03-08 19:44:15.701760+00:00,b'\x18\xe9H\x99',27.338177104597428,24.563,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+61043,2020-03-10 00:28:52.854307+00:00,b'\x18\xe9G\xbc',30.45015893863063,17.107,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+61268,2020-03-10 19:53:32.548608+00:00,b'\x18\xe9K\xc7',13.40720628313109,34.754,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+61305,2020-03-10 12:14:42.514541+00:00,b'\x18\xe9C\xce',28.84588188665716,10.643,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+62036,2020-03-11 19:56:37.315260+00:00,b'`\xe9n\x0b',333.5303269574492,9.641,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63317,2020-03-12 00:01:23.271011+00:00,b'\x18\xe9B\x8e',8.400890544292546,23.743,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+63614,2020-03-13 16:14:35.749530+00:00,b'bn\xaa\xe0',159.09618491700274,10.867,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63734,2020-03-13 00:02:01.464488+00:00,b'\xad0\x1aD',108.76430322803408,13.787,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63894,2020-03-13 00:02:24.369768+00:00,b'\xad0\x1aD',114.66985154372584,12.423,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63924,2020-03-13 00:02:24.950088+00:00,b'bn\xbfg',70.71370440224604,9.724,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+64837,2020-03-14 12:11:08.968873+00:00,b'\xad04\xa1',168.89092270906565,9.021,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+67214,2020-03-16 00:25:55.068385+00:00,b'bn\x9f\x1a',6.330762257630867,12.811,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+67434,2020-03-16 00:16:27.455975+00:00,b'bn\xfc\xbc',63.8248833140277,7.583,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+68209,2020-03-16 00:16:55.260423+00:00,b'bn\xfc\xbc',59.23282753991936,8.578,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+68401,2020-03-16 00:08:57.707176+00:00,b'\x18\xe9H\x99',21.56327960112073,19.552,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+68768,2020-03-17 12:21:21.536845+00:00,b'bn\xbc1',30.278690571273447,13.123,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+69004,2020-03-17 16:00:46.706370+00:00,b'\xad0\x1c\xfe',3.611013365736079,17.162,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70105,2020-03-17 12:28:58.134303+00:00,b'\xad04\xa1',3.611150247584282,13.55,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70219,2020-03-17 00:16:18.337230+00:00,b'\x18\xe9Kl',12.94515652006076,28.613,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+71444,2020-03-18 16:01:41.902311+00:00,b'bn\xca\r',99.4635849682636,9.879,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71853,2020-03-18 19:50:29.938726+00:00,b'\xad0 Z',7.850486935536719,17.376,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+72793,2020-03-19 12:11:32.309990+00:00,b'\xad0\x17q',87.45153951316851,12.698,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+72856,2020-03-19 16:03:27.304879+00:00,b'\x18\xe9B\xfd',10.471493153804504,19.607,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+73299,2020-03-19 16:05:47.362607+00:00,b'HJ\xfcN',3.250456959731221,9.244,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+73889,2020-03-20 16:28:37.079751+00:00,b'\x0c\xc3\x0b\x01',1.9049101834939963,72.48,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+74066,2020-03-20 00:29:17.845488+00:00,b'\x18\xe9KW',29.63164596664476,25.684,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+74156,2020-03-20 19:32:58.314807+00:00,b'\x0c\xc3\x0b\x01',1.8030349719309533,74.187,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+74343,2020-03-20 00:29:51.218215+00:00,b'\x18\xe9KW',17.31828823046942,30.547,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+74604,2020-03-20 19:34:35.421167+00:00,b'\x0c\xc3\x0b\x01',1.9032837069901063,72.815,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+77216,2020-03-22 19:53:57.713200+00:00,b'`\xe9r\xc0',56.37667757266857,15.144,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77290,2020-03-22 19:46:31.000662+00:00,b'bn\xaa2',11.993728817684293,26.513,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77786,2020-03-22 19:47:01.494911+00:00,b'bn\xbc\x03',14.296629374743352,9.857,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+78183,2020-03-22 19:55:35.337159+00:00,b'bn\xaa\x0b',8.42924329109766,15.382,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+79672,2020-03-23 16:02:02.792823+00:00,b'`\xe9n\x14',1.907155693351444,17.438,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80037,2020-03-23 16:01:26.857567+00:00,b'`\xe9n\x14',1.842884105038708,16.711,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80299,2020-03-24 16:29:21.119139+00:00,b'\xad0\x18\x1e',64.29482130496386,9.351,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80797,2020-03-24 16:29:49.100587+00:00,b'\xad0\x18\x1e',48.53757283912939,8.719,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+81601,2020-03-24 19:36:36.074000+00:00,b'\x17\x19\xda\xf5',16.58301949926637,21.769,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+82306,2020-03-25 00:05:56.236815+00:00,b'\x18\xe9K\x98',17.052441901474836,18.55,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+83105,2020-03-25 00:00:59.065827+00:00,b'bv2\x08',143.8283459890847,8.449,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83576,2020-03-25 00:08:19.693556+00:00,b'bn\xc2#',115.20530817456782,13.712,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+84126,2020-03-26 16:12:51.041164+00:00,b'\x18\xe9J?',0.6463758133922435,24.773,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+84411,2020-03-26 19:39:09.570614+00:00,b'bn\xbc\xba',33.81270770040728,16.772,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+84416,2020-03-26 16:09:35.201537+00:00,b'\x18\xe9G%',27.215692349435184,10.212,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+84419,2020-03-26 16:18:28.985383+00:00,b'\x18\xe9G%',5.709352815899581,21.546,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+84657,2020-03-26 16:02:33.475449+00:00,b'\x18\xe9F6',30.62515487179117,22.47,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+84846,2020-03-26 16:02:29.264998+00:00,b'bn\xbf1',43.68877284248417,11.615,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+85032,2020-03-26 16:02:07.793986+00:00,b'\x18\xe9F6',29.281296658687108,21.693,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+85548,2020-03-26 16:13:17.089946+00:00,b'\x18\xe9J?',0.906718859268706,25.238,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+86173,2020-03-27 00:18:09.095703+00:00,b'\x18\xe9J?',1.367824400976954,24.257,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+87885,2020-03-28 00:05:23.674309+00:00,b'\x18\xe9I\xdf',3.5760098768798163,31.237,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+89461,2020-03-29 16:03:42.905472+00:00,b'\x18\xe9Tu',7.571845227409402,19.314,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+90179,2020-03-29 16:18:01.008708+00:00,b'G\xb8j\x85',17.611052799680195,15.008,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+90227,2020-03-29 00:06:18.372543+00:00,b'bn\xbf\x90',8.695817594254091,10.343,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+90382,2020-03-30 00:20:35.473239+00:00,b'\x18\xe9D6',1.2300210800608316,19.618,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+90461,2020-03-30 19:57:44.923037+00:00,b'\xad0UD',126.94025913606797,10.804,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+91155,2020-03-30 19:58:54.120489+00:00,b'\xad0UD',134.79629837971936,9.346,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+91222,2020-03-30 00:12:35.104603+00:00,b'`\xe9r\xc0',15.67941876714915,51.449,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+91827,2020-03-30 00:19:41.673477+00:00,b'\x18\xe9D6',0.3721309022099597,21.865,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+92005,2020-03-31 16:04:06.924440+00:00,b'bn\xca\xae',5.52617538421163,9.269,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+92304,2020-03-31 12:07:46.199612+00:00,b'`\xed\xc0[',8.026444256438714,42.351,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+92757,2020-03-31 16:24:31.519142+00:00,b'\x18\xe9T\xb7',9.575838576622054,21.109,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+93243,2020-03-31 12:28:46.349457+00:00,b'\x18\xe9E\xa8',29.79646606372285,22.131,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+93558,2020-03-31 12:29:49.923504+00:00,b'\x18\xe9E\xa8',26.07866156871012,20.488,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+94108,2020-04-01 16:00:04.192417+00:00,b'\xad0;\xad',92.35338500893673,8.958,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+94967,2020-04-01 16:18:30.073544+00:00,b'\xad0\x1a\xc4',73.38276935573927,22.59,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+95889,2020-04-02 19:52:12.386173+00:00,b'\xad0\x1fb',60.49515722207608,8.972,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96072,2020-04-02 12:07:32.954114+00:00,b'\xad0\x1a\xb3',31.627052430531016,9.39,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96573,2020-04-02 00:21:26.477550+00:00,b'bn\xfc\xf3',1.3008051175743336,10.765,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+97011,2020-04-02 00:16:57.898326+00:00,b'\x18\xe9D\xe5',16.323311877804503,24.567,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+97107,2020-04-02 00:01:40.700452+00:00,b'&\x07\xfb\x90h\x8a\xd9\xf8\xecF-tr\xe6\xd1(',8.776432449920538,31.873,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+97235,2020-04-02 00:09:58.387510+00:00,b'`\xe9?b',407.0673401618084,8.668,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+97384,2020-04-02 12:03:26.332859+00:00,b'\x18\xe9J?',25.73653351162629,21.747,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+98628,2020-04-03 19:46:24.474988+00:00,b'I\xdb\x9f\xf5',3.747843080732143,25.665,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+98674,2020-04-03 19:47:05.217443+00:00,b'\xad0\x1a\xb3',16.4088104274682,9.337,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+98745,2020-04-03 19:45:38.468067+00:00,b'I\xdb\x9f\xf5',3.983566551588124,30.269,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+99013,2020-04-03 16:28:32.910967+00:00,b'\xad0!\x8d',3.888649108698209,11.812,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+99281,2020-04-04 12:08:48.048713+00:00,b'`\xe9n\x14',19.2961558499698,14.725,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100595,2020-04-04 16:17:14.970108+00:00,b'\xad0\x1e\x10',19.550043249053875,13.829,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100663,2020-04-04 00:06:11.681533+00:00,b'\xad0;\xe7',78.60977919796508,10.444,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100904,2020-04-05 19:53:28.425493+00:00,b'`\xe9?\x9b',81.89362032052279,14.962,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101161,2020-04-05 19:37:14.079325+00:00,b'\xad0\x1f!',42.56663738397771,8.91,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101195,2020-04-05 19:44:57.189542+00:00,b'\x18\xe9V(',4.070868308361219,37.844,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+101417,2020-04-05 19:58:07.423698+00:00,b'`\xe9?\x9b',82.36179350985452,14.908,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101899,2020-04-05 19:37:57.705383+00:00,b'\xad0\x1f!',74.72521662656553,9.268,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101950,2020-04-05 19:46:27.186199+00:00,b'\x18\xe9V(',0.2167240994305953,55.688,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+101960,2020-04-05 19:56:16.882474+00:00,b'`\xe9?\x9b',81.67999954492493,16.961,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+102313,2020-04-06 12:09:58.298739+00:00,b'\x0c\xc3\x0b\x01',6.692911041438395,28.548,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+103127,2020-04-06 12:24:08.867571+00:00,b'\xad0!\x16',115.030273822375,15.146,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103710,2020-04-07 16:29:01.563504+00:00,b'\xad0!J',0.0359775671804816,22.694,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103752,2020-04-07 16:17:20.325844+00:00,b'bn\xc2\xa5',8.438057546545517,21.217,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103981,2020-04-07 16:16:32.519521+00:00,b'bn\xc2\xa5',9.507408174929465,11.744,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104024,2020-04-07 16:28:29.555171+00:00,b'\xad0!J',3.0213472104569714,17.596,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104901,2020-04-07 19:58:05.700750+00:00,b'bn\xaa\x1b',91.34111172403622,9.419,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105132,2020-04-07 12:04:16.697240+00:00,b'\xad04\xa1',44.84449724397741,10.385,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105368,2020-04-08 12:04:49.301412+00:00,b'`\xe9n\x14',26.32072079696816,15.029,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105478,2020-04-08 19:55:39.903437+00:00,b'\xad0!\x8d',276.2536515244448,15.745,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105666,2020-04-08 19:42:28.850917+00:00,b'\x18\xe9D\xeb',4.359443969994187,22.044,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+106454,2020-04-08 19:41:53.613671+00:00,b'\x18\xe9D\xeb',14.656923344155906,39.889,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+106623,2020-04-08 19:31:45.582278+00:00,"b'&\x07\xfb\x90h\x8av; \x93\x9d""\xa4\xb6i\x8b'",0.0963287959600117,61.097,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+107469,2020-04-09 19:50:28.020456+00:00,b'bn\xbf/',78.28334527324449,9.393,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+107714,2020-04-09 16:15:56.152163+00:00,"b'\xad0""\x8d'",556.8736106092131,8.412,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+108309,2020-04-09 16:11:33.631492+00:00,"b'`\xe9t,'",113.88633130170597,11.491,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+109095,2020-04-10 16:15:17.934990+00:00,b'I\xdb\x9f\x96',8.647065470634447,22.112,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+109421,2020-04-10 16:29:42.096121+00:00,b'\xad0!\x13',3.113137182339413,11.102,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+109528,2020-04-10 16:14:29.934845+00:00,b'I\xdb\x9f\x96',17.114900237953325,19.966,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+109602,2020-04-10 16:02:13.267283+00:00,b'\xad0!\x13',113.91035495580448,11.478,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+109765,2020-04-10 19:56:01.220272+00:00,b'I\xdb\x9f\xd5',5.357190985401653,17.47,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+109821,2020-04-10 16:12:35.672188+00:00,b'\xad0!\x13',173.24265287532222,11.172,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+109859,2020-04-10 16:06:37.289610+00:00,b'\xad0!\x13',62.18434520846988,11.806,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110142,2020-04-10 00:08:41.774851+00:00,b'\xad0!\x13',65.43580273016126,15.606,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110248,2020-04-10 16:10:09.889495+00:00,b'\xad0!\x13',20.17052938574501,10.553,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110385,2020-04-10 16:00:14.119905+00:00,b'I\xdb\x9f\x96',15.384618113820418,20.09,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+110629,2020-04-10 16:01:50.509977+00:00,b'\xad0!\x13',11.873902233499772,14.762,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110880,2020-04-11 00:13:37.480822+00:00,b'\x18\xe9D\xeb',11.490438335743054,18.714,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+111632,2020-04-11 00:13:54.079090+00:00,b'`\xe9t\x94',57.68909204073188,28.284,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+112012,2020-04-12 19:41:02.207234+00:00,b'\x18\xe9I\x1c',20.33256583017992,23.894,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+112186,2020-04-12 00:27:16.452590+00:00,b'`\xe9r\xc0',9.9670453551419,16.898,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+112297,2020-04-12 16:09:20.173748+00:00,b'\x18\xe9D\xf2',19.14459442894644,20.537,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+112574,2020-04-12 16:04:11.640268+00:00,b'\x18\xe9@\xc2',29.627161426689177,15.542,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+112892,2020-04-12 16:17:50.384227+00:00,b'\x18\xe9I\x1c',7.387083419138842,26.152,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+112916,2020-04-12 16:12:36.562388+00:00,b'\x18\xe9D\xf2',1.8582361137885608,20.702,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+113135,2020-04-13 19:30:42.114415+00:00,b'`\xe9?\xe6',78.60764810949,8.393,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113142,2020-04-13 19:36:29.526955+00:00,b'`\xe9?\xe6',84.97282754044899,12.817,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113164,2020-04-13 19:35:53.742568+00:00,b'`\xe9?\x9b',72.4666013631041,12.272,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113220,2020-04-13 12:09:10.359256+00:00,b'`\xe9n\x14',39.877344139588246,12.755,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113513,2020-04-13 19:32:00.263114+00:00,b'`\xe9?\xe6',77.6938344132251,9.28,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113616,2020-04-13 12:27:09.714878+00:00,b'`\xe9?\x9b',33.37216021245643,13.883,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113884,2020-04-13 12:27:32.441473+00:00,b'`\xe9?\x9b',39.25548651497508,17.036,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113906,2020-04-13 12:04:57.973512+00:00,b'`\xe9n\x14',0.8311017559645765,48.453,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114309,2020-04-13 19:33:24.510833+00:00,b'`\xe9?\xe6',88.13221989112722,12.098,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114353,2020-04-13 19:34:40.033080+00:00,b'`\xe9?\xe6',78.10685146311268,13.89,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114478,2020-04-13 12:11:44.797245+00:00,b'`\xe9n\x14',115.4981945996786,15.54,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114707,2020-04-14 16:16:02.458733+00:00,b'\x18\xe9I\x1c',30.875963460114885,23.688,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+114897,2020-04-14 16:25:10.019915+00:00,b'\x18\xe9I\x1c',29.86261356344176,21.095,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+114983,2020-04-14 19:42:58.609060+00:00,b'`\xe9r\xa0',80.66052483050758,11.227,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+115116,2020-04-14 16:07:54.997137+00:00,b'\x18\xe9I\x1c',29.677420342961,18.106,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+115238,2020-04-14 16:08:20.588082+00:00,b'`\xe9r\xc0',12.21270189532748,17.172,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+115356,2020-04-14 16:19:26.287313+00:00,b'\x18\xe9I\x1c',29.8075526514686,19.742,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+115559,2020-04-14 16:10:29.289937+00:00,b'\x18\xe9E\x02',6.671779257537088,18.302,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+116010,2020-04-14 16:12:32.038223+00:00,b'\x18\xe9I\x1c',27.13777609558129,16.756,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+116101,2020-04-14 16:03:10.816952+00:00,b'\x18\xe9I\x1c',23.74464151809535,20.278,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+116241,2020-04-14 16:23:19.578668+00:00,b'\x18\xe9I\x1c',29.67285161057492,19.522,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+116580,2020-04-15 00:15:26.754373+00:00,b'`\xe9?\x9b',77.28307041055969,12.453,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+117031,2020-04-15 12:29:17.270912+00:00,b'`\xe9t\x94',2.7730306283317305,75.254,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+117257,2020-04-15 19:39:24.872884+00:00,b'\x0c\xc3\x0b\x01',10.140924080270135,39.708,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+117263,2020-04-15 12:22:56.861391+00:00,b'`\xe9t\x94',3.578746782096432,93.883,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+117347,2020-04-15 00:03:44.715767+00:00,b'\x18\xe9U\xff',10.251277628181844,17.735,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+117612,2020-04-15 19:39:19.251213+00:00,b'\x0c\xc3\x0b\x01',3.263787394091943,30.611,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+117622,2020-04-15 16:07:57.803687+00:00,b'\x0c\xc3\x0b\x01',0.505362025286365,109.009,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+117636,2020-04-15 16:05:57.909106+00:00,b'\x0c\xc3\x0b\x01',0.7449489716378712,111.362,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+117844,2020-04-15 19:39:13.384293+00:00,b'\x0c\xc3\x0b\x01',5.5539912393668605,25.226,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+117892,2020-04-15 00:04:18.723925+00:00,b'\x18\xe9U\xff',10.194490849740868,20.252,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+117903,2020-04-15 19:38:20.760163+00:00,b'\x0c\xc3\x0b\x01',4.6376191015257096,28.742,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+117955,2020-04-15 19:36:27.697860+00:00,b'\x0c\xc3\x0b\x01',5.579998868231694,35.109,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+118304,2020-04-16 19:35:28.144656+00:00,b'`\xe9n\x14',64.90586178459765,12.509,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+118584,2020-04-16 00:20:30.411021+00:00,b'\x18\xe9D\xeb',29.22582420762545,19.459,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+118952,2020-04-16 19:47:20.739816+00:00,b'`\xe9n\x14',1.7560834598599082,10.831,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+119885,2020-04-17 12:01:24.587313+00:00,b'\x18\xe9T\x08',30.48135236928766,19.997,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+120025,2020-04-17 19:39:45.862312+00:00,b'\x17\x19\xfe\xbb',5.659919296096807,18.322,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+120361,2020-04-17 12:12:00.585402+00:00,b'\x0c\xc3\x0b\x01',3.3706654215925163,29.154,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+120413,2020-04-17 19:32:29.666451+00:00,b'\xad0\x1a\xb3',10.626339931970028,9.581,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+120727,2020-04-17 12:09:47.047894+00:00,b'\x0c\xc3\x0b\x01',15.714265540667538,27.102,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+121179,2020-04-17 12:09:14.335877+00:00,b'\x0c\xc3\x0b\x01',16.572942897025676,26.562,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+124074,2020-04-20 16:07:45.727204+00:00,"b""`C'\xad""",17.69758789934823,17.452,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+124224,2020-04-20 16:15:45.060206+00:00,b'\x0c\xc3\x0b\x01',10.29838023337756,22.731,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+124255,2020-04-20 16:23:55.944318+00:00,b'\xad0\x1a+',190.89959470515169,9.075,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+124688,2020-04-20 12:27:36.003620+00:00,b'`\xe9n\x14',202.6722891979936,12.247,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+124887,2020-04-20 16:05:12.973720+00:00,b'\x0c\xc3\x0b\x01',6.223995446807531,22.643,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+125393,2020-04-20 12:29:45.396309+00:00,b'\x18\xe9E\xa8',28.858822087204423,20.586,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+125817,2020-04-21 16:21:56.586076+00:00,b'`\xe9?\x9b',39.917298300689055,12.459,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+126355,2020-04-21 19:52:10.361711+00:00,b'bn\xde\x98',41.41352909787789,10.875,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+126365,2020-04-21 16:25:44.598909+00:00,b'JvLj',353.7431186400483,8.029,Braintree,42.2125,-70.9961,3061.0,PDNPVD-1 - ProvDotNet LLC
+126909,2020-04-21 00:10:18.402583+00:00,b'\x18\xe9D ',13.73476671467556,17.981,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+127549,2020-04-21 00:13:53.785595+00:00,b'\xad0\x17b',66.6215893715655,15.562,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+127800,2020-04-22 19:30:44.337493+00:00,b'\x0c\xc3\x0b\x01',13.176341503844524,28.1,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+128669,2020-04-22 00:01:30.541620+00:00,b'2\xe3\xd75',26.505643513638432,3.642,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+128942,2020-04-22 00:01:03.340753+00:00,b'2\xe3\xd75',20.156331582677293,165.534,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+128954,2020-04-22 19:45:51.291212+00:00,b'\x18\xe9D0',22.11573828688179,31.744,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+129132,2020-04-22 19:44:32.397762+00:00,b'\x18\xe9D0',23.6657090963196,29.34,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+129305,2020-04-22 16:00:22.622668+00:00,b'`\xe9n\x14',45.08457839393713,10.502,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+129802,2020-04-23 00:19:38.089271+00:00,b'\x18\xe9D ',3.323502705281494,21.777,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+131207,2020-04-24 19:43:57.212408+00:00,b'\x0c\xc3\x0b\x01',16.03997923000301,48.118,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+131247,2020-04-24 12:10:33.967969+00:00,b'\x18\xe9D\xe5',20.66447761339724,22.536,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+131253,2020-04-24 16:18:19.674674+00:00,b'\x0c\xc3\x0b\x01',38.18564733347333,16.546,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+131962,2020-04-24 16:12:29.975320+00:00,b'\x0c\xc3\x0b\x01',39.37330137873996,19.029,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+132385,2020-04-24 16:05:14.984370+00:00,b'\x0c\xc3\x0b\x01',9.57570826609886,23.229,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+133974,2020-04-25 19:40:10.472111+00:00,b'bn\xc2\xa5',21.69468288842862,13.105,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+134183,2020-04-26 16:08:19.399578+00:00,b'\x0c\xc3\x0b\x01',21.11459418571012,24.025,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+134581,2020-04-26 16:13:11.078100+00:00,b'\x0c\xc3\x0b\x01',21.27595115652375,24.548,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+134617,2020-04-26 19:44:56.862711+00:00,b'\x0c\xc3\x0b\x01',1.8669723866919627,27.187,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+135245,2020-04-26 19:45:36.665497+00:00,b'\x0c\xc3\x0b\x01',11.42059743974588,28.866,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+135510,2020-04-27 19:37:29.282470+00:00,b'\xad0;\xec',190.1153919670195,9.895,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+135607,2020-04-27 00:13:51.118182+00:00,b'\x18\xe9G\x10',20.977636605335142,26.334,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+135663,2020-04-27 00:03:43.342441+00:00,b'G\xb8~p',76.47923032459097,10.674,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+135765,2020-04-27 19:36:23.477834+00:00,b'G\xb8~D',29.571522710738808,12.505,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+136285,2020-04-27 19:51:45.812369+00:00,b'\x0c\xc3\x0b\x01',17.778631893449155,32.071,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+136393,2020-04-27 19:37:02.116765+00:00,b'\xad0;\xec',118.30490361912928,9.268,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+137369,2020-04-28 00:20:05.548882+00:00,b'bn\xbc\x11',96.0683621885696,8.103,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+138610,2020-04-29 16:18:33.033928+00:00,b'\xad0\x1a\xe1',357.8648288780032,11.084,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+138753,2020-04-29 16:08:11.914234+00:00,b'bn\xde\x98',2.090680978570015,211.936,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+139307,2020-04-29 00:26:28.776802+00:00,b'\x18\xe9J&',5.982760464509013,79.305,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+139598,2020-04-29 00:29:08.068198+00:00,b'&\x07\xfb\x90h\x8a!J\xa8\xf8I\xd1\x89\xa8\x1cF',1.3242207285452616,39.726,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+140224,2020-04-30 19:37:56.629501+00:00,b'bn\xbf\xc4',51.78800167333201,32.869,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140297,2020-04-30 19:31:52.830340+00:00,b'bn\xbf\xc4',53.10181227016174,15.828,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140639,2020-04-30 19:36:09.470640+00:00,b'\x0c\xc3\x0b\x01',2.321837898283244,67.991,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+140681,2020-04-30 12:29:10.916803+00:00,b'bn\xc2#',89.54892420859174,10.726,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140766,2020-04-30 19:30:13.126430+00:00,b'bn\xbf\xc4',57.52585506664286,16.945,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140800,2020-04-30 19:49:51.949183+00:00,b'\x0c\xc3\x0b\x01',2.131025458369276,82.916,Braintree,42.2125,-70.9961,40886.0,PRAC - Plymouth Rock Assurance Corporation
+140863,2020-04-30 19:32:22.024346+00:00,b'bn\xbf\xc4',210.187837016622,16.0,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141041,2020-04-30 19:31:20.480902+00:00,b'bn\xbf\xc4',42.49365501555578,15.24,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141054,2020-04-30 19:30:46.603233+00:00,b'bn\xbf\xc4',202.80196504402744,19.502,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141115,2020-04-30 19:35:19.726300+00:00,b'bn\xbf\xc4',74.21401161430748,19.487,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141465,2020-04-30 19:35:45.567069+00:00,b'bn\xbf\xc4',65.06220421201105,21.101,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141588,2020-04-30 19:40:42.231074+00:00,b'bn\xbf\xc4',30.914467146125705,24.008,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141593,2020-04-30 19:39:51.837811+00:00,b'bn\xbf\xc4',38.52572594339183,16.52,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141935,2020-04-30 19:30:54.010702+00:00,b'bn\xbf\xc4',15.892570243539474,18.674,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+142214,2020-05-01 16:19:11.411891+00:00,b'\x18\xe9H\x93',13.749041992106038,14.215,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+142358,2020-05-01 19:58:49.911725+00:00,b'bn\xaa\x1b',115.41964230896984,9.891,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+144202,2020-05-02 12:01:34.759288+00:00,b'bv2\x02',47.65655437355245,20.345,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+145944,2020-05-03 00:09:04.697443+00:00,b'`\xe9?f',22.038714670082708,12.097,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+147790,2020-05-05 16:29:23.929485+00:00,b'G\xb8~\x9d',119.1185595857546,11.749,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+148744,2020-05-05 16:06:21.029381+00:00,b'`\xe9r\xc0',14.906740790613366,16.61,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+149634,2020-05-06 19:57:49.019637+00:00,b'\xad0!J',3.930324402396656,17.555,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+149972,2020-05-06 00:20:37.469123+00:00,b'bn\xbc\xed',581.8215448334522,9.03,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+150003,2020-05-06 00:21:38.378882+00:00,b'bn\xbc\xed',587.916033117486,9.073,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+150160,2020-05-06 19:57:13.506733+00:00,b'\xad0!J',3.6120603537051568,17.808,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+150405,2020-05-06 00:21:06.770549+00:00,b'bn\xbc\xed',371.0179200146766,11.366,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+150754,2020-05-07 00:06:57.653659+00:00,b'G\xb8jM',174.93002453937947,15.39,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+150943,2020-05-07 19:35:01.560846+00:00,b'\x18\xe9IC',29.04960392368443,18.759,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+151535,2020-05-07 00:26:07.845684+00:00,b'bn\x9f)',60.82350207762295,15.526,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+152361,2020-05-08 19:45:40.590196+00:00,b'bn\xcbM',67.8817663049416,9.54,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+152494,2020-05-08 19:36:06.737079+00:00,b'bv2\x02',11.435239838249052,19.674,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+152663,2020-05-08 16:04:42.520392+00:00,b'`\xed\xc1\x9c',3.6598378305000807,13.127,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+152707,2020-05-08 19:51:15.793140+00:00,b'\x18\xe9E\xc1',21.68210836816508,24.091,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+153010,2020-05-08 19:38:43.363571+00:00,b'bv2\x02',67.23707446102657,19.424,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+153559,2020-05-08 16:05:20.113714+00:00,b'\x18\xe9H\x93',12.676081403376031,17.695,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+153615,2020-05-08 19:49:35.545177+00:00,b'`\xe9?\x9d',67.04301549938558,22.233,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+153753,2020-05-09 00:21:14.416888+00:00,b'\x18\xe9D\xe5',8.920375187555077,26.521,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+153768,2020-05-09 12:09:49.306569+00:00,b'`\xe9n\x14',0.1330136914833313,113.883,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+153850,2020-05-09 00:18:39.165536+00:00,b'\xad0\x17p',81.49341930806321,20.327,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+153887,2020-05-09 00:22:12.038552+00:00,b'\x18\xe9D\xe5',6.4347803890071535,26.416,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+154262,2020-05-09 00:23:18.082330+00:00,b'bn\xde\x03',349.01261535002976,9.607,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+154457,2020-05-09 12:06:06.502965+00:00,b'`\xe9n\x14',69.9174647912939,12.189,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+154544,2020-05-09 19:31:36.537705+00:00,b'\x18\xe9J\x96',18.46224135544146,26.164,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+154734,2020-05-09 12:14:18.012387+00:00,b'`\xe9n\x14',18.180223232214512,11.36,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+154828,2020-05-09 12:15:13.665351+00:00,b'`\xe9n\x14',15.378365277518917,12.355,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+154857,2020-05-09 12:12:57.758023+00:00,b'`\xe9n\x14',0.3160166626744322,9.427,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+155021,2020-05-09 19:31:12.735996+00:00,b'\x18\xe9J\x96',18.071030087949868,28.751,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+155457,2020-05-10 00:27:52.408694+00:00,b'bn\xbc\xed',184.1467686487681,11.519,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+155881,2020-05-10 16:21:41.264435+00:00,b'`\xe9?\x9b',5.829218601475269,29.971,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+156146,2020-05-10 00:29:47.554546+00:00,b'bn\xbc\xed',330.24465560204965,10.669,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+156553,2020-05-11 16:11:57.643360+00:00,b'`\xe9t\xb1',3.2132176700513586,40.801,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+157182,2020-05-11 16:11:23.910192+00:00,b'`\xe9t\xb1',1.8518892275356504,14.23,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+157449,2020-05-11 16:16:02.123094+00:00,b'`\xe9t\xbf',88.21789210565468,12.451,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+157829,2020-05-11 16:17:12.525017+00:00,b'`\xe9t\xbf',61.37203838788595,10.362,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+157950,2020-05-11 12:09:35.698236+00:00,b'\x18\xe9K\x98',22.93847165645388,18.215,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+158139,2020-05-12 19:49:52.221947+00:00,b'`\xed\xc1A',30.47594195749274,9.256,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159047,2020-05-12 12:27:47.522889+00:00,b'\x0cu\xfa\x9e',0.3278144304607529,18.744,Braintree,42.2125,-70.9961,7018.0,"ATT-INTERNET4 - AT&T Services, Inc."
+159272,2020-05-12 19:42:11.365697+00:00,b'\xad0\x1e\xa0',386.5637077141081,10.291,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+160131,2020-05-13 16:28:30.893373+00:00,b'\x18\xe9V\x8d',27.28536491213129,18.99,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+160465,2020-05-13 16:27:12.822123+00:00,b'\x18\xe9V\x8d',27.049366193213498,22.314,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+160661,2020-05-13 19:43:14.954519+00:00,b'\xad0\x17p',41.32629603821923,15.808,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+160801,2020-05-13 16:21:33.068326+00:00,b'`\xe9t\xe6',84.27566390346671,14.252,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+160846,2020-05-13 16:27:37.436277+00:00,b'\x18\xe9V\x8d',10.831624231856152,28.712,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+160962,2020-05-13 00:07:57.025005+00:00,b'\x18\xe9H\x85',24.316987627833765,30.642,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+161067,2020-05-13 16:01:47.381814+00:00,b'\x18\xe9V\x8d',8.612308119914672,25.636,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+161079,2020-05-13 00:26:26.248115+00:00,b'\xad0\x17\x12',81.05619699660583,12.342,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+161176,2020-05-13 16:29:01.744917+00:00,b'\x18\xe9V\x8d',19.35059622838445,20.461,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+162598,2020-05-14 16:09:05.421691+00:00,b'\x18\xe9T\x89',29.80011873480872,15.997,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+162822,2020-05-14 12:09:11.389701+00:00,b'\x18\xe9E\xa8',28.68394670448109,20.808,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+162832,2020-05-14 16:10:06.203231+00:00,b'\x18\xe9T\x89',29.889899709663062,19.972,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+163411,2020-05-15 00:27:40.893272+00:00,b'\x18\xe9H[',24.753001276136427,12.474,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+163563,2020-05-15 16:02:02.784005+00:00,b'\x18\xe9DQ',28.29823062717588,23.406,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+163641,2020-05-15 12:28:32.161137+00:00,b'\x18\xe9IC',3.939285259394136,22.707,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+164256,2020-05-15 16:05:28.224385+00:00,b'\x18\xe9DQ',26.086368204820044,23.668,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+164427,2020-05-16 00:13:32.394705+00:00,"b""\x18\xe9F'""",17.670178058480516,29.01,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+164761,2020-05-16 00:20:48.169556+00:00,"b""\x18\xe9F'""",20.251790107950168,26.677,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+164780,2020-05-16 00:20:06.151309+00:00,b'\x18\xe9Fm',28.090977431997683,22.214,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165154,2020-05-16 00:19:40.725831+00:00,b'\x18\xe9Fm',22.54054606492962,30.17,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165309,2020-05-16 00:20:33.710324+00:00,b'\x18\xe9Fm',25.7376785834946,20.929,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165316,2020-05-16 00:25:31.156299+00:00,"b""\x18\xe9F'""",3.611096392327619,41.597,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165385,2020-05-16 00:24:26.921468+00:00,"b""\x18\xe9F'""",19.16149545023953,40.513,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165396,2020-05-16 00:22:09.095762+00:00,"b""\x18\xe9F'""",28.44216050446792,28.468,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165420,2020-05-16 00:13:03.418839+00:00,"b""\x18\xe9F'""",17.979532340467493,39.461,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165545,2020-05-16 00:23:02.029276+00:00,"b""\x18\xe9F'""",25.971885639798373,31.422,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+165857,2020-05-17 19:48:52.542413+00:00,b'\x18\xe9A\\',0.4497488741328774,34.996,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+166434,2020-05-17 19:45:37.348857+00:00,b'\x18\xe9A\\',16.30922893270469,12.534,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+166499,2020-05-17 19:40:55.233557+00:00,b'\x18\xe9A\\',3.611090341366744,19.534,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+166573,2020-05-17 19:44:27.929542+00:00,b'\xad0\x18N',112.14178757667504,13.191,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+166677,2020-05-17 19:46:14.095018+00:00,b'\x18\xe9A\\',22.02958493845788,10.843,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+166799,2020-05-17 19:40:30.768601+00:00,b'\x18\xe9A\\',25.243783037286285,16.727,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+167280,2020-05-18 19:44:06.103874+00:00,b'\x17\x1e\x8d\xae',18.97659692535976,39.558,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+167515,2020-05-18 12:09:49.312758+00:00,b'\x18\xe9DQ',17.29148342648024,26.619,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+167788,2020-05-18 12:10:40.135416+00:00,b'G\xb8~\xcd',328.13619041294925,9.088,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+170826,2020-05-20 19:55:12.527003+00:00,b'\x0cu\xfa\xfa',2.1416366415623127,10.014,Braintree,42.2125,-70.9961,7018.0,"ATT-INTERNET4 - AT&T Services, Inc."
+170854,2020-05-20 19:58:15.348240+00:00,b'G\xb8~q',113.7702890939095,9.323,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+171449,2020-05-20 19:54:33.813172+00:00,b'\x0cu\xfa\xfa',2.1812302166270947,9.525,Braintree,42.2125,-70.9961,7018.0,"ATT-INTERNET4 - AT&T Services, Inc."
+172615,2020-05-21 16:18:06.604446+00:00,b'\xad0 E',141.4368511289232,11.288,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173179,2020-05-21 16:29:36.038187+00:00,b'&\x030\x05\x18\xf2\x00\x00\x18\x1a\xa4y\x9f\x12\xb9\xcb',23.01248467987404,22.769,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+173338,2020-05-22 00:21:25.141645+00:00,b'\xad0 \xb4',281.6201772668225,9.21,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178147,2020-05-25 19:34:43.915405+00:00,b'G\xb8~\xb3',331.50972450597897,9.157,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178527,2020-05-26 00:26:52.829939+00:00,b'\xad0!]',54.36433079932785,21.934,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178652,2020-05-26 00:10:24.053213+00:00,b'\xad0!]',75.068253062178,17.534,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178795,2020-05-26 00:11:05.471622+00:00,b'\xad0!]',62.9028336006546,17.483,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178926,2020-05-26 00:04:27.421806+00:00,b'\xad0\x1fy',103.66081946138418,11.704,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179040,2020-05-26 00:28:51.293242+00:00,b'`\xe9?\x9b',30.99839409182135,15.019,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179099,2020-05-26 00:19:40.255480+00:00,b'\xad0!]',61.972366833108005,17.514,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179332,2020-05-26 19:39:18.165791+00:00,b'bn\xcav',11.588883664930774,17.079,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179446,2020-05-26 00:27:16.969720+00:00,b'`\xe9?\x9b',9.34464622959522,12.42,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179536,2020-05-26 00:26:06.901563+00:00,b'\xad0!]',75.32362951169674,19.747,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179602,2020-05-26 00:26:49.961045+00:00,b'`\xe9?\x9b',9.334491030857029,14.971,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179663,2020-05-26 19:40:37.224524+00:00,b'bn\xcav',13.231899266666998,15.573,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+180254,2020-05-27 12:12:24.511514+00:00,b'`\xe9n\x14',16.89755002857485,14.382,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+180498,2020-05-27 16:19:10.385659+00:00,b'\x18\xe9V\\',29.53130825393881,19.579,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+181023,2020-05-27 16:18:43.248064+00:00,b'\x18\xe9V\\',26.69852420020616,20.036,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+181227,2020-05-27 00:16:50.788382+00:00,b'bn\xaa\xaf',110.43772653291208,19.746,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181558,2020-05-28 16:13:21.548213+00:00,b'\x18\xe9J?',1.4320940636772728,22.449,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+181598,2020-05-28 00:17:16.537755+00:00,b'\x18\xe9HH',6.616158474991536,25.888,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+182438,2020-05-28 12:22:23.623965+00:00,b'\x18\xe9W_',28.803384306002936,20.507,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+182917,2020-05-29 12:26:25.001512+00:00,b'&\x030\x05\x18\x0e\x80\x00\x1c\xdbQ\xef\xba\xb7\x9f\xb1',14.980679100047862,21.611,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+183146,2020-05-29 12:29:17.025308+00:00,b'&\x030\x05\x18\x0e\x80\x00\x1c\xdbQ\xef\xba\xb7\x9f\xb1',14.805144039037977,15.631,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+183602,2020-05-29 16:10:27.846203+00:00,b'\xad0\x17\xb8',96.17750924835669,11.837,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+184095,2020-05-29 16:26:13.248736+00:00,b'2\xd4\x12\xcd',15.570623671857978,19.158,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+184171,2020-05-29 12:11:01.172826+00:00,b'\x18\xe9E\xa8',30.98885507804732,19.683,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+184893,2020-05-30 00:26:03.966168+00:00,b'\xad0!\xf9',24.20282068812031,14.923,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+185504,2020-05-30 00:20:52.550393+00:00,b'\xad04w',11.129166261853843,16.618,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+186631,2020-05-31 16:00:31.790423+00:00,b'\x18\xe9H;',26.94237424886641,23.624,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+186875,2020-06-01 00:21:09.006081+00:00,b'\x18\xe9G\xe8',1.923199796029004,39.434,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187121,2020-06-01 00:23:40.452814+00:00,b'\x18\xe9G\xe8',16.674654038476664,23.968,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187201,2020-06-01 00:07:55.384192+00:00,b'\x18\xe9G\xe8',20.74581062768952,31.915,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187659,2020-06-01 00:22:27.399375+00:00,b'\x18\xe9G\xe8',26.909031814656185,24.678,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187689,2020-06-01 00:10:46.424463+00:00,b'\x18\xe9G\xe8',6.033833278038875,42.248,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187717,2020-06-01 00:23:09.998650+00:00,b'\x18\xe9G\xe8',14.689224834329346,21.584,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187724,2020-06-01 00:01:36.316255+00:00,b'\x18\xe9T\xbf',30.57115827803945,22.733,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187735,2020-06-01 00:08:22.796606+00:00,b'\x18\xe9G\xe8',0.6507579199521656,25.088,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187770,2020-06-01 00:20:32.595883+00:00,b'\x18\xe9G\xe8',15.919738747103276,32.539,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+187942,2020-06-01 00:21:59.018591+00:00,b'\x18\xe9G\xe8',26.13936965514792,22.481,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188061,2020-06-01 00:01:07.867162+00:00,b'\x18\xe9T\xbf',21.11491168541433,23.334,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188259,2020-06-02 16:00:07.064364+00:00,b'\x18\xe9J\xf3',6.869298131018738,13.484,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188376,2020-06-02 19:35:33.070267+00:00,b'\x18\xe9J\x96',20.840285515424164,27.573,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188682,2020-06-02 19:31:04.161616+00:00,b'\x18\xe9Um',2.5314509772214167,34.184,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188696,2020-06-02 19:34:43.209175+00:00,b'\x18\xe9Um',9.49912778421792,25.119,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188703,2020-06-02 19:48:46.354201+00:00,b'\x18\xe9Um',12.340826014752151,32.361,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188769,2020-06-02 19:32:41.579738+00:00,b'\x18\xe9Um',2.160098005598506,42.417,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188817,2020-06-02 19:36:31.777089+00:00,b'\x18\xe9Um',1.534554585671057,32.765,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+188875,2020-06-02 16:04:05.133255+00:00,b'\x18\xe9J\xf3',4.8968354451565,13.727,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+189001,2020-06-02 16:03:36.466167+00:00,b'\x18\xe9J\xf3',6.67886594458305,20.407,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+189091,2020-06-02 19:35:07.148941+00:00,b'\x18\xe9Um',5.866616246716884,33.793,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+189094,2020-06-02 19:56:11.270990+00:00,b'\x18\xe9BV',19.19702468700834,28.312,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+189103,2020-06-02 16:06:10.544715+00:00,b'bn\xcav',5.705505828474235,13.248,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+189163,2020-06-02 19:38:51.543329+00:00,b'bn\xca\r',77.87451789434755,11.774,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+189167,2020-06-02 16:04:05.403621+00:00,b'\x18\xe9J\xf3',5.922705301263915,16.292,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+189246,2020-06-02 19:34:11.095535+00:00,b'\x18\xe9Um',9.190442640729522,20.228,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+190956,2020-06-03 19:48:58.852090+00:00,b'\xad04]',20.968873503557614,11.862,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+192143,2020-06-04 16:23:26.622899+00:00,b'`\xe9tG',42.56941325253931,14.271,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+192705,2020-06-05 00:10:11.008955+00:00,b'\xad04]',3.5753737146351288,9.395,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+198643,2020-06-09 16:17:44.617329+00:00,b'G\xb8~$',32.49278878772694,10.361,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+198853,2020-06-09 16:19:21.389778+00:00,b'G\xb8~$',153.40767253252574,12.458,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+199535,2020-06-10 16:09:38.809434+00:00,b'\x18\xe9AQ',18.540580717679145,26.866,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+200916,2020-06-11 00:28:22.410894+00:00,b'\xad0 \xf3',46.64653095223689,14.974,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201665,2020-06-11 00:20:49.017390+00:00,b'G\xb8j\x11',83.9245675869018,7.608,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201672,2020-06-11 16:25:22.154096+00:00,b'bn\xca\xfb',3.292163659482623,13.772,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202078,2020-06-11 19:57:04.882100+00:00,b'bn\x9f6',3.6111335490683913,10.006,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202175,2020-06-11 12:15:28.094131+00:00,"b'\xad0""R'",272.7398383361098,9.23,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202491,2020-06-12 00:03:11.918147+00:00,b'bn\xbcp',17.734124186298953,19.799,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202532,2020-06-12 16:13:22.193593+00:00,b'\x18\xe9D\xf8',12.419587999658676,24.864,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+203451,2020-06-12 19:46:59.762842+00:00,b'bn\xaa\xfb',243.1070066364057,8.753,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+203557,2020-06-12 12:21:37.480826+00:00,b'\x18\xe9H&',30.80504452937287,20.326,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+203673,2020-06-12 19:46:32.132502+00:00,b'bn\xaa\xfb',249.75588870453905,9.823,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+203700,2020-06-12 19:47:24.071335+00:00,b'bn\xaa\xfb',224.45847673725245,10.501,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204016,2020-06-13 00:12:38.846500+00:00,b'G\xb8j\xd3',44.94925543473151,9.75,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204158,2020-06-13 16:17:05.477104+00:00,b'\xad0\x1c(',18.689314186907,17.911,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204940,2020-06-13 12:01:42.781205+00:00,b'\x18\xe9D0',21.28750811063192,36.001,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+206884,2020-06-15 19:58:58.775836+00:00,b'bn\xbf\xb7',16.978595050142545,15.218,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+207514,2020-06-15 19:49:28.284843+00:00,b'bn\xbc6',41.53085925461384,12.637,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+207595,2020-06-15 19:59:30.189161+00:00,b'bn\xbf\xb7',11.137861130223332,14.471,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+208269,2020-06-16 16:10:55.348977+00:00,b'\xad04\xfb',10.60249113537755,9.501,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+208855,2020-06-16 16:00:00.149399+00:00,b'bn\xaa\xfb',307.60307009159175,8.511,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+210191,2020-06-17 19:40:47.779284+00:00,b'\xad0\x18J',9.304933212661991,11.839,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+210349,2020-06-17 16:12:57.189998+00:00,b'\xad0\x19w',185.0359545258976,8.733,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+210811,2020-06-17 19:44:09.927387+00:00,b'\xad0\x18J',3.153306288450018,9.511,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211224,2020-06-17 16:25:03.765003+00:00,b'\xad0\x19t',12.18002243098466,10.887,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211654,2020-06-18 19:42:36.502861+00:00,b'bn\xbf6',2.0002813161345463,57.08,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211825,2020-06-18 19:48:11.662054+00:00,b'\xad0\x1c\xc7',65.49204610541025,13.371,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211903,2020-06-18 12:11:00.400917+00:00,b'bn\x9f6',106.395558884312,13.447,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+212252,2020-06-18 19:50:39.937080+00:00,b'\xad0\x1c\xc7',59.25634102519992,10.418,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+212421,2020-06-18 16:29:01.103674+00:00,"b'\xad0""%'",49.388848685023206,19.111,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+212647,2020-06-18 19:46:31.178392+00:00,b'\xad0\x1c\xc7',57.00901723027172,20.253,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+213315,2020-06-19 00:11:35.912662+00:00,b'\xad0\x1e\x19',7.300840779402167,12.312,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+213624,2020-06-19 00:01:44.317129+00:00,b'\xad0;\x04',93.59414225548896,10.242,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214012,2020-06-19 00:08:31.900302+00:00,b'\xad0\x1e\x19',7.526432211684446,9.93,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214133,2020-06-19 00:11:05.954185+00:00,b'\xad0\x1e\x19',7.483154468245147,11.375,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214791,2020-06-20 19:34:50.653372+00:00,b'`\xe9t\xc3',106.02315193771682,47.163,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+215150,2020-06-20 12:04:02.148948+00:00,b'`\xed\xc1\xaf',81.48520829966584,21.028,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+216814,2020-06-21 19:52:24.228245+00:00,b'\xad0;k',114.2130867182804,11.24,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+217930,2020-06-22 00:26:49.847589+00:00,b'\xad04\xd9',78.59186208443457,10.937,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+218333,2020-06-22 00:19:57.409153+00:00,b'\xad04\xd9',2.5705621741717875,13.309,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+218894,2020-06-22 00:28:11.112800+00:00,b'`\xe9n\xa1',114.96025245615004,11.964,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219148,2020-06-23 12:18:25.535299+00:00,b'bn\xfc\x14',56.34762805031045,8.662,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219241,2020-06-23 12:04:38.107861+00:00,b'bn\xfc\x14',23.35154144876856,11.518,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219417,2020-06-23 12:16:15.737682+00:00,b'bn\xfc\x14',0.1831268713866393,13.761,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219423,2020-06-23 12:05:09.660838+00:00,b'bn\xfc\x14',33.57856352632869,11.345,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219538,2020-06-23 12:04:00.937578+00:00,b'bn\xfc\x14',28.33243691855301,34.116,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219699,2020-06-23 12:07:17.263283+00:00,b'bn\xfc\x14',45.357718645768834,9.122,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219734,2020-06-23 12:14:06.727750+00:00,b'bn\xfc\x14',10.208207342989557,62.318,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220007,2020-06-23 12:09:29.570323+00:00,b'bn\xfc\x14',39.715378289116586,10.774,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220064,2020-06-23 12:12:40.023925+00:00,b'bn\xfc\x14',80.80498831934548,27.514,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220143,2020-06-23 12:13:05.132428+00:00,b'bn\xfc\x14',98.03771762758332,17.761,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220198,2020-06-23 12:15:32.076699+00:00,b'bn\xfc\x14',3.661264129797253,22.911,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220247,2020-06-23 16:04:38.367170+00:00,b'&\x8c\x9ej',188.2622319404265,8.813,Braintree,42.2125,-70.9961,174.0,COGENT Cogent/PSI
+220260,2020-06-23 12:10:28.291679+00:00,b'bn\xfc\x14',54.109314152841726,13.193,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220420,2020-06-23 12:08:25.062981+00:00,b'bn\xfc\x14',17.422370122318785,9.119,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220464,2020-06-23 12:07:57.200630+00:00,b'bn\xfc\x14',19.47870732112625,11.349,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220483,2020-06-23 12:16:31.830924+00:00,b'bn\xfc\x14',15.336573542361975,11.252,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220524,2020-06-23 12:14:32.168645+00:00,b'bn\xfc\x14',4.317474003826536,24.366,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221147,2020-06-23 12:16:58.744648+00:00,b'bn\xfc\x14',7.806180625181431,11.368,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221168,2020-06-24 00:26:53.389047+00:00,b'`\xe9n\xd8',376.0921482482725,11.406,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221496,2020-06-24 16:20:13.506024+00:00,b'`\xe9r\xd0',91.72770138915678,9.884,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221513,2020-06-24 16:08:39.165610+00:00,b'`\xe9r\xd0',150.90470414380346,9.884,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221634,2020-06-24 19:52:51.258540+00:00,b'\x18\xe9B\x9c',17.474649568526033,17.101,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+221784,2020-06-24 19:45:43.443307+00:00,b'\xad0\x18J',10.675105078672294,60.257,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221917,2020-06-24 19:46:13.535769+00:00,b'\xad0\x18J',15.60447181398398,11.348,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+222804,2020-06-24 00:22:25.688943+00:00,b'&\x07\xfb\x90\xac\x12hZxh\x14<g#\xb7\xbe',17.50269137455082,33.825,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+222962,2020-06-24 16:06:27.698831+00:00,b'\x18\xe9V\\',29.63249377322213,17.595,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+222989,2020-06-24 16:01:36.236650+00:00,b'`\xe9r\xd0',108.7419640167176,16.876,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+224281,2020-06-25 00:07:02.594706+00:00,b'\xad0\x18C',89.98772733879977,10.752,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+226143,2020-06-26 00:07:34.630583+00:00,b'\x18\xe9Vs',25.645648259582927,24.635,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+226443,2020-06-26 19:40:45.567246+00:00,b'\xad04H',25.42065370227839,25.801,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+227589,2020-06-27 19:41:09.329774+00:00,b'\xad0\x19\xae',64.39059471560243,10.102,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+231126,2020-06-29 16:10:45.292904+00:00,b'\x18\xe9I\x9d',27.287330912154275,24.9,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+231295,2020-06-29 16:06:51.675590+00:00,b'`\xe9r\xc0',61.43660511173043,15.117,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+231545,2020-06-29 00:08:41.228696+00:00,b'G\xb8j\x85',264.09257336936554,10.623,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+233671,2020-06-30 12:05:07.519760+00:00,"b'\xad0""\x9a'",50.608709007697776,8.329,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+234589,2020-07-01 00:00:15.120959+00:00,b'\xad0\x1a:',157.032772596087,9.832,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+235337,2020-07-01 19:40:33.514420+00:00,b'\x92\xf3x\x13',1.876936559832792,46.695,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+235787,2020-07-01 16:27:36.584814+00:00,b'`\xe9?\x81',101.0984057069783,9.896,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+235855,2020-07-01 19:47:15.589418+00:00,b'\x92\xf3x\x13',5.5747870959766015,37.168,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+236396,2020-07-01 19:40:07.224660+00:00,b'\x92\xf3x\x13',3.2405245035670656,42.22,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+236462,2020-07-01 00:26:40.446936+00:00,b'\x18\xe9T\x14',14.598166957871936,24.511,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+236480,2020-07-01 00:24:26.751424+00:00,b'\x18\xe9T\x14',9.000162117227047,16.763,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+236729,2020-07-02 00:26:00.155935+00:00,b'bn\xbc\xcb',87.2667697038728,9.865,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+236774,2020-07-02 00:27:42.541841+00:00,b'bn\xbc\xcb',91.89229906088676,9.873,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+236827,2020-07-02 00:28:12.099485+00:00,b'bn\xbc\xcb',91.60838932122846,9.857,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+236937,2020-07-02 00:29:20.808793+00:00,b'bn\xbc\xcb',48.97301175318893,12.951,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+236987,2020-07-02 00:15:46.171691+00:00,b'bn\x9fj',81.3832626659826,10.352,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237043,2020-07-02 19:44:10.515741+00:00,b'`\xe9n\x98',1.0762587760459434,33.391,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237092,2020-07-02 19:42:25.977467+00:00,b'`\xe9n\x98',31.86113053573554,13.916,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237348,2020-07-02 00:27:10.715528+00:00,b'bn\xbc\xcb',53.93778651650931,9.755,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237486,2020-07-02 00:09:18.871033+00:00,b'\xad0;`',51.20003668026585,9.49,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237606,2020-07-02 16:23:53.938196+00:00,b'\x18\xe9Tj',19.57325781238909,25.253,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+237797,2020-07-02 16:04:10.674473+00:00,b'2O\xaf\x8a',12.87965068750058,19.397,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+237834,2020-07-02 00:29:56.132868+00:00,b'bn\xbc\xcb',37.416048138785385,12.756,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237849,2020-07-02 19:38:00.233826+00:00,b'`\xe9n\x98',19.05581009802269,14.595,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+238197,2020-07-02 00:07:29.203624+00:00,b'bn\x9fj',80.77415194199213,10.887,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+238420,2020-07-02 00:28:55.203442+00:00,b'bn\xbc\xcb',62.150348012034286,19.587,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+239005,2020-07-03 16:09:20.126656+00:00,b'&\x00\x10\x00\xb0^k\x8d\x00\x00\x00`?\xcd\xda\x01',0.4869769860530917,267.887,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+239181,2020-07-03 16:14:57.114490+00:00,b'\x92\xf3x\x13',4.032149471857552,32.981,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+239807,2020-07-03 16:27:33.759005+00:00,b'\x18\xe9B3',25.546792655731384,20.6,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+241115,2020-07-04 00:25:31.189507+00:00,b'`\xe9n\x12',3.751906790740098,19.709,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+241589,2020-07-05 00:19:04.432920+00:00,b'\xad04\xd9',61.34689054150794,14.991,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+241605,2020-07-05 00:10:44.759063+00:00,b'\x18\xe9G\xbe',24.33604288042288,26.943,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+242389,2020-07-05 00:22:43.085990+00:00,b'bn\xfc\\',66.92243614300568,10.994,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243512,2020-07-06 12:19:48.975846+00:00,b'\x18\xe9V\\',20.51683122358083,22.595,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+245213,2020-07-07 12:06:27.088848+00:00,b'\x92\xf3x\x13',2.9090011450399302,37.523,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+245432,2020-07-07 00:19:19.617870+00:00,b'\x18\xe9V\xd0',26.798371703700408,21.137,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+247202,2020-07-08 19:43:24.838420+00:00,b'\xc7\xa9\xc8\xab',0.2487486037090988,7.584,Braintree,42.2125,-70.9961,40410.0,USFRCS-BGP - FRIT 
+247432,2020-07-08 19:50:03.299475+00:00,b'\x18\xe9U\x81',0.1857694956601613,25.208,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+247453,2020-07-08 19:39:03.203068+00:00,b'\xad0\x1e\xb3',14.28907026082362,9.145,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+248015,2020-07-08 12:08:08.501729+00:00,b'2\xc8\xe9e',2.29081069514138,22.97,Braintree,42.2125,-70.9961,33378.0,ASN1 - EASTERN BANK
+250128,2020-07-09 12:08:52.776296+00:00,b'bn\xbf6',12.996497146818497,15.385,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+251245,2020-07-10 16:17:30.086085+00:00,b'd\x001\x9a',6.126461426870643,8.757,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+251447,2020-07-10 16:01:34.827734+00:00,b'd\x001\x9a',2.6305941407620868,8.394,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+251678,2020-07-10 12:23:26.017977+00:00,b'\x18\xe9Vt',26.62491073590865,22.736,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+252262,2020-07-10 16:14:26.501600+00:00,b'd\x001\x9a',23.137331177642626,7.87,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+252330,2020-07-10 16:03:39.970889+00:00,b'd\x001\x9a',15.290019389848464,9.014,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+252621,2020-07-11 00:24:07.523284+00:00,b'`\xe9r1',91.46428595686184,10.214,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+253660,2020-07-11 00:23:40.972681+00:00,b'`\xe9r1',7.311543905691714,11.779,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+253661,2020-07-11 00:24:42.266995+00:00,b'`\xe9r1',66.95909465227882,7.776,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+254234,2020-07-12 00:17:01.418913+00:00,b'`\xe9n\x98',0.3998251742574321,14.613,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+254615,2020-07-12 00:08:44.135393+00:00,b'bn\xbcg',43.44200805828021,17.38,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+254913,2020-07-12 00:09:21.332877+00:00,b'bn\xbcg',43.885650415181125,16.381,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+256523,2020-07-13 16:03:01.038556+00:00,b'\xc7\xa9\xc8\xab',0.2764392689659079,6.707,Braintree,42.2125,-70.9961,40410.0,USFRCS-BGP - FRIT 
+256637,2020-07-13 19:44:11.557503+00:00,b'`\xe9n\x98',20.268285896663688,11.023,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+257196,2020-07-13 19:41:48.307140+00:00,b'`\xe9n\x98',16.381064426400258,14.987,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+257766,2020-07-14 19:48:43.884656+00:00,b'&\x00\x10\x00\xb0^\xf9\xb1\x89#\xfc\xb5\xb0\x0e\x18n',17.496561458084656,43.792,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+258394,2020-07-14 12:15:10.727666+00:00,b'bn\xbcg',82.30543169893281,15.749,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259322,2020-07-14 19:42:17.792445+00:00,b'\xad0\x1c\x07',81.76415813979158,15.01,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+263088,2020-07-16 12:20:20.614754+00:00,b'HJ\xfch',3.242995005988044,43.253,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+263197,2020-07-16 12:27:59.147308+00:00,b'\x92\xf3x\x13',17.08590003024328,34.247,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+263595,2020-07-17 16:02:05.151058+00:00,"b'\xad0""w'",10.188492942505128,13.556,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+263678,2020-07-17 16:01:00.272964+00:00,b'&\x00\x10\x00\xb0^y|\x9ds\xea$*!\x0c4',28.83689925747585,73.315,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+264219,2020-07-17 00:03:34.845660+00:00,b'bn\x9f6',69.5962190567485,10.276,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+264355,2020-07-17 00:18:16.422805+00:00,b'\xad04\x82',155.63613341793774,8.244,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+265149,2020-07-17 16:01:29.034474+00:00,"b'\xad0""w'",11.661546106702536,13.14,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+265199,2020-07-17 16:19:09.696520+00:00,"b'bn\xcb""'",159.95103795258171,9.044,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+267066,2020-07-19 19:32:30.967957+00:00,b'\x18\xe9E\xeb',29.65700659805517,20.373,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+267855,2020-07-19 19:34:38.474103+00:00,b'\x18\xe9E\xeb',28.67912700445276,19.895,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+268143,2020-07-19 19:35:46.096766+00:00,b'\x18\xe9E\xeb',29.4427847327155,20.483,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+268262,2020-07-19 19:30:47.508924+00:00,b'\x18\xe9E\xeb',28.11394586344735,23.331,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+268347,2020-07-19 19:30:17.272736+00:00,b'\x18\xe9E\xeb',29.13426483820624,18.323,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+269797,2020-07-20 19:50:20.600207+00:00,b'G\xb8jR',10.777048691075713,9.859,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+269824,2020-07-20 12:20:14.232029+00:00,b'HJ\xfch',9.819790383786737,27.512,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+272008,2020-07-21 16:06:15.409478+00:00,b'\xad\x0e\xa2\xb9',4.949203443008811,29.249,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+272519,2020-07-22 19:46:58.438614+00:00,b'\x18\xe9Vt',4.317301061040776,35.927,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+272887,2020-07-22 19:47:58.586700+00:00,b'\x92\xf3x\x13',2.971925768608655,34.075,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+273506,2020-07-22 19:47:26.216362+00:00,b'\x18\xe9Vt',5.2211644472717,43.105,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+274423,2020-07-23 00:09:38.223588+00:00,b'B\x03\x1cJ',26.492734620645496,18.567,Braintree,42.2125,-70.9961,2828.0,XO-AS15 - XO Communications
+275090,2020-07-23 19:35:52.272755+00:00,b'\x92\xf3x\x13',0.6052613789078136,42.811,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+275383,2020-07-23 19:37:38.991628+00:00,b'\x92\xf3x\x13',0.2806656693891554,55.325,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+275464,2020-07-23 12:09:04.855454+00:00,b'G\xb8~\xf8',7.725559400154029,24.496,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+275857,2020-07-24 19:36:26.195073+00:00,"b'\xad0""w'",29.485730502427483,77.702,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+275972,2020-07-24 19:36:30.062263+00:00,"b'\xad0""w'",52.7806426858938,18.172,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+276353,2020-07-24 19:36:01.320002+00:00,"b'\xad0""w'",7.464284441471664,13.318,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+276480,2020-07-24 16:23:20.515441+00:00,b'\xad0\x1a\xcc',8.47384676822153,20.135,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+276601,2020-07-24 19:56:17.921190+00:00,b'\x18\xe9A%',12.452484412722,35.8,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+277183,2020-07-24 16:29:20.061849+00:00,b'&\x00\x10\x00\xb0^4\x86\xfdX\xf7o\xc1\xd4{\x98',0.2469331965779422,59.694,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+277636,2020-07-24 19:36:03.062861+00:00,"b'\xad0""w'",70.511787309731,15.302,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+277657,2020-07-24 19:51:31.559028+00:00,b'\xad0 \xcd',13.429535934536778,23.075,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+277686,2020-07-24 16:28:53.112289+00:00,b'\x92\xf3x\x13',2.9381979859311453,41.837,Braintree,42.2125,-70.9961,6527.0,MASSACHUSETTS - Commonwealth of Massachusetts
+277764,2020-07-24 12:05:08.466773+00:00,b'\xad\t\x02\x99',22.65282761931473,18.286,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+277869,2020-07-25 16:19:27.154473+00:00,b'\xad0\x1e\xe6',21.73363082960758,10.123,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+278916,2020-07-25 12:13:42.861063+00:00,b'&\x00\x10\x00\xb0^\x84\xc8\xf8Q\xa3\r\rK\x18\xb2',0.7262949473914444,86.303,Braintree,42.2125,-70.9961,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+279538,2020-07-26 00:12:35.648358+00:00,b'bn\xde\x98',20.467721098613715,58.374,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+280498,2020-07-26 00:13:17.816096+00:00,b'bn\xc2\x92',87.20105894497196,7.664,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+280754,2020-07-27 16:22:47.572119+00:00,b'\xad04\x8d',64.39684534312943,13.397,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+281142,2020-07-27 16:04:52.473230+00:00,b'G\xb8~D',11.553046746657175,7.663,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+282769,2020-07-28 00:14:46.486391+00:00,b'bn\x9f\xbf',63.501517677585376,17.631,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+282877,2020-07-28 19:52:38.016491+00:00,b'`\xed\xc1v',96.48185760470292,12.095,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+284796,2020-07-29 00:22:51.892412+00:00,b'`\xe9n\xae',3.5753224825616376,15.368,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+284838,2020-07-29 16:18:32.389019+00:00,"b'\xad0""\xd2'",370.5425992350221,40.751,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+284854,2020-07-29 00:15:56.726201+00:00,b'`\xe9n\xae',69.20030317743544,15.131,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+285054,2020-07-29 12:06:15.524403+00:00,b'\xad0 \x85',100.27748897652285,11.66,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+285129,2020-07-29 00:11:12.512458+00:00,b'`\xe9n\xae',194.8358923074615,14.902,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+285843,2020-07-30 00:00:14.370025+00:00,b'bn\xaa\xdd',21.61730045975371,15.494,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+285899,2020-07-30 12:26:57.447750+00:00,"b'\xad0""w'",81.52538615427318,12.266,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+286035,2020-07-30 16:17:41.895549+00:00,"b'bn\xcb""'",333.55982147182226,8.609,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+286246,2020-07-30 12:25:18.692899+00:00,"b'\xad0""w'",36.17402749335852,14.336,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+286306,2020-07-30 12:24:42.976567+00:00,"b'\xad0""w'",15.78315713289937,16.002,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+286420,2020-07-30 12:26:22.025137+00:00,"b'\xad0""w'",81.78915387483242,14.488,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+288767,2020-08-01 16:25:20.577989+00:00,b'\x18\xe9G\xe0',0.1163879868981668,11.356,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+289264,2020-08-01 19:43:07.602385+00:00,b'\xad0\x1f\x0e',94.98225277723172,9.49,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+289315,2020-08-01 16:22:15.373137+00:00,b'\x18\xe9G\xe0',0.0410875926242164,40.52,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+289787,2020-08-01 19:43:46.007344+00:00,b'\xad0\x1f\x0e',42.86273864224757,10.396,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+290075,2020-08-02 19:54:13.859217+00:00,b'\x18\xe9T\x0b',0.032559898493861,65.168,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+290113,2020-08-02 16:11:11.130310+00:00,b'G\xb8j\xc1',7.473322610485234,12.21,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+290234,2020-08-02 19:48:18.439225+00:00,b'\x18\xe9T\x0b',0.0344913170951393,20.666,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+290386,2020-08-02 19:57:08.669283+00:00,b'\x18\xe9T\x0b',0.0087112497727424,41.415,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+290773,2020-08-02 00:19:03.929441+00:00,b'\x18\xe9J\xdf',0.0830589394172239,24.022,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+290887,2020-08-02 19:54:57.474097+00:00,b'\x18\xe9T\x0b',0.0403347584997669,23.714,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+290956,2020-08-02 00:23:14.524412+00:00,b'\x18\xe9J\xdf',0.0123132556110483,64.384,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+291109,2020-08-02 19:54:06.488421+00:00,b'\x18\xe9T\x0b',0.0496787195272962,53.581,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+291994,2020-08-03 12:18:42.029852+00:00,b'\x18\xe9V0',30.52040101385641,19.003,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+292608,2020-08-04 00:28:14.323625+00:00,b'\x18\xe9W&',14.356078504145678,29.134,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+294561,2020-08-05 12:17:18.416117+00:00,b'HJ\xfcN',225.2208291450969,10.004,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+295496,2020-08-06 19:53:08.264761+00:00,b'\x18\xe9U\x11',26.01143110329889,22.718,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+296324,2020-08-06 19:52:34.634710+00:00,b'\x18\xe9U\x11',25.868854925875443,25.98,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+296439,2020-08-06 19:43:11.768023+00:00,b'\x18\xe9Um',19.39692293533851,13.033,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+296979,2020-08-07 12:15:39.078972+00:00,b'bn\xca\x0b',67.26583433304512,11.922,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+297344,2020-08-07 00:24:04.695809+00:00,b'\x18\xe9D\xeb',30.15782103810087,21.432,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+297730,2020-08-07 12:09:02.305734+00:00,"b'\xad0""w'",82.39593492785372,14.175,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+297953,2020-08-07 12:17:12.476246+00:00,b'bn\xca\x0b',45.66527281178403,16.911,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+299317,2020-08-08 16:11:40.580699+00:00,b'bn\xde\x13',137.3150212716316,10.081,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+299405,2020-08-08 12:11:55.047428+00:00,b'\xad0 c',81.27934224994782,9.711,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+299679,2020-08-09 00:06:36.545136+00:00,"b'\xad0""w'",3.57532153269236,12.44,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+300285,2020-08-09 19:58:38.240003+00:00,b'\x18\xe9U\x11',27.398590561110503,18.54,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+300459,2020-08-09 19:31:58.336183+00:00,b'\x18\xe9U\x11',27.711554671400147,20.876,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+301472,2020-08-10 16:23:59.539292+00:00,b'\xad0\x17b',78.80277029588925,12.129,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+301672,2020-08-10 16:14:08.289394+00:00,b'\xad0\x17b',26.610125897731063,20.002,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+301770,2020-08-10 16:17:28.618905+00:00,b'\xad0\x17b',25.52977480336589,17.25,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303027,2020-08-11 19:49:21.339559+00:00,b'`\xe9r\x88',177.03590931941682,9.261,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303457,2020-08-11 19:48:54.810008+00:00,b'`\xe9r\x88',250.1136504190605,11.759,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303514,2020-08-11 19:45:11.344476+00:00,b'G\xb8j\xf6',36.97846263085855,16.989,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303679,2020-08-11 19:44:19.526581+00:00,b'G\xb8j\xf6',36.7161332415885,11.574,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303734,2020-08-11 19:44:48.576961+00:00,b'G\xb8j\xf6',43.805208894500375,13.641,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303918,2020-08-11 16:06:54.417870+00:00,b'`\xe9?\xc5',14.727948717931309,12.015,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+304009,2020-08-11 16:02:31.563587+00:00,b'`\xe9?\xc5',17.60709275088857,12.064,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+304166,2020-08-11 16:00:48.497545+00:00,b'`\xe9?\xc5',29.2711778144076,12.011,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+304673,2020-08-11 19:45:47.840595+00:00,b'G\xb8j\xf6',9.192255232789748,16.997,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+304890,2020-08-12 00:23:56.931845+00:00,"b'\xad0""w'",36.186233860915785,15.019,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+306446,2020-08-12 12:18:58.383076+00:00,b'HJ\xfcN',105.65672453008663,9.589,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+306621,2020-08-13 19:45:24.398831+00:00,b'\x18\xe9J\x11',24.730341458242485,29.69,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+308508,2020-08-13 19:44:21.601733+00:00,b'\x18\xe9J\x11',20.15160804155969,37.67,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+309748,2020-08-14 00:13:33.619594+00:00,b'\x18\xe9K\x8e',24.430817730936603,12.967,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+316498,2020-08-19 16:21:50.732711+00:00,b'\x18\xe9B\x08',22.78707960156176,23.783,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+322300,2020-08-24 19:39:45.415202+00:00,b'`\xed\xc1\x9c',186.236637457164,8.004,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+324776,2020-08-26 19:37:44.268761+00:00,b'\x18\xe9ID',10.234646284346296,24.0,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+325467,2020-08-26 19:39:11.937775+00:00,b'\x18\xe9ID',10.137630189398232,22.358,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+325518,2020-08-26 19:35:35.499636+00:00,b'\x18\xe9ID',10.301568167309846,25.089,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+332808,2020-09-01 19:59:12.406360+00:00,b'\xad0\x19\x8d',93.35696029062424,11.799,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+333724,2020-09-02 12:09:40.044117+00:00,b'`\xe9nT',145.74302688011406,8.335,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+343423,2020-09-10 19:52:34.697731+00:00,b'?LcB',6.753913214047535,51.293,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+343515,2020-09-10 19:51:54.485825+00:00,b'?LcB',7.461087772391129,55.632,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+348967,2020-09-16 16:00:26.687275+00:00,b'\x18\xe9H\x82',19.351258127865613,22.576,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+349219,2020-09-16 12:12:21.596221+00:00,b'\x83\xef\x12\x04',104.10280713928964,7.723,Braintree,42.2125,-70.9961,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+349273,2020-09-16 16:07:32.065492+00:00,b'\x18\xe9H\x82',13.896855534946884,23.317,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+350522,2020-09-18 12:29:36.513809+00:00,b'\x18\xe9D(',6.089360359630911,27.45,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+352380,2020-09-20 19:32:43.025579+00:00,b'\x18\xe9D\xd0',16.286667703264136,30.722,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+352452,2020-09-20 19:59:46.178349+00:00,b'\x18\xe9D\xd0',23.72953374403618,33.851,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+353391,2020-09-21 16:18:31.297188+00:00,b'\xad0;\xbe',50.20927772919757,15.648,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353425,2020-09-21 16:21:43.219286+00:00,b'\xad0;\xbe',61.333701555712274,16.307,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353673,2020-09-21 16:19:33.680435+00:00,b'\xad0;\xbe',62.80823196752439,12.931,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353754,2020-09-21 16:18:01.297845+00:00,b'\xad0;\xbe',66.170893301561,13.259,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353773,2020-09-21 16:20:08.392127+00:00,b'\xad0;\xbe',68.6724043749082,14.535,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353818,2020-09-21 16:17:29.692516+00:00,b'\xad0;\xbe',45.65398587848689,17.46,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353986,2020-09-21 16:19:04.015750+00:00,b'\xad0;\xbe',53.97297743262497,19.342,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+354036,2020-09-21 16:23:12.179466+00:00,b'\xad0;\xbe',47.61310689782325,14.408,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+354084,2020-09-21 16:16:56.692086+00:00,b'\xad0;\xbe',54.41353078206436,15.788,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+354218,2020-09-21 16:16:18.604108+00:00,b'\xad0;\xbe',50.93954025993264,15.347,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+355789,2020-09-23 00:16:44.410998+00:00,b'&\x07\xfb\x90;{F\xd0$\xb2S\xcb\xe7\xf2\xab\xc3',0.05025781606279,77.102,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+355953,2020-09-23 00:16:07.321815+00:00,b'&\x07\xfb\x90;{F\xd0$\xb2S\xcb\xe7\xf2\xab\xc3',1.2048369101288945,48.597,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+360813,2020-09-29 19:31:22.319666+00:00,b'\xad0!\xb1',44.978874242769606,13.035,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+360973,2020-09-29 19:49:50.907554+00:00,b'\xad0!\xb1',29.90478602881196,19.78,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+360987,2020-09-29 19:40:34.448850+00:00,b'\xad0!\xb1',52.28885372518209,19.586,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+361556,2020-09-29 19:40:58.796777+00:00,b'\xad0!\xb1',24.310935012462984,18.776,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+361557,2020-09-29 19:30:31.124869+00:00,b'\xad0!\xb1',13.19960688672577,12.771,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+361612,2020-09-29 19:34:07.968980+00:00,b'\xad0!\xb1',29.27063239382393,19.255,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+361655,2020-09-29 19:40:59.864767+00:00,b'\xad0!\xb1',40.85860710938329,13.97,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+362785,2020-10-01 00:01:18.105701+00:00,b'\xad0\x1f\x0e',31.50114242139376,8.564,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+363218,2020-10-01 00:02:57.865372+00:00,b'\xad0\x1f\x0e',27.800197576539787,44.995,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+363488,2020-10-01 00:02:01.718698+00:00,b'\xad0\x1f\x0e',4.568112985473106,9.991,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+363496,2020-10-01 00:03:34.983856+00:00,b'\xad0\x17X',98.54047665236304,9.94,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+367451,2020-10-06 00:24:01.004599+00:00,b'`C\n\x91',22.56089220580032,19.871,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+368023,2020-10-06 12:25:57.901512+00:00,b'\xad0!\xcd',38.78816573261334,12.517,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+368049,2020-10-06 12:24:00.898320+00:00,b'`C\n\x91',23.185626965350387,21.359,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+368359,2020-10-07 12:24:00.717314+00:00,b'`C\n\x91',23.15489701335212,26.08,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+368688,2020-10-07 00:24:00.894947+00:00,b'`C\n\x91',22.668004267679777,21.053,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+369549,2020-10-08 00:24:00.731611+00:00,b'`C\n\x91',23.08096397016461,18.701,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+369913,2020-10-08 12:24:00.681135+00:00,b'`C\n\x91',23.234774033457946,28.293,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+370562,2020-10-09 00:24:00.726553+00:00,b'`C\n\x91',23.255247424686832,21.151,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+370721,2020-10-09 12:24:00.540349+00:00,b'`C\n\x91',22.37682952640579,19.914,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+371155,2020-10-10 12:24:00.756738+00:00,b'`C\n\x91',23.20892855131701,21.522,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+371852,2020-10-10 00:24:00.888727+00:00,b'`C\n\x91',23.077651045271644,35.862,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+371932,2020-10-11 12:20:12.016247+00:00,b'\xad0;\xef',159.34684498150128,9.955,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+372114,2020-10-11 12:24:00.693160+00:00,b'`C\n\x91',23.22771149871384,20.329,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+372647,2020-10-11 00:24:00.655277+00:00,b'`C\n\x91',23.22551399899477,18.684,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+373448,2020-10-12 12:24:00.884371+00:00,b'`C\n\x91',22.836388962431947,20.51,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+373550,2020-10-12 00:24:00.684435+00:00,b'`C\n\x91',23.00217690873884,22.011,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+373559,2020-10-13 00:24:31.243179+00:00,b'`C\n\x91',23.09181802332192,31.068,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+374281,2020-10-13 12:24:00.706702+00:00,b'`C\n\x91',23.094627908385988,18.482,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+375143,2020-10-14 12:24:00.849349+00:00,b'`C\n\x91',23.087223576596177,19.818,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+375146,2020-10-14 00:24:00.800104+00:00,b'`C\n\x91',23.10345099795417,30.213,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+375697,2020-10-15 12:24:00.817844+00:00,b'`C\n\x91',22.982642354784325,19.135,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+376466,2020-10-16 12:23:28.498431+00:00,b'\xad0\x18\x12',5.261029137512356,11.063,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+376540,2020-10-16 12:24:00.641793+00:00,b'`C\n\x91',23.044108815052148,19.16,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+376750,2020-10-16 16:28:43.957160+00:00,"b""\x18\xe9H'""",12.069128779674864,25.212,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+377020,2020-10-16 16:26:59.669326+00:00,"b""\x18\xe9H'""",24.395100071449164,23.135,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+377050,2020-10-16 00:24:01.052391+00:00,b'`C\n\x91',22.891953805006672,23.771,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+377529,2020-10-17 12:24:00.830168+00:00,b'`C\n\x91',23.253087513557123,22.548,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+377878,2020-10-17 00:24:00.852073+00:00,b'`C\n\x91',23.269727329905773,18.019,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+378567,2020-10-18 00:24:00.769526+00:00,b'`C\n\x91',23.25199107070178,21.856,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+378689,2020-10-18 12:24:00.696032+00:00,b'`C\n\x91',23.12924837913881,24.045,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+379370,2020-10-19 12:24:00.456387+00:00,b'`C\n\x91',23.21851644546069,21.663,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+379624,2020-10-19 00:24:01.012437+00:00,b'`C\n\x91',23.24459353181133,20.349,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+380107,2020-10-20 12:24:00.820288+00:00,b'`C\n\x91',23.084250353947297,22.336,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+380718,2020-10-20 00:24:00.590688+00:00,b'`C\n\x91',23.125383108812176,31.071,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+381248,2020-10-21 00:09:25.847603+00:00,b'\xad0;\xb9',210.96563483085683,8.592,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+381434,2020-10-21 12:24:01.967582+00:00,b'`C\n\x91',23.16055961224138,33.068,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+381467,2020-10-21 00:24:00.835893+00:00,b'`C\n\x91',21.697234002142697,44.951,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+382291,2020-10-22 00:24:00.847589+00:00,b'`C\n\x91',22.89556594056794,19.684,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+382687,2020-10-22 12:24:00.574923+00:00,b'`C\n\x91',23.247565516519742,21.213,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+382895,2020-10-23 00:27:47.362743+00:00,b'\x18\xe9D[',6.889432673115715,20.282,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+383448,2020-10-23 12:24:00.760310+00:00,b'`C\n\x91',23.259482541187484,18.276,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+383755,2020-10-23 00:24:00.892335+00:00,b'`C\n\x91',23.0926126740036,30.8,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+384160,2020-10-24 16:26:27.288423+00:00,b'bn\xfc\xe9',102.7451336949145,17.489,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+384239,2020-10-24 00:24:00.832323+00:00,b'`C\n\x91',22.87856486023309,20.436,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+384286,2020-10-24 12:24:00.548141+00:00,b'`C\n\x91',23.13694393190188,30.392,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+384702,2020-10-25 00:24:00.679424+00:00,b'`C\n\x91',23.25852641472754,22.159,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+385371,2020-10-25 16:23:19.284677+00:00,b'\xad0!w',16.174855167975302,19.456,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+385474,2020-10-25 12:24:00.442448+00:00,b'`C\n\x91',23.14958031408379,23.654,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+385871,2020-10-26 19:54:18.087299+00:00,b'`\xe9t\x08',45.93800261871985,19.742,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+386039,2020-10-26 12:24:00.640573+00:00,b'`C\n\x91',23.20960961477204,20.363,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+386347,2020-10-26 00:24:00.662484+00:00,b'`C\n\x91',22.885605537914547,18.393,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+387055,2020-10-27 12:24:00.678187+00:00,b'`C\n\x91',22.9903379695556,18.461,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+387124,2020-10-27 00:24:00.743229+00:00,b'`C\n\x91',23.0713758005184,29.803,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+388027,2020-10-28 00:24:00.942224+00:00,b'`C\n\x91',23.094543670441706,31.689,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+388134,2020-10-28 12:24:01.050416+00:00,b'`C\n\x91',23.10906833775754,19.455,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+388401,2020-10-29 00:24:01.362125+00:00,b'`C\n\x91',23.14058337466908,29.906,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+388578,2020-10-29 12:24:00.839690+00:00,b'`C\n\x91',23.277604914773235,22.101,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+389177,2020-10-30 00:24:01.024604+00:00,b'`C\n\x91',22.758624120512188,38.577,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+389580,2020-10-30 16:04:14.833943+00:00,b'`\xed\xc1\x18',104.0767493200619,9.241,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+389768,2020-10-30 12:24:00.917138+00:00,b'`C\n\x91',22.949652627553817,31.582,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+390191,2020-10-31 00:24:00.821604+00:00,b'`C\n\x91',22.880086505181943,30.147,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+390402,2020-10-31 12:24:00.561843+00:00,b'`C\n\x91',23.18464778522128,25.336,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+393428,2020-11-04 20:47:35.480516+00:00,b'&\x07\xfb\x90;0\xc1\xc9\x91\xff\x11\xcaO\x1e\xc5%',0.3404050376567796,120.001,Braintree,42.2125,-70.9961,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
+394933,2020-11-06 17:26:05.570739+00:00,b'\xad0\x17\xdc',150.7789004721045,9.501,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+395759,2020-11-07 17:10:44.457376+00:00,b'\xad0\x1e\x80',59.61028082023908,12.542,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+395821,2020-11-07 17:10:11.595423+00:00,b'\xad0\x1e\x80',51.59913158066776,13.505,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+397926,2020-11-10 01:22:37.141014+00:00,b'bn\xde\x8d',117.97107929697692,12.83,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398053,2020-11-10 01:20:01.609073+00:00,b'bn\xde\x8d',112.5887142366346,13.903,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398279,2020-11-11 01:11:22.466275+00:00,"b'\xad0""\x0b'",41.24419321879845,23.915,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398631,2020-11-11 01:12:39.832596+00:00,"b'\xad0""\x0b'",61.35042347201588,14.631,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398726,2020-11-11 01:13:19.022869+00:00,"b'\xad0""\x0b'",67.14436494035725,14.219,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+401026,2020-11-14 13:23:09.736960+00:00,b'bn\xfc\xe9',110.45544156670844,15.101,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+401305,2020-11-14 13:23:57.143268+00:00,b'bn\xfc\xe9',84.41506164567774,12.212,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+403991,2020-11-18 01:13:56.353801+00:00,b'G\xb8~]',58.73416100799051,19.629,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+404933,2020-11-19 01:00:44.145311+00:00,b'\x18\xe9W\x97',22.58594884293356,24.835,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+404964,2020-11-19 17:17:22.626630+00:00,b'\x18\xe9H\xc9',8.726446867222922,25.14,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+405498,2020-11-20 20:52:56.286877+00:00,b'd\x001\xb2',90.32944766204324,10.001,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+405603,2020-11-20 20:55:02.141444+00:00,b'd\x001\xb2',90.1208742532988,9.998,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+409337,2020-11-25 20:51:50.183685+00:00,b'bv2\xa9',595.308902841708,7.675,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+409643,2020-11-25 20:52:16.750212+00:00,b'bv2\xa9',488.4317270213097,7.664,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+410000,2020-11-26 01:00:10.045517+00:00,b'bn\xfc\xe9',87.66503277234997,12.47,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+410135,2020-11-26 01:02:16.147943+00:00,b'bv2\xa9',478.4616862149949,7.401,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+410843,2020-11-27 20:36:59.379415+00:00,b'\x18\xe9HH',3.5754196248797623,24.004,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+410999,2020-11-28 20:35:32.283350+00:00,b'I\xeaM\x97',11.66186735156437,13.617,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+413056,2020-11-30 20:54:33.198580+00:00,b'`\xe9t\x1f',11.655477032753168,10.729,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+413363,2020-12-01 20:36:51.131180+00:00,b'\x18\xe9D\xfb',25.63449170288484,26.501,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+414669,2020-12-02 01:28:03.402138+00:00,b'\xad04\xd9',1.9941240064979395,9.573,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+414693,2020-12-02 17:26:04.688835+00:00,b'\x18\xe9UO',28.233611010978446,37.069,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+415097,2020-12-03 20:38:59.036865+00:00,b'\xad0;\xfe',317.6105298735849,16.226,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+417685,2020-12-06 01:16:45.589515+00:00,b'\xad04\xd9',5.572036342046994,13.459,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+418051,2020-12-07 13:18:28.583291+00:00,b'bn\xcaD',41.139704368738826,8.261,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+418093,2020-12-07 13:13:24.886111+00:00,b'bn\xca\x15',43.459979047729966,9.825,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+418274,2020-12-07 13:09:28.119572+00:00,b'bn\xca\x15',39.77055220623146,12.733,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+418296,2020-12-07 13:27:07.071118+00:00,b'2\xe4g\xa2',769.9639142404585,20.618,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+418340,2020-12-07 13:15:59.760816+00:00,b'bn\xca1',39.447706495336845,39.655,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+418342,2020-12-07 13:14:07.778473+00:00,b'bn\xca\x15',35.12023583897976,9.321,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+418562,2020-12-07 13:18:52.240498+00:00,b'bn\xcaD',33.93503623315848,8.817,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+419458,2020-12-08 17:00:11.692890+00:00,b'\xad0\x1f\x0e',91.006007412277,9.996,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+421930,2020-12-11 01:11:05.036632+00:00,b'\xad0\x1aQ',84.99325031058893,19.534,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+422265,2020-12-12 17:26:28.575886+00:00,b'\x18\xe9F\xd0',30.08294712977584,33.961,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+422527,2020-12-12 17:29:23.741755+00:00,b'\x18\xe9F\xd0',27.83135175200004,24.652,Braintree,42.2125,-70.9961,32220.0,ASN-BELD - Braintree Electric Light Dept.
+424051,2020-12-14 01:29:31.581377+00:00,b'`\xe9?R',21.21569889861546,12.529,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+428235,2020-12-20 20:59:08.472886+00:00,b'&\x030\x05P\xad@\x00\xd0\x18\x80.k)\x89\xe0',34.3245225997271,23.447,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+431156,2020-12-24 01:28:08.941573+00:00,b'`\xed\xc1a',53.05051594164508,11.164,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+431391,2020-12-24 01:26:56.065440+00:00,b'`\xed\xc1a',50.09231602178457,16.699,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
