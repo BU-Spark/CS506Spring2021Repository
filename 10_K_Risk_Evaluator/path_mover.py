@@ -54,8 +54,30 @@ def file_paths(year):
     for company in holdings:
         company_path = Path(base_path + company)
         company_10ks = list(company_path.glob('**/*.html'))
+<<<<<<< HEAD
         print(company)
         path_list.append(company_10ks[index])
+=======
+        #2019 only
+        if str(company_10ks[0])[75] == '1':
+            paths_19.append(str(company_10ks[0]))
+        if len(company_10ks) > 1:
+
+            #2020
+            if str(company_10ks[0])[75] == '2':
+                paths_20.append(str(company_10ks[0]))
+            #2019
+            if str(company_10ks[1])[75] == '1':
+                paths_19.append(str(company_10ks[1]))
+
+        
+    #import pdb;pdb.set_trace()  
+    year = str(year)
+    if year == '2019':
+        return paths_19
+    else:
+        return paths_20
+>>>>>>>  working on structure data branch
 
     import pdb;pdb.set_trace()
     return path_list[index]
