@@ -34,18 +34,18 @@ Many cities such as [Melbourne](https://www.planning.vic.gov.au/__data/assets/pd
 		<th>Completed</th>
 	</tr>
 	<tr>
-		<td><a href='deliverable0'>Deliverable 0</a></td>
+		<td><a href='deliverables/deliverable0'>Deliverable 0</a></td>
 		<td>March 02, 2021 <em>(revised)</em></td>
 		<td>Yes</td>
 	</tr>
 	<tr>
-		<td>Deliverable 1</td>
+		<td><a href='deliverables/deliverable1'>Deliverable 1</a></td>
 		<td>March 08, 2021 <em>(revised)</em></td>
-		<td>No</td>
+		<td>Yes</td>
 	</tr>
 	<tr>
 		<td>Deliverable 2</td>
-		<td>March 22, 2021</td>
+		<td>March 24, 2021</td>
 		<td>No</td>
 	</tr>
 	<tr>
