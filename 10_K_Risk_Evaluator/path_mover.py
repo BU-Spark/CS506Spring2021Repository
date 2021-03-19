@@ -53,15 +53,15 @@ def file_paths(year):
         company_10ks = list(company_path.glob('**/*.html'))
         #2019 only
         if str(company_10ks[0])[75] == '1':
-            paths_19.append(company_10ks[0])
+            paths_19.append(str(company_10ks[0]))
         if len(company_10ks) > 1:
 
             #2020
             if str(company_10ks[0])[75] == '2':
-                paths_20.append(company_10ks[0])
+                paths_20.append(str(company_10ks[0]))
             #2019
             if str(company_10ks[1])[75] == '1':
-                paths_19.append(company_10ks[1])
+                paths_19.append(str(company_10ks[1]))
 
         
     #import pdb;pdb.set_trace()  

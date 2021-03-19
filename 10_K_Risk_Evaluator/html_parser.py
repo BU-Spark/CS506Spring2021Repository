@@ -7,9 +7,9 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
-# from nltk.stem.snowball import SnowballStemmer
+from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import regexp_tokenize
-nltk.download('wordnet')
+#nltk.download('wordnet')
 
 
 def import_data(html_file):
@@ -101,9 +101,27 @@ def clean_strings(input_list):
     temp = [x for x in temp if not (x.isdigit())]
     cleaned_list = [x for x in temp if len(x) > 1]
 
-def main(path):
+def main_path(path):
     tree = import_data(str(path))  # Import html file
-    return cleaned_list
+    
+    # Specify a set of words that are unique to the boundaries of a section
+    start_terms = ['ITEM', '1A.', 'RISK', 'FACTORS']
+    end_terms = ['ITEM', '1B.', 'UNRESOLVED', 'STAFF', 'COMMENTS']
+
+    risk_text = grab_section_text(tree, start_terms, end_terms)
+    import pdb; pdb.set_trace()
+    risk_text = clean_strings(risk_text)
+    
+    # print(risk_text)
+    # print(len(risk_text))
+
+    cleaned_list = []
+    all_text = []
+    all_text.append(risk_text)
+    #cleaned_list.append(all_text)
+
+
+    return all_text
 
 
 def main():
