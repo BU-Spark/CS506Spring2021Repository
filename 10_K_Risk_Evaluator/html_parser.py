@@ -83,23 +83,27 @@ def clean_strings(input_list):
 
     # Tokenize strings (i.e., break sentences down into a list of tokens)
     temp = ' '.join(input_list)  # Join elements in list into single string
-    temp = regexp_tokenize(temp, "[\w']+")  # Use a regex to split words
+    #temp = regexp_tokenize(temp, "[\w']+")  # Use a regex to split words
 
     # Lemmatization (i.e., grouping together any inflected forms of a word)
-    lemmatizer = WordNetLemmatizer()
-    temp = [lemmatizer.lemmatize(word) for word in temp]
+    # lemmatizer = WordNetLemmatizer()
+    # temp = [lemmatizer.lemmatize(word) for word in temp]
 
     # Uncomment to see how the lemmatization class works
     # for w in temp:
     #     print(w, " : ", lemmatizer.lemmatize(w))
 
     # Removing information-poor stopwords (e.g., 'in', 'the' 'to', etc.)
-    stop_words = stopwords.words('english')
-    temp = [w for w in temp if w not in stop_words]
+    # stop_words = stopwords.words('english')
+    # temp = [w for w in temp if w not in stop_words]
 
-    # Remove digit-value and single-character strings from text
-    temp = [x for x in temp if not (x.isdigit())]
-    cleaned_list = [x for x in temp if len(x) > 1]
+    # # Remove digit-value and single-character strings from text
+    # temp = [x for x in temp if not (x.isdigit())]
+    # cleaned_list = [x for x in temp if len(x) > 1]
+
+    return temp
+
+
 
 def main_path(path):
     tree = import_data(str(path))  # Import html file
@@ -109,9 +113,8 @@ def main_path(path):
     end_terms = ['ITEM', '1B.', 'UNRESOLVED', 'STAFF', 'COMMENTS']
 
     risk_text = grab_section_text(tree, start_terms, end_terms)
-    import pdb; pdb.set_trace()
     risk_text = clean_strings(risk_text)
-    
+    #import pdb; pdb.set_trace()
     # print(risk_text)
     # print(len(risk_text))
 
@@ -121,7 +124,7 @@ def main_path(path):
     #cleaned_list.append(all_text)
 
 
-    return all_text
+    return risk_text
 
 
 def main():

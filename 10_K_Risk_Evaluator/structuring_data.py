@@ -16,6 +16,7 @@
 6. Write to csv 
 
 ''' 
+
 from pathlib import Path
 import pandas as pd
 from html_parser import *
@@ -44,5 +45,28 @@ for p20 in Paths_2020:
 #2019
 Risk_2019 = []
 
-for x in Paths_2019[:10]:
-    Risk_2019.append(main_path(Path(x)))
+for x in Paths_2019:
+    Risk_2019.append(main_path((x)))
+
+
+#2020
+
+Risk_2020 = []
+
+for x2 in Paths_2020:
+    Risk_2020.append(main_path(x2))
+
+
+#converting to Dictionary
+
+Dict_2019 = dict(zip(Ticker_2019,Risk_2019))
+Dict_2020 = dict(zip(Ticker_2020,Risk_2020))
+
+
+DF_2019 = pd.DataFrame.from_dict(Dict_2019,orient= 'index', columns= ['Risk Text'])
+DF_2020 = pd.DataFrame.from_dict(Dict_2020, orient= 'index', columns = ['Risk Text'])
+
+#write to csv
+
+DF_2019.to_csv('10k_2019.csv')
+DF_2020.to_csv('10k_2020.csv')
