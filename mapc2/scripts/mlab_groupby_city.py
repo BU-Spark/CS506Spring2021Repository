@@ -1,12 +1,14 @@
 import pandas as pd
 import numpy as np 
 
-mapc = pd.read_csv('../data/mapc_municipalities.csv')
+# mapc = pd.read_csv('../data/mapc_municipalities.csv')
+mapc = pd.read_csv('../data/tabular_datakeys_muni351.csv')
+
 
 filepath = '../data/mlab_2020_with_provider_name.csv' # 'mapc2\data\mlab_2020_with_provider_name.csv'
 mLab = pd.read_csv(filepath)
 
-writepath = '../data/mlab_2020_by_city/'
+writepath = '../data/mlab_2020_by_city/other-region/'
 
 def data_to_csv(data, value):
     print('Converting ' + value + ' data to csv')
@@ -19,6 +21,8 @@ def group_data_by_value(df, fieldname, value):
 
 def _get_all_fieldValues(df, field):
     unique = df[field].unique()
+    print(len(unique))
+    unique = pd.Series(unique)
     return unique
 
 def group_data_by_field(df, field):
@@ -37,9 +41,24 @@ def match_data_by_field(df, field, match_df, match_field):
         else:
             print(value)
 
+def _setdiff_match_data_by_field(df, field, match_df, match_field):
+    unmatch = _get_all_fieldValues(match_df, match_field)
+    all = _get_all_fieldValues(df, field)
+    setdiff = all[~all.isin(unmatch)]
+    print(len(setdiff))
+    print(setdiff)
+    for value in all:
+        if type(value) == str:
+            if value not in unmatch:
+                # group_data_by_value(df, field, value)
+                pass
+        else:
+            print(value)
+
 # group_data_by_field(mLab, 'City')
 # group_data_by_value(mapc, 'region', 'MAPC')
-match_data_by_field(mLab, 'City', mapc, 'municipal')
+# match_data_by_field(mLab, 'City', mapc, 'municipal')
+_setdiff_match_data_by_field(mLab, 'City', mapc, 'municipal')
 
 
 # print(mapc['muni_upper'].value_counts())
