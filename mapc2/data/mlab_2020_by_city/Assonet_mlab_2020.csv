@@ -1,3 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-222782,2020-06-24 16:04:32.441526+00:00,b'2\xe1\x99\xea',14.27364451352508,16.923,Assonet,41.7975,-71.0607,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-233578,2020-06-30 19:39:47.326248+00:00,b'\xad\t\x1ei',1.9397823136901224,24.757,Assonet,41.7975,-71.0607,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

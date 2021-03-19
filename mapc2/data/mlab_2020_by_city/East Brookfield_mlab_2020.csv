@@ -1,8 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-2379,2020-01-03 17:16:40.273112+00:00,b'&\x00ldB\x7f\xa6\xb7I\xb8\xd5e\x0f\xc9i\xc5',4.447098455138301,25.62,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications
-26712,2020-01-30 01:08:36.240528+00:00,b'&\x00ldB\x7f\x9e\xcf\x1fJ\x94\x9d\x0bY+\xaa',7.21640227743815,20.574,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications
-37581,2020-02-12 17:23:03.323915+00:00,b'&\x00ldB\x7f\xbf\x1780\xc79\x8d\xbb\x90\x97',1.4316213189035008,28.462,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications
-48899,2020-02-25 20:30:51.513737+00:00,b'/\x0e\x17\xf9',10.663968731505506,26.822,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications
-67129,2020-03-16 16:05:16.396356+00:00,b'&\x00ldB\x7f\xf5\xdcDd\xff\xe8#\xdds\xda',6.480151832059322,41.396,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications
-67449,2020-03-16 16:06:52.055503+00:00,b'&\x00ldB\x7f\xf5\xdcDd\xff\xe8#\xdds\xda',15.044532630848964,26.392,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications
-68392,2020-03-16 16:02:02.519622+00:00,b'&\x00ldB\x7f\xf5\xdcDd\xff\xe8#\xdds\xda',23.933758619049524,26.903,East Brookfield,42.2193,-72.0481,20115.0,CHARTER-NET-HKY-NC - Charter Communications

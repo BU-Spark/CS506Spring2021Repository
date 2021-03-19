@@ -1,9 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-5466,2020-01-07 20:32:10.081272+00:00,b'2N\x1e\xd1',3.37702717467573,21.22,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-5627,2020-01-07 20:32:05.858537+00:00,b'2N\x1e\xd1',37.8984175854462,24.711,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-5809,2020-01-07 20:32:33.962576+00:00,b'2N\x1e\xd1',40.45289681328288,21.854,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-5854,2020-01-07 20:31:16.650329+00:00,b'2N\x1e\xd1',4.086986896727219,45.512,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-5904,2020-01-07 20:33:07.862280+00:00,b'2N\x1e\xd1',4.596266196471495,28.178,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-6049,2020-01-07 20:31:03.864135+00:00,b'2N\x1e\xd1',4.63565331168189,30.058,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-39273,2020-02-13 17:28:22.312052+00:00,b'2N\x1e\xa9',5.789252679505682,18.474,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-51768,2020-02-28 13:18:06.576035+00:00,b'2N\x1e\xd1',12.6574440788905,22.46,North Chatham,41.703,-69.9666,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

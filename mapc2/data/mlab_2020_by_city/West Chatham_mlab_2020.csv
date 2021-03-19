@@ -1,3 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-265481,2020-07-18 12:05:20.789612+00:00,b'&\x01\x01\x94\x82\x7f\x8a\xc0\x1ddj\xe1rs\xba\x1e',4.337175808043504,23.443,West Chatham,41.6812,-69.9911,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-266329,2020-07-18 12:04:33.652683+00:00,b'&\x01\x01\x94\x82\x7f\x8a\xc0\x81\xb5\x01\xc8T8\xb6\x1b',4.554594562215294,19.557,West Chatham,41.6812,-69.9911,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

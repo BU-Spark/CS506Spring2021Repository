@@ -1,30 +1,32 @@
 import pandas as pd
 import numpy as np 
 
+mapc = pd.read_csv('../data/tabular_datakeys_muni351.csv')
+
 filepath = '../data/mlab_2020_with_provider_name.csv' # 'mapc2\data\mlab_2020_with_provider_name.csv'
 mLab = pd.read_csv(filepath)
 
 writepath = '../data/mlab_2020_by_city/'
 
-def city_to_csv(city_data, city):
+def data_to_csv(data, city):
     print('Converting ' + city + ' data to csv')
-    city_data.to_csv(writepath + city + '_mlab_2020.csv', index=False)
+    data.to_csv(writepath + city + '_mlab_2020.csv', index=False)
 
-def group_data_by_city(df, city):
-    city_data = df[df['City'] == city]
+def group_data_by_field(df, fieldname, value):
+    data = df[df[fieldname] == value]
     # print(city_data.columns)
-    city_to_csv(city_data, city)
+    data_to_csv(data, value)
 
-def _get_all_cities(df):
-    cities = df.City.unique()
-    return cities
+def _get_all_fieldValues(df, field):
+    unique = df[field].unique()
+    return unique
 
-def group_data(df):
-    cities = _get_all_cities(df)
+def groupby_field(df, field):
+    unique = _get_all_fieldValues(df, field)
     # print(cities)
-    for city in cities:
-        if type(city) == str:
-            group_data_by_city(df, city)
+    for value in unique:
+        if type(value) == str:
+            group_data_by_field(df, city)
         else:
             print(city)
 

@@ -1,3 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-254458,2020-07-12 12:16:44.314073+00:00,b'2\xec\xbcr',44.89587934634085,18.566,Barnstable,41.6646,-70.3452,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-267594,2020-07-19 19:33:29.377805+00:00,b'2\xec\xbcr',551.8309004639364,11.457,Barnstable,41.6646,-70.3452,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

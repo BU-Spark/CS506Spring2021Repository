@@ -1,9 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-58608,2020-03-07 16:02:03.117966+00:00,b'2\xceF\x9e',100.7641804461125,8.142,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-77805,2020-03-22 19:57:27.415381+00:00,b'2\xceF\x9e',16.899153745722643,7.907,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-84827,2020-03-26 12:21:23.473757+00:00,b'2\xceF\x9e',87.89205791920246,8.233,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-85634,2020-03-26 12:20:22.718920+00:00,b'2\xceF\x9e',2.802395734400537,8.828,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-85793,2020-03-26 12:06:29.109002+00:00,b'2\xceF\x9e',91.97273668702296,9.509,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-96256,2020-04-02 12:26:47.274661+00:00,b'2\xceF\x9e',4.700426552555565,7.28,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-96510,2020-04-02 12:28:12.552654+00:00,b'2\xceF\x9e',15.8868458999023,8.022,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-97052,2020-04-02 12:28:36.802443+00:00,b'2\xceF\x9e',11.817946030700174,8.721,Prides Crossing,42.5613,-70.8281,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

@@ -1,5 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-54196,2020-03-02 00:19:51.831888+00:00,b'\xb8>\xbd\x82',2.071985769646309,44.842,New Braintree,42.3235,-72.1316,7155.0,WB-DEN2 - Viasat Communications Inc.
-78051,2020-03-22 00:28:47.613781+00:00,b'\xb8>\xbd\x82',0.3959476664319804,31.902,New Braintree,42.3235,-72.1316,7155.0,WB-DEN2 - Viasat Communications Inc.
-85760,2020-03-26 00:11:22.333045+00:00,b'\xb8>\xbd\x82',0.913366080387684,30.077,New Braintree,42.3235,-72.1316,7155.0,WB-DEN2 - Viasat Communications Inc.
-390715,2020-10-31 12:07:46.414256+00:00,b' \x01\x05\xb0E\xdc\xf4x\x14\xc3z\xff\xfe\x93\xc5*',1.8929518437748616,60.489,New Braintree,42.3235,-72.1316,6621.0,HNS-DIRECPC - Hughes Network Systems

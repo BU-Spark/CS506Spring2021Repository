@@ -1,4 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-199291,2020-06-10 16:00:17.527217+00:00,b'2\xfa;\x9d',0.2414563747051712,35.942,Attleboro Falls,41.9726,-71.3082,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-200634,2020-06-10 16:00:22.191554+00:00,b'2\xfa;\x9d',25.117496437844743,27.038,Attleboro Falls,41.9726,-71.3082,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-425919,2020-12-16 13:10:13.423130+00:00,b'\xad\t\x1c!',26.549857945333795,18.709,Attleboro Falls,41.9726,-71.3082,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

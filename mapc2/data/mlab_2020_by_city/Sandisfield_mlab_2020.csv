@@ -1,6 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-222971,2020-06-24 16:15:26.861530+00:00,b'HF\xf68',0.6944295623936066,41.387,Sandisfield,42.1094,-73.1163,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-393804,2020-11-05 13:07:02.043054+00:00,b'`\xe9\xa5\x91',0.2611846669770635,160.423,Sandisfield,42.1094,-73.1163,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-393907,2020-11-05 13:29:47.623866+00:00,b'`\xe9\xa5\x14',0.3353267905169183,45.588,Sandisfield,42.1094,-73.1163,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-394558,2020-11-05 13:05:59.776523+00:00,b'`\xe9\xa5\x91',0.176787877257642,2089.0,Sandisfield,42.1094,-73.1163,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-400723,2020-11-13 20:50:41.510893+00:00,b'`\xf0\xe2\xc6',0.6842774751965817,132.065,Sandisfield,42.1094,-73.1163,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

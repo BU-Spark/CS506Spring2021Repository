@@ -1,3 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-13607,2020-01-16 13:26:56.311640+00:00,b'2\xff\x95\x19',12.08530901211261,18.243,Whately,42.4427,-72.6525,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-62864,2020-03-12 16:00:54.381712+00:00,b'&\x030\x05\x10\xe9\x00\x00\xa4\x92\xc1\xef\xbc\x94h\x1b',9.190479284714993,20.026,Whately,42.4427,-72.6525,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
