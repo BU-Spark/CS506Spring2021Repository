@@ -41,7 +41,7 @@ def columnValues(dataframe, columnName):
     return list(set(dataframe[columnName].tolist())) 
 
 def output_data(dataframe,path):
-    dataframe.to_csv(path)
+    dataframe.to_csv(path, index = False)
     return
 
 # df = import_data("../../dataset_ignore/Open_Space.csv")
