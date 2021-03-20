@@ -2,10 +2,21 @@ import pandas as pd
 from pandas import DataFrame
 import difflib
 import re
+import shapefile
+#https://geospatialtraining.com/tutorial-creating-a-pandas-dataframe-from-a-shapefile/
+def read_shapefile(shp_file):
+    sf_shape = shapefile.Reader(shp_file)
+    fields = [x[0] for x in sf_shape.fields][1:]
+    records = [y[:] for y in sf_shape.records()]
+    #records = sf_shape.records()
+    shps = [s.points for s in sf_shape.shapes()]
+    df = pd.DataFrame(columns=fields, data=records)
+    df = df.assign(coords=shps)
+    return df
 
-def import_data(filename):
-    data = pd.read_csv(filename, sep=',', usecols = ['SITE_NAME','OWNERSHIP','DISTRICT','ZonAgg','TypeLong','ACRES','ADDRESS','ShapeSTArea','ShapeSTLength'])
-    return data
+# def import_data(filename):
+#     data = pd.read_csv(filename, sep=',', usecols = ['SITE_NAME','OWNERSHIP','DISTRICT','ZonAgg','TypeLong','ACRES','ADDRESS','ShapeSTArea','ShapeSTLength'])
+#     return data
 
 #https://stackoverflow.com/questions/61858903/remove-duplicate-approximate-word-matching-using-fuzzy-python
 def similarity_replace(series):
@@ -33,7 +44,12 @@ def output_data(dataframe,path):
     dataframe.to_csv(path)
     return
 
-df = import_data("../../dataset_ignore/Open_Space.csv")
+# df = import_data("../../dataset_ignore/Open_Space.csv")
+
+df = read_shapefile("../../dataset_ignore/Open_Space/Open_Space.shp")
+print(df.columns)
+df = df[['SITE_NAME','ADDRESS','coords','TypeLong','ACRES']]
+print("df is \n",df.head())
 df['TypeLong'] = similarity_replace(df.TypeLong)
 df=df.sort_values(by=['ACRES'], ascending=False)
 print('Types are: ', columnValues(df,'TypeLong'))
