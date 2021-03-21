@@ -1,0 +1,27 @@
+# What have I worked on?
+
+- Exploring ways to access companies 10-k Financial Documents
+- Developed a function to bulk download all 10-k financial documents from IBB index (2019 and 2020)
+- Explored methods to pipe local downloaded files into html parser function
+- developed function to link locally downloaded 10-k html documents into our html parser function
+- Developed a script to run our html parser function through each 10k document for 2019 and 2020 and write to csv
+
+
+
+# What will I be working on next?
+
+- updating html parser function
+- working with csv files to explore clustering options
+- clustering research
+
+
+# Have I run into any issues? Do I need help?
+
+- this will depend on if we get clustering to work
+- if clustering works well we will base our analysis on clustering
+- if not we will have to adjust and explore supervised learning methods 
+
+
+# Have I talked to the client recently? When are we meeting with them next?
+
+- we had our first meething with Yifu and have a weekly time slot allocated along with group meetings 
