@@ -122,5 +122,8 @@ venv.bak/
 .vscode/
 .idea/
 
-# Data folder
+# data files
 *.csv
+*.numbers
+*.xls
+*.xlsx
