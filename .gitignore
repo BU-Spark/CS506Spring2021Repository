@@ -123,4 +123,4 @@ venv.bak/
 .idea/
 
 # Data folder
-data/
+*.csv
