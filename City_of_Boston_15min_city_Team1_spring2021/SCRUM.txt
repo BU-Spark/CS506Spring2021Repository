@@ -11,3 +11,7 @@ We are still waiting for datasets on green space from the client.
 In next step, we will try to visualize the data we already have. 
 We still need to know the exact definition of a "parcel" and we are trying to know more about Google map API, which may be useful later. 
 We are supposed to meet the client and PM again next week.
+
+Week 3:
+We are currently working on the parcel dataset and open space dataset. 
+We have been discussing efficient algorithms for the final task, and should be able to implement it after meeting of group members on Monday.
