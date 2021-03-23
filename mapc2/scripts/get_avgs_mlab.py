@@ -6,7 +6,7 @@ def run():
 	# print(data.head)
 	# print(data.columns)
 	#.drop(columns=['TestTime',"IP","Latitude",'Longitude','ProviderNumber','ProviderName'])
-	avgs = data.groupby(['City','ProviderName']).mean().drop(columns=['Unnamed: 0','Latitude'  ,'Longitude' ,'ProviderNumber'])
+	avgs = data.groupby(['City','ProviderName']).mean().drop(columns=['Latitude'  ,'Longitude' ,'ProviderNumber'])
 	# print(avgs.head)
 	# print(avgs[:5])
 	avgs.to_csv('../data/mlab_avg_groupings_2020.csv')
