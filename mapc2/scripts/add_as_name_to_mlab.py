@@ -21,4 +21,4 @@ mlab_df = pd.read_csv(args.mlab_data)
 
 # Add mapped AS name to mlab data
 df = pd.merge(mlab_df, as_df, on='ProviderNumber', how='left') # left outer join, preseves all input
-df.to_csv(args.output_file)
+df.to_csv(args.output_file, index=False)

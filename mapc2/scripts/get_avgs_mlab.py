@@ -1,7 +1,7 @@
 import pandas as pd 
 
 def run():
-	data = pd.read_csv('../data/mlab_2020_with_provider_name.csv')
+	data = pd.read_csv('../data/mlab_2020.csv')
 	# print(data.size)
 	# print(data.head)
 	# print(data.columns)

@@ -5,7 +5,7 @@ import numpy as np
 mapc = pd.read_csv('../data/tabular_datakeys_muni351.csv')
 
 
-filepath = '../data/mlab_2020_with_provider_name.csv' # 'mapc2\data\mlab_2020_with_provider_name.csv'
+filepath = '../data/mlab_2020.csv' # 'mapc2\data\mlab_2020.csv'
 mLab = pd.read_csv(filepath)
 
 writepath = '../data/mlab_2020_by_city/other-region/'
