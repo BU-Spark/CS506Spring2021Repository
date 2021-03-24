@@ -86,6 +86,8 @@ Now, the schema has changed slightly, as such:
 
 Note now that instead of being labeled with the County, this data point is now labeled with municipality. 
 
+<div class="page-break"></div>
+
 ## Ookla Geographical Density
 
 Since Ookla data is constructed with tiles labeled with geographical information, we were able to produce density maps showing where in the state the measurements were collected. Here is that map:
@@ -277,8 +279,38 @@ This file is one of the primary outcome of this deliverable, and it contains ave
 
 ## Steps Towards Deliverable 3
 
-TODO
+In our most recent client meeting, which took place on Friday, March 19th, 2021, we established a clear goal for the next deliverable. This section describes what that goal is, and the steps we are planning to take to complete the requirement.
+
+MAPC is particularly interested in a scatter plot which charts the average Mbps per city, against the median household income in that city. This chart should be indicative; is there a relationship between income and broadband speeds, and if so, what does that relationship look like? Are there patterns that emerge within the data, and are there identifiable aspects of the data that can be extracted for policy purposes?
+
+One of the primary outcomes of the next deliverable will be to produce this graph. Notably, we will likely produce the following graphs specifically:
+
+- A scatter plot of MLAB data, where each data point corresponds to a single municipality. As there are 101 municipalities within MAPC's purview, this chart will have 101 data points. Each data point is a tuple of average broadband speed in megabits-per-second, with the median household income in that municipality 
+- A similar scatter plot of Ookla download speed data
+- A simialr scatter plot of Oookla upload speed data
+
+We may possibly produce similar such charts for each provider, although it is not clear if this is currently something that MAPC desires. Further, each of these plots will be for the year 2020, and given time, will produce further plots for years before 2020 as well.
+
+##### Data Sets
+
+In addition to the Ookla and MLAB data sets, we will also need income data. We will obtain this information from the census, which can be found here: https://datacommon.mapc.org/browser/datasets/194
+
+##### Procedural Steps
+
+In order to produce this chart, we will first need to obtain the income data as listed in the previous section, and organize it appropriately. We will also likely need to do some cleaning and preprocessing of the data, in order to be able to easily work with it. Finally, once the data is cleaned and organized appropriately, producing these charts will be simple.
 
 ## Summary
 
-TODO
+In this deliverable, we progressed with the state of both the Ookla data and the MLAB data. We labeled the Ookla data with municipality information, and we labeled the MLAB data with provider information. For each of the data sets, we ran a series of statistical analyses in order to better understand the data contained. Finally, for the MLAB data, we produced csv files for each municipality, and the average broadband speeds for each provider in each municipality.
+
+##### Checklist
+
+-  Collect and pre-process a secondary batch of data
+  - Data for this project was previously collected in deliverable 1. However, we have continued to refine and filter the initial data sets, and have the scripts in place to easily produce similar datasets for years prior to 2020.
+-  Refine the preliminary analysis of the data performed in PD1
+  - As described, we have further processed each of the Ookla and MLAB datasets, labeled them appropriately, and produced sub-datasets on a per municipality level. We have also identified the data set that we will need to continue forwards with this work. 
+-  Answer another key question
+  - We have identified the average megabits per second broadband speed per municipality per provider in the MLAB data. We have also identified the municipalities with fastest average download speeds in the Ookla data.
+-  Refine project scope and list of limitations with data and potential risks of achieving project goal
+  - We have clearly described the next desired outcome with MAPC for the next deliverable, and described the steps required to achieve this goal.
+-  Submit a PR with the above report and modifications to original proposal
