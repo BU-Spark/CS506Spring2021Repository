@@ -96,6 +96,68 @@ The vertical axis is latitude, and the horizontal axis is longitude.
 
 From the scatter plot of the location of each data point, we can see that the data around Boston area and Springfield area are denser than average, and there are only a few data points in rural areas.
 
+## Ookla Basic Statistics
+
+##### Top 25 Cities with Fastest Average Download Speed
+
+| City             | Average Download Speed, Kbps |
+| ---------------- | ---------------------------- |
+| West Bridgewater | 205943.28276                 |
+| Montgomery       | 205546.3                     |
+| Bridgewater      | 199698.68388                 |
+| Gardner          | 197069.1943                  |
+| East Bridgewater | 191234.58481                 |
+| Whitman          | 187003.88316                 |
+| Ware             | 185472.76952                 |
+| Erving           | 184774.20513                 |
+| Everett          | 184351.24286                 |
+| Dracut           | 183783.50973                 |
+| Palmer           | 182919.57853                 |
+| Ashby            | 181227.69079                 |
+| Revere           | 180672.46409                 |
+| Peabody          | 179239.06                    |
+| Haverhill        | 178558.80971                 |
+| Lowell           | 177470.17117                 |
+| Norton           | 176841.28748                 |
+| Chelsea          | 175945.49351                 |
+| Fall River       | 175309.47971                 |
+| Monson           | 174890.07237                 |
+| Milton           | 174573.90667                 |
+| Groveland        | 174141.37981                 |
+| Westminster      | 173648.61179                 |
+| Boston           | 173572.17082                 |
+| Middleborough    | 172813.69739                 |
+
+##### Cities with the Most Average Number of Devices
+
+| City         | Average Number of Devices |
+| ------------ | ------------------------- |
+| Somerville   | 24.791                    |
+| Cambridge    | 21.39189                  |
+| Brookline    | 18.10905                  |
+| Boston       | 16.2856                   |
+| Malden       | 15.30633                  |
+| Everett      | 15.03333                  |
+| Chelsea      | 14.59091                  |
+| Watertown    | 13.70169                  |
+| Medford      | 11.64208                  |
+| Arlington    | 11.12895                  |
+| Revere       | 10.8232                   |
+| Quincy       | 10.56224                  |
+| Belmont      | 10.22945                  |
+| Newton       | 9.78877                   |
+| Lawrence     | 9.05793                   |
+| Lowell       | 7.88031                   |
+| Provincetown | 7.71429                   |
+| Waltham      | 7.36449                   |
+| Melrose      | 7.34375                   |
+| Winthrop     | 7.25373                   |
+| Lynn         | 7.14741                   |
+| Winchester   | 7.04709                   |
+| Swampscott   | 6.73604                   |
+| Salem        | 6.61962                   |
+| Worcester    | 6.52941                   |
+
 ## Labeling MLAB Data
 
 Unlike the Ookla data, the MLAB data was already labeled with municipality, and thus the step of labeling each data point by municipality was unnecessary. The MLAB data was also labeled with "ASNumber," which refers to the number assigned to the Autonomous System which controlled the newtork via which each speed test was conducted. Unfortunately, the data did not come with the name of the organization that operates each Autonomous System, and therefore it became necessary to map each of these numbers to a well defined organization.
@@ -115,27 +177,73 @@ With the MLAB data labeled with providers, we computed a number of decsriptive s
 - mode MeanThroughputMbps: 0    11.8
 - Standard Deviation MeanThroughputMbps: 91.66
 
+##### Top 5 Fastest Providers on Average, with at least 1,000 Measurements
 
+| Provider Name                                                | Average Mbps |
+| ------------------------------------------------------------ | ------------ |
+| HGE-NET - Holyoke Gas & Electric Department                  | 192.128319   |
+| UUNET - MCI Communications Services, Inc. d/b/a Verizon Business | 134.443643   |
+| LIGHTOWER Lightower Fiber Networks (LIGHT-141)               | 82.131921    |
+| ASN-QWEST-US NOVARTIS-DMZ-US                                 | 49.514844    |
+| ALKERMES - ALKERMES INCORPORATED                             | 23.363405    |
 
-##### Fastest and Slowest Providers, with at least 50 measurements
+##### Botton 5 Slowest Providers on Average, with at least 1,000 Measurements
 
-Top 5 fastest providers on average
+| Provider Name                                         | Average Mbps |
+| ----------------------------------------------------- | ------------ |
+| SPCS - Sprint Personal Communications Systems         | 2.376271     |
+| CELLCO - Cellco Partnership DBA Verizon Wireless      | 5.019919     |
+| ASN-SHREWS - Shrewsbury Electric and Cable Operations | 6.070376     |
+| T-MOBILE-AS21928 - T-Mobile USA, Inc.                 | 8.656454     |
+| RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC  | 9.678461     |
 
-- TWRS-MA - Towerstream I, Inc.: 215.38 Mbps
-- NMSU-AS - Checs-net: 206.89 Mbps
-- HGE-NET - Holyoke Gas & Electric Department: 192.12 Mbps
-- BIGLEAF - Bigleaf Networks LLC: 165.77 Mbps
-- NORTHEASTERN-GW-AS - Northeastern University: 155.48 Mbps
+##### Counts of Measurements per Provider, with at least 1,000 Measurements
 
-Botton 5 slowest providers on average
+| ProviderName                                                 | Measurement Count |
+| ------------------------------------------------------------ | ----------------- |
+| COMCAST-7922 - Comcast Cable Communications, Inc.            | 182906            |
+| UUNET - MCI Communications Services, Inc. d/b/a Verizon Business | 89356             |
+| ALKERMES - ALKERMES INCORPORATED                             | 68790             |
+| CHARTER-NET-HKY-NC - Charter Communications                  | 21136             |
+| RCN-AS - RCN                                                 | 15222             |
+| ASN-QWEST-US NOVARTIS-DMZ-US                                 | 12355             |
+| CELLCO - Cellco Partnership DBA Verizon Wireless             | 6878              |
+| T-MOBILE-AS21928 - T-Mobile USA, Inc.                        | 6453              |
+| RR-NYSREGION-ASN-01 - Time Warner Cable Interne...           | 6096              |
+| SPCS - Sprint Personal Communications Systems                | 3502              |
+| ASN-SHREWS - Shrewsbury Electric and Cable Oper...           | 2579              |
+| LIGHTOWER Lightower Fiber Networks (LIGHT-141)               | 1369              |
+| HGE-NET - Holyoke Gas & Electric Department                  | 1130              |
 
-- WB-DEN2 - Viasat Communications Inc.: 0.847753 Mbps
-- OSRAM-SYLVANIA - OSRAM SYLVANIA INC: 1.562037  Mbps
-- HNS-DIRECPC - Hughes Network Systems: 1.835326  Mbps
-- SPCS - Sprint Personal Communications Systems: 2.376271 Mbps
-- WIVALLEY - WiValley, Inc.: 2.506452 Mbps
+##### Top 25 Cities by Measurement Count
 
-
+| City            | Measurement Count |
+| --------------- | ----------------- |
+| Needham         | 34697             |
+| Boston          | 23807             |
+| Somerville      | 15488             |
+| Bedford         | 14515             |
+| Ashland         | 13688             |
+| Cambridge       | 11789             |
+| Devens          | 9150              |
+| Worcester       | 7709              |
+| Springfield     | 7146              |
+| Acton           | 6645              |
+| Dorchester      | 6479              |
+| Watertown       | 6094              |
+| Brighton        | 5325              |
+| Arlington       | 5212              |
+| Brookline       | 5135              |
+| Concord         | 5022              |
+| Newton Center   | 4791              |
+| Wellesley Hills | 4639              |
+| Lexington       | 4532              |
+| Lowell          | 4415              |
+| Quincy          | 4402              |
+| Waltham         | 4274              |
+| Milton          | 4024              |
+| Framingham      | 3870              |
+| Andover         | 3795              |
 
 ## Splitting MLAB Data into Sub-Datasets by Municipality
 
