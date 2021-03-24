@@ -1,27 +1,5 @@
-# dependencies
-/node_modules
-/.pnp
-node_modules/
-.pnp/
-.pnp.js
-
-# testing
-/coverage
-coverage/
-
-# production
-/build
-build/
-
-# misc
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-*.csv
-.idea
+NaturalDisasterProject/.DS_Store
+NaturalDisasterProject/Datasets/.DS_Store
+NaturalDisasterProject/Deliverable_1/.DS_Store
+NaturalDisasterProject/Deliverable_2/.DS_Store
