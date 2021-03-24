@@ -1,1 +1,0 @@
-All code is combines into the one python notebook file, the data from the client is somehwat confidential since it comes directly from isnide the city, but we have included the main takeaways in the pdf.
