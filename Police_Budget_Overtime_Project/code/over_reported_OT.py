@@ -1,3 +1,8 @@
+"""
+Author: Joey Cheng
+Date: 02-26-2021
+"""
+
 # Calculate the difference between reported OT and real work time in minute format
 
 import pandas as pd
@@ -38,7 +43,7 @@ def calculate_over_reported(filePath):
 
 
 if __name__ == '__main__':
-    diff_2015 = calculate_over_reported("../data/Special Events 2015 - present - 2015.csv")
+    diff_2015 = calculate_over_reported("../data/Special-Events-2015.csv")
     diff_2016 = calculate_over_reported("../data/Special Events 2015 - present - 2016.csv")
     diff_2017 = calculate_over_reported("../data/Special Events 2015 - present - 2017.csv")
     diff_2018 = calculate_over_reported("../data/Special Events 2015 - present - 2018.csv")
