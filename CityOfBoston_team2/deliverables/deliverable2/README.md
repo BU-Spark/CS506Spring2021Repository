@@ -1,6 +1,6 @@
 # Deliverable 2: Further Data Analysis
 
-The revised proposal is available as a pdf [here]('d2_revisedProposal.pdf').  For this deliverable, we explored a single category, attempting to answer the following question in depth.
+The revised proposal is available as a pdf [here](d2_revisedProposal.pdf).  For this deliverable, we explored a single category (education), attempting to answer the following question in depth.
 
 ## Key Question Answered with Preliminary Analysis
 
@@ -8,16 +8,21 @@ The revised proposal is available as a pdf [here]('d2_revisedProposal.pdf').  Fo
 	<li>Which areas of the city are underserved in terms of a lack of essential amenities, and which amenities are missing?</li>
 </ol>
 
-Using the schools_sanitized dataset, we were able to identify and visually represent underserved areas using a basemap, pictured below. Areas within 15 minutes are pictured in blue, while underserved areas are shown in red.
+Using the schools_sanitized dataset, we were able to identify and visually represent underserved areas using a basemap, pictured below.  Parcels within 15 minutes of an education amenity are pictured in blue, while underserved parcels are shown in red.
 
 ![Areas underserved with schools](https://github.com/Zayta/CS506Spring2021Repository/blob/master/CityOfBoston_team2/deliverables/deliverable2/figs/underserved_schools.png?raw=true)
+
+## Refined Scope
+
+In a meeting with the client and PM, expectations for the final product were reevaluated.  Creating an app to visualize the final analysis is no longer in the scope of the project.
 
 ## Refined Limitations
 
 ### General Limitations Related to Preprocessing and Initial Analysis
 <ul>
-	<li>As previously mentioned, the bulk of the business and amenities data makes it difficut to be able to categorize manualy. We are looking into algorithms and heuristics that my help simplify this process.</li>
-	<li>There is an inconsistency in the longitude and latitude standards used in the datasets. On some, coordinates are reltive to Boston, while others follow the WGS84 standard. This requires some transformation of these attributes, which we have achieved in code/preprocessing/parcels_cleaning.py</li>
+	<li>As previously mentioned, the bulk of the business and amenities data makes it difficut to be able to categorize manualy. We are looking into algorithms and heuristics that may help simplify this process.</li>
+	<li>There is an inconsistency in the longitude and latitude standards used in the datasets. On some, coordinates are relative to Boston, while others follow the WGS84 standard. This requires some transformation of these attributes, which we have achieved in code/preprocessing/parcels_cleaning.py</li>
+	<li>Latitude and longitude may be difficult to connect to street address, which is the main method by which the 15-minute concept can be understood---people don't walk place to place using longitude and latitude.  Some conversion may have to be done before or after analysis</li>
 </ul>
 
 ### Data-specific Limitations
@@ -33,12 +38,12 @@ Using the schools_sanitized dataset, we were able to identify and visually repre
 			<li>Dataset for farmers.  Clean file saved as <a href='../../datasets_clean/farmers_sanitized.csv'>farmers_sanitized.csv</a>.</li>
 			<li>Dataset for food retailers.  Clean file saved as <a href='../../datasets_clean/food_retailers_sanitized.csv'>food_retailers_sanitized.csv</a>.</li>
 			<li>Dataset for schools.  Clean file saved as <a href='../../datasets_clean/schools_sanitized.csv'>schools_sanitized.csv</a>.</li>
-			<li>Limitations:  MAPC contains a large number of datasets, which must be sorted through to determine usefulness.  Not all datasets contain necessary data.
+			<li>Limitations:  MAPC contains a large number of datasets, which must be sorted through to determine usefulness.  Not all datasets contain necessary data.  Coordinates must be transformed to WGS84 format (schools_sanitized.csv was successfully transformed).
 		</ul></li>
 	<li><a href='https://data.boston.gov/dataset/open-space1'>Greenspace data</a>
 		<ul>
 			<li>A single dataset.  Clean file saved as <a href='../../datasets_clean/open_space_sanitized.csv'>open_space_sanitized.csv</a>.</li>
-			<li>Limitations: The greenspace data lacks longitude and latitude.  This may be a significant problem, because clustering and distance analysis cannot be carried out with street addresses alone.  Units/parcels and amenity type in this data are also unclear.</li>
+			<li>Limitations: The greenspace data lacks longitude and latitude.  This may be a significant problem, because clustering and distance analysis may be difficult to carry out with street addresses alone.  Units/parcels and amenity type in this data are also unclear.</li>
 		</ul></li>
 	<li><a href="https://data.boston.gov/">Analyze Boston - Map and Parcel Data></a>
 		<ul>
