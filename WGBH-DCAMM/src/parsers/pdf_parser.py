@@ -4,6 +4,17 @@ import PyPDF2
 # convert all PDFs in a directory
 import tabula
 
+
+def import_pdf(filename, debug):
+    row_count = 0
+    with open(filename, 'r') as f:
+        pdfReader = PyPDF2.PdfFileReader(f)
+        print(pdfReader.numPages)
+        pageObj = pdfReader.getPage(0)
+        print(pageObj.extractText())
+        f.close()
+
+
 def convert_str(s):
     types = [int, float]
     for t in types:
@@ -13,7 +24,7 @@ def convert_str(s):
             pass
     return str(s).strip('\"')
 
-def batch_transform(data_dir, debug):
+def batch_transform(data_dir):
     tabula.convert_into_by_batch(data_dir, output_format='csv', pages='all')
      # data_dir = "data"
 
@@ -51,3 +62,11 @@ def read_csv(csv_file_path, debug):
                 res.append(row)
             print(res)
         return res
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
