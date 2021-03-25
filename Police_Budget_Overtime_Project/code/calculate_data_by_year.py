@@ -1,3 +1,7 @@
+"""
+Author: Joey Cheng
+Date: 02-26-2021
+"""
 import pandas as pd
 from over_reported_OT import read_special_events_data
 
@@ -8,7 +12,7 @@ def extract_data(column_name, code):
     :param code: the key looking for
     :return: a length 6 list, each element is a dataframe containing that year's data
     """
-    filePaths = ["../data/Special Events 2015 - present - 2015.csv",
+    filePaths = ["../data/Special-Events-2015.csv",
                  "../data/Special Events 2015 - present - 2016.csv",
                  "../data/Special Events 2015 - present - 2017.csv",
                  "../data/Special Events 2015 - present - 2018.csv",
@@ -49,7 +53,7 @@ def calculate_all_average_OT(column_name):
     :return: type dictionary, key is every key in the column and value is the average OT time in list by year
     """
     # Use 2015 data as key
-    original_data = read_special_events_data("../data/Special Events 2015 - present - 2015.csv")
+    original_data = read_special_events_data("../data/Special-Events-2015.csv")
     keys = pd.unique(original_data[column_name])
     res = {}
 
@@ -66,7 +70,7 @@ def calculate_all_sum_OT(column_name):
     :return: type dictionary, key is every key in the column and value is the sum OT time in list by year
     """
     # Use 2015 data as key
-    original_data = read_special_events_data("../data/Special Events 2015 - present - 2015.csv")
+    original_data = read_special_events_data("../data/Special-Events-2015.csv")
     keys = pd.unique(original_data[column_name])
     res = {}
 
