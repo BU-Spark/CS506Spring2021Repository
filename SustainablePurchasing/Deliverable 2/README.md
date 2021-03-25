@@ -4,7 +4,7 @@ More data should have been collected to perform a more thorough analysis of the 
 
 ### Checklist
 
-- [ ] Collect and pre-process a secondary batch of data
+- [x] Collect and pre-process a secondary batch of data
 - [x] Refine the preliminary analysis of the data performed in PD1
 - [x] Answer another key question
 - [x] Refine project scope and list of limitations with data and potential risks of achieving project goal
@@ -13,6 +13,16 @@ More data should have been collected to perform a more thorough analysis of the 
 ### Refine the preliminary analysis
 
 We added two charts for the total waste volume of each material included in K-cup and creamer waste in our code.
+
+### Collect and pre-process a secondary batch of data
+
+- We have collected the packing type, weight and carbon emissions (if possible) for top 10 ground coffee, top 10 coffee creamer and top 10 K-Cup products in quantity from the categories of our previous analysis.
+
+
+- We have collected the total weight, size, weight of toner and carbon emissions (if possible) for top 10 ink cartridge in quantity.
+
+
+- We have received a secondary batch of data about the toner and coffee requests from different BU departments and do some pre-process of the data.
 
 ### Refine project scope
 
