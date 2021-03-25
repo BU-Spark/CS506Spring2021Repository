@@ -1,11 +1,12 @@
 import unittest
 from sys import argv
-from src.parsers.pdf_parser import import_pdf
+from src.parsers.pdf_parser import  read_csv
+
 
 def main(arg):
     debug = False
     print("================================")
-    rows = import_pdf("data/WorkforceUtilizationSummaryReportApril2019.pdf", debug)
+    rows = read_csv("data/WorkforceUtilizationSummaryReportApril2019.pdf", debug)
 
     print("================================")
 
