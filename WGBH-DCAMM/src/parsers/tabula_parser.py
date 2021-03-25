@@ -13,7 +13,7 @@ def convert_reader(pdf_file, outdatadir):
         n = i+1
     
         if n==1:
-            df = read_pdf(pdf_file, encoding='UTF-8', pages=n)
+            df = read_pdf(pdf_file,  java_options=["-Djava.awt.headless=true"],pages=n)
             # df = read_pdf(pdf_file, pandas_options={'header': None, 'error_bad_lines': False}, pages=n)
             index = np.where(df[0].isnull())[0]
             sect = df.iloc[index[0]:index[-1]]

@@ -5,14 +5,15 @@ import PyPDF2
 import tabula
 
 
-def import_pdf(filename, debug):
-    row_count = 0
-    with open(filename, 'r') as f:
+def import_pdf(filename):
+    with open(filename, 'rb') as f:
         pdfReader = PyPDF2.PdfFileReader(f)
         print(pdfReader.numPages)
+        numpages = pdfReader.numPages
         pageObj = pdfReader.getPage(0)
         print(pageObj.extractText())
-        f.close()
+    f.close()
+    return  numpages
 
 
 def convert_str(s):
