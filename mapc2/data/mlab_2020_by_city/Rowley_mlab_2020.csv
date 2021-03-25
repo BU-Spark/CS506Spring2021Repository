@@ -1,0 +1,884 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+71,2020-01-01 13:24:00.299456+00:00,b'D\xa2\xd04',359.96527857786026,8.774,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+288,2020-01-01 01:24:00.467965+00:00,b'D\xa2\xd04',336.1943466173708,7.792,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+809,2020-01-02 13:24:01.411950+00:00,b'D\xa2\xd04',333.0128323642839,8.012,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+1038,2020-01-02 20:56:59.478021+00:00,b'D\xa2\xd0\xa7',452.7656511520918,7.867,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+1297,2020-01-02 01:24:01.595916+00:00,b'D\xa2\xd04',387.8844827683925,7.826,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+1338,2020-01-02 13:01:45.577752+00:00,b'D\xa2\xd0\xa7',415.70613873652144,7.869,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+1959,2020-01-03 13:24:01.410270+00:00,b'D\xa2\xd04',340.94269102569484,8.866,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+2469,2020-01-03 01:08:33.466175+00:00,b'D\xa2\xd0\xa7',453.7759376744011,7.882,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+2484,2020-01-03 01:24:01.541834+00:00,b'D\xa2\xd04',383.74194796559607,7.858,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+2616,2020-01-04 17:06:24.614701+00:00,b'\x8d\x9aR1',81.26096026276664,12.89,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3056,2020-01-04 01:24:01.366378+00:00,b'D\xa2\xd04',400.6120614731244,7.914,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3485,2020-01-04 20:53:19.171148+00:00,b'D\xa2\xd0\xa7',457.7198247173016,7.915,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3507,2020-01-04 13:24:01.309870+00:00,b'D\xa2\xd04',336.9779503318095,8.017,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3617,2020-01-05 13:24:01.357641+00:00,b'D\xa2\xd04',321.1754565432826,7.85,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+3777,2020-01-05 01:24:01.529982+00:00,b'D\xa2\xd04',337.7627926108793,7.772,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+4552,2020-01-06 01:24:01.383386+00:00,b'D\xa2\xd04',385.63066250440414,7.774,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+4574,2020-01-06 17:18:31.093360+00:00,b'\x8d\x9aR1',81.12005066418834,12.167,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+4805,2020-01-06 20:33:33.799654+00:00,b'D\xa2\xd0\xa7',484.7910157668479,7.861,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+4818,2020-01-06 13:24:01.402726+00:00,b'D\xa2\xd04',335.26896877192263,8.869,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+5578,2020-01-07 13:24:01.423368+00:00,b'D\xa2\xd04',354.56934039293213,9.098,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+5753,2020-01-07 01:12:41.327609+00:00,b'D\xa2\xd0\xa7',448.6226322902682,16.645,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6038,2020-01-07 17:25:53.283144+00:00,b'\x8d\x9aR1',81.17998963561702,12.481,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6057,2020-01-07 17:00:35.029333+00:00,b'&\x030\x05<\x92\xc0\x009\xd0\xcc\x07\x17\xa1\x8a\xde',11.942220640356158,23.247,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+6086,2020-01-07 01:24:01.474338+00:00,b'D\xa2\xd04',386.9796194652597,8.625,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6552,2020-01-08 17:26:08.390012+00:00,b'\x8d\x9aR1',51.96363613281548,15.297,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6734,2020-01-08 01:12:50.015915+00:00,b'D\xa2\xd0\xa7',472.114085290253,7.887,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6754,2020-01-08 01:24:01.488153+00:00,b'D\xa2\xd04',306.78370955434707,8.025,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6760,2020-01-08 20:47:48.172368+00:00,b'D\xa2\xd0\xa7',464.168481207145,7.873,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+6785,2020-01-08 13:24:01.322699+00:00,b'D\xa2\xd04',352.955298192534,8.881,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7464,2020-01-09 13:22:15.533812+00:00,b'D\xa2\xd0\xa7',469.31757020574906,8.786,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7614,2020-01-09 20:33:07.396706+00:00,b'D\xa2\xd0\xa7',464.7560566131373,7.875,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7674,2020-01-09 01:24:01.422952+00:00,b'D\xa2\xd04',339.52218727925845,7.749,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7803,2020-01-09 13:24:01.485576+00:00,b'D\xa2\xd04',342.33408831137086,8.866,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+8150,2020-01-10 01:24:01.630530+00:00,b'D\xa2\xd04',371.1254398437696,8.835,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+8201,2020-01-10 13:24:01.522213+00:00,b'D\xa2\xd04',393.9282176171012,7.763,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+8416,2020-01-10 17:14:43.014716+00:00,b'\x8d\x9aR1',81.07030256701803,12.838,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+8752,2020-01-10 20:43:44.076908+00:00,b'D\xa2\xd0\xa7',452.5156943463693,9.979,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9140,2020-01-11 01:24:01.946663+00:00,b'D\xa2\xd04',359.490288355496,7.738,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9213,2020-01-11 20:40:14.485095+00:00,b'D\xa2\xd0\xa7',471.1848173609986,8.923,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9299,2020-01-11 17:21:07.393682+00:00,b'\x8d\x9aR1',81.8392132483842,12.92,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9507,2020-01-11 13:24:01.450360+00:00,b'D\xa2\xd04',296.13029672394447,7.759,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9895,2020-01-12 13:24:01.508126+00:00,b'D\xa2\xd04',289.5017393870096,8.868,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10280,2020-01-12 01:24:01.315089+00:00,b'D\xa2\xd04',334.0134865905119,7.907,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10415,2020-01-12 01:19:10.759062+00:00,b'D\xa2\xd0\xa7',431.36315700750646,14.865,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10688,2020-01-12 17:15:52.658362+00:00,b'\x8d\x9aR1',80.33429509951479,14.855,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10950,2020-01-13 13:10:50.500873+00:00,b'D\xa2\xd0\xa7',467.7803624279512,8.875,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10964,2020-01-13 13:24:01.330075+00:00,b'D\xa2\xd04',342.61284302871354,8.859,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+11013,2020-01-13 01:24:02.093653+00:00,b'D\xa2\xd04',345.4932143352879,7.747,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+11996,2020-01-14 13:24:01.577820+00:00,b'D\xa2\xd04',343.65970636555534,8.986,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+12321,2020-01-14 01:24:01.781517+00:00,b'D\xa2\xd04',342.506571991021,8.763,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+12528,2020-01-14 13:01:50.571410+00:00,b'D\xa2\xd0\xa7',435.5755842302185,7.88,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+12578,2020-01-15 17:11:38.552729+00:00,b'\x8d\x9aR1',81.74579946504942,14.971,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+12665,2020-01-15 13:12:50.738900+00:00,b'D\xa2\xd0\xa7',458.2101180981524,8.994,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+12843,2020-01-15 13:24:01.723111+00:00,b'D\xa2\xd04',383.8696735347042,8.796,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13069,2020-01-15 17:24:43.755345+00:00,b'\x97\xcbo\xaa',364.6688193358066,8.951,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13189,2020-01-15 17:27:13.145672+00:00,b'\x97\xcbo\xaa',89.15457434012067,10.399,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13226,2020-01-15 01:24:01.861124+00:00,b'D\xa2\xd04',371.0667560691336,8.859,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13271,2020-01-15 17:22:36.865376+00:00,b'\x97\xcbo\xaa',109.2756596771118,8.746,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13763,2020-01-16 17:09:39.663717+00:00,b'\x8d\x9aR1',81.72870393560576,12.575,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13796,2020-01-16 20:46:04.532203+00:00,b'D\xa2\xd0\xa7',452.19705383573154,7.869,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13961,2020-01-16 01:24:01.378034+00:00,b'D\xa2\xd04',302.04491342527825,9.011,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13973,2020-01-16 13:24:01.466750+00:00,b'D\xa2\xd04',393.7970326901184,7.755,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14158,2020-01-16 01:05:34.858694+00:00,b'D\xa2\xd0\xa7',448.05958965137336,8.069,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14514,2020-01-17 17:01:32.967090+00:00,b'\x8d\x9aR1',81.45608033020916,15.276,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14927,2020-01-17 01:24:01.441966+00:00,b'D\xa2\xd04',399.6685480378577,7.764,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15044,2020-01-17 13:24:01.465661+00:00,b'D\xa2\xd04',335.69164780366043,8.901,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15048,2020-01-17 01:02:13.455146+00:00,b'D\xa2\xd0\xa7',451.6759902122971,8.879,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15144,2020-01-18 13:03:08.102609+00:00,b'\x97\xcbo\xaa',223.61384818430872,9.212,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15638,2020-01-18 01:24:01.440517+00:00,b'D\xa2\xd04',375.13895745653065,8.859,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15653,2020-01-18 13:24:01.320958+00:00,b'D\xa2\xd04',332.16434207757084,7.669,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15927,2020-01-18 17:17:42.818217+00:00,b'\x8d\x9aR1',81.8226718505301,12.821,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16120,2020-01-19 01:24:01.264528+00:00,b'D\xa2\xd04',360.2575689188204,7.798,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16421,2020-01-19 17:27:46.287321+00:00,b'&\x030\x05<\xbc\x00\x00m\xddQ\xb5\x99r\x95m',5.851144595592632,21.768,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+16561,2020-01-19 17:10:07.197577+00:00,b'\x8d\x9aR1',81.78059320400048,14.668,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16664,2020-01-19 01:20:33.949800+00:00,b'D\xa2\xd0\xa7',461.1201284482972,8.248,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16734,2020-01-19 20:56:05.178814+00:00,b'D\xa2\xd0\xa7',459.5299275260826,7.989,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16834,2020-01-19 13:24:01.403567+00:00,b'D\xa2\xd04',365.23128035967005,7.758,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17190,2020-01-20 01:09:10.351109+00:00,b'D\xa2\xd0\xa7',466.17103212832126,8.36,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17341,2020-01-20 17:22:09.513277+00:00,b'\x8d\x9aR1',81.75310036021813,17.495,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17404,2020-01-20 01:24:01.551597+00:00,b'D\xa2\xd04',332.2845984028334,8.088,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17760,2020-01-20 13:24:01.412243+00:00,b'D\xa2\xd04',385.15729126659295,8.856,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17809,2020-01-21 13:24:01.357394+00:00,b'D\xa2\xd04',363.6507395557592,7.674,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+17910,2020-01-21 01:24:01.764651+00:00,b'D\xa2\xd04',304.93287548279955,7.772,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18316,2020-01-21 01:12:50.911796+00:00,b'D\xa2\xd0\xa7',468.3777021644734,8.481,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18630,2020-01-21 20:35:08.326838+00:00,b'D\xa2\xd0\xa7',455.520621475734,8.128,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18701,2020-01-22 17:20:20.662311+00:00,b'\x8d\x9aR1',81.79313880836483,14.766,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18715,2020-01-22 01:24:01.859031+00:00,b'D\xa2\xd04',333.95202388382205,8.89,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18733,2020-01-22 20:52:18.711132+00:00,b'D\xa2\xd0\xa7',458.2939567563386,7.941,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19061,2020-01-22 20:39:50.362928+00:00,b'\x8d\x9aOl',69.15099683731225,16.934,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19099,2020-01-22 13:24:01.264463+00:00,b'D\xa2\xd04',362.6362760150919,8.807,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19306,2020-01-22 13:14:14.730747+00:00,b'D\xa2\xd0\xa7',457.8774468354279,8.988,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19643,2020-01-23 01:24:01.529286+00:00,b'D\xa2\xd04',331.10077360897054,9.961,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19756,2020-01-23 13:24:01.319640+00:00,b'D\xa2\xd04',350.8298216637557,8.899,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+20093,2020-01-23 01:16:31.943337+00:00,b'D\xa2\xd0\xa7',458.25166651175147,9.87,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+20146,2020-01-23 20:43:22.364574+00:00,b'D\xa2\xd0\xa7',446.0601660464134,8.948,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+20934,2020-01-24 13:24:01.410908+00:00,b'D\xa2\xd04',345.26642397785577,7.765,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21014,2020-01-24 01:21:20.783698+00:00,b'D\xa2\xd0\xa7',444.9895138449507,8.79,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21093,2020-01-24 01:24:01.783347+00:00,b'D\xa2\xd04',338.2900167004464,7.841,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21287,2020-01-24 20:50:30.096947+00:00,b'D\xa2\xd0\xa7',459.00844234050015,7.931,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21668,2020-01-25 13:15:14.714634+00:00,b'D\xa2\xd0\xa7',438.9581237991424,9.019,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21727,2020-01-25 01:24:01.233276+00:00,b'D\xa2\xd04',366.5661639968476,8.855,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22087,2020-01-25 20:48:23.135925+00:00,b'D\xa2\xd0\xa7',462.0203159529527,7.853,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22355,2020-01-25 13:24:01.456321+00:00,b'D\xa2\xd04',349.4181047078669,8.886,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22377,2020-01-25 17:24:31.519507+00:00,b'\x8d\x9aR1',81.73907125958472,12.815,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22512,2020-01-25 01:04:40.835877+00:00,b'D\xa2\xd0\xa7',467.35360215804974,8.483,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22576,2020-01-26 17:18:15.373373+00:00,b'\x8d\x9aR1',81.92018268603188,14.657,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22607,2020-01-26 01:24:01.288763+00:00,b'D\xa2\xd04',384.371114295013,8.75,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22774,2020-01-26 01:21:10.324418+00:00,b'D\xa2\xd0\xa7',456.2179245219816,7.867,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23283,2020-01-26 13:24:01.411797+00:00,b'D\xa2\xd04',335.7055959036417,8.041,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23299,2020-01-26 20:43:40.782787+00:00,b'D\xa2\xd0\xa7',352.2848692004713,8.78,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23527,2020-01-27 01:18:31.116225+00:00,b'G\xf5\xe2\x95',2.62820391946568,11.744,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23872,2020-01-27 01:24:54.740621+00:00,b'G\xf5\xe2\x95',41.5949088472641,26.298,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23875,2020-01-27 17:01:45.888568+00:00,b'\x8d\x9aR1',81.8106978763894,12.507,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24101,2020-01-27 13:24:01.484629+00:00,b'D\xa2\xd04',351.1162142726593,7.85,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24184,2020-01-27 01:24:01.500674+00:00,b'D\xa2\xd04',337.3928094903731,8.87,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24471,2020-01-28 01:18:43.383690+00:00,b'D\xa2\xd0\xa7',448.2618299511696,7.352,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24474,2020-01-28 20:52:50.229295+00:00,b'D\xa2\xd0\xa7',444.7708075065952,7.375,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24498,2020-01-28 17:05:56.728005+00:00,b'\x8d\x9aR1',81.75862617023029,12.887,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24669,2020-01-28 01:24:01.375961+00:00,b'D\xa2\xd04',385.9245936304827,7.778,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+24919,2020-01-28 13:24:01.261782+00:00,b'D\xa2\xd04',341.83706120234257,8.888,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+25316,2020-01-29 01:24:01.490483+00:00,b'D\xa2\xd04',384.6112714024354,7.761,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+25542,2020-01-29 01:24:19.552594+00:00,b'D\xa2\xd1S',21.662234065304165,9.915,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+25633,2020-01-29 13:24:01.436545+00:00,b'D\xa2\xd04',322.4492761475876,7.899,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+25677,2020-01-29 17:25:46.488582+00:00,b'\x8d\x9aR1',81.76649291148179,14.961,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+25923,2020-01-30 01:15:57.918480+00:00,b'D\xa2\xd0\xa7',455.4272132983394,8.499,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+26297,2020-01-30 20:56:46.351234+00:00,b'D\xa2\xd0\xa7',455.2336688982171,8.425,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+26594,2020-01-30 13:24:01.313149+00:00,b'D\xa2\xd04',355.73695464130805,7.749,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+26616,2020-01-30 13:21:43.938658+00:00,b'D\xa2\xd0\xa7',461.61473006444896,7.466,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+26727,2020-01-30 01:24:01.302878+00:00,b'D\xa2\xd04',343.48635345141656,7.804,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+26974,2020-01-31 17:29:36.910816+00:00,b'\x8d\x9aR1',81.7677166297964,12.904,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27079,2020-01-31 13:20:44.080645+00:00,b'D\xa2\xd0\xa7',459.7726635912747,7.399,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27206,2020-01-31 01:24:01.643428+00:00,b'D\xa2\xd04',321.7822738672239,7.87,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27579,2020-01-31 13:24:01.252916+00:00,b'D\xa2\xd04',382.8277061608407,8.855,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27664,2020-02-01 20:33:38.524847+00:00,b'D\xa2\xd0\xa7',456.448132582441,8.497,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27869,2020-02-01 13:24:01.186518+00:00,b'D\xa2\xd04',369.2068513365837,7.743,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+27979,2020-02-01 13:01:44.014106+00:00,b'D\xa2\xd0\xa7',456.035434736172,8.466,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+28198,2020-02-01 01:29:28.851051+00:00,b'D\xa2\xd0\xa7',462.44315258238345,8.249,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+28398,2020-02-01 01:24:01.548456+00:00,b'D\xa2\xd04',389.0070505768597,7.854,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29141,2020-02-02 13:17:44.265050+00:00,b'D\xa2\xd0\xa7',459.4631302841767,7.654,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29160,2020-02-02 01:09:03.401870+00:00,b'D\xa2\xd0\xa7',455.2305976795466,8.615,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29324,2020-02-02 13:24:01.253388+00:00,b'D\xa2\xd04',320.95625654414755,7.806,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29387,2020-02-02 20:49:42.112144+00:00,b'D\xa2\xd0\xa7',458.752791389525,8.645,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29390,2020-02-02 01:24:01.479532+00:00,b'D\xa2\xd04',367.0784535169555,8.866,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29503,2020-02-03 17:22:30.661575+00:00,b'\x8d\x9aR1',81.70484602212333,14.996,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29656,2020-02-03 01:06:52.067697+00:00,b'D\xa2\xd0\xa7',452.1159834410413,8.524,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29687,2020-02-03 01:24:01.528668+00:00,b'D\xa2\xd04',344.0160453426329,7.734,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+29757,2020-02-03 13:24:01.698313+00:00,b'D\xa2\xd04',301.5995984169016,8.833,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30550,2020-02-04 01:24:01.876200+00:00,b'D\xa2\xd04',303.22818545947206,8.883,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30689,2020-02-04 13:07:55.049055+00:00,b'D\xa2\xd0\xa7',456.6621208832163,8.003,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30726,2020-02-04 13:24:01.388360+00:00,b'D\xa2\xd04',339.6640927940549,8.754,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30856,2020-02-04 20:54:53.505284+00:00,b'G\xf5\xe2\x0e',556.927641716093,9.014,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30919,2020-02-04 20:57:33.635069+00:00,b'D\xa2\xd0\xa7',456.5584028677406,10.933,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+31157,2020-02-05 01:17:35.810973+00:00,b'D\xa2\xd0\xa7',451.1944704577288,10.753,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+31716,2020-02-05 13:24:01.339610+00:00,b'\x97\xcbq\x9f',275.6318559633581,7.867,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+32423,2020-02-06 13:24:01.321220+00:00,b'\x97\xcbq\x9f',393.5145139726883,8.896,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+32434,2020-02-06 01:24:01.597358+00:00,b'\x97\xcbq\x9f',340.48429505965123,8.868,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+32781,2020-02-06 17:27:21.101000+00:00,b'\x8d\x9aR1',81.75165974678148,12.481,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+33024,2020-02-07 13:24:01.568619+00:00,b'\x97\xcbq\x9f',391.3796117463138,8.894,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+33068,2020-02-07 01:24:01.283174+00:00,b'\x97\xcbq\x9f',396.3840805643609,8.132,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+33641,2020-02-07 17:21:38.929451+00:00,b'\x8d\x9aR1',81.80329372502152,12.812,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+33879,2020-02-07 20:44:22.315282+00:00,b'D\xa2\xd0\xa7',450.2301679176474,8.159,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+33889,2020-02-08 17:07:25.743222+00:00,b'\x8d\x9aR1',81.70390743378822,12.126,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34227,2020-02-08 13:24:01.214035+00:00,b'\x97\xcbq\x9f',339.0049586016451,7.769,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34245,2020-02-08 01:24:01.384090+00:00,b'\x97\xcbq\x9f',392.637424148473,7.991,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34287,2020-02-08 13:23:54.479862+00:00,b'D\xa2\xd0\xa7',457.0498614320848,8.119,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34384,2020-02-08 20:53:45.404164+00:00,b'D\xa2\xd0\xa7',453.6928291595172,7.996,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34946,2020-02-09 13:24:01.307738+00:00,b'\x97\xcbq\x9f',365.4092905192464,8.297,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34992,2020-02-09 01:09:12.412197+00:00,b'D\xa2\xd0\xa7',457.9899465784238,7.875,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+35113,2020-02-09 01:24:00.324398+00:00,b'\x97\xcbq\x9f',400.4896126904525,9.008,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+35604,2020-02-09 17:16:51.646386+00:00,b'\x8d\x9aR1',81.87028695268485,14.984,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+35878,2020-02-10 20:55:48.758585+00:00,b'D\xa2\xd0\xa7',462.0061580700049,7.749,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+35906,2020-02-10 13:03:54.457867+00:00,b'D\xa2\xd0\xa7',459.8407877571286,8.125,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36188,2020-02-10 01:24:01.604780+00:00,b'\x97\xcbq\x9f',388.9986860785378,8.993,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36426,2020-02-10 01:24:59.358631+00:00,b'D\xa2\xd0\xa7',462.0190526286286,8.153,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36435,2020-02-10 13:24:01.540894+00:00,b'\x97\xcbq\x9f',353.8730436844639,7.756,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36450,2020-02-10 17:07:08.135357+00:00,b'\x8d\x9aR1',81.64823917501832,14.983,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36734,2020-02-11 01:24:01.633205+00:00,b'\x97\xcbq\x9f',382.3857432321822,8.719,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36838,2020-02-11 13:24:01.696121+00:00,b'\x97\xcbq\x9f',377.9967780466348,7.753,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36867,2020-02-11 01:02:44.002850+00:00,b'D\xa2\xd0\xa7',455.44807144926045,8.297,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37293,2020-02-11 20:53:50.751447+00:00,b'D\xa2\xd0\xa7',452.8283047309082,8.259,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37329,2020-02-11 17:26:55.210863+00:00,b'\x8d\x9aR1',81.79325496388364,12.479,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37699,2020-02-12 13:24:01.290558+00:00,b'\x97\xcbq\x9f',416.7050080447625,8.9,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38028,2020-02-12 17:19:41.218205+00:00,b'\x8d\x9aR1',81.9203639854066,12.911,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38364,2020-02-12 01:24:01.431938+00:00,b'\x97\xcbq\x9f',375.15868378286814,7.767,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38366,2020-02-12 17:00:13.787144+00:00,b'D\xa2\xd0\xa7',446.9267248584684,7.975,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38444,2020-02-13 13:24:01.254116+00:00,b'\x97\xcbq\x9f',311.80901968783127,8.9,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38566,2020-02-13 13:15:54.376331+00:00,b'D\xa2\xd0\xa7',466.6426024460776,8.385,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38651,2020-02-13 01:24:01.562888+00:00,b'\x97\xcbq\x9f',307.6243636748507,8.875,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39423,2020-02-14 13:12:54.753569+00:00,b'D\xa2\xd0\xa7',461.5605288295593,8.151,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39472,2020-02-14 01:11:37.384431+00:00,b'D\xa2\xd0\xa7',457.0938153713801,11.409,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39489,2020-02-14 01:24:01.416224+00:00,b'\x97\xcbq\x9f',390.7358878775649,13.336,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39613,2020-02-14 13:24:01.231575+00:00,b'\x97\xcbq\x9f',346.8764818396911,8.851,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39879,2020-02-14 20:48:44.402621+00:00,b'D\xa2\xd0\xa7',455.2346555751572,8.129,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39930,2020-02-14 17:24:05.606774+00:00,b'\x8d\x9aR1',81.7441673257085,14.657,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+40377,2020-02-15 17:10:12.812229+00:00,b'\x8d\x9aR1',81.6518311653971,17.165,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+40388,2020-02-15 13:09:54.369768+00:00,b'D\xa2\xd0\xa7',448.2377429585508,7.629,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+40528,2020-02-15 01:24:01.436296+00:00,b'\x97\xcbq\x9f',373.9963340631708,7.754,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+40694,2020-02-15 13:24:01.363382+00:00,b'\x97\xcbq\x9f',368.1231927885506,8.014,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+40754,2020-02-15 20:56:44.785713+00:00,b'D\xa2\xd0\xa7',451.5044347510744,8.014,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41026,2020-02-16 01:02:09.416709+00:00,b'D\xa2\xd0\xa7',419.44318807390886,8.705,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41072,2020-02-16 13:24:01.270984+00:00,b'\x97\xcbq\x9f',340.83116978530046,7.953,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41179,2020-02-16 01:24:01.240047+00:00,b'\x97\xcbq\x9f',297.2049062515639,9.022,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41491,2020-02-16 20:42:22.911292+00:00,b'D\xa2\xd0\xa7',432.1479272488996,8.236,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41913,2020-02-17 01:24:01.491248+00:00,b'\x97\xcbq\x9f',329.3110015804971,13.534,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42132,2020-02-17 17:00:52.563384+00:00,b'\x8d\x9aR1',81.62027809303687,19.973,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42611,2020-02-17 13:24:01.311047+00:00,b'\x97\xcbq\x9f',379.5810180949495,7.745,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42860,2020-02-18 17:13:55.278284+00:00,b'\x8d\x9aR1',81.70797383944459,12.491,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42902,2020-02-18 13:24:01.493682+00:00,b'\x97\xcbq\x9f',372.6496791360465,8.892,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42971,2020-02-18 13:25:01.705198+00:00,b'D\xa2\xd0\xa7',459.67716158696487,8.148,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+43300,2020-02-18 20:47:03.178664+00:00,b'D\xa2\xd0\xa7',441.4594582864502,8.303,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+43392,2020-02-18 01:24:01.422239+00:00,b'\x97\xcbq\x9f',397.7350184382055,8.7,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+43697,2020-02-19 20:55:59.414491+00:00,b'D\xa2\xd0\xa7',460.06677656332033,7.265,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+43747,2020-02-19 01:24:01.978522+00:00,b'\x97\xcbq\x9f',337.1777035856909,7.933,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+44055,2020-02-19 17:19:57.128611+00:00,b'\x8d\x9aR1',81.87327037235816,12.461,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+44326,2020-02-19 13:24:01.270399+00:00,b'\x97\xcbq\x9f',371.9623601866024,13.374,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+44467,2020-02-20 13:24:01.321058+00:00,b'\x97\xcbq\x9f',352.87975502508,8.898,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+44688,2020-02-20 13:05:01.636504+00:00,b'D\xa2\xd0\xa7',458.1527322738229,9.457,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+44978,2020-02-20 01:24:01.429250+00:00,b'\x97\xcbq\x9f',370.4028016814441,7.867,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+45688,2020-02-21 13:24:03.966110+00:00,b'\x97\xcbq\x9f',359.08559272682254,7.754,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+45716,2020-02-21 17:18:38.229081+00:00,b'\x8d\x9aR1',81.7445489674648,15.316,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+46097,2020-02-21 01:12:46.066335+00:00,b'D\xa2\xd0\xa7',452.08776031016697,8.119,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+46139,2020-02-21 01:24:01.264410+00:00,b'\x97\xcbq\x9f',372.6490371642101,9.154,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+46599,2020-02-22 13:24:01.362817+00:00,b'\x97\xcbq\x9f',374.2194039696347,8.771,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+46632,2020-02-22 20:59:45.919293+00:00,b'D\xa2\xd0\xa7',453.6190598560328,9.098,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+46745,2020-02-22 01:24:01.236528+00:00,b'\x97\xcbq\x9f',383.0569666144246,13.377,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47147,2020-02-23 01:24:01.555903+00:00,b'\x97\xcbq\x9f',328.1490315330344,7.864,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47179,2020-02-23 01:11:44.303415+00:00,b'D\xa2\xd0\xa7',452.93491849028845,7.761,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47402,2020-02-23 13:22:01.532751+00:00,b'D\xa2\xd0\xa7',469.1719441897819,8.077,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47488,2020-02-23 17:15:14.420360+00:00,b'\x97\xcbIs',87.58215736978754,10.989,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47746,2020-02-23 13:24:01.278163+00:00,b'\x97\xcbq\x9f',333.3283298736342,8.106,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47893,2020-02-24 01:10:12.497294+00:00,b'D\xa2\xd0\xa7',450.29086940885486,8.652,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+47901,2020-02-24 13:24:01.386113+00:00,b'\x97\xcbq\x9f',405.5148331064781,13.457,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48208,2020-02-24 17:24:59.827286+00:00,b'\x8d\x9aR1',81.86399603513529,15.058,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48237,2020-02-24 20:59:33.192930+00:00,b'D\xa2\xd0\xa7',458.67984221489615,8.128,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48352,2020-02-24 13:04:01.524523+00:00,b'D\xa2\xd0\xa7',455.4206273618648,8.138,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+48410,2020-02-24 01:24:01.703665+00:00,b'\x97\xcbq\x9f',381.6280505831315,8.544,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49322,2020-02-25 13:24:01.188657+00:00,b'\x97\xcbq\x9f',352.9641497420444,13.354,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49482,2020-02-25 01:24:01.620404+00:00,b'\x97\xcbq\x9f',358.6335257324134,14.552,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49652,2020-02-26 01:17:26.393494+00:00,b'D\xa2\xd0\xa7',436.44603900601055,13.381,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49812,2020-02-26 17:04:49.575982+00:00,b'\x8d\x9aR1',81.6087790405349,20.006,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49851,2020-02-26 13:18:01.632109+00:00,b'D\xa2\xd0\xa7',463.0948056601272,8.179,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+50271,2020-02-26 13:24:01.298895+00:00,b'\x97\xcbq\x9f',327.7446674843554,13.372,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+50287,2020-02-26 01:24:01.435697+00:00,b'\x97\xcbq\x9f',357.7926974259974,8.823,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+50519,2020-02-27 01:18:10.241551+00:00,b'D\xa2\xd0\xa7',456.0470089939268,7.824,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+50686,2020-02-27 13:24:01.206106+00:00,b'\x97\xcbq\x9f',386.2093696375964,8.745,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51043,2020-02-27 17:01:41.463331+00:00,b'\x8d\x9aR1',81.34374828513283,15.353,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51241,2020-02-27 01:24:01.693017+00:00,b'\x97\xcbq\x9f',316.7102626856729,8.872,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51375,2020-02-28 13:28:01.908758+00:00,b'D\xa2\xd0\xa7',468.2942390228984,8.152,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51551,2020-02-28 13:24:01.429557+00:00,b'\x97\xcbq\x9f',358.9406671111274,8.849,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51708,2020-02-28 17:19:39.003827+00:00,b'\x8d\x9aR1',81.6875976913098,12.792,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52013,2020-02-28 01:24:01.707617+00:00,b'\x97\xcbq\x9f',297.1367031982713,13.245,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52309,2020-02-29 13:16:41.884122+00:00,b'D\xa2\xd0\xa7',457.7327442970313,8.252,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52482,2020-02-29 01:10:49.272604+00:00,b'D\xa2\xd0\xa7',457.5033294941927,9.539,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52515,2020-02-29 20:41:11.026873+00:00,b'D\xa2\xd0\xa7',459.12019574768345,8.736,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52842,2020-02-29 01:24:01.188521+00:00,b'\x97\xcbq\x9f',406.37280341716337,9.013,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52872,2020-02-29 13:24:01.149497+00:00,b'\x97\xcbq\x9f',332.099746122309,8.044,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+52882,2020-02-29 17:24:39.401680+00:00,b'\x8d\x9aR1',81.70747645746235,14.727,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+53433,2020-03-01 19:36:51.981603+00:00,b'\x8d\x9aR1',81.69353516836631,15.34,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+53619,2020-03-01 16:04:15.616565+00:00,b'D\xa2\xd0\xa7',463.7477700791849,9.521,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+54938,2020-03-03 16:04:36.215042+00:00,b'D\xa2\xd0\xa7',474.3528294995615,8.017,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+58186,2020-03-07 16:17:09.053265+00:00,b'D\xa2\xd0\xa7',446.3098321199421,8.889,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+58773,2020-03-08 19:52:41.707551+00:00,b'D\xa2\xd0\xa7',435.8685841234173,8.018,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+59258,2020-03-08 12:11:45.903048+00:00,b'D\xa2\xd0\xa7',453.31755484980494,8.119,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+59827,2020-03-09 19:59:16.486326+00:00,b'D\xa2\xd0\xa7',446.9228953092948,9.412,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+60261,2020-03-09 16:18:08.231417+00:00,b'\x8d\x9aR1',81.41889168697753,15.302,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+61114,2020-03-10 00:12:23.870856+00:00,b'D\xa2\xd0\xa7',459.0224280745786,8.0,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+61215,2020-03-10 16:03:16.539769+00:00,b'\x8d\x9aR1',81.66699612917098,15.335,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+62098,2020-03-11 16:25:01.834082+00:00,b'\x8d\x9aR1',81.7901657721766,12.176,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+62641,2020-03-12 12:20:31.286394+00:00,b'D\xa2\xd0\xa7',466.81205378877286,9.482,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63054,2020-03-12 19:53:56.332048+00:00,b'D\xa2\xd0\xa7',450.1475452809132,10.628,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63125,2020-03-12 00:27:16.408565+00:00,b'D\xa2\xd0\xa7',439.778860615384,7.84,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63154,2020-03-12 00:10:00.335745+00:00,b'\x97\xcbq\r',57.86808066390968,14.052,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63403,2020-03-12 16:17:23.186846+00:00,b'\x8d\x9aR1',81.83733684695939,15.27,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+63600,2020-03-13 12:07:31.395901+00:00,b'D\xa2\xd0\xa7',464.14381637426095,8.172,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+64053,2020-03-13 12:04:50.492887+00:00,b'D\xa2\xd0l',236.4635382867446,12.095,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+64909,2020-03-14 12:24:34.539727+00:00,b'\x97\xcbq@',117.09852520781664,8.509,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+65297,2020-03-14 00:20:06.460730+00:00,b'D\xa2\xd0\xa7',452.43998937373874,8.147,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+65300,2020-03-14 19:41:06.640680+00:00,b'D\xa2\xd0\xa7',322.6530673858365,10.761,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+65955,2020-03-15 19:52:09.113837+00:00,b'D\xa2\xd0\xa7',380.1623056940427,9.022,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+68385,2020-03-16 00:28:12.377356+00:00,b'D\xa2\xd0\xa7',450.0864685351144,7.995,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+69151,2020-03-17 00:14:01.383059+00:00,b'D\xa2\xd0\xa7',478.4178843425034,8.445,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+69368,2020-03-17 12:04:23.950176+00:00,b'D\xa2\xd0\xa7',463.6596743021097,8.489,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+69570,2020-03-17 12:10:13.038778+00:00,b'D\xa2\xd0l',38.29345614612878,12.735,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70273,2020-03-17 19:46:05.982384+00:00,b'D\xa2\xd0\xa7',466.0766533255873,9.532,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71121,2020-03-18 12:04:50.374746+00:00,b'D\xa2\xd0l',63.16867071050696,12.859,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71768,2020-03-18 12:27:24.613517+00:00,b'D\xa2\xd0l',0.6572504456264818,10.789,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71860,2020-03-18 16:17:53.723317+00:00,b'\x8d\x9aR1',81.7391255336284,14.909,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+72574,2020-03-19 12:18:23.609318+00:00,b'D\xa2\xd0\xa7',470.8415967977516,8.104,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+72863,2020-03-19 00:16:52.021340+00:00,b'\x97\xcbH\xc2',25.020774628202627,16.136,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+75258,2020-03-20 00:19:08.225012+00:00,b'D\xa2\xd0\xa7',458.6437558814637,9.13,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+75561,2020-03-21 00:02:53.618238+00:00,b'D\xa2\xd0\xa7',448.7471068413239,8.219,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+75671,2020-03-21 16:05:15.045503+00:00,b'\x97\xcbq\xc9',89.51689768854921,12.369,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+76767,2020-03-21 12:15:09.468231+00:00,b'G\xf5\xe2z',9.751600679726224,11.607,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77032,2020-03-22 19:55:19.206308+00:00,b'\x97\xcbH\xc2',25.037102283637985,15.622,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77205,2020-03-22 19:56:28.126772+00:00,b'\x97\xcbH\xc2',7.882329503583911,16.794,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77471,2020-03-22 19:57:35.993803+00:00,b'\x97\xcbH\xc2',24.977013451169395,14.979,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77578,2020-03-22 16:02:39.392708+00:00,b'\x8d\x9aR1',81.79019294255215,12.477,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77888,2020-03-22 12:18:56.987015+00:00,b'D\xa2\xd0\xa7',463.9642296430783,8.118,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77953,2020-03-22 19:55:52.737555+00:00,b'\x97\xcbH\xc2',25.02409159173392,15.831,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+78543,2020-03-23 00:15:52.424311+00:00,b'D\xa2\xd0\xa7',490.2635013421703,9.101,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+78930,2020-03-23 16:03:09.474902+00:00,b'\x97\xcbH\xe2',101.1783429779187,11.016,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80007,2020-03-23 16:20:41.957658+00:00,b'\x8d\x9aR1',81.6690312286079,12.174,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80181,2020-03-24 19:57:48.501265+00:00,b'D\xa2\xd0\xa7',455.79929703177817,9.364,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80340,2020-03-24 19:44:29.917261+00:00,b'\x97\xcbot',156.2717544039281,15.534,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+80422,2020-03-24 00:11:02.098080+00:00,b'D\xa2\xd0\xa7',452.1046758770625,9.124,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+82843,2020-03-25 19:37:21.379714+00:00,"b""\x8d\x9aO'""",5.607755328777551,19.288,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+82938,2020-03-25 19:53:44.186537+00:00,"b""\x8d\x9aO'""",25.52443320029003,25.25,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83102,2020-03-25 19:54:25.447142+00:00,"b""\x8d\x9aO'""",4.733582744865034,29.718,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83141,2020-03-25 19:37:23.768426+00:00,b'D\xa2\xd0\xa7',461.6725875324013,7.875,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83212,2020-03-25 19:35:19.596152+00:00,"b""\x8d\x9aO'""",5.649547522712353,20.241,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83240,2020-03-25 19:41:15.637929+00:00,"b""\x8d\x9aO'""",8.658572533933013,18.604,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83476,2020-03-25 19:56:30.033716+00:00,"b""\x8d\x9aO'""",113.76736489850674,12.783,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+83669,2020-03-25 19:56:01.041621+00:00,"b""\x8d\x9aO'""",114.72248624359524,12.714,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+84094,2020-03-26 16:14:49.092140+00:00,b'\x8d\x9aP(',12.01835604987484,13.401,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+85572,2020-03-26 12:28:18.557006+00:00,b'D\xa2\xd0\xa7',471.3896755686222,8.227,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+86245,2020-03-27 12:17:18.649681+00:00,b'D\xa2\xd0\xa7',468.6665194373752,8.13,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+86569,2020-03-27 00:01:26.109574+00:00,b'D\xa2\xd0\xa7',458.7029256989508,7.937,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+86858,2020-03-27 19:46:47.039148+00:00,b'D\xa2\xd0\xa7',435.2310011846702,8.152,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+87820,2020-03-28 16:03:36.045309+00:00,b'D\xa2\xd1y',46.832120195804784,11.561,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+88295,2020-03-28 00:08:37.210862+00:00,b'D\xa2\xd0\xa7',461.9242001450024,8.126,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+88688,2020-03-28 16:03:08.293943+00:00,b'D\xa2\xd1y',54.341213779259846,9.207,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+90740,2020-03-30 19:33:34.112316+00:00,b'D\xa2\xd0\xa7',450.0104796813061,7.963,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+91575,2020-03-30 00:04:19.416474+00:00,b'D\xa2\xd0\xa7',461.7225541639133,7.721,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+92719,2020-03-31 19:48:19.374792+00:00,b'D\xa2\xd0\xa7',456.91715065984914,9.393,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+92853,2020-03-31 12:10:24.800088+00:00,b'D\xa2\xd0\xa7',458.67009917996273,8.237,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+93107,2020-03-31 16:05:36.026702+00:00,b'\x8d\x9aR1',81.67113729706934,15.024,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+93290,2020-03-31 00:21:27.809612+00:00,b'D\xa2\xd0\xa7',454.262110883842,8.448,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+94987,2020-04-01 12:05:25.652468+00:00,b'D\xa2\xd0\xa7',453.9426732260088,8.135,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96348,2020-04-02 19:44:50.848178+00:00,b'D\xa2\xd0\xa7',458.9366850914487,8.611,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+97733,2020-04-03 19:51:45.599961+00:00,b'D\xa2\xd0\xa7',467.558800166176,7.737,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+98937,2020-04-03 12:06:24.653962+00:00,b'D\xa2\xd0\xa7',459.91795917076826,8.268,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+99166,2020-04-03 00:04:16.483706+00:00,b'D\xa2\xd0\xa7',423.6945984851908,9.63,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+99336,2020-04-04 00:25:38.548989+00:00,b'D\xa2\xd0\xa7',458.8915738597624,8.482,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100361,2020-04-04 19:41:03.941123+00:00,b'D\xa2\xd0\xa7',471.5559450541264,7.742,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100374,2020-04-04 16:13:47.235808+00:00,b'\x97\xcbq\xfc',17.697959000132446,15.066,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100936,2020-04-05 00:24:04.120757+00:00,b'D\xa2\xd0\xa7',448.3182723853403,12.142,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101449,2020-04-05 12:03:47.405118+00:00,b'D\xa2\xd0\xa7',475.9226301442111,8.924,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+102523,2020-04-06 16:17:34.581115+00:00,b'\x8d\x9aR1',81.77294256857616,14.966,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+102610,2020-04-06 19:57:09.602105+00:00,b'D\xa2\xd0\xa7',467.50065345679,8.87,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103433,2020-04-06 00:12:47.241002+00:00,b'\x97\xcbq\xfc',5.9068011962623865,25.543,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103674,2020-04-07 12:13:54.034327+00:00,b'D\xa2\xd1\xec',98.6929283614473,47.559,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103763,2020-04-07 12:22:03.819378+00:00,b'D\xa2\xd1\xec',66.61606439319206,47.411,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103826,2020-04-07 19:34:04.569818+00:00,b'D\xa2\xd0\xa7',375.9096103478848,9.234,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104127,2020-04-07 19:36:05.245717+00:00,b'\x97\xcbH\xe2',155.3029187279861,10.129,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104243,2020-04-07 12:03:07.800308+00:00,b'D\xa2\xd1\xec',206.59214546658364,47.526,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104392,2020-04-07 19:33:56.712616+00:00,b'\x97\xcbH\xe2',436.50787492676665,8.264,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104506,2020-04-07 16:12:58.564975+00:00,b'\x8d\x9aR1',81.76731056970871,15.312,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+104576,2020-04-07 12:01:46.652587+00:00,b'D\xa2\xd1\xec',315.6911219528289,11.204,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105259,2020-04-07 12:28:27.147422+00:00,b'D\xa2\xd1\xec',235.46746751113315,44.394,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105269,2020-04-08 12:21:47.441307+00:00,b'D\xa2\xd0\xa7',461.05734687290766,8.226,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+105779,2020-04-08 00:08:31.491850+00:00,b'D\xa2\xd0\xa7',463.84901438464107,8.436,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+106710,2020-04-08 19:46:00.172938+00:00,b'\x97\xcbq\xa8',174.92130233127716,9.014,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+106737,2020-04-08 19:43:11.541213+00:00,b'D\xa2\xd0\xa7',457.129914064129,8.491,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+107578,2020-04-09 16:20:20.562413+00:00,b'\x8d\x9aR1',81.28073126282051,12.813,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+109678,2020-04-10 00:25:39.564858+00:00,b'D\xa2\xd0\xa7',460.6596553904264,9.552,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110460,2020-04-10 19:56:39.176216+00:00,b'D\xa2\xd0\xa7',455.8793470212596,9.105,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110624,2020-04-10 16:01:52.852203+00:00,b'\x8d\x9aR1',81.80576404555373,12.859,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+110812,2020-04-11 16:22:16.173366+00:00,b'\x8d\x9aR1',81.85658409671419,12.488,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+111110,2020-04-11 12:21:47.329666+00:00,b'D\xa2\xd0\xa7',460.3120007838512,8.144,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+112346,2020-04-12 19:38:03.242448+00:00,b'D\xa2\xd0\xa7',449.5045604937476,31.648,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+112981,2020-04-12 00:14:53.793891+00:00,b'D\xa2\xd0\xa7',457.11716152656896,8.2,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113798,2020-04-13 19:55:24.463061+00:00,b'D\xa2\xd0\xa7',419.1275145855352,8.168,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114473,2020-04-13 16:15:26.366582+00:00,b'\x8d\x9aR1',81.7031512561268,14.706,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114654,2020-04-13 00:04:43.027377+00:00,b'D\xa2\xd0\xa7',307.33504370174154,8.024,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+116322,2020-04-14 00:03:47.899826+00:00,b'D\xa2\xd0\xa7',448.0948403195799,8.365,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+116955,2020-04-15 16:22:23.523779+00:00,b'\x8d\x9aR1',81.72145112991971,12.461,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+117509,2020-04-15 12:06:33.049255+00:00,b'D\xa2\xd0\xa7',462.5927973831678,8.114,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+119660,2020-04-16 00:25:49.952709+00:00,b'D\xa2\xd0\xa7',463.7174873501302,8.263,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+120029,2020-04-17 12:18:33.698874+00:00,b'D\xa2\xd0\xa7',457.5488520089695,8.159,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+120300,2020-04-17 19:57:39.628868+00:00,b'D\xa2\xd0\xa7',453.5008879392508,8.224,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+120900,2020-04-17 00:25:03.216148+00:00,b'D\xa2\xd0\xa7',462.22454140139206,9.113,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+121055,2020-04-17 00:22:33.456723+00:00,b'\x97\xcbI\xc4',84.7860558093309,15.815,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+121345,2020-04-18 16:20:45.112059+00:00,b'\x8d\x9aR1',81.70482690646624,12.844,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+123047,2020-04-19 00:13:04.252626+00:00,b'\x97\xcbH\x18',33.07131001099843,18.755,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+123294,2020-04-19 19:58:17.732695+00:00,b'D\xa2\xd0\xa7',457.46865160888507,8.501,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+124432,2020-04-20 12:20:32.995679+00:00,b'D\xa2\xd0\xa7',460.9721050704681,9.495,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+125323,2020-04-20 16:12:14.184216+00:00,b'\x8d\x9aR1',81.87429507899012,12.503,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+126738,2020-04-21 19:38:09.383868+00:00,b'\x97\xcbo(',126.55882008076888,9.102,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+127056,2020-04-21 19:30:35.345732+00:00,b'D\xa2\xd0\xa7',453.3857724801756,7.308,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+127343,2020-04-21 19:37:00.628588+00:00,b'\x97\xcbo(',2.7011624228855284,54.516,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+128792,2020-04-22 00:02:53.971824+00:00,b'D\xa2\xd0\xa7',465.8823166700606,8.236,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+129237,2020-04-22 12:02:00.755382+00:00,b'D\xa2\xd0\xa7',463.04123764599296,8.866,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+130467,2020-04-23 16:16:46.645433+00:00,b'\x8d\x9aR1',81.63973233418108,15.002,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+131321,2020-04-24 19:41:52.153346+00:00,b'D\xa2\xd0\xa7',447.40303716232586,10.9,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+132848,2020-04-25 19:53:20.127482+00:00,b'D\xa2\xd0\xa7',330.3780044515787,8.11,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+133230,2020-04-25 12:14:44.492317+00:00,b'D\xa2\xd0\xa7',464.20313826287816,8.863,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+133931,2020-04-25 16:28:27.968933+00:00,b'\x8d\x9aR1',81.51364913466928,14.684,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+136500,2020-04-27 12:26:44.586313+00:00,b'D\xa2\xd0\xa7',468.1563594735112,8.203,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+136552,2020-04-27 16:09:53.984642+00:00,b'\x8d\x9aR1',81.77513743300935,14.986,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+137074,2020-04-28 16:28:42.101864+00:00,b'\x97\xcbq\x0c',42.54253050026421,17.593,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+137364,2020-04-28 16:20:51.271494+00:00,b'\x8d\x9aR1',81.7147200460363,15.037,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+137431,2020-04-28 16:09:00.797402+00:00,b'G\xf5\xe2\xae',637.4332978632057,8.418,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+138124,2020-04-28 00:23:52.337797+00:00,b'D\xa2\xd0\xa7',458.1712070547616,9.443,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+138817,2020-04-29 00:28:03.707642+00:00,b'D\xa2\xd0\xa7',423.62945621404975,8.224,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140330,2020-04-30 19:41:34.853032+00:00,b'G\xf5\xe2\xf0',78.64864587142962,9.009,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140368,2020-04-30 19:32:22.213034+00:00,b'D\xa2\xd0\xa7',458.472446138858,8.273,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+140529,2020-04-30 16:09:31.364136+00:00,b'\x8d\x9aR1',81.76802448105266,14.65,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141791,2020-04-30 12:10:07.510857+00:00,b'D\xa2\xd0\xa7',456.20492043524894,8.142,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+141847,2020-04-30 00:29:22.005594+00:00,b'D\xa2\xd0\xa7',464.242313480107,10.376,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+142040,2020-05-01 12:08:07.187258+00:00,b'D\xa2\xd0\xa7',458.0823870931181,8.895,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+142419,2020-05-01 16:11:46.898324+00:00,b'2\xc9\x8d\x9c',214.74964021224,2.081,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+142517,2020-05-01 19:34:10.747380+00:00,b'D\xa2\xd0\xa7',464.6358339988375,8.773,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+142969,2020-05-01 00:20:22.025609+00:00,b'D\xa2\xd0\xa7',455.8248675669773,9.228,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+143848,2020-05-02 16:11:46.802346+00:00,b'2\xc9\x8d\x9c',213.0719538214752,2.042,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+144314,2020-05-02 00:28:35.257726+00:00,b'D\xa2\xd0\xa7',438.1428510474816,8.457,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+145934,2020-05-03 16:28:43.018933+00:00,b'\x8d\x9aP)',13.9766683255567,9.489,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+147164,2020-05-04 00:08:54.187056+00:00,b'D\xa2\xd0\xa7',452.90056428274846,8.024,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+147511,2020-05-04 16:29:41.012968+00:00,b'\x8d\x9aR1',81.74523519042593,12.819,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+147705,2020-05-05 16:11:46.835186+00:00,b'2\xc9\x8d\x9c',212.62085322484336,2.544,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+147789,2020-05-05 00:02:11.161742+00:00,b'D\xa2\xd0\xa7',456.5597427647517,8.752,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+147956,2020-05-05 12:06:07.184492+00:00,b'D\xa2\xd0\xa7',472.55459625778855,8.694,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+148357,2020-05-05 19:36:30.132838+00:00,b'G\xf5\xe2\x9e',55.56730211437034,19.149,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+149517,2020-05-06 16:11:46.714478+00:00,b'2\xc9\x8d\x9c',209.71555082922052,2.897,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+150975,2020-05-07 12:24:47.973845+00:00,b'D\xa2\xd0\xa7',484.7344659434936,10.22,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+151111,2020-05-07 16:02:21.026069+00:00,b'\x8d\x9aR1',81.70909069247892,12.525,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+152630,2020-05-08 00:05:59.879438+00:00,b'D\xa2\xd0\xa7',450.75270079475473,8.881,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+153765,2020-05-09 16:06:42.607097+00:00,b'\x8d\x9aR1',82.46621544547936,12.549,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+153790,2020-05-09 16:11:46.846280+00:00,b'2\xc9\x8d\x9c',213.9358478400693,2.889,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+154246,2020-05-09 00:18:41.737121+00:00,b'D\xa2\xd0\xa7',449.50985983804617,9.897,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+154718,2020-05-09 19:37:55.097224+00:00,b'D\xa2\xd0\xa7',448.9346093738055,9.382,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+155605,2020-05-10 16:11:46.813849+00:00,b'2\xc9\x8d\x9c',147.83958848531648,2.511,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+156517,2020-05-11 16:25:54.166386+00:00,b'\x8d\x9aR1',82.36898761953199,15.004,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+156780,2020-05-11 16:11:47.019009+00:00,b'2\xc9\x8d\x9c',92.39808561511984,72.469,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+157538,2020-05-11 00:17:04.258574+00:00,b'\x97\xcbo\xfd',39.86933038034953,12.592,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+157647,2020-05-11 19:58:25.584140+00:00,b'D\xa2\xd0\xa7',458.7232561423587,8.882,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+158856,2020-05-12 16:06:11.559781+00:00,b'\x8d\x9aR1',82.13901388412623,15.391,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159001,2020-05-12 00:11:57.743758+00:00,b'D\xa2\xd0\xa7',459.9245207216487,8.868,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159110,2020-05-12 00:26:12.145016+00:00,b'D\xa2\xd1r',106.69149061079152,9.781,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159166,2020-05-12 19:48:23.485775+00:00,b'D\xa2\xd0\xa7',449.2025340114564,11.273,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159619,2020-05-12 12:12:45.389354+00:00,b'D\xa2\xd0\xa7',474.048351022534,7.607,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159674,2020-05-13 19:58:31.002264+00:00,b'D\xa2\xd0\xa7',456.07424048439793,8.893,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+159706,2020-05-13 16:11:47.153465+00:00,b'2\xc9\x8d\x9c',191.85233324834772,66.835,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+159902,2020-05-13 16:00:09.142454+00:00,b'D\xa2\xd0\x03',14.44169691019873,7.984,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+160052,2020-05-13 12:02:46.427119+00:00,b'D\xa2\xd0\xa7',483.4471290982052,8.869,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+162223,2020-05-14 00:13:18.632420+00:00,b'D\xa2\xd0\xa7',422.9688215603888,17.927,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+162578,2020-05-14 16:23:37.537442+00:00,b'\x8d\x9aR1',82.41192019133788,12.13,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+163719,2020-05-15 00:02:24.163672+00:00,b'D\xa2\xd0\xa7',458.121332835129,7.486,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+163748,2020-05-15 12:18:45.343898+00:00,b'D\xa2\xd0\xa7',482.73877453627387,8.747,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+163837,2020-05-15 19:58:05.288758+00:00,b'D\xa2\xd0\xa7',453.932783366438,8.779,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+164330,2020-05-15 16:11:47.323997+00:00,b'2\xc9\x8d\x9c',191.02699653708572,71.881,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+164337,2020-05-15 16:20:01.497512+00:00,b'\x8d\x9aR1',82.37864758133264,15.331,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+164804,2020-05-16 16:11:47.088039+00:00,b'2\xc9\x8d\x9c',204.1571424410673,64.277,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+164869,2020-05-16 16:10:03.859230+00:00,b'\x8d\x9aR1',82.66640513241062,15.064,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+165648,2020-05-17 16:03:43.672459+00:00,b'G\xf5\xe2\xac',55.13388324850527,19.894,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+166111,2020-05-17 19:53:06.104920+00:00,b'D\xa2\xd0\xa7',455.4571668160775,7.377,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+166506,2020-05-17 16:29:38.095703+00:00,b'\x8d\x9aR1',82.0952949890512,12.129,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+166751,2020-05-17 12:25:45.281180+00:00,b'D\xa2\xd0\xa7',480.07156877763737,9.027,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+167321,2020-05-18 00:29:06.215242+00:00,b'D\xa2\xd0\xa7',451.7847206815712,8.626,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+167390,2020-05-18 12:17:45.942477+00:00,b'D\xa2\xd0\xa7',471.2608796960554,7.814,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+167563,2020-05-18 16:11:47.110916+00:00,b'2\xc9\x8d\x9c',219.78125744304563,67.065,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+168882,2020-05-19 00:19:04.358946+00:00,b'D\xa2\xd0\xa7',453.7087583888538,8.637,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+169537,2020-05-19 16:11:47.039813+00:00,b'2\xc9\x8d\x9c',215.94492530912416,64.301,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+169971,2020-05-19 19:37:58.338954+00:00,b'D\xa2\xd0\xa7',451.4058728743346,7.53,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+170546,2020-05-20 12:27:44.395427+00:00,b'D\xa2\xd0\xa7',465.6201241656788,7.34,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+170967,2020-05-20 16:11:47.137695+00:00,b'2\xc9\x8d\x9c',182.0314833662969,69.022,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+170994,2020-05-20 12:14:21.443310+00:00,b'\x97\xcbI\xca',2.594802846097604,8.715,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+171570,2020-05-20 19:43:41.485773+00:00,b'D\xa2\xd0\xa7',399.37152736297816,8.401,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+172088,2020-05-21 19:38:48.116014+00:00,b'D\xa2\xd0\xa7',469.65425227074695,8.722,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+172176,2020-05-21 00:06:53.363530+00:00,b'D\xa2\xd0#',2.3432284903939604,58.947,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+172620,2020-05-21 19:48:01.123073+00:00,b'D\xa2\xd0\x03',522.8592004978457,8.552,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+172841,2020-05-21 16:11:46.980787+00:00,b'2\xc9\x8d\x9c',194.3514704405955,67.038,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+172884,2020-05-21 00:29:44.493639+00:00,b'D\xa2\xd0\xe2',82.27136792847317,17.004,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173286,2020-05-22 00:22:09.704645+00:00,b'\x97\xcbq\xf0',79.94988921336852,27.996,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173374,2020-05-22 16:05:04.831760+00:00,b'\x8d\x9aR1',82.31268821374441,17.346,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173615,2020-05-22 12:19:45.210052+00:00,b'D\xa2\xd0\xa7',472.110598039974,8.372,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173710,2020-05-22 00:23:16.344307+00:00,b'\x97\xcbq\xf0',71.38358315745187,12.449,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173899,2020-05-22 00:20:43.372422+00:00,b'\x97\xcbq\xf0',3.939303734239632,25.974,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173902,2020-05-22 00:19:57.197613+00:00,b'\x97\xcbq\xf0',57.15428439104134,20.288,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+173963,2020-05-22 00:29:24.209003+00:00,b'\x97\xcbq\xf0',92.7283160022118,19.387,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+174008,2020-05-22 00:20:20.069365+00:00,b'\x97\xcbq\xf0',72.48055888899226,15.135,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+174278,2020-05-22 00:21:45.345699+00:00,b'\x97\xcbq\xf0',16.705592995229004,15.504,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+174289,2020-05-22 00:22:33.514534+00:00,b'\x97\xcbq\xf0',95.63787907449188,15.389,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+175203,2020-05-23 16:09:00.416151+00:00,b'\x8d\x9aR1',82.29442101750041,17.51,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+175286,2020-05-23 12:23:45.252787+00:00,b'D\xa2\xd0\xa7',460.5520323332428,8.736,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+175343,2020-05-23 16:11:46.819952+00:00,b'2\xc9\x8d\x9c',226.321180748164,2.794,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+175803,2020-05-23 00:18:36.367052+00:00,b'D\xa2\xd0\xa7',452.56251972073454,8.249,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+175909,2020-05-24 12:12:37.738968+00:00,b'\x97\xcbq\xf0',109.7341306777606,15.52,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+176255,2020-05-24 00:15:32.374865+00:00,b'D\xa2\xd0\xa7',457.7145357795554,9.216,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+176440,2020-05-24 16:07:44.791578+00:00,b'\x8d\x9aR1',82.40303261466384,15.016,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+176480,2020-05-24 16:11:46.913810+00:00,b'2\xc9\x8d\x9c',235.0426343382333,2.124,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+176999,2020-05-24 12:11:09.037384+00:00,b'\x97\xcbq\xf0',113.5857212964936,15.609,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+177047,2020-05-24 12:02:45.236451+00:00,b'D\xa2\xd0\xa7',466.12833876745873,8.753,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+177145,2020-05-25 19:57:38.513505+00:00,b'D\xa2\xd0\xa7',446.06478385563145,10.418,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+177914,2020-05-25 19:33:14.903477+00:00,b'\x97\xcbo\xaa',141.83837375473567,10.608,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178166,2020-05-25 16:11:46.863084+00:00,b'2\xc9\x8d\x9c',232.57816939652145,2.056,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+178573,2020-05-26 16:26:28.485890+00:00,b'\x8d\x9aR1',82.08871484461649,14.997,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178677,2020-05-26 12:27:02.326810+00:00,b'D\xa2\xd1\x96',87.34047502502166,9.747,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+179180,2020-05-26 12:29:05.798980+00:00,b'D\xa2\xd0\xa7',466.3665251471695,9.51,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181269,2020-05-27 16:11:46.935397+00:00,b'2\xc9\x8d\x9c',208.8781521787421,2.119,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+181371,2020-05-28 00:11:53.477480+00:00,b'\x97\xcbo\xb4',1.6536377357562473,12.573,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181485,2020-05-28 12:07:05.778200+00:00,b'D\xa2\xd0\xa7',456.241152828482,8.604,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181764,2020-05-28 00:14:52.228798+00:00,b'\x97\xcbo\xb4',3.33669815054246,14.367,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+182214,2020-05-28 00:10:34.348947+00:00,b'\x97\xcbo\xb4',6.451501501244302,14.185,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+182440,2020-05-28 00:12:45.900482+00:00,b'\x97\xcbo\xb4',7.958046667714814,13.944,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+182460,2020-05-28 19:38:43.948750+00:00,b'D\xa2\xd0\xa7',452.773646100432,8.746,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+182517,2020-05-28 00:13:19.871051+00:00,b'\x97\xcbo\xb4',8.661153714726598,12.528,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+182958,2020-05-29 16:21:54.051335+00:00,b'\x8d\x9aR1',82.52813822526396,15.331,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+183364,2020-05-29 16:11:46.929322+00:00,b'2\xc9\x8d\x9c',234.04367086557647,2.101,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+183441,2020-05-29 00:22:20.956994+00:00,b'D\xa2\xd0\xa7',455.11005025820697,7.881,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+184059,2020-05-29 12:26:05.403240+00:00,b'D\xa2\xd0\xa7',469.39097583180114,9.149,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+184369,2020-05-30 16:29:23.782946+00:00,b'\x8d\x9aR1',82.25584812085444,15.332,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+184986,2020-05-30 19:40:30.293673+00:00,b'D\xa2\xd0\xa7',472.9089277311161,8.857,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+185583,2020-05-30 16:11:46.893562+00:00,b'2\xc9\x8d\x9c',212.22496511065933,2.508,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+185975,2020-05-31 19:32:06.721699+00:00,b'D\xa2\xd0\xa7',462.3653919620163,8.372,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+186087,2020-05-31 16:13:16.440856+00:00,b'\x8d\x9aR1',82.2856761631171,17.188,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+186121,2020-05-31 16:11:46.887031+00:00,b'2\xc9\x8d\x9c',214.282889685029,2.112,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+186410,2020-05-31 16:00:48.786677+00:00,b'D\xa2\xd0\xa7',463.7431842686401,8.918,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+187702,2020-06-01 00:03:05.587497+00:00,b'D\xa2\xd0\xa7',453.48830870543367,8.587,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+187959,2020-06-01 19:40:24.799819+00:00,b'D\xa2\xd0\xa7',454.0115500646436,10.0,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+188889,2020-06-02 16:08:56.445802+00:00,b'\x8d\x9aR1',82.58714646828166,14.635,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+189742,2020-06-03 19:48:28.791025+00:00,b'\x97\xcbo\xf8',6.89634198073346,98.161,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+190465,2020-06-03 00:20:39.811678+00:00,b'D\xa2\xd0\xa7',465.3665484899938,8.787,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+190782,2020-06-03 16:15:50.825121+00:00,b'\x8d\x9aR1',82.1920778785219,16.983,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+191373,2020-06-04 00:07:27.688245+00:00,b'D\xa2\xd0\xa7',378.01505062414566,8.235,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+192882,2020-06-05 00:19:31.048213+00:00,b'D\xa2\xd0\xa7',458.554515621074,7.394,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+193402,2020-06-05 12:26:33.273557+00:00,b'D\xa2\xd0\xa7',466.7571845149493,7.404,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+193505,2020-06-05 19:50:04.804354+00:00,b'D\xa2\xd0\xa7',346.2708001862426,10.263,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+193913,2020-06-05 16:12:16.699512+00:00,b'\x8d\x9aR1',82.46777954469653,14.996,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+194145,2020-06-06 12:02:33.381324+00:00,b'D\xa2\xd0\xa7',472.50154905877656,8.865,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+196631,2020-06-08 12:11:33.484448+00:00,b'D\xa2\xd0\xa7',462.412511890953,7.248,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+196675,2020-06-08 19:58:09.296997+00:00,b'D\xa2\xd0\xa7',479.7062451190434,8.138,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+196804,2020-06-08 00:26:14.563954+00:00,b'D\xa2\xd0\xa7',469.90176261820665,7.544,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+197228,2020-06-08 19:52:38.628055+00:00,b'\x8d\x9aP\xdb',51.56019134188095,17.158,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+197873,2020-06-09 00:14:32.682870+00:00,b'D\xa2\xd0\xa7',458.79799725874886,8.232,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+198981,2020-06-09 19:50:56.425988+00:00,b'D\xa2\xd0\xa7',454.0069934587601,8.906,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+199170,2020-06-09 12:04:33.339613+00:00,b'D\xa2\xd0\xa7',468.79912227972,7.838,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+199266,2020-06-09 16:03:12.821964+00:00,b'\x8d\x9aR1',81.84814562130589,17.652,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+199650,2020-06-10 16:04:23.300868+00:00,b'\x8d\x9aR1',82.22927595379946,12.559,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+199756,2020-06-10 12:22:33.869683+00:00,b'D\xa2\xd0\xa7',468.18326619940393,8.865,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+200777,2020-06-10 00:18:16.145735+00:00,b'D\xa2\xd0\xa7',452.8318531213261,7.371,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201747,2020-06-11 12:04:33.340419+00:00,b'D\xa2\xd0\xa7',409.9086037451103,8.857,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202556,2020-06-12 16:25:02.897735+00:00,b'\x8d\x9aR1',81.97457010189821,12.595,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202650,2020-06-12 00:15:46.343800+00:00,b'D\xa2\xd0\xa7',450.52675149567335,7.61,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+203109,2020-06-12 19:58:14.544407+00:00,b'D\xa2\xd0\xa7',468.1858171932935,8.16,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+203402,2020-06-12 12:20:33.477606+00:00,b'D\xa2\xd0\xa7',456.3266227462527,8.491,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+203479,2020-06-12 16:18:47.402487+00:00,b'G\xf5\xe2\xb9',89.48415759901172,19.63,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204641,2020-06-13 12:11:33.297635+00:00,b'D\xa2\xd0\xa7',472.16855004691854,8.508,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204767,2020-06-13 00:05:21.399817+00:00,b'D\xa2\xd0\xa7',471.88098327674703,8.158,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+205270,2020-06-14 00:19:21.492901+00:00,b'D\xa2\xd0\xa7',474.4954241073346,8.101,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+206176,2020-06-14 19:31:33.854182+00:00,b'D\xa2\xd0\xa7',455.97640683804576,8.498,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+206407,2020-06-15 19:52:37.240399+00:00,b'D\xa2\xd0\xa7',457.53799321002566,8.727,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+206496,2020-06-15 16:22:09.116150+00:00,b'\x8d\x9aR1',82.3946199060863,12.57,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+207729,2020-06-15 12:13:33.701044+00:00,b'D\xa2\xd0\xa7',462.682675691764,9.629,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+208384,2020-06-16 19:39:39.230557+00:00,b'D\xa2\xd0\xa7',459.9026320771912,7.498,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+209367,2020-06-16 16:09:06.887786+00:00,b'\x8d\x9aR1',82.44741954032841,17.202,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+210849,2020-06-17 16:29:08.445081+00:00,b'\x8d\x9aR1',82.33004086478519,14.995,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211064,2020-06-17 00:14:07.321633+00:00,b'D\xa2\xd0\xa7',445.0305800308086,10.275,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211210,2020-06-17 12:16:39.106288+00:00,b'D\xa2\xd0\xa7',456.3284956824085,8.527,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211484,2020-06-18 00:19:55.938463+00:00,b'D\xa2\xd0\xa7',452.3439728311201,8.608,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+213085,2020-06-19 00:05:19.199783+00:00,b'D\xa2\xd0\xa7',446.6361406286601,8.223,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214031,2020-06-19 12:17:37.968755+00:00,b'D\xa2\xd0\xa7',398.762567261878,8.871,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214251,2020-06-19 19:46:27.477132+00:00,b'D\xa2\xd0\xa7',466.80369131172506,8.626,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214630,2020-06-20 16:22:04.588070+00:00,b'G\xf5\xe2~',70.07308040137129,11.0,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+214738,2020-06-20 19:52:19.679431+00:00,b'\x97\xcbo\xb1',606.8275356036132,11.021,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+215189,2020-06-20 16:04:06.294461+00:00,b'\x8d\x9aR1',82.4030476329298,15.265,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+215506,2020-06-20 19:40:27.009442+00:00,b'D\xa2\xd0\xa7',450.4797254818348,8.981,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+215538,2020-06-20 12:25:37.931264+00:00,b'D\xa2\xd0\xa7',460.6783128964847,8.608,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+215952,2020-06-21 19:49:44.774283+00:00,b'D\xa2\xd0\xa7',445.09723851219854,8.624,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+216911,2020-06-21 12:18:41.684405+00:00,b'D\xa2\xd0\xa7',468.4051870804721,7.533,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+217247,2020-06-22 12:14:32.966745+00:00,b'D\xa2\xd0\xa7',459.1852078003345,8.523,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+217268,2020-06-22 00:07:32.952417+00:00,b'D\xa2\xd0\xa7',449.0966562342357,7.875,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+217972,2020-06-22 16:13:31.003191+00:00,b'\x8d\x9aR1',82.12251358472145,15.14,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+219755,2020-06-23 00:25:24.178322+00:00,b'D\xa2\xd0\xa7',454.189594747888,8.607,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220755,2020-06-23 19:44:06.665324+00:00,b'D\xa2\xd0\xa7',454.1370597377543,8.607,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+220986,2020-06-23 12:23:34.373264+00:00,b'D\xa2\xd0\xa7',473.9300185806821,8.771,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221077,2020-06-23 16:13:39.381173+00:00,b'\x8d\x9aR1',82.41254265283405,12.546,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+221551,2020-06-24 19:43:32.597354+00:00,b'2\xe3\xab\x86',76.57202621786108,5.973,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+222368,2020-06-24 19:52:51.099687+00:00,b'D\xa2\xd0\xa7',458.9658097131161,7.937,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+222673,2020-06-24 00:16:22.206037+00:00,b'D\xa2\xd0\xa7',420.00009271304697,7.931,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+223150,2020-06-25 12:05:33.039520+00:00,b'D\xa2\xd0\xa7',464.8816553168478,8.989,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+223676,2020-06-25 19:37:36.530205+00:00,b'D\xa2\xd1r',10.038280308133247,12.996,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+224073,2020-06-25 16:03:20.319299+00:00,b'\x8d\x9aR1',82.2190438211177,12.815,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+224408,2020-06-25 19:57:05.996206+00:00,b'D\xa2\xd0\xa7',477.380354943475,8.753,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+225745,2020-06-26 19:43:25.526067+00:00,b'D\xa2\xd0\xa7',487.2999214921242,7.404,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+226645,2020-06-26 00:26:12.695488+00:00,b'D\xa2\xd0\xa7',453.8222163436004,8.884,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+227092,2020-06-27 16:27:42.417833+00:00,b'\x8d\x9aR1',82.20000104772444,14.648,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+227415,2020-06-27 00:25:45.207184+00:00,b'D\xa2\xd0\xa7',460.218674059347,8.271,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+229070,2020-06-28 16:02:15.676966+00:00,b'\x8d\x9aR1',82.19548351906806,15.362,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+229252,2020-06-28 12:21:34.131756+00:00,b'D\xa2\xd0\xa7',477.84834102626365,8.748,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+229756,2020-06-28 19:53:48.081036+00:00,b'D\xa2\xd0\xa7',460.4702509206376,8.628,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+230377,2020-06-28 00:11:59.922955+00:00,b'D\xa2\xd0\xa7',472.2586073800605,8.507,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+230832,2020-06-29 19:35:33.375825+00:00,b'\x97\xcbH6',273.26417776134457,7.938,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+231577,2020-06-29 12:04:33.139243+00:00,b'D\xa2\xd0\xa7',466.7476804503372,8.747,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+233044,2020-06-30 12:18:33.093401+00:00,b'D\xa2\xd0\xa7',451.6276254485585,7.495,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+233253,2020-06-30 16:07:52.892542+00:00,b'\x8d\x9aR1',82.41506421490179,14.752,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+234271,2020-06-30 00:17:30.288584+00:00,b'D\xa2\xd0\xa7',460.711000571314,8.638,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+234930,2020-07-01 19:52:59.819935+00:00,b'D\xa2\xd0\xa7',456.3648069790386,8.872,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+236057,2020-07-01 16:04:18.713477+00:00,b'\x8d\x9aR1',81.8892096300948,14.643,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237420,2020-07-02 00:01:30.659900+00:00,b'D\xa2\xd0\xa7',451.84832964308725,8.774,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+237807,2020-07-02 19:58:04.739512+00:00,b'D\xa2\xd0\xa7',457.3906599281609,7.878,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+238855,2020-07-03 12:25:06.481741+00:00,b'D\xa2\xd0\xa7',458.7820884311122,7.618,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+239000,2020-07-03 16:01:53.140657+00:00,b'\x8d\x9aR1',82.06556435506204,12.44,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240437,2020-07-04 19:50:58.019183+00:00,b'D\xa2\xd0\xa7',452.28759036572114,8.119,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+241254,2020-07-04 00:05:34.973664+00:00,b'D\xa2\xd0\xa7',455.5315162124056,7.748,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+241509,2020-07-04 16:27:51.690669+00:00,b'\x8d\x9aR1',82.35975804751136,12.81,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+242454,2020-07-05 19:30:46.379813+00:00,b'D\xa2\xd0\xa7',461.0029205532405,7.644,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243381,2020-07-06 00:29:00.153506+00:00,b'D\xa2\xd0\xa7',451.63960714614666,8.884,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+246205,2020-07-07 19:54:20.969597+00:00,b'D\xa2\xd0\xa7',453.6474648284308,8.371,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+246278,2020-07-07 16:04:48.637312+00:00,b'\x8d\x9aR1',82.19649682689027,12.807,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+247940,2020-07-08 19:35:44.628129+00:00,b'D\xa2\xd0\xa7',464.7361083668748,11.223,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+249259,2020-07-09 00:13:12.776887+00:00,b'D\xa2\xd0\xa7',456.89678452300336,10.254,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+251319,2020-07-10 00:18:46.133421+00:00,b'D\xa2\xd0\xa7',465.6723939674883,8.354,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+251346,2020-07-10 19:40:11.389578+00:00,b'D\xa2\xd0\xa7',458.8665612974633,8.759,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+252895,2020-07-11 19:35:23.558503+00:00,b'\x97\xcbq\xfe',17.578034937893793,10.108,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+252902,2020-07-11 19:49:55.202646+00:00,b'\x97\xcbq\xfe',59.08190677600254,9.27,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+252903,2020-07-11 19:37:43.125026+00:00,b'\x97\xcbq\xfe',61.553646030503664,9.37,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+253595,2020-07-11 19:35:54.875091+00:00,b'\x97\xcbq\xfe',42.55259247770513,10.055,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+254119,2020-07-11 12:05:02.144277+00:00,b'D\xa2\xd0\xa7',470.4359799302175,8.702,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+254197,2020-07-11 19:34:21.120060+00:00,b'\x97\xcbq\xfe',12.747786854967698,10.006,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+256819,2020-07-13 12:19:02.442495+00:00,b'D\xa2\xd0\xa7',481.88370514116014,9.112,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+257248,2020-07-13 19:43:21.181546+00:00,b'D\xa2\xd0\xa7',458.6807169889642,8.995,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+258869,2020-07-14 19:55:53.269697+00:00,b'D\xa2\xd0\xa7',311.26126940239567,9.227,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+258888,2020-07-14 12:25:02.037273+00:00,b'D\xa2\xd0\xa7',465.8775495527963,8.852,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259857,2020-07-15 12:03:01.204673+00:00,b'D\xa2\xd0\xa7',466.1229640302855,8.501,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260427,2020-07-15 00:03:30.423142+00:00,b'D\xa2\xd0\xa7',231.4451532748349,9.271,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+262873,2020-07-16 12:26:45.417973+00:00,b'D\xa2\xd0\xa7',471.7662979359619,8.602,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+264952,2020-07-17 16:00:12.351827+00:00,b'D\xa2\xd0\xa7',458.1473846370206,8.531,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+265105,2020-07-17 12:25:51.166992+00:00,b'D\xa2\xd0\xa7',481.20219333615415,8.621,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+266256,2020-07-18 00:18:53.144809+00:00,b'D\xa2\xd0\xa7',465.7318478486172,7.989,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+267321,2020-07-19 00:17:55.861332+00:00,b'D\xa2\xd0\xa7',455.94416692396646,7.644,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+267505,2020-07-19 19:37:26.519798+00:00,b'D\xa2\xd0\xa7',453.78032922305175,8.53,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+267523,2020-07-19 12:17:45.489902+00:00,b'D\xa2\xd0\xa7',436.4422791626397,8.64,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+269094,2020-07-20 19:43:52.893195+00:00,b'\x97\xcbo(',114.35372089372086,8.765,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+269644,2020-07-20 19:53:56.194834+00:00,b'\x97\xcbo(',99.13491976117382,8.775,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+270487,2020-07-21 12:18:25.145700+00:00,b'\x8d\x9aP\x9c',3.010427126675492,10.627,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+271149,2020-07-21 12:16:41.143661+00:00,b'\x8d\x9aP\x9c',12.365877187303967,10.067,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+271212,2020-07-21 19:41:48.680807+00:00,b'D\xa2\xd0\xa7',363.8198943049062,7.88,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+271951,2020-07-21 12:21:32.561029+00:00,b'\x8d\x9aP\x9c',9.734073418072292,11.776,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+273119,2020-07-22 19:35:01.604014+00:00,b'D\xa2\xd0\xa7',304.1084410906826,10.639,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+273441,2020-07-22 12:29:34.957541+00:00,b'D\xa2\xd0\xa7',464.5043030154964,8.729,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+274145,2020-07-23 12:22:35.258480+00:00,b'D\xa2\xd0\xa7',268.2172391926626,10.378,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+274300,2020-07-23 12:15:39.925449+00:00,b'\x8d\x9aP\xb4',27.57714542632919,17.74,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+274678,2020-07-23 12:22:03.169526+00:00,b'\x8d\x9aP\xb4',74.62565949253634,17.354,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+277748,2020-07-24 00:09:09.131935+00:00,b'D\xa2\xd0\xa7',319.70316547647576,8.497,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+278084,2020-07-25 12:07:38.503945+00:00,b'D\xa2\xd0\xa7',379.2709623166725,7.542,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+279168,2020-07-25 19:44:00.862422+00:00,b'D\xa2\xd0\xa7',454.427587709224,8.768,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+279487,2020-07-26 19:46:27.134767+00:00,b'D\xa2\xd0\xa7',441.0116751089009,8.994,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+280586,2020-07-26 12:15:39.356858+00:00,b'D\xa2\xd0\xa7',467.8833395536671,7.612,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+281290,2020-07-27 00:28:51.181693+00:00,b'D\xa2\xd0\xa7',459.22910571181785,8.998,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+282791,2020-07-28 00:26:03.844057+00:00,b'\x97\xcbI\x83',457.730830314277,7.189,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+283344,2020-07-28 12:19:39.306652+00:00,b'D\xa2\xd0\xa7',461.20969785861655,9.037,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+283417,2020-07-28 19:47:56.138230+00:00,b'D\xa2\xd0\xa7',461.5270427831856,8.866,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+284469,2020-07-29 12:03:39.321506+00:00,b'D\xa2\xd0\xa7',473.0001300847866,8.993,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+285993,2020-07-30 19:34:06.567466+00:00,b'D\xa2\xd0\xa7',358.46167491748224,7.576,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+286768,2020-07-30 12:00:39.765713+00:00,b'D\xa2\xd0\xa7',459.59159132914834,7.538,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+288407,2020-07-31 12:29:39.521567+00:00,b'D\xa2\xd0\xa7',467.3454248583989,9.013,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+288490,2020-07-31 00:11:56.599994+00:00,b'D\xa2\xd0\xa7',465.250624893475,8.847,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+288520,2020-07-31 19:51:10.169020+00:00,b'D\xa2\xd0\xa7',463.2802089827831,9.015,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+288569,2020-08-01 00:26:48.523968+00:00,b'D\xa2\xd0\xa7',460.1559076828759,9.245,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+290230,2020-08-02 19:56:33.886009+00:00,b'D\xa2\xd0\xa7',368.54194502893125,8.997,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+290495,2020-08-02 00:24:47.272014+00:00,b'D\xa2\xd0\xa7',420.51792450961375,9.355,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+292027,2020-08-03 12:17:39.288244+00:00,b'D\xa2\xd0\xa7',455.5057426068214,8.977,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+292213,2020-08-03 19:37:56.889965+00:00,b'D\xa2\xd0\xa7',427.6540138458761,7.53,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+292529,2020-08-04 16:15:54.658438+00:00,b'\x8d\x9aR\x8f',559.7671915822027,8.4,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+292860,2020-08-04 19:59:45.489423+00:00,b'D\xa2\xd0\xa7',458.7658187750101,7.562,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+293608,2020-08-04 12:07:30.543078+00:00,b'D\xa2\xd0\xa7',468.6247326564424,7.536,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+293820,2020-08-04 00:11:42.483802+00:00,b'D\xa2\xd0\xa7',461.7689238529839,8.551,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+294311,2020-08-05 00:27:57.264129+00:00,b'D\xa2\xd0\xa7',444.331563573528,7.642,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+295008,2020-08-05 19:52:44.300425+00:00,b'D\xa2\xd0\xa7',447.6144188061869,8.494,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+295143,2020-08-05 12:28:00.953726+00:00,b'D\xa2\xd0\xa7',469.50761302019407,12.005,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+295478,2020-08-06 16:22:47.697550+00:00,b'D\xa2\xd1F',35.222916693265134,12.528,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+295529,2020-08-06 16:22:17.035791+00:00,b'D\xa2\xd1F',32.73249087201312,12.892,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+296001,2020-08-06 19:48:13.992938+00:00,b'D\xa2\xd0\xa7',333.5820054187377,8.114,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+296377,2020-08-06 12:21:00.706319+00:00,b'D\xa2\xd0\xa7',464.7951462046067,7.726,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+297761,2020-08-07 19:57:42.994516+00:00,b'D\xa2\xd0\xa7',447.9187672945538,8.561,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+298235,2020-08-07 16:00:21.999372+00:00,b'D\xa2\xd0\xa7',434.5944054816005,9.104,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+298699,2020-08-08 19:35:12.257128+00:00,b'\x97\xcbo\xaa',170.75564590045775,9.886,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+298842,2020-08-08 19:59:38.570370+00:00,b'D\xa2\xd0\xa7',461.8063064684529,8.754,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+299100,2020-08-08 12:21:19.164453+00:00,b'D\xa2\xd0\xa7',467.2715888143118,7.374,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+299910,2020-08-09 00:13:36.335719+00:00,b'D\xa2\xd0\xa7',450.5067421060126,7.638,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+300379,2020-08-09 19:46:59.118205+00:00,b'D\xa2\xd0\xa7',314.81200655830213,8.866,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+300999,2020-08-10 00:12:48.211818+00:00,b'D\xa2\xd0\xa7',456.1837353538562,7.771,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+301078,2020-08-10 19:48:12.920896+00:00,b'D\xa2\xd0\xa7',476.23129667474416,9.728,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+302291,2020-08-10 12:19:18.942901+00:00,b'D\xa2\xd0\xa7',465.8262466659113,7.65,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+302980,2020-08-11 19:52:14.314696+00:00,b'D\xa2\xd0\xa7',444.7122264827477,9.017,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+303199,2020-08-11 00:05:42.456105+00:00,b'D\xa2\xd0\xa7',462.10536490794016,8.27,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+304464,2020-08-11 12:28:19.109979+00:00,b'D\xa2\xd0\xa7',377.9375924461065,7.627,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+305030,2020-08-12 19:41:32.625088+00:00,b'D\xa2\xd0\xa7',390.77581042899214,7.495,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+309093,2020-08-14 12:06:56.771069+00:00,b'D\xa2\xd0\xa7',474.156824964584,7.974,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+310232,2020-08-15 12:12:50.670203+00:00,b'\x97\xcbq\x16',154.11225822001632,17.255,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+311601,2020-08-16 12:21:33.962060+00:00,b'D\xa2\xd0\xa7',463.4655756919041,8.247,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+312797,2020-08-17 19:46:15.916958+00:00,b'D\xa2\xd0\xa7',420.4438849764095,8.266,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+316149,2020-08-19 19:38:50.279094+00:00,b'D\xa2\xd0\xa7',461.7271842639267,8.261,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+316812,2020-08-20 19:53:44.483070+00:00,b'D\xa2\xd0\xa7',455.6934260572838,8.406,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+317361,2020-08-20 12:20:16.906312+00:00,b'D\xa2\xd0\xa7',468.1210846999359,8.234,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+318859,2020-08-21 19:32:37.296752+00:00,b'D\xa2\xd0\xa7',451.8580700992871,7.882,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+320557,2020-08-22 19:56:24.859362+00:00,b'D\xa2\xd0\xa7',453.8583405569981,7.495,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+321527,2020-08-23 19:30:09.486872+00:00,b'D\xa2\xd0\xa7',414.4314183028737,9.255,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+321757,2020-08-23 00:09:05.854314+00:00,b'D\xa2\xd0\xa7',457.062391150172,8.509,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+321776,2020-08-23 12:20:57.635782+00:00,b'D\xa2\xd0\xa7',467.9143298322096,8.387,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+325205,2020-08-26 19:42:43.239936+00:00,b'D\xa2\xd0\xa7',465.9428066921589,8.83,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+325394,2020-08-26 12:02:19.660281+00:00,b'D\xa2\xd0\xa7',481.22341791938544,8.361,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+325726,2020-08-27 19:56:34.379690+00:00,b'D\xa2\xd0\xa7',466.5775909551448,7.874,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+327481,2020-08-28 19:32:35.510043+00:00,b'D\xa2\xd0\xa7',458.4575190273258,7.517,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+328012,2020-08-28 12:12:14.020588+00:00,b'D\xa2\xd0\xa7',471.1076407666988,8.21,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+328616,2020-08-29 00:07:02.781777+00:00,b'D\xa2\xd0\xa7',435.2752887526509,8.12,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+330156,2020-08-30 12:17:01.586726+00:00,b'D\xa2\xd0\xa7',462.50891913633393,7.464,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+331107,2020-08-31 00:17:21.020660+00:00,b'D\xa2\xd0\xa7',458.2280792455279,9.268,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+331426,2020-08-31 19:40:53.103007+00:00,b'D\xa2\xd0\xa7',463.4207887955112,8.103,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+331818,2020-09-01 19:58:30.874066+00:00,b'`Qlq',28.97258104099632,13.827,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+332493,2020-09-01 19:52:46.954903+00:00,b'D\xa2\xd0\xa7',464.5765747861105,7.976,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+332572,2020-09-01 12:20:38.225664+00:00,b'D\xa2\xd0\xa7',479.7074146876169,8.218,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+333654,2020-09-02 12:25:37.328485+00:00,b'D\xa2\xd0\xa7',405.3246083823267,8.751,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+334706,2020-09-03 00:19:02.580641+00:00,b'D\xa2\xd0\xa7',414.8404597561176,7.659,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+335178,2020-09-03 19:37:50.506405+00:00,b'D\xa2\xd0\xa7',455.4303414030944,8.369,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+336807,2020-09-04 00:06:04.563954+00:00,b'D\xa2\xd0\xa7',452.7056737095776,8.249,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+336817,2020-09-04 12:22:37.449658+00:00,b'D\xa2\xd0\xa7',478.3785793056972,19.494,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+336974,2020-09-05 19:38:06.659555+00:00,b'D\xa2\xd0\xa7',460.173807215212,8.244,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+337686,2020-09-05 00:09:06.309634+00:00,b'D\xa2\xd0\xa7',462.3211379604344,8.007,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+338555,2020-09-06 00:24:41.460489+00:00,b'D\xa2\xd0\xa7',237.17489769030288,9.747,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+338707,2020-09-06 19:52:49.898076+00:00,b'D\xa2\xd0\xa7',474.5149449967328,7.983,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+338874,2020-09-06 12:07:06.816425+00:00,b'D\xa2\xd0\xa7',459.8861179724643,8.32,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+339200,2020-09-07 12:28:06.877980+00:00,b'D\xa2\xd0\xa7',463.82927087140905,8.344,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+339323,2020-09-07 19:34:48.917010+00:00,b'D\xa2\xd0\xa7',414.257406524932,8.619,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+339434,2020-09-07 00:10:45.931551+00:00,b'D\xa2\xd0\xa7',458.7754866234591,9.016,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+340488,2020-09-08 19:59:36.183438+00:00,b'D\xa2\xd0\xa7',450.51581649804194,8.341,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+342097,2020-09-09 00:19:07.575061+00:00,b'D\xa2\xd0\xa7',397.7292136808905,9.706,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+342208,2020-09-09 12:19:24.292944+00:00,b'\x8d\x9aOM',370.2310662507891,8.457,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+343533,2020-09-10 00:27:01.582979+00:00,b'D\xa2\xd0\xa7',382.9075797999383,8.251,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+343597,2020-09-10 19:47:18.174688+00:00,b'D\xa2\xd0\xa7',463.0031941685221,8.654,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+343992,2020-09-11 19:46:21.354229+00:00,b'D\xa2\xd0\xa7',450.5495612664993,7.925,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+344977,2020-09-12 19:55:05.740674+00:00,b'D\xa2\xd0\xa7',458.6789305380705,7.596,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+345175,2020-09-12 00:27:03.600368+00:00,b'D\xa2\xd0\xa7',461.6186918451577,8.495,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+347119,2020-09-14 19:38:54.736816+00:00,b'D\xa2\xd0\xa7',463.2426988583456,7.617,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+347250,2020-09-14 12:27:07.057627+00:00,b'D\xa2\xd0\xa7',469.8105210775832,8.256,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+348643,2020-09-16 19:42:14.548024+00:00,b'D\xa2\xd0\xa7',453.7329345422591,8.401,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+348779,2020-09-16 16:00:15.868385+00:00,b'D\xa2\xd0\xa7',456.7096179376288,8.37,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+348915,2020-09-16 12:23:06.989441+00:00,b'D\xa2\xd0\xa7',459.7914348242693,8.233,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+349333,2020-09-16 00:09:49.216136+00:00,b'D\xa2\xd0\xa7',449.8513962861509,8.121,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+350168,2020-09-17 00:05:18.681691+00:00,b'D\xa2\xd0\xa7',460.92434031512056,8.653,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+350542,2020-09-18 19:42:13.164827+00:00,b'D\xa2\xd0\xa7',301.7839469568424,8.128,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+351630,2020-09-19 12:11:56.738249+00:00,b'D\xa2\xd0\xa7',438.51144223460415,8.125,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+352728,2020-09-20 12:10:56.812228+00:00,b'D\xa2\xd0\xa7',473.43729941200337,8.818,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+352865,2020-09-20 19:36:23.308812+00:00,b'D\xa2\xd0\xa7',471.51671679251103,8.084,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+353513,2020-09-21 12:03:56.918125+00:00,b'D\xa2\xd0\xa7',340.5219660312269,7.662,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+354451,2020-09-22 00:00:55.399218+00:00,b'D\xa2\xd0\xa7',464.7975707701101,8.49,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+354884,2020-09-22 19:55:36.234026+00:00,b'D\xa2\xd0\xa7',449.04265776255136,8.249,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+355349,2020-09-22 12:29:29.353642+00:00,b'D\xa2\xd0\xa7',478.34192050613456,7.347,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+356818,2020-09-24 19:54:22.726979+00:00,b'D\xa2\xd0\xa7',463.3128210824144,9.131,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+357480,2020-09-25 19:32:55.773156+00:00,b'D\xa2\xd0\xa7',460.3771942683806,8.36,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+357648,2020-09-25 12:04:46.697390+00:00,b'D\xa2\xd0\xa7',480.10964773135566,8.363,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+359623,2020-09-27 12:21:13.488620+00:00,b'D\xa2\xd0\xa7',464.7071737413785,8.118,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+360039,2020-09-28 00:14:14.068321+00:00,b'D\xa2\xd0\xa7',464.4291353118281,7.663,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+360847,2020-09-29 19:47:14.292202+00:00,b'D\xa2\xd0\xa7',464.8082242432616,8.371,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+361294,2020-09-29 00:25:38.979730+00:00,b'D\xa2\xd0\xa7',441.07970249627937,7.801,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+363313,2020-10-01 19:46:38.960382+00:00,b'D\xa2\xd0\xa7',455.0365301406537,8.459,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+363464,2020-10-01 12:23:44.093136+00:00,b'D\xa2\xd0\xa7',461.9402510637253,7.744,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+363800,2020-10-02 19:59:55.123782+00:00,b'D\xa2\xd0\xa7',423.93314740779806,7.965,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+364254,2020-10-02 12:18:44.008319+00:00,b'D\xa2\xd0\xa7',483.4083994111434,8.607,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+365031,2020-10-03 12:11:44.031611+00:00,b'D\xa2\xd0\xa7',467.894318244124,8.232,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+366237,2020-10-04 12:24:43.933046+00:00,b'D\xa2\xd0\xa7',392.98521244715926,7.723,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+368128,2020-10-06 00:25:09.957858+00:00,b'D\xa2\xd0\xa7',456.2301705505136,7.664,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+369171,2020-10-07 19:43:30.309436+00:00,b'D\xa2\xd0\xa7',458.70120707313646,8.434,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+369463,2020-10-08 00:15:05.185509+00:00,b'D\xa2\xd0\xa7',455.5267393697324,8.374,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+369747,2020-10-08 19:37:35.803963+00:00,b'D\xa2\xd0\xa7',403.7481657858781,11.004,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+370264,2020-10-09 00:02:07.336731+00:00,b'D\xa2\xd0\xa7',475.49743980511823,8.225,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+370686,2020-10-09 19:42:50.019223+00:00,b'D\xa2\xd0\xa7',465.813608876806,8.377,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+371814,2020-10-10 19:34:53.946088+00:00,b'D\xa2\xd0\xa7',394.728991431291,8.72,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+372183,2020-10-11 12:08:44.225358+00:00,b'D\xa2\xd0\xa7',441.1183110127332,8.169,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+374063,2020-10-13 19:40:19.803894+00:00,b'D\xa2\xd0\xa7',457.217798938209,7.956,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+374649,2020-10-14 12:09:34.674351+00:00,b'D\xa2\xd0\xa7',476.674604514174,8.236,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+375463,2020-10-15 12:18:34.479931+00:00,b'D\xa2\xd0\xa7',462.78468747778976,8.86,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+376094,2020-10-15 19:59:54.210177+00:00,b'D\xa2\xd0\xa7',464.2932123749158,8.511,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+377175,2020-10-16 19:42:05.776519+00:00,b'D\xa2\xd0\xa7',453.3556609778786,9.997,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+377222,2020-10-16 00:26:16.459809+00:00,b'D\xa2\xd0\xa7',458.0672599245983,8.001,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+377419,2020-10-17 12:01:34.273841+00:00,b'D\xa2\xd0\xa7',455.157965517545,8.342,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+377454,2020-10-17 00:07:16.026148+00:00,b'D\xa2\xd0\xa7',453.14710025663175,8.005,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+378576,2020-10-18 19:48:15.920276+00:00,b'D\xa2\xd0\xa7',452.6373788603788,7.134,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+378744,2020-10-18 00:22:06.882267+00:00,b'D\xa2\xd0\xa7',423.5833106787226,8.233,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+379944,2020-10-19 19:43:29.081356+00:00,b'D\xa2\xd0\xa7',435.7712233704761,8.485,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+380236,2020-10-20 00:24:51.110095+00:00,b'D\xa2\xd0\xa7',458.947296424792,7.752,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+381471,2020-10-21 00:04:55.174699+00:00,b'D\xa2\xd0\xa7',452.03958452233127,8.116,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+382530,2020-10-22 00:22:28.177548+00:00,b'D\xa2\xd0\xa7',464.5147384816061,8.867,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+383578,2020-10-23 19:39:40.807935+00:00,b'D\xa2\xd0\xa7',446.69100579793854,8.882,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+385278,2020-10-25 19:50:16.102343+00:00,b'D\xa2\xd0\xa7',458.4000920757091,9.673,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+385308,2020-10-25 00:14:23.616033+00:00,b'D\xa2\xd0\xa7',445.0838531083669,9.753,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+385588,2020-10-26 00:21:26.727613+00:00,b'D\xa2\xd0\xa7',463.3657697881834,8.741,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+385922,2020-10-26 12:04:34.436807+00:00,b'D\xa2\xd0\xa7',461.45373788586926,7.437,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+387239,2020-10-27 00:05:38.247468+00:00,b'D\xa2\xd0\xa7',458.897351704825,7.424,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+387774,2020-10-28 12:15:34.413801+00:00,b'D\xa2\xd0\xa7',462.7943904344451,8.912,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+388530,2020-10-29 00:02:25.087317+00:00,b'D\xa2\xd0\xa7',448.2286346299818,7.783,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+388687,2020-10-29 12:15:34.491439+00:00,b'D\xa2\xd0\xa7',454.1072826334004,7.535,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+390700,2020-10-31 00:10:00.557345+00:00,b'D\xa2\xd0\xa7',410.1239609723791,8.239,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+391122,2020-11-01 20:49:04.445425+00:00,b'D\xa2\xd0\xa7',452.9936075285127,7.72,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+391327,2020-11-01 13:09:00.689094+00:00,b'D\xa2\xd0\xa7',457.7454914548991,7.727,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+391878,2020-11-02 01:21:06.119429+00:00,b'D\xa2\xd0\xa7',452.63152611126446,9.495,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+392169,2020-11-02 13:21:00.743534+00:00,b'D\xa2\xd0\xa7',463.61447638973647,7.5,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+392595,2020-11-03 01:13:53.794124+00:00,b'D\xa2\xd0\xa7',314.8785692725743,8.376,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+392910,2020-11-03 20:53:16.537941+00:00,b'D\xa2\xd0\xa7',455.1655448270951,8.974,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+393014,2020-11-03 13:05:00.698209+00:00,b'D\xa2\xd0\xa7',308.4411925505194,8.257,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+393722,2020-11-04 13:23:03.888149+00:00,b'D\xa2\xd0\xa7',474.7597462765952,7.391,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+394120,2020-11-05 13:07:26.808746+00:00,b'D\xa2\xd0\xa7',342.9955609686356,7.366,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+394666,2020-11-06 20:45:49.206132+00:00,b'2\xe03\x82',28.69208881145009,8.731,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+394672,2020-11-06 20:45:19.653297+00:00,b'2\xe03\x82',31.58984722385728,9.232,Rowley,42.7138,-70.907,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+394958,2020-11-06 20:48:50.059259+00:00,b'D\xa2\xd0\xa7',463.6220033376,9.02,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+395592,2020-11-07 13:09:25.485994+00:00,b'D\xa2\xd0\xa7',408.24883432402106,7.514,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+396313,2020-11-08 01:05:28.998425+00:00,b'D\xa2\xd0\xa7',345.72817059879554,8.754,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+399001,2020-11-12 13:08:51.813569+00:00,b'D\xa2\xd0\xa7',462.8838367911009,9.02,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+399264,2020-11-12 20:51:36.404995+00:00,b'D\xa2\xd0\xa7',448.35693546014033,7.611,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+400446,2020-11-13 01:21:18.023521+00:00,b'D\xa2\xd0\xa7',456.0829059794675,10.376,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+400742,2020-11-13 13:04:43.351340+00:00,b'D\xa2\xd0\xa7',463.5549690139417,7.517,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+401023,2020-11-14 20:32:57.997444+00:00,b'D\xa2\xd0\xa7',436.467299172034,7.984,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+401194,2020-11-14 13:10:18.453572+00:00,b'D\xa2\xd0\xa7',488.5070501830184,9.006,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+402644,2020-11-16 13:18:13.251280+00:00,b'D\xa2\xd0\xa7',480.5924634052028,7.73,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+403382,2020-11-17 20:45:12.103343+00:00,b'D\xa2\xd0\xa7',452.36866445863217,8.994,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+403780,2020-11-17 01:14:24.725949+00:00,b'D\xa2\xd0\xa7',460.436826818193,8.62,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+404319,2020-11-18 20:56:32.480543+00:00,b'D\xa2\xd0\xa7',456.2206996784234,7.476,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+404823,2020-11-19 01:04:46.627664+00:00,b'D\xa2\xd0\xa7',443.3919314574193,8.488,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+404942,2020-11-19 20:57:17.653731+00:00,b'D\xa2\xd0\xa7',213.16423685149525,8.87,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+405850,2020-11-20 17:01:50.943276+00:00,b'\x97\xcbI\xd4',319.75041918516166,9.953,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406274,2020-11-21 20:58:56.089631+00:00,b'\x97\xcbI\xd4',661.3679567163873,7.795,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406408,2020-11-21 20:56:31.719093+00:00,b'\x97\xcbI\xd4',705.3290671968992,12.048,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406411,2020-11-21 20:55:41.782805+00:00,b'\x97\xcbI\xd4',699.1030159067236,10.858,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406597,2020-11-21 20:51:13.355843+00:00,b'\x97\xcbI\xd4',678.0065795410615,7.523,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406626,2020-11-21 20:52:46.144771+00:00,b'\x97\xcbI\xd4',256.74980491916364,13.953,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406640,2020-11-21 20:49:48.989907+00:00,b'\x97\xcbI\xd4',163.60217432432432,9.421,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406675,2020-11-21 20:57:22.435363+00:00,b'\x97\xcbI\xd4',197.5793576622066,13.432,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406688,2020-11-21 20:59:55.695219+00:00,b'\x97\xcbI\xd4',180.53371852170625,14.751,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406731,2020-11-21 20:48:12.029972+00:00,b'\x97\xcbI\xd4',156.59185302249713,10.489,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406750,2020-11-21 20:47:59.073009+00:00,b'D\xa2\xd0\xa7',320.021088945826,8.472,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406759,2020-11-21 20:54:36.901242+00:00,b'\x97\xcbI\xd4',275.6332675408623,13.624,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406798,2020-11-21 20:48:39.181569+00:00,b'\x97\xcbI\xd4',164.69901987110876,10.452,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406840,2020-11-21 20:58:30.530442+00:00,b'\x97\xcbI\xd4',676.2593351879068,7.76,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406925,2020-11-22 13:22:11.929746+00:00,b'D\xa2\xd0\xa7',452.70807707912894,9.012,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+406930,2020-11-22 01:03:37.647989+00:00,b'D\xa2\xd0\xa7',482.4466874698394,8.741,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+407587,2020-11-23 13:16:46.502012+00:00,b'\x97\xcbI\xd4',154.52178933796753,9.943,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+408028,2020-11-23 13:16:19.164508+00:00,b'D\xa2\xd0\xa7',444.0150842798533,8.492,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+408085,2020-11-23 13:16:28.403671+00:00,b'\x97\xcbI\xd4',146.43288554838455,11.133,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+408951,2020-11-24 17:06:30.400768+00:00,b'\x97\xcbI\xd4',148.3377770178527,10.205,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+408978,2020-11-24 20:39:23.203267+00:00,b'D\xa2\xd0\xa7',461.4606680767415,7.885,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+408983,2020-11-24 17:06:07.877841+00:00,b'\x97\xcbI\xd4',154.5979274275989,10.504,Rowley,42.7138,-70.907,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+409378,2020-11-25 01:02:47.219053+00:00,b'D\xa2\xd0\xa7',455.4420967053477,8.028,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+409768,2020-11-26 20:56:38.000364+00:00,b'D\xa2\xd0\xa7',468.65398865055016,9.0,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+409852,2020-11-26 01:11:01.503325+00:00,b'D\xa2\xd0\xa7',464.4948460791987,8.127,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+410663,2020-11-27 01:19:42.543567+00:00,b'D\xa2\xd0\xa7',292.11837070788613,8.876,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+410879,2020-11-27 20:30:30.191167+00:00,b'D\xa2\xd0\xa7',252.05201588193407,8.243,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+411304,2020-11-28 13:04:11.624812+00:00,b'D\xa2\xd0\xa7',455.46441485445945,7.368,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+411706,2020-11-29 20:35:38.519069+00:00,b'D\xa2\xd0\xa7',435.9615994382582,7.978,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+412008,2020-11-29 01:21:42.175197+00:00,b'D\xa2\xd0\xa7',446.9905701761271,9.101,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+412587,2020-11-30 13:18:11.771651+00:00,b'D\xa2\xd0\xa7',456.9901646549164,7.509,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+413095,2020-11-30 20:31:38.205276+00:00,b'D\xa2\xd0\xa7',444.8236246523633,12.773,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+413906,2020-12-01 20:53:58.520511+00:00,b'D\xa2\xd0\xa7',353.91195317110913,9.788,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+414991,2020-12-03 13:26:15.482856+00:00,b'D\xa2\xd0\xa7',428.6849483082004,8.853,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+415982,2020-12-04 20:58:40.074947+00:00,b'D\xa2\xd0\xa7',454.1520637111126,9.029,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+416915,2020-12-05 01:28:40.141683+00:00,b'D\xa2\xd0\xa7',459.7320948773299,9.01,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+417975,2020-12-06 13:09:30.254551+00:00,b'D\xa2\xd0\xa7',443.1729412468955,7.855,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+418136,2020-12-07 01:16:16.453559+00:00,b'D\xa2\xd0\xa7',434.06507484821134,8.841,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+418293,2020-12-07 13:12:30.308166+00:00,b'D\xa2\xd0\xa7',470.35012083876137,8.477,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+418300,2020-12-07 20:44:41.441384+00:00,b'D\xa2\xd0\xa7',445.0917171722336,8.751,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+418999,2020-12-08 13:25:02.677036+00:00,b'D\xa2\xd0\xa7',454.7900389853594,7.502,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+419200,2020-12-08 20:59:45.608816+00:00,b'D\xa2\xd0\xa7',465.9086224386352,8.257,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+420308,2020-12-09 01:05:01.088340+00:00,b'D\xa2\xd0\xa7',437.3294108493219,16.375,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+420578,2020-12-10 13:12:21.911192+00:00,b'D\xa2\xd0\xa7',451.6020474688113,8.991,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+420854,2020-12-10 01:26:19.787759+00:00,b'D\xa2\xd0\xa7',445.7623620554627,8.987,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+421567,2020-12-11 20:36:07.765766+00:00,b'D\xa2\xd0\xa7',322.41085549659005,8.414,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+421694,2020-12-11 13:18:00.376817+00:00,b'D\xa2\xd0\xa7',384.1809143825335,7.847,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+423404,2020-12-13 20:53:43.888940+00:00,b'D\xa2\xd0\xa7',443.4145801803856,8.629,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+424436,2020-12-15 13:22:20.308739+00:00,b'D\xa2\xd0\xa7',459.5411562075273,7.404,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+424933,2020-12-15 20:37:24.018907+00:00,b'D\xa2\xd0\xa7',449.85805515619376,8.811,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+425419,2020-12-16 01:09:46.734719+00:00,b'D\xa2\xd0\xa7',450.7276819538631,8.264,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+426373,2020-12-17 13:19:11.470239+00:00,b'D\xa2\xd0\xa7',385.8401809043487,8.856,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+426815,2020-12-18 20:57:15.398036+00:00,b'D\xa2\xd0\xa7',450.48132899726806,8.11,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+427131,2020-12-18 13:11:11.197246+00:00,b'D\xa2\xd0\xa7',433.839875427365,7.877,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+428144,2020-12-19 01:02:25.245041+00:00,b'D\xa2\xd0\xa7',455.6236891912092,8.38,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+428327,2020-12-20 01:19:03.438930+00:00,b'D\xa2\xd0\xa7',451.8521785173849,8.968,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+428464,2020-12-20 20:31:08.195091+00:00,b'D\xa2\xd0\xa7',294.4696567068354,7.876,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+428814,2020-12-20 13:26:10.482246+00:00,b'D\xa2\xd0\xa7',457.1201983880708,8.644,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+429089,2020-12-21 20:43:11.464499+00:00,b'D\xa2\xd0\xa7',438.97368682465066,7.877,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+429548,2020-12-21 13:24:11.198434+00:00,b'D\xa2\xd0\xa7',453.2512581751972,7.499,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+429710,2020-12-22 20:51:59.271496+00:00,b'D\xa2\xd0\xa7',467.6935868627791,9.149,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+430460,2020-12-23 13:03:10.173045+00:00,b'D\xa2\xd0\xa7',474.4020125853857,7.394,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+430717,2020-12-23 20:51:47.317996+00:00,b'D\xa2\xd0\xa7',279.44684621162776,8.976,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+431506,2020-12-24 20:38:02.593179+00:00,b'D\xa2\xd0\xa7',243.12139884060608,9.408,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+431650,2020-12-24 13:18:10.153613+00:00,b'D\xa2\xd0\xa7',398.5697747504725,8.864,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+432389,2020-12-25 01:21:02.100829+00:00,b'D\xa2\xd0\xa7',417.3726993162556,8.251,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+432617,2020-12-26 20:33:46.571819+00:00,b'D\xa2\xd0\xa7',404.0176140480227,9.025,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+433059,2020-12-26 13:08:10.474465+00:00,b'D\xa2\xd0\xa7',431.1780391654255,8.181,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+433422,2020-12-27 01:01:10.603336+00:00,b'D\xa2\xd0\xa7',434.5996602191579,8.252,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+434074,2020-12-27 20:42:39.320565+00:00,b'D\xa2\xd0\xa7',417.06636231499846,8.85,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+435261,2020-12-29 01:03:22.685482+00:00,b'D\xa2\xd0\xa7',461.4175634016249,13.372,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+436397,2020-12-30 20:56:49.968052+00:00,b'D\xa2\xd0\xa7',469.2231002689292,9.117,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+437147,2020-12-31 13:24:55.542205+00:00,b'D\xa2\xd0\xa7',450.2332043696694,7.75,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net
+437188,2020-12-31 20:30:14.924639+00:00,b'D\xa2\xd0\xa7',419.00888468987824,7.989,Rowley,42.7138,-70.907,3912.0,NMSU-AS - Checs-net

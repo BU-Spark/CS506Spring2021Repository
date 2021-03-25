@@ -1,0 +1,6 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+97936,2020-04-03 12:25:30.158298+00:00,b'&\x030\x05\\\x00G\x00\xbd\xf3=\xfe\xe2\x8c\xb2&',28.306962029129547,19.338,Ashley Falls,42.0625,-73.3165,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+122948,2020-04-19 19:59:16.320547+00:00,b'&\x030\x05\\\x00G\x00\x01\x98\xa3\xdf\xc9\x1b\x04\n',21.985428275231136,20.686,Ashley Falls,42.0625,-73.3165,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+124861,2020-04-20 16:27:21.001114+00:00,b'&\x030\x05\\\x00G\x00\xd1\xd3\x99\xba\xca\xc3\x95\xc9',15.177220640286858,25.568,Ashley Falls,42.0625,-73.3165,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+129260,2020-04-22 00:24:23.843259+00:00,b'&\x030\x05\\\x00G\x00t\x99|\x054\xa0\xd7&',25.58883989500212,24.14,Ashley Falls,42.0625,-73.3165,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+161285,2020-05-14 16:09:05.165525+00:00,b'&\x030\x05\\\xca\x00\x00\x0c_}U\x07Hz9',23.17441982038949,26.637,Ashley Falls,42.0625,-73.3165,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

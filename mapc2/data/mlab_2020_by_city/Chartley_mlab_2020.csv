@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+122393,2020-04-18 00:20:48.512028+00:00,b'`N\xcb\xda',3.7032292522087618,32.077,Chartley,41.9495,-71.2278,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+263630,2020-07-17 19:56:51.865512+00:00,"b' \x01\x05\xb0""b\xf6x\xf9L\xc9\xd0\xa6\x1e\xad '",2.385582352419071,69.479,Heath,42.6853,-72.8391,6621.0,HNS-DIRECPC - Hughes Network Systems

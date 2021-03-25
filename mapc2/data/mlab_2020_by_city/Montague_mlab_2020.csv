@@ -1,0 +1,12 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+117118,2020-04-15 16:02:19.383616+00:00,b'2\xcd\x00\xf3',49.01304575017649,3.781,Montague,42.5429,-72.5328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+193706,2020-06-05 19:50:22.981618+00:00,b'\x80w\xde\xb2',0.6497343584306154,53.452,Montague,42.5394,-72.5319,1249.0,FIVE-COLLEGES-AS - Five Colleges Network
+193929,2020-06-05 19:52:58.628811+00:00,b'\x80w\xde\xb2',0.6519489409029353,56.841,Montague,42.5394,-72.5319,1249.0,FIVE-COLLEGES-AS - Five Colleges Network
+397424,2020-11-10 01:20:30.374582+00:00,b'HO\xf0o',0.7162150884984089,51.701,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+397670,2020-11-10 01:19:27.253325+00:00,b'HO\xf0o',0.6927458360141432,54.124,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+397726,2020-11-10 01:17:46.480492+00:00,b'HO\xf0o',0.7206347556242263,54.145,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+397964,2020-11-10 01:23:25.659809+00:00,b'HO\xf0o',0.6953259231150808,58.466,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+400704,2020-11-13 01:05:20.126048+00:00,b'I&\xab\xad',4.396839901042738,27.875,Montague,42.5394,-72.5319,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+406137,2020-11-20 13:16:01.834847+00:00,b'HO\xf2\x16',0.2691164127027702,47.351,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+411235,2020-11-28 20:57:15.099495+00:00,b'HO\xf2z',0.5550517255187927,46.75,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+412312,2020-11-29 13:01:17.638881+00:00,b'HO\xf2z',0.6034355508670843,35.262,Montague,42.5394,-72.5319,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

@@ -1,0 +1,10 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+18346,2020-01-21 01:11:20.936263+00:00,b'&\x01\x01\x96\x85\x80\x04?\xdcjXP\x0f\x90W=',3.744004035085232,18.757,Dighton,41.8125,-71.1427,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+23648,2020-01-27 17:10:10.126616+00:00,b'&\x01\x01\x96\x85\x80\x04`\xe8*0\x15\x10\x10\x9ax',0.4247644889716174,20.682,Dighton,41.8125,-71.1427,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+24060,2020-01-27 17:09:53.906153+00:00,b'&\x01\x01\x96\x85\x80\x04`\xe8*0\x15\x10\x10\x9ax',0.2670704240157695,24.935,Dighton,41.8125,-71.1427,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+98021,2020-04-03 16:13:46.813172+00:00,b'&\x01\x01\x96\x88\x81\x11\xf0\xe0\x8bz0d\x1b\xf1\xa2',9.550652124980008,26.911,Dighton,41.8125,-71.1427,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+399113,2020-11-12 01:17:12.474567+00:00,b'&\x01\x01\x96\x86\x01\x16p\x8d\xad\x96\xcd\xb8j\xa9\xe0',11.328651003599528,23.954,Dighton,41.8125,-71.1427,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+405178,2020-11-19 01:15:32.199137+00:00,b'&\x01\x01\x96\x86\x01\x16\xf05\xa1\xcdw\xc6\x0f\x11\x7f',9.714660857138805,18.878,Dighton,41.8125,-71.1427,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+427897,2020-12-19 13:12:08.439261+00:00,b'd\n\x1bv',89.28702714582373,10.3,Dighton,41.8125,-71.1427,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+430641,2020-12-23 17:04:32.288758+00:00,b'H\x05\x1a\x02',30.93391433299185,16.808,Dighton,41.8125,-71.1427,14742.0,INTERNAP-BLOCK-4 - Internap Network Services Corporation
+431110,2020-12-23 17:03:38.533506+00:00,b'H\x05\x1a\x02',48.61131585223198,5.788,Dighton,41.8125,-71.1427,14742.0,INTERNAP-BLOCK-4 - Internap Network Services Corporation

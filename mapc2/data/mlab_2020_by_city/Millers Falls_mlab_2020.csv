@@ -1,0 +1,15 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+95989,2020-04-02 16:05:07.889600+00:00,b'`\xf0\xe1|',0.553177644990305,37.551,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96054,2020-04-02 16:18:29.082776+00:00,b'`\xf0\xe1|',0.6457580395887188,36.428,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96226,2020-04-02 16:12:14.366358+00:00,b'`\xf0\xe1|',0.5614365888049522,35.702,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96244,2020-04-02 16:11:33.976955+00:00,b'`\xf0\xe1|',0.6214298208839993,78.718,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96258,2020-04-02 16:02:31.647440+00:00,b'`\xf0\xe1|',0.5732693216318703,73.278,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+96505,2020-04-02 16:16:59.864812+00:00,b'`\xf0\xe1|',0.6086224146571689,79.048,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+97009,2020-04-02 16:19:08.000501+00:00,b'`\xf0\xe1|',0.670119835448651,49.624,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+97445,2020-04-02 16:17:32.882276+00:00,b'`\xf0\xe1|',0.6382101383114833,38.255,Millers Falls,42.5804,-72.4925,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+250964,2020-07-10 19:33:33.337538+00:00,"b'&\x00\x10\x00\xb1,;\x8a\x00\xd1$\xe0\xf0\x88i\x12'",1.9137416397984943,61.9,Millers Falls,42.582,-72.4926,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+262228,2020-07-16 19:57:40.126279+00:00,"b'&\x00\x10\x00\xb1,\x0bH\r;\x13e\xea\x0bk4'",4.390737890067488,42.376,Millers Falls,42.582,-72.4926,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+262396,2020-07-16 19:58:20.607065+00:00,"b'&\x00\x10\x00\xb1,\x0bH\r;\x13e\xea\x0bk4'",2.9551294358634963,33.635,Millers Falls,42.582,-72.4926,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+262777,2020-07-16 19:56:16.754352+00:00,"b'&\x00\x10\x00\xb1,\x0bH\r;\x13e\xea\x0bk4'",0.0169729016278977,57.61,Millers Falls,42.582,-72.4926,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+278221,2020-07-25 19:53:17.387201+00:00,"b'&\x00\x10\x00\xb1,\x1b\xf4\x1d\xa5_\xbek\xf5w\xc7'",0.4161703549105421,67.924,Millers Falls,42.582,-72.4926,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+287196,2020-07-30 16:18:18.781114+00:00,"b'&\x00\x10\x00\xb1,0\x06\xa0\xce0u\xdb""\\\xbc'",1.2168602219759164,55.728,Millers Falls,42.582,-72.4926,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless

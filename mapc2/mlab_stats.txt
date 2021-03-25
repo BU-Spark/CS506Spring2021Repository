@@ -1,0 +1,885 @@
+Basic Statistics
+-------------
+average MeanThroughputMbps: 43.7
+median MeanThroughputMbps: 12.6
+mode MeanThroughputMbps: 0    11.8
+dtype: float64
+Std Dev MeanThroughputMbps: 91.66
+
+Fastest and Slowest Providers, with at least 50 measurements
+-------------
+Top 5 fastest providers on average
+-------------
+ProviderName
+TWRS-MA - Towerstream I, Inc.                   215.382851
+NMSU-AS - Checs-net                             206.891314
+HGE-NET - Holyoke Gas & Electric Department     192.128319
+BIGLEAF - Bigleaf Networks LLC                  165.779430
+NORTHEASTERN-GW-AS - Northeastern University    155.480556
+Name: (MeanThroughputMbps, mean), dtype: float64
+
+Botton 5 slowest providers on average
+-------------
+ProviderName
+WB-DEN2 - Viasat Communications Inc.             0.847753
+OSRAM-SYLVANIA - OSRAM SYLVANIA INC.             1.562037
+HNS-DIRECPC - Hughes Network Systems             1.835326
+SPCS - Sprint Personal Communications Systems    2.376271
+WIVALLEY - WiValley, Inc.                        2.506452
+Name: (MeanThroughputMbps, mean), dtype: float64
+
+Fastest and Slowest Providers, with at least 1,000 measurements
+-------------
+Top 5 fastest providers on average
+-------------
+ProviderName
+HGE-NET - Holyoke Gas & Electric Department                         192.128319
+UUNET - MCI Communications Services, Inc. d/b/a Verizon Business    134.443643
+LIGHTOWER Lightower Fiber Networks (LIGHT-141)                       82.131921
+ASN-QWEST-US NOVARTIS-DMZ-US                                         49.514844
+ALKERMES - ALKERMES INCORPORATED                                     23.363405
+Name: (MeanThroughputMbps, mean), dtype: float64
+
+Botton 5 slowest providers on average
+-------------
+ProviderName
+SPCS - Sprint Personal Communications Systems            2.376271
+CELLCO - Cellco Partnership DBA Verizon Wireless         5.019919
+ASN-SHREWS - Shrewsbury Electric and Cable Operations    6.070376
+T-MOBILE-AS21928 - T-Mobile USA, Inc.                    8.656454
+RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC     9.678461
+Name: (MeanThroughputMbps, mean), dtype: float64
+
+Top 25 fastest measured speeds
+-------------
+422013    1625.9
+254644     925.0
+262055     924.9
+305593     924.7
+259154     924.5
+308869     924.5
+235925     924.4
+269551     924.4
+298004     924.3
+302997     924.3
+313280     924.3
+257589     924.1
+316014     924.1
+237802     924.0
+247886     923.4
+300618     923.2
+307500     923.0
+267456     922.5
+241868     921.2
+60727      918.7
+420862     916.6
+32834      915.1
+398688     906.7
+437270     906.6
+437196     906.3
+Name: MeanThroughputMbps, dtype: float64
+
+Bottom 25 slowest measured speeds
+-------------
+52      0.0
+180     0.0
+229     0.0
+658     0.0
+699     0.0
+941     0.0
+1013    0.0
+1395    0.0
+1683    0.0
+1697    0.0
+1749    0.0
+2090    0.0
+2101    0.0
+2110    0.0
+2415    0.0
+2506    0.0
+2619    0.0
+2648    0.0
+3411    0.0
+3448    0.0
+3784    0.0
+3904    0.0
+4043    0.0
+4109    0.0
+4204    0.0
+Name: MeanThroughputMbps, dtype: float64
+
+Count of measurements per Provider
+-------------
+                                                     Count
+ProviderName                                              
+COMCAST-7922 - Comcast Cable Communications, Inc.   182906
+UUNET - MCI Communications Services, Inc. d/b/a...   89356
+ALKERMES - ALKERMES INCORPORATED                     68790
+CHARTER-NET-HKY-NC - Charter Communications          21136
+RCN-AS - RCN                                         15222
+ASN-QWEST-US NOVARTIS-DMZ-US                         12355
+CELLCO - Cellco Partnership DBA Verizon Wireless      6878
+T-MOBILE-AS21928 - T-Mobile USA, Inc.                 6453
+RR-NYSREGION-ASN-01 - Time Warner Cable Interne...    6096
+SPCS - Sprint Personal Communications Systems         3502
+ASN-SHREWS - Shrewsbury Electric and Cable Oper...    2579
+LIGHTOWER Lightower Fiber Networks (LIGHT-141)        1369
+HGE-NET - Holyoke Gas & Electric Department           1130
+COMMRAIL - Access Northeast Inc.                       718
+COGENT Cogent/PSI                                      696
+WINDSTREAM - Windstream Communications Inc             530
+MIT-GATEWAYS - Massachusetts Institute of Techn...     529
+RINET - Rhode Island Network for Educ. Technology      499
+ATT-INTERNET4 - AT&T Services, Inc.                    488
+CELLCO-PART - Cellco Partnership DBA Verizon Wi...     485
+NMSU-AS - Checs-net                                    472
+TWRS-MA - Towerstream I, Inc.                          449
+HARVARD-UNIV - Harvard University                      393
+WAUSAU-INS - Liberty Mutual Group                      385
+CONCORD-MA - Town of Concord MA                        362
+NLB-ASN - Norwood Light Broadband                      357
+BIGLEAF - Bigleaf Networks LLC                         316
+ORACLE-EUROPE-AS - Oracle Corporation                  268
+AXCELX-NET - AxcelX Technologies LLC                   253
+ASN-BELD - Braintree Electric Light Dept.              250
+AS1239 SprintLink Global Network                       246
+AT&T Wireless Service                                  233
+MILLIPORE - Millipore Corp.                            231
+OSRAM-SYLVANIA - OSRAM SYLVANIA INC.                   216
+KRONOS-MA - Kronos Inc.                                197
+LEVEL3 Level 3 Communications                          190
+HNS-DIRECPC - Hughes Network Systems                   184
+COMCAST-7015 - Comcast Cable Communications Hol...     184
+VERTISINC-IRVING - Vertis Inc.                         182
+ACCESSPLUS-COMMUNICATIONS - AccessPlus Communic...     181
+WB-DEN2 - Viasat Communications Inc.                   178
+GOOGLEWIFI - Google, Inc.                              177
+CROCKERCOM - CROCKER COMMUNICATIONS                    168
+BOSTONU-AS - Boston University                         154
+XO-AS15 - XO Communications                            153
+LMANET - Longwood Medical and Academic Area (LMA)      151
+MASSACHUSETTS - Commonwealth of Massachusetts          144
+PEGASYSTEMS - Pegasystems Inc.                         143
+ROBERTSDYBDAHL - Roberts & Dybdahl Inc.                138
+TINET-BACKBONE Tinet SpA                               133
+CAPENET - CapeNet LLC                                  131
+FIVE-COLLEGES-AS - Five Colleges Network               127
+PFIZERNET - PFIZER INC.                                109
+TUFTS-UNIVERSITY - Tufts University                    103
+AS12222 Akamai Technologies                             95
+BOSTONCOLLEGE - Boston College                          88
+US-TELEPACIFIC - Telepacific Communications             87
+PRAC - Plymouth Rock Assurance Corporation              76
+NETRIPLEX-CORPORATION - Netriplex Corporation           75
+NORTHEASTERN-GW-AS - Northeastern University            72
+TAUNTON-MUNICIPAL - Taunton Municipal Lighting ...      70
+NITEL - NETWORK INNOVATIONS, INC.                       69
+JUNIPER-NETWORKS - Juniper Networks, Inc.               68
+PERIMETER-ESECURITY - Perimeter eSecurity               65
+WIVALLEY - WiValley, Inc.                               62
+WPI - Worcester Polytechnic Institute                   59
+CITRIX-ONLINE-OFFICES - Citrix Online, LLC              59
+WINDSTEAM-HOSTED-SOLUTIONS-1 - Windstream Hoste...      57
+ASN-CC - Constant Contact, Inc                          53
+BELLATLANTIC-COM - Bell Atlantic, Inc.                  52
+FACTSET - FactSet Research Systems, Inc.                46
+ASN-CXA-ALL-CCI-22773-RDC - Cox Communications ...      46
+MFNX MFN - Metromedia Fiber Network                     42
+NEXTLEVELINTERNET - NEXT LEVEL INTERNET, INC.           41
+CHARLES-RIVER-LABORATORIES Charles River Labora...      41
+PAREXEL Parexel International Gmbh                      40
+GBLX Global Crossing Ltd.                               38
+BLUEBIRD-NETWORK - Bluebird Network                     38
+LAHEYCLINIC - Lahey Clinic, Inc.                        38
+ANALYSISGROUP - Analysis Group, Inc.                    38
+UMASS-LOWELL - University of Massachusetts - Lo...      38
+SASUSA SunGard Availability Services USA                36
+DSCI - DSCI Corporation                                 36
+BIZLAND-SD - The Endurance International Group,...      35
+ASN-MARKLEY - Markley Group                             34
+TDS-AS - TDS TELECOM                                    33
+BROWNB - Brown Brothers Harriman & Company              33
+CTELCO - FAIRPOINT COMMUNICATIONS, INC.                 33
+BROCKTONHOSPITAL-ORG - Brockton Hospital                33
+LMI - Lantheus Medical Imaging, Inc                     32
+TWDX TOWARDEX Carrier Services IP TRANSIT BACKBONE      31
+MASS-CONVENTION-CENTER-AUTHORITY - Massachusett...      31
+BROADINSTITUTE-AS - The Broad Institute, Inc.           30
+BAYSTATEHEALTH - Baystate Health, Inc.                  29
+EBSCOPUB - EBSCO Publishing                             28
+UMASSP-DOM - University of Massachusettes               28
+COLO-PREM-VZB - Verizon Online LLC                      28
+VIRTELA-NET-VNYNYC1 Virtela Communications              28
+SIRIUS-1 - Prospeed.Net,Inc.                            28
+WHOI-WOODSHOLE - Woods Hole Oceanographic Insti...      27
+AS-ATHEN-1 - Athenahealth                               27
+TCIX - Meganet Communications                           27
+HMH-18830 - Houghton Mifflin Harcourt Publishin...      26
+HMSTEINSGRP - Homesite Group Inc                        24
+TALBOTS - The Talbots, Inc.                             23
+VERMONT-TELE - Vermont Telephone Company, Inc.          23
+ATOS-ORIGIN-INTERNET-AS - ATOS ORIGIN                   23
+SEGNET - SEG Network Technologies                       22
+METTEL - Metropolitan Telecomm                          22
+COFAN - Colleges of the Fenway, Inc.                    20
+BENTLEY-AS - Bentley University                         20
+CITYOFBOSTON - City of Boston                           19
+VISTAPRINT - Vista Print USA, Incorporated              19
+MIDMAINE - Mid-Maine Communications, Inc.               18
+HOPONE-GLOBAL - HopOne Internet Corporation             18
+GRANITE-100 - Granite Telecommunications LLC            18
+IVANET-MIAMI - IBASIS INC.                              18
+USFRCS-BGP - FRIT                                       17
+CSTC-AS-2010 - CORNERSTONE TELEPHONE COMPANY, LLC       17
+ASN1 - EASTERN BANK                                     17
+RFC2270-UUNET-CUSTOMER - MCI Communications Ser...      17
+EPOCRATES - EPOCRATES                                   16
+PROMOTIONS-COM - Corsis Technology Group II, LLC        15
+APPLE Apple Inc                                         15
+MHCV-AS1 - Mid-Hudson Cablevision, Inc.                 14
+SIMONS-ROCK-EDU-ASN01 - Bard College at Simon's...      14
+SHIRE-UK-AS Shire Pharmaceuticals Group PLC             14
+MASSCOL - Mass College of Liberal Arts                  14
+AS-CHOOPA - Choopa, LLC                                 14
+MATHWORKS - The MathWorks, Inc.                         13
+MMSIN-1-AS - MMS International                          13
+CLOUDFLARENET - CloudFlare, Inc.                        13
+ASNPTCFTC - Moody's Investors Service                   12
+NOAA-AS - NOAA                                          12
+CHOATEHALLSTEWART - CHOATE, HALL & STEWART, LLP         12
+BRANDEIS - Brandeis University                          12
+MaroNET SRL                                             12
+GRANITE - Granite Telecommunications LLC                11
+PREVARE-LLC-BEVERLY-MA - Prevare LLC                    11
+BABSON-GNET - Babson College                            11
+WELLESLEY-COLLEGE - Wellesley College                   11
+EINK - E INK CORPORATION                                11
+MASSNET-AS - Massachusetts Education Computer N...      11
+RUELALA-INC - Rue La La Inc                             10
+WAYPORT - Wayport, Inc.                                 10
+ALLIED-TELECOM - Allied Telecom Group, LLC              10
+TACONIC - FairPoint Communications                      10
+T-SYSTEMS-NA - T-Systems North America, Inc.            10
+LOOMISSAYLES - LOOMIS SAYLES & CO., LP                  10
+WGBH-EDUCATIONAL-FOUNDATION - WGBH Educational ...      10
+INS-AS - AT&T Data Communications Services              10
+PIM-ASN - Pioneer Investment Management, Inc.            9
+HP-INTERNET-AS Hewlett Packard Europe S.A.S.             9
+WILLIAMSCOLLEGE - Williams College Center for C...       9
+WHOLE-FOODS - Whole Foods Market, Inc.                   9
+SLIC-COM-INTERNET - Slic Network Solutions, Inc          9
+BERKLEE-AS - Berklee College of Music                    9
+PHILIPS-INTERNET Koninklijke Philips N.V. (inte...       8
+WMCLLP - Wellington Management Company, LLP              8
+WHEATON-COLLEGE - Wheaton College                        8
+IVANET-NYC - VIP Calling, Inc.                           8
+COPYRIGHT - COPYRIGHT CLEARANCE CENTER                   8
+MVANET - USAI.NET                                        8
+CELT - Center for Educational Leadership and Te...       8
+AC-CHARTER-WINDTREAM - Assumption College                8
+BERKSHIRE-HEALTH-SYSTEMS - Berkshire Health Sys...       8
+OSHEAN - OSHEAN, Inc.                                    8
+CAMBINC-1 - Cambridge Incubator, Inc.                    8
+SAVVIS-AS SAVVIS-AS3561                                  7
+SSU-173244000000-19 - Salem State University             7
+UNIFIEDLAYER-AS-1 - Unified Layer                        7
+RIVERPARK-CAPITAL-LLC - RIVERPARK CAPITAL LLC            7
+186-ASN - 186 Communications, LLC.                       7
+BOSE-CORPORATION-US - Bose Corporation                   7
+COLOSPACE - ColoSpace, Inc.                              7
+DEERFIELD-ACADEMY - Deerfield Academy                    7
+G4-COMMUNICATIONS - Metro2000, Inc.                      7
+AFFMANAGERSGRP - Affiliated Managers Group, Inc.         7
+METTLER-TOLEDO-AM-NOC-ASN - Mettler-Toledo, Inc.         6
+BTES-AS - Bristol Tennessee Essential Services           6
+SMITHNEPHEW - Smith and Nephew, Inc.                     6
+SINGLE-DIGITS - Single Digits, Inc.                      6
+AUTODESK - Autodesk, Inc.                                6
+SCANSAFE Cisco Scansafe Division                         6
+COMMUNISPACE-AS - Communispace Corporation               6
+MARSH Marsh Inc.                                         6
+CORE-DATACENTER - Coretelligent, LLC                     6
+WORCESTER-STATE-COLLEGE - Worcester State Unive...       6
+OXNET - Oxford Networks                                  6
+URNA-1 - United Rentals (North America), Inc.            6
+FUSIONSTORM-GNI - FusionStorm                            5
+NATCOMPSYS - NCS Pearson Inc.                            5
+TCC01 - TCC Networks LLC                                 5
+GOOGLE-CORP-APAC-AS-AP AS number for Google Cor...       5
+EMPIRIX - EMPIRIX Inc                                    5
+ECINET EZE Castle Integration Inc.                       5
+MEGAPATH5-US - MegaPath Corporation                      5
+ATT-CERFNET-BLOCK - AT&T Enhanced Network Services       5
+HP-HOOD - HP Hood                                        5
+OGDEN-PROJECTS - Covanta Projects, Inc.                  4
+WISCONSIN-RSA-7-LIMITED-PARTNERSHIP - Wisconsin...       4
+AS17054 - CONTINENTAL BROADBAND PENNSYLVANIA, INC.       4
+ATL-CBEYOND - CBEYOND COMMUNICATIONS, LLC                4
+LL-MI - Massachusetts Institute of Technology            4
+VHS-BOMA - Vanguard Health Management, Inc.              4
+STOWE-ACCESS - Stowe Access, LLC                         4
+PCAL2 - PAUL CAPITAL ADVISORS, L.L.C.                    4
+QXSNET-AS - Worldwide TechServices, LLC.                 4
+ZONETEL-IP - ZONE TELECOM, INC.                          4
+NAIILLC - North Atlantic Internet, LLC                   4
+DUNCAN-TV - DUNCAN TELECOMMUNICATIONS LLC                4
+PHILLIPS-ACADEMY - Phillips Academy                      4
+ATTIS-ASN4473 - AT&T Internet Services                   4
+VGPE-ASN1 - Velocity The Greatest Phone Company...       4
+DG-FASTCHANNEL - DG                                      3
+WSCNET-AS - Westfield State University                   3
+UTDAS01 - UPTODATE, Inc.                                 3
+RBS-BOSTON - Sidera Networks LLC                         3
+PSC - Progress Software Corp - CSG                       3
+DNIC-AS-00668 - DoD Network Information Center           3
+AER-LEXINGTON-MA - AER                                   3
+AS-SHIELDS-COM - Shields Health Care Group               3
+AMAZON-AES - Amazon.com, Inc.                            3
+WHITESKYNET - WhiteSky Communications, LLC.              3
+COGNEX-HQ - Cognex Corporation                           3
+CELL-SIGNALING-TECHNOLOGY - Cell Signaling Tech...       3
+BXP-HQ - BOSTON PROPERTIES LIMITED PARTNERSHIP           3
+SUNET-1 - Suffolk University                             3
+BSC-20041102 - Bridgewater State College                 3
+TRIPADVISOR - TripAdvisor, LLC                           3
+TURNKEY-INTERNET - Turnkey Internet Inc.                 3
+UA-4585 - Universal Audio, Inc.                          3
+BBN-GW - BBN Technologies Corp.                          3
+COMMAUTO - Commonwealth Automobile Reinsurers            3
+ZSCALER-SJC - ZSCALER, INC.                              3
+NAVISITE-EAST-2 - Navisite, Inc.                         3
+HOTWIRE-COMMUNICATIONS - Hotwire Communications          3
+FWOCE-AS42 - Franklin W. Olin College Of Engine...       3
+FHLBB-5 - Federal Home Loan Bank of Boston               3
+FARM-CREDIT - Farm Credit Financial Partners, Inc.       3
+GENERAL-INVESTMENT-ADVISERS-LLC - GID Investmen...       3
+IVANET-BURLINGTON - IBASIS INC.                          3
+INHOUSE-ASSOCIATES-LC - Inhouse Associates, L.C.         3
+HOSPITALITY-NETWORK - HOSPITALITY NETWORK, LLC           3
+EMC08 - Emarketing Center LLC                            3
+MINTZ-BOS - Mintz, Levin, Cohn, Ferris, Glovsky...       3
+ASPEN-VALLEY-HOSPITAL - Aspen Valley Hospital            2
+CCR-AS-01 - Circle Computer Resources, Inc.              2
+MATH-INC - Mathematica, Inc.                             2
+BHN-TAMPA - BRIGHT HOUSE NETWORKS, LLC                   2
+SNS-COLO - Secured Network Services, Inc.                2
+AS11676 - Xerox Business Services                        2
+BNYB-SONIC - BNY Brokerage                               2
+TVC-AS1 - Tech Valley Communications                     2
+BTIG-UK-LLP BTIG UK LLP                                  2
+NCUBE-OREGON-AS - Oracle Corporation                     2
+TAASS - TA ASSOCIATES, INC.                              2
+FREDCCHURCH - Fred C. Church, Inc.                       2
+BROWN - Brown University                                 2
+VIRTELA-NET-VCNHON2 Virtela Communications               2
+IBL-LYNX - Internet Bermuda Limited                      2
+LEASEWEB-US - Leaseweb USA, Inc.                         2
+SNE - Subaru of New England                              2
+AS-EATONV - Eaton Vance Management                       2
+CONCORD-CARLISLE-MA - Concord-Carlisle Regional...       2
+PDNPVD-1 - ProvDotNet LLC                                2
+RAYASN - Raytheon Company                                2
+ESNET-EAST - ESnet                                       2
+REDHAT-STUTTGART REDHAT Stuttgart                        2
+RIEMER-BRAUNSTEIN - Riemer & Braunstein LLP              2
+IONIC-AS - Ionic Capital Management LLC                  2
+INTERNAP-BLOCK-4 - Internap Network Services Co...       2
+EXPONENTIAL-E-AS Exponential-e Ltd                       2
+OS33 - OS33, Inc                                         2
+HARBOURVEST - Harbourvest Partners, LLC                  2
+WATTSCORPORATEASN - Watts Water Technologies, Inc.       1
+ILAND - Iland Internet Solutions Corporation             1
+AVIDTE - Avid Technology, Inc.                           1
+LINEARTECH-INC - LINEAR TECHNOLOGIES INC.                1
+USDA-1 - USDA                                            1
+AUTOPARTINTL - AUTOPART INTERNATIONAL INC                1
+USNH - University System of New Hampshire                1
+INTERCONTINENTAL-EXCHANGE - IntercontinentalExc...       1
+ABRAMSCAPITALMANAGEMENTLLC - Abrams Capital Man...       1
+ABAATLASN2 - Abacus Solutions, LLC                       1
+ADAGE-CAPITAL---ASN - Adage Capital Partners, LLC        1
+ALLTEL - Cellco Partnership DBA Verizon Wireless         1
+UNITED-REFRIGERATION - UNITED REFRIGERATION INC          1
+MCCRACKENFS - McCracken Financial Software               1
+MEITCA-AS - Mitsubishi Electric ITA (HSL)                1
+MEGAPATH2-US - MegaPath Networks Inc.                    1
+AKAMAI-LON Akamai International B.V.                     1
+ATLANTICMEDIA-WG - Atlantic Media, Inc.                  1
+AS-MISI - Municipal Information Systems, Inc.            1
+ATLANTICBB-JOHNSTOWN - Atlantic Broadband Finan...       1
+AIRESPRING - AIRESPRING, INC.                            1
+IPO-EU IP-Only Telecommunication Networks AB             1
+WCM-ASN - Westfield Capital Management Company,...       1
+MERCURY - Mercury Network Corporation                    1
+ECHO-STREET - Echo Street Capital Management, LLC        1
+UNIONASN - Union College                                 1
+NFORCE NFOrce Entertainment BV                           1
+SKILLSOFT-CORP-NASHUA - SKILLSOFT CORPORATION            1
+FORRESTER-RESEARCH - Forrester Research                  1
+SIMONDSINTL - Simonds International Corporation          1
+CMCS - Comcast Cable Communications, Inc.                1
+NOAA-BOULDER - NOAA-Boulder                              1
+LATISYS-DENVER - Latisys-Denver, LLC                     1
+S-NETCOM - S-Net, Inc.                                   1
+CONRES01730 - Continental Resources                      1
+FAIRPO-3 - FAIRPOINT COMMUNICATIONS, INC.                1
+CORPITSOL-MAR - Corporate IT Solutions, Inc.             1
+PBS - Public Broadcasting Service                        1
+PCC-CORP - PRECISION CASTPARTS CORP                      1
+QWEST-AS-6640 - Qwest Communications Company, LLC        1
+PUTNAMFT - Putnam Fiduciary Trust                        1
+DINCL - dinCloud Inc.                                    1
+CABLE-NET-1 - Cablevision Systems Corp.                  1
+SSB-ASN - State Street Bank and Trust Company            1
+AXCELIS-TECHNOLOGIES - AXCELIS TECHNOLOGIES              1
+BTWL - Bio World Tech, LLC                               1
+BGP-AS - Boston GigaPoP                                  1
+UHC - Unitedhealthcare                                   1
+GOOGLE-IT - Google Incorporated                          1
+BIDDEFORD1 - Biddeford Internet Corp                     1
+MITRE-AS-5 - The MITRE Corporation                       1
+MOMENTAPHARMA - Momenta Pharmaceuticals, Inc.            1
+ELONU-AS - Elon University                               1
+BOCA-AS - IBM                                            1
+GOOGLE - Google Inc.                                     1
+BRIGHT-HORIZONS - BRIGHT HORIZONS.COM                    1
+GMA - Selectronics Corp.                                 1
+BRYANT-UNIVERSITY - Bryant University                    1
+SYNCSORT-INC - Syncsort Inc.                             1
+NEBH - New England Baptist Hospital                      1
+STONEH-AS - Stonehill College                            1
+TL-MABOS - Cengage Learning Inc                          1
+
+Count of measurements per City
+-------------
+                       Count
+City                        
+Needham                34697
+Boston                 23807
+Somerville             15488
+Bedford                14515
+Ashland                13688
+Cambridge              11789
+Devens                  9150
+Worcester               7709
+Springfield             7146
+Acton                   6645
+Dorchester              6479
+Watertown               6094
+Brighton                5325
+Arlington               5212
+Brookline               5135
+Concord                 5022
+Newton Center           4791
+Wellesley Hills         4639
+Lexington               4532
+Lowell                  4415
+Quincy                  4402
+Waltham                 4274
+Milton                  4024
+Framingham              3870
+Andover                 3795
+Brockton                3571
+Medford                 3540
+Jamaica Plain           3456
+East Falmouth           3381
+New Bedford             3364
+Natick                  3299
+Malden                  3275
+Marlborough             2911
+Newburyport             2899
+Fall River              2864
+Nantucket               2843
+Attleboro               2793
+Lynn                    2780
+Shrewsbury              2724
+Chicopee                2658
+Chelmsford              2636
+Pittsfield              2415
+Vineyard Haven          2371
+Haverhill               2327
+Marblehead              2320
+Belmont                 2300
+Billerica               2199
+Plymouth                2186
+Weston                  2162
+Winchester              2136
+Methuen                 2113
+Woburn                  2113
+Westford                2109
+Great Barrington        2054
+Pepperell               2044
+Brewster                1992
+Revere                  1948
+Franklin                1913
+Beverly                 1908
+Dracut                  1863
+Leominster              1789
+Burlington              1787
+Taunton                 1731
+Northborough            1723
+Salem                   1672
+Hingham                 1639
+Chelsea                 1619
+Everett                 1588
+Lawrence                1540
+Sharon                  1521
+Wakefield               1521
+Maynard                 1511
+Tewksbury               1494
+Milford                 1447
+Walpole                 1442
+Peabody                 1422
+Scituate                1415
+Danvers                 1400
+North Andover           1384
+Hopkinton               1381
+Roslindale              1341
+Sudbury                 1328
+West Roxbury            1318
+Gloucester              1316
+Amherst                 1277
+Amesbury                1274
+Hyannis                 1264
+Norwood                 1236
+Wilmington              1223
+Randolph                1214
+Centerville             1189
+South Yarmouth          1173
+Wayland                 1172
+Westfield               1167
+Holden                  1147
+Dedham                  1120
+Holyoke                 1108
+South Hamilton          1061
+Mansfield               1057
+Melrose                 1053
+Northampton             1046
+Reading                 1039
+Sandwich                1022
+Westborough             1009
+South Weymouth           980
+Clinton                  970
+Rockport                 961
+Wrentham                 958
+Southbridge              955
+Mashpee                  941
+Charlestown              938
+Medway                   934
+West Springfield         902
+Braintree                897
+Roxbury                  891
+West Newton              890
+Marshfield               889
+Auburn                   888
+Rowley                   883
+Newton                   871
+Ludlow                   842
+Greenfield               834
+Stoughton                824
+Littleton                817
+Marstons Mills           809
+Fitchburg                800
+Tyngsboro                799
+Longmeadow               787
+Saugus                   774
+Swampscott               767
+Middleboro               760
+Provincetown             751
+Eastham                  724
+Webster                  719
+Groton                   691
+North Attleboro          666
+Kingston                 648
+Hudson                   646
+Holliston                645
+Lee                      642
+North Adams              628
+Rehoboth                 621
+North Reading            613
+Charlton                 603
+Buzzards Bay             598
+Sherborn                 594
+Whitinsville             592
+Foxborough               583
+North Easton             582
+Lynnfield                582
+Allston                  578
+East Weymouth            577
+Hyde Park                575
+East Bridgewater         565
+Harwich                  552
+Medfield                 551
+Easthampton              545
+Athol                    537
+Wareham                  528
+Bridgewater              514
+Pembroke                 512
+Abington                 496
+Uxbridge                 473
+Canton                   470
+Bellingham               450
+Lenox                    437
+Wellfleet                436
+Rockland                 431
+Upton                    425
+Westwood                 419
+Manchester-by-the-Sea    418
+Marion                   410
+Weymouth                 408
+Ashburnham               398
+Grafton                  395
+South Hadley             392
+Edgartown                391
+Head of Westport         387
+West Yarmouth            386
+West Newbury             384
+Stoneham                 383
+Rochester                370
+Belchertown              368
+Agawam                   364
+Ipswich                  361
+Lunenburg                321
+Seekonk                  320
+Gardner                  320
+Topsfield                319
+Wellesley                315
+Chestnut Hill            313
+South Deerfield          304
+Monterey                 296
+Wilbraham                293
+Mattapan                 292
+Sturbridge               290
+Hanover                  285
+Florence                 285
+Yarmouth Port            277
+Winchendon               276
+Ashfield                 272
+Westminster              263
+Northbridge              257
+Granby                   250
+Norton                   250
+Ayer                     247
+Ware                     243
+Palmer                   241
+Oxford                   241
+Groveland                234
+Fairhaven                234
+Mattapoisett             232
+Millbury                 227
+Georgetown               221
+West Bridgewater         215
+Whitman                  213
+Feeding Hills            208
+Carver                   206
+Winthrop                 198
+North Grafton            197
+Southborough             196
+Plainville               195
+North Dartmouth          194
+Swansea                  184
+Harvard                  176
+East Longmeadow          174
+Sunderland               168
+Duxbury                  163
+Carlisle                 162
+Sterling                 160
+Adams                    159
+Chesterfield             159
+Falmouth                 157
+Somerset                 151
+Worthington Center       149
+Auburndale               148
+Monson                   145
+Newtonville              144
+South Easton             143
+Plainfield               142
+Sutton                   136
+Millis                   134
+Leverett                 133
+Dudley                   131
+Spencer                  130
+Shirley                  123
+Essex                    123
+Needham Heights          120
+Douglas                  113
+South Dennis             111
+Boxford                  110
+Norwell                  109
+Goshen                   107
+Hull                     105
+Warwick                  105
+Princeton                104
+Rutland                  101
+Waban                    101
+Oak Bluffs               100
+Southampton               98
+Lincoln                   93
+Berkley                   91
+Leicester                 88
+Truro                     86
+Chatham                   85
+Raynham                   83
+Williamstown              79
+Ashby                     78
+North Oxford              78
+Hopedale                  75
+Middleton                 75
+East Otis                 75
+Boxborough                74
+Colrain                   74
+Stow                      73
+North Billerica           72
+Roxbury Crossing          72
+Cummington                71
+Wenham                    70
+Baldwinville              69
+Cotuit                    68
+East Taunton              68
+Norfolk                   67
+Merrimac                  65
+Shutesbury                64
+Cohasset                  63
+Lakeville                 60
+Chilmark                  60
+Holbrook                  60
+Russell                   57
+Hinsdale                  53
+Berlin                    52
+Blackstone                48
+Indian Orchard            48
+Halifax                   46
+Jefferson                 46
+Orleans                   45
+North Chelmsford          44
+Shelburne Falls           43
+New Salem                 43
+Petersham                 42
+Forestdale                40
+Southwick                 40
+Newton Highlands          39
+West Boylston             39
+Townsend                  37
+Williamsburg              37
+Orange                    35
+Nahant                    34
+East Dennis               33
+Dunstable                 33
+West Barnstable           33
+Otis                      32
+Savoy                     32
+Dennis                    32
+Hanson                    31
+Wendell                   31
+Barre                     29
+Windsor                   29
+Brimfield                 29
+Fisherville               28
+Osterville                27
+Templeton                 27
+South Egremont            25
+West Brookfield           25
+Newton Upper Falls        25
+Southfield                24
+Blandford                 24
+East Sandwich             23
+Mendon                    23
+West Stockbridge          22
+Royalston                 22
+Bolton                    21
+Paxton                    21
+Brookfield                20
+Becket                    20
+Acushnet                  19
+Stockbridge               19
+Tyringham                 18
+Hadley                    18
+West Wareham              18
+West Tisbury              17
+Hampden                   17
+Sheffield                 17
+North Truro               17
+Cuttyhunk                 16
+Pocasset                  16
+East Wareham              16
+Newbury Old Town          16
+North Eastham             15
+Deerfield                 15
+Charlemont                15
+Millville                 15
+Millers Falls             14
+Lanesborough              14
+Drury                     13
+North Weymouth            13
+Turners Falls             13
+Salisbury                 13
+South Dartmouth           12
+Plympton                  12
+Dennis Port               12
+Middlefield               12
+Cataumet                  12
+Avon                      12
+Rowe                      12
+Lancaster                 12
+Leeds                     11
+West Harwich              11
+Harwich Port              11
+Conway                    11
+Montague                  11
+Dover                     10
+Northfield                10
+Byfield                   10
+Cheshire                   9
+Gill                       9
+Dighton                    9
+Boylston                   9
+North Brookfield           9
+North Chatham              8
+Prides Crossing            8
+East Brookfield            7
+Fiskdale                   7
+North Falmouth             7
+Granville                  7
+Woods Hole                 6
+East Walpole               6
+Bernardston                6
+Ashley Falls               5
+Sandisfield                5
+Oakham                     5
+Hatfield                   5
+Dalton                     5
+Holland                    4
+Rochdale                   4
+New Braintree              4
+Hubbardston                3
+Richmond                   3
+North Dighton              3
+Sagamore Beach             3
+Warren                     3
+Hardwick                   3
+Attleboro Falls            3
+Erving                     3
+Newton Lower Falls         2
+Lake Pleasant              2
+Whately                    2
+Barnstable                 2
+Nutting Lake               2
+Three Rivers               2
+Assonet                    2
+West Chatham               2
+Brant Rock                 2
+Wales                      1
+Humarock                   1
+North Hatfield             1
+West Dennis                1
+West Hatfield              1
+Marlboro                   1
+Bondsville                 1
+South Lancaster            1
+Monument Beach             1
+Still River                1
+Cherry Valley              1
+Chartley                   1
+East Freetown              1
+Heath                      1
+
