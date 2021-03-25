@@ -61,3 +61,9 @@ We don’t have direct access to the original resources. Everytime we apply for 
 2. We refined our project scope and answered one key question.
 3. We did follow-ups after the meeting with clients and sent emails about the questions we want to ask the manufacture for the specific coffee products we are working on.
 
+### [Deliverable 2 @March 19, 2021](https://github.com/milesway/CS506Spring2021Repository/tree/master/SustainablePurchasing/Deliverable%202)
+1. We refined our analysis for deliverable 1.
+2. We refined our project scope and answered another question - comparison between weight of the coffee and creamer.
+3. We collected some batch of data regarding to the weight and volume for each sub-category of coffee and toner products.
+3. We got a secondary data from our clients and have been working on the preliminary analysis.
+
