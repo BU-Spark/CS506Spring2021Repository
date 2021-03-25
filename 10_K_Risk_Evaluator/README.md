@@ -1,4 +1,4 @@
-# Categorizing Companies By 10-K Filings (i.e., Stated Risk Factors) & Comparing COVID-Era Performance 
+# Categorizing Companies By 10-K Filings (i.e., Stated Risk Factors) & Comparing 2019 -> 2020 Performance 
 
 # Project Description
 We propose to develop or adapt a web-scraping tool that extracts data from Securities and Exchange Commission (SEC) filings. Publicly traded companies must annually submit 10-K filings (which detail financial performance) to the SEC. 10-K filings contain both forward looking statements and risk factor sections, which each consist of multiple paragraphs. These 10-K subsections may emphasize technical, market, or supply chain risk, among other factors. We plan to use unsupervised learning (e.g., cosine similarity) to cluster and compare companies based on their stated business model risks. 
