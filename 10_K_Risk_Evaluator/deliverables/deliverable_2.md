@@ -27,5 +27,5 @@ Although we're excited that our LDA model works, we're slightly concerned that o
 - Post-LDA, explore additional ways to visualize top words among 'topic groups' (beyond word clouds)
 - General exploratory data analysis-- what does our corpus look like? How can we tie in all the financial performance metrics we gathered into our LDA categorizations?
 
-- Eric South
+ -- Eric South
 
