@@ -9,7 +9,7 @@
 - [x] Identify key attributes in each data source and limitations 
 - [x] Plot price vs volume of tweets with $ tag
 
-![tweetsplot](tweetsplot.jpg)
+![tweetsplot](tweetsplot.JPG)
 
 
 Sufficient data should have been collected to perform a preliminary analysis of the data and attempt to answer one question relevant to your project proposal which you will submit as a pull request. If data has already been collected for your project you must answer two questions.
