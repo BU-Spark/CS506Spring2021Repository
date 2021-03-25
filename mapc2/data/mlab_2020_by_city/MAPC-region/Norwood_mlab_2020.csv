@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 997,2020-01-02 13:22:04.884614+00:00,b'&\x01\x01\x94A\x00\xa3\xd0M\xd8\x8a\xaep\xdeI\xa2',9.536437247015993,15.574,Norwood,42.1897,-71.2048,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1763,2020-01-03 17:07:26.620738+00:00,b'd\x00}B',2.0744418280224424,9.335,Norwood,42.1897,-71.2048,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1803,2020-01-03 17:06:51.551064+00:00,b'd\x00}B',2.068637498741818,9.652,Norwood,42.1897,-71.2048,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

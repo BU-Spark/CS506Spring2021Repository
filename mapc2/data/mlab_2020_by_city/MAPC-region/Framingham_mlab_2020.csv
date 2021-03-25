@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 302,2020-01-01 13:06:12.829438+00:00,b'G\xc03\xd2',17.683372859214728,14.048,Framingham,42.3026,-71.4306,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 330,2020-01-01 01:06:12.947985+00:00,b'G\xc03\xd2',17.658137265192277,13.785,Framingham,42.3026,-71.4306,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 389,2020-01-01 20:36:21.874886+00:00,b'l1\xe0L',92.11311434103236,11.28,Framingham,42.2832,-71.4296,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

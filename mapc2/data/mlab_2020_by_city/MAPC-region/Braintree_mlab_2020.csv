@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 13,2020-01-01 17:18:12.496679+00:00,b'I\xba\x96l',0.2307532894376728,100.0,Braintree,42.2125,-70.9961,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 141,2020-01-01 20:55:40.942013+00:00,b'\xad0!1',86.45731457865996,9.047,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 208,2020-01-01 17:28:24.109414+00:00,b'bn\xca\x03',8.443951230760273,18.223,Braintree,42.2125,-70.9961,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

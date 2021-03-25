@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 793,2020-01-02 13:22:35.735327+00:00,"b'&\x00\x10\x00\xb04\x97459.3\xf7\xc1""\xcc'",0.2848995040885883,50.796,Wayland,42.3513,-71.3626,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
 1388,2020-01-02 01:26:06.649766+00:00,b'\x97\xcb9\xf1',114.68944625729156,9.136,Wayland,42.3513,-71.3626,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 2346,2020-01-03 17:22:19.553471+00:00,b'\x97\xcb9\xf1',114.64906341048965,9.0,Wayland,42.3513,-71.3626,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

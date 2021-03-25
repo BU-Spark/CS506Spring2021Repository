@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 15,2020-01-01 17:26:50.683093+00:00,b'Ir\xd43',40.13772565308307,21.994,Gloucester,42.6219,-70.6762,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 31,2020-01-01 13:15:14.385041+00:00,b'\x18?\xb4\xfd',40.62602490833931,18.413,Gloucester,42.6219,-70.6762,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 82,2020-01-01 17:25:38.458594+00:00,b'\x18=\xf8\xb5',10.39345023455842,63.572,Gloucester,42.6219,-70.6762,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

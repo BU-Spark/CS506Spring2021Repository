@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 158527,2020-05-12 19:52:55.839356+00:00,b'\xc0\x962\x14',4.27233764849911,69.963,Bolton,42.4365,-71.6076,393688.0,
 161138,2020-05-13 16:11:35.888099+00:00,b'\xc0\x962\x04',25.927518003436784,83.212,Bolton,42.4365,-71.6076,393688.0,
 191931,2020-06-04 19:54:17.489848+00:00,"b'HJl""'",0.2216451792601839,447.168,Bolton,42.4365,-71.6076,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

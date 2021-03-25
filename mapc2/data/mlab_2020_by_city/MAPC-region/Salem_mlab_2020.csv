@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 74,2020-01-01 13:08:57.395409+00:00,b'I<\x80!',11.806695912445226,19.954,Salem,42.5181,-70.899,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 112,2020-01-01 13:11:49.804798+00:00,b'G\xe9\xfae',0.6129239862492096,17.006,Salem,42.5181,-70.899,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 162,2020-01-01 01:08:56.615446+00:00,b'I<\x80!',11.68643214061152,21.524,Salem,42.5181,-70.899,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

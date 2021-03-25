@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 39,2020-01-01 20:37:42.856374+00:00,b'I\xfdP\xea',2.406062429998179,20.44,Boston,42.3364,-71.0326,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 40,2020-01-01 13:02:16.852152+00:00,b'G\xe8?X',9.38694293507834,18.083,Boston,42.3498,-71.0765,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 53,2020-01-01 01:25:10.398638+00:00,b'&\x00\x10\x00\xb0a\xb8\xae\xc0\x01k\x91\xdf\xaag\x16',0.4140345494081018,49.982,Boston,42.3364,-71.0326,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless

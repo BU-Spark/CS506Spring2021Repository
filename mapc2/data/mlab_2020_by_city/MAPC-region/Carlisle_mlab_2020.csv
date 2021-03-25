@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 5027,2020-01-06 01:13:21.730785+00:00,b'&\x01\x01\x8f\x08\x00!\xa0}=\xe8\x8a-\xab\x87:',4.953249272316088,39.151,Carlisle,42.5286,-71.3519,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 12950,2020-01-15 20:31:21.521728+00:00,b'&\x01\x01\x8f\x08\x02\xab\xb0\xfd\tRU\xf0\xbc\xc1\x9c',10.5026424106822,18.524,Carlisle,42.5286,-71.3519,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 13441,2020-01-16 01:00:53.375444+00:00,b'2\xd0\x89\xca',32.78998604648237,19.33,Carlisle,42.5286,-71.3519,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

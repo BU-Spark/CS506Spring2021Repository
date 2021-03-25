@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 36,2020-01-01 20:43:00.790208+00:00,b'\xcf\xac\xda\xb1',0.8060972320286787,18.605,Milton,42.2518,-71.0805,6079.0,RCN-AS - RCN
 275,2020-01-01 01:13:48.495141+00:00,b'I\xf9\x9dj',8.485967322061557,21.292,Milton,42.2518,-71.0805,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 310,2020-01-01 20:43:37.733598+00:00,b'\xcf\xac\xda\xb1',0.9678071529678104,22.08,Milton,42.2518,-71.0805,6079.0,RCN-AS - RCN

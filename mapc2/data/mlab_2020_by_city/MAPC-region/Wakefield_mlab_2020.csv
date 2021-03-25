@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 232,2020-01-01 20:46:02.912980+00:00,b'&\x01\x01\x9cG\x00\x03\xc8YH\xef\xba{\x8a\x95E',7.79515574430975,16.36,Wakefield,42.4945,-71.0715,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 610,2020-01-01 20:46:33.299179+00:00,b'&\x01\x01\x9cG\x00\x03\xc8YH\xef\xba{\x8a\x95E',10.45940591684562,15.346,Wakefield,42.4945,-71.0715,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1503,2020-01-02 01:25:32.426765+00:00,b'I\xdb :',3.3732887823608926,18.0,Wakefield,42.4945,-71.0715,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

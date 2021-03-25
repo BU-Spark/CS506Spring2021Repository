@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 103,2020-01-01 01:03:41.358630+00:00,b'J\\\x1f>',0.706477942127945,51.691,Marlborough,42.3491,-71.5431,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 111,2020-01-01 01:22:14.520040+00:00,b'&\x01\x01\x8e\x01\x00\x8e\x80\x9c\x8b.V\xec\xd4\xfb\x8e',17.16183853040245,26.265,Marlborough,42.3491,-71.5431,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 367,2020-01-01 20:43:35.428580+00:00,b'&\x01\x01\x8e\x01\x00\x00\xe0\x14\xe93 \xd3mS\xfd',40.58519753474703,23.603,Marlborough,42.3491,-71.5431,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

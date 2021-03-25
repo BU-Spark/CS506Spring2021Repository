@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 19,2020-01-01 01:08:35.813425+00:00,b'Iw\xcb\xfe',39.90897041254095,16.205,Weston,42.3608,-71.2954,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 43,2020-01-01 01:23:16.645324+00:00,b'Iw\xcf7',40.8985471292892,16.086,Weston,42.3608,-71.2954,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 57,2020-01-01 13:23:16.392288+00:00,b'Iw\xcf7',40.87962731412544,15.896,Weston,42.3608,-71.2954,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

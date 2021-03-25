@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 8,2020-01-01 17:29:13.087929+00:00,b'A`\xc4\n',23.19116740171613,16.946,Rockport,42.658,-70.6194,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 375,2020-01-01 17:02:24.191359+00:00,b'\x18\x02\xc1\xc8',39.79472056021677,18.199,Rockport,42.658,-70.6194,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1206,2020-01-02 17:29:12.887075+00:00,b'A`\xc4\n',23.193454587791816,17.773,Rockport,42.658,-70.6194,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

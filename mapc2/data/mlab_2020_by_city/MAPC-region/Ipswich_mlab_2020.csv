@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 178,2020-01-01 17:01:24.573007+00:00,b'bn\xc8\xa0',91.68127358305182,9.826,Ipswich,42.6842,-70.8478,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 764,2020-01-02 17:01:24.484686+00:00,b'bn\xc8\xa0',92.72408617301828,9.879,Ipswich,42.6842,-70.8478,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1549,2020-01-02 01:06:56.085775+00:00,b'\x8d\x9aKD',186.46231646735345,10.072,Ipswich,42.6842,-70.8478,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

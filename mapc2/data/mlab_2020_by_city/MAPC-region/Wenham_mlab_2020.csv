@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 27914,2020-02-01 17:23:13.070210+00:00,b'\x18=\x93\x17',5.908607930218063,15.688,Wenham,42.6017,-70.8786,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 27945,2020-02-01 01:26:32.593825+00:00,b'\x18=\x97\x15',5.919185153842543,19.436,Wenham,42.6017,-70.8786,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 27998,2020-02-01 13:26:32.837438+00:00,b'\x18=\x97\x15',5.916085374752158,19.063,Wenham,42.6017,-70.8786,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

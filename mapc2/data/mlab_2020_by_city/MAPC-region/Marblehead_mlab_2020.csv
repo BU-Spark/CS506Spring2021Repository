@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 191,2020-01-01 13:12:28.984527+00:00,b'B\x1e)\xc4',2.4650140161336065,27.72,Marblehead,42.4947,-70.8499,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 443,2020-01-01 20:30:03.228706+00:00,b'&\x01\x01\x81\xc4\x80\xad@\x00\x86\xe4\xd8\x0c\x115\xd3',3.815156923892802,25.695,Marblehead,42.4947,-70.8499,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 550,2020-01-01 20:42:37.923409+00:00,b'&\x01\x01\x81\xc4\x80\xad@\x00\x86\xe4\xd8\x0c\x115\xd3',4.014007783634056,24.351,Marblehead,42.4947,-70.8499,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

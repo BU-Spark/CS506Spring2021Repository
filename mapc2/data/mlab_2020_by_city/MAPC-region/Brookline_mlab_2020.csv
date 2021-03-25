@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 86,2020-01-01 17:05:43.182405+00:00,b'L\x13j\xb7',11.82178259569603,19.726,Brookline,42.3268,-71.1341,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 110,2020-01-01 17:22:27.596605+00:00,b'Iwrh',8.907435922035903,18.458,Brookline,42.3399,-71.1245,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 152,2020-01-01 17:24:52.886660+00:00,b'Iwrh',39.71139040890174,14.429,Brookline,42.3399,-71.1245,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

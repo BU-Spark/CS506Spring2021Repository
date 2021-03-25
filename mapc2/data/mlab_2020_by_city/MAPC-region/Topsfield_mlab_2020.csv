@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 139,2020-01-01 01:26:10.775986+00:00,b'd\x00p\xaf',78.05618900636445,12.432,Topsfield,42.6421,-70.9419,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 286,2020-01-01 13:26:10.925191+00:00,b'd\x00p\xaf',78.23390139872517,14.848,Topsfield,42.6421,-70.9419,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1125,2020-01-02 13:26:10.795683+00:00,b'd\x00p\xaf',77.18410712300205,12.646,Topsfield,42.6421,-70.9419,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

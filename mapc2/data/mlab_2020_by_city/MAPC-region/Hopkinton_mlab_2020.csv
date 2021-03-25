@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 625,2020-01-01 01:09:03.103406+00:00,b'`\xe9K\xd6',436.9904746277529,11.399,Hopkinton,42.2187,-71.5351,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 673,2020-01-01 17:22:12.515677+00:00,b'`\xe9K\xd6',442.46393871561503,8.613,Hopkinton,42.2187,-71.5351,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1384,2020-01-02 13:23:38.969566+00:00,b'`\xe9K\xd6',427.33945641159215,16.933,Hopkinton,42.2187,-71.5351,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

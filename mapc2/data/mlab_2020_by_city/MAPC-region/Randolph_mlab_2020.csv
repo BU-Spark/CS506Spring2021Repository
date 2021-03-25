@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 773,2020-01-02 20:31:12.842874+00:00,b'`\xed\xeaw',63.80774136745325,10.329,Randolph,42.1755,-71.054,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 842,2020-01-02 20:56:09.735949+00:00,b'`\xed\xeaw',3.611084968233147,14.413,Randolph,42.1755,-71.054,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 966,2020-01-02 20:54:34.141180+00:00,b'&\x01\x01\x83\xc0\x80\\ \xb8\xa5\\\xc0\xf1\xb5\x89\xe1',2.726222281219872,23.399,Randolph,42.1755,-71.054,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

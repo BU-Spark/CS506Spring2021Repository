@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 10,2020-01-01 20:56:10.577264+00:00,b'\xadLT\xd7',30.00532590019192,9.64,Stoughton,42.1246,-71.1149,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 852,2020-01-02 13:08:06.799741+00:00,b'\x97\xcb;\x88',170.1228380418804,12.133,Stoughton,42.1246,-71.1149,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 866,2020-01-02 13:22:17.950174+00:00,b'l\x071\xbf',154.8757994832478,14.71,Stoughton,42.1246,-71.1149,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

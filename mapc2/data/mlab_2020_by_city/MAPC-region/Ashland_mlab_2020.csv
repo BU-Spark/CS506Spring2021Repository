@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 131,2020-01-01 20:40:14.481548+00:00,b'\xad0\xb6\x18',31.212783014958948,15.605,Ashland,42.2546,-71.4564,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 343,2020-01-01 20:50:40.420758+00:00,b'`\xe6l\xce',66.04164662342411,8.871,Ashland,42.2546,-71.4564,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 438,2020-01-01 17:24:04.376404+00:00,b'\xad0\x9c\x1c',68.04003407698598,10.606,Ashland,42.2546,-71.4564,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

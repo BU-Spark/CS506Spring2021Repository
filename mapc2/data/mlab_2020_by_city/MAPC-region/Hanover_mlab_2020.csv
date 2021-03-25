@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 3724,2020-01-05 17:12:39.507130+00:00,b'G\xb8\xe0v',31.847170868707625,14.357,Hanover,42.1214,-70.857,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 3946,2020-01-05 17:13:57.769068+00:00,b'G\xb8\xe0v',18.05555130392743,15.09,Hanover,42.1214,-70.857,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 4948,2020-01-06 17:14:49.627483+00:00,b'\x18\x93\x8aA',1.4693864680647564,40.331,Hanover,42.1214,-70.857,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

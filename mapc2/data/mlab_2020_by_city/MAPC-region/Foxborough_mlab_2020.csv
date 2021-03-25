@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 371,2020-01-01 17:09:01.435196+00:00,b'\xad0\xd9\x1d',13.459866275319994,9.797,Foxborough,42.0648,-71.2504,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 530,2020-01-01 01:02:11.696013+00:00,b'A`\t\xdc',8.04944282795499,15.944,Foxborough,42.0648,-71.2504,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1860,2020-01-03 01:14:52.855894+00:00,b'\xad0\xd9\xe2',11.088798147404589,33.761,Foxborough,42.0648,-71.2504,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

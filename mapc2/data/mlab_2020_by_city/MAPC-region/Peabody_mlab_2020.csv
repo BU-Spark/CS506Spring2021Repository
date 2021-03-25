@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 751,2020-01-02 20:32:10.916821+00:00,b'Ir:\xb8',29.697973971875097,30.314,Peabody,42.5334,-70.9653,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 832,2020-01-02 17:15:40.314328+00:00,b'&\x01\x01\x94\xc2\x00\xd1\x80\xf4l3\x8d\x18\xdc\xdb|',11.5574166521227,23.558,Peabody,42.5334,-70.9653,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 927,2020-01-02 20:35:17.813397+00:00,b'Ir:\xb8',23.820879340824323,24.616,Peabody,42.5334,-70.9653,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

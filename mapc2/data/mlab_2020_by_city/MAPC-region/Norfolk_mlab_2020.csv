@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 25681,2020-01-29 13:23:10.971947+00:00,b'`Y\xd2m',22.01193997165418,31.333,Norfolk,42.1177,-71.3269,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 67467,2020-03-16 19:57:47.505578+00:00,b'2\xcb\x87\x96',82.84853574329087,4.502,Norfolk,42.1177,-71.3269,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 128652,2020-04-22 00:24:31.694919+00:00,b'I\xda\x08\xb4',5.891303896812808,27.43,Norfolk,42.1177,-71.3269,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

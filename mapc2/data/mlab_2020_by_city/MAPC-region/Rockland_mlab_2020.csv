@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 9,2020-01-01 13:18:37.212909+00:00,b'bv/r',45.022585942947664,11.99,Rockland,42.1292,-70.9134,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 828,2020-01-02 20:59:31.171875+00:00,b'KC\x03\xef',40.86283634707346,16.109,Rockland,42.1292,-70.9134,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 2830,2020-01-04 20:36:24.821706+00:00,b'KC\x03\xef',40.63552092572584,27.996,Rockland,42.1292,-70.9134,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

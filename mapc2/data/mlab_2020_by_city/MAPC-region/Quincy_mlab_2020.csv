@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 164,2020-01-01 17:13:42.076071+00:00,b'&\x01\x01\x96F\x00\x0b\xd0mY\xdb\xd1\xa0\x89v?',5.819119066761204,15.093,Quincy,42.2463,-70.9972,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 328,2020-01-01 01:25:13.150559+00:00,b'\x18\xdaK\x13',0.2288906178158329,27.358,Quincy,42.2463,-70.9972,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 709,2020-01-01 20:49:31.611381+00:00,b'I\xeaSq',5.714052907250949,25.402,Quincy,42.2463,-70.9972,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

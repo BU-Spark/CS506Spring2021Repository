@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 2031,2020-01-03 01:25:04.949049+00:00,b'ID\rA',41.03901523048613,14.185,Sherborn,42.2331,-71.3787,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 2478,2020-01-03 01:10:18.834195+00:00,b'ID\rA',40.3864945628679,17.428,Sherborn,42.2331,-71.3787,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 19740,2020-01-23 01:11:49.589255+00:00,b'&\x01\x01\x92J\x00]\xf0\x11&4#\xdb\x02z\xb4',5.861360647597313,18.105,Sherborn,42.2331,-71.3787,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

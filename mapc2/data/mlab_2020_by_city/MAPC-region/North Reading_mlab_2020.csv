@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 190,2020-01-01 17:09:13.777728+00:00,b'l1\xc7\xac',40.95993012220167,15.132,North Reading,42.5826,-71.0949,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 326,2020-01-01 17:08:45.608241+00:00,b'l1\xc7\xac',47.546223628660144,18.944,North Reading,42.5826,-71.0949,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 491,2020-01-01 17:09:55.454239+00:00,b'l1\xc7\xac',41.79680972209678,12.478,North Reading,42.5826,-71.0949,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

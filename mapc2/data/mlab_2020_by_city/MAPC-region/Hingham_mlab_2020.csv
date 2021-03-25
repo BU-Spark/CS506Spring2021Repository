@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 242,2020-01-01 17:14:39.484818+00:00,"b'\x18<,\xd7'",2.5231349582085154,62.025,Hingham,42.2229,-70.8819,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 274,2020-01-01 20:33:30.554221+00:00,b'HJ#\x11',1.253363226826386,11.178,Hingham,42.2229,-70.8819,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 573,2020-01-01 20:50:33.338166+00:00,b'l\x14}\xfd',78.27842743271206,42.648,Hingham,42.2229,-70.8819,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

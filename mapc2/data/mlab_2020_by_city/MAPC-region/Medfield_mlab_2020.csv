@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 92,2020-01-01 20:42:33.342070+00:00,b'D\xa2\xd5\xb5',23.68155473144888,17.854,Medfield,42.1815,-71.3011,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 96,2020-01-01 01:13:14.938143+00:00,b'B\x1e\xb8Y',11.821581189655053,19.2,Medfield,42.1815,-71.3011,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 336,2020-01-01 13:13:15.102167+00:00,b'B\x1e\xb8Y',11.82093882896796,16.964,Medfield,42.1815,-71.3011,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

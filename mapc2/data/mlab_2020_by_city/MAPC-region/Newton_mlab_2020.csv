@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 1064,2020-01-02 20:38:26.145748+00:00,b'\x92s\x89\xc4',0.353089120588119,17.042,Newton,42.354,-71.185,6079.0,RCN-AS - RCN
 2528,2020-01-03 17:02:24.282246+00:00,b'\x92s\x83\xd6',16.032247690568994,17.829,Newton,42.354,-71.185,6079.0,RCN-AS - RCN
 2847,2020-01-04 17:09:02.530450+00:00,b'\x92s\x85\x0f',17.21765966696727,19.968,Newton,42.354,-71.185,6079.0,RCN-AS - RCN

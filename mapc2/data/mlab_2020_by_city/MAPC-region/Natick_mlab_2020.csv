@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 49,2020-01-01 17:02:00.984440+00:00,b'\xad0\xd0\x83',455.32170379995233,10.128,Natick,42.2878,-71.3587,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 119,2020-01-01 17:06:25.860080+00:00,b'\xd1\x06\x1e?',24.76852051544558,16.043,Natick,42.2878,-71.3587,6079.0,RCN-AS - RCN
 182,2020-01-01 17:04:07.981377+00:00,b'`\xe6S\xae',455.0224087967847,9.04,Natick,42.2878,-71.3587,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

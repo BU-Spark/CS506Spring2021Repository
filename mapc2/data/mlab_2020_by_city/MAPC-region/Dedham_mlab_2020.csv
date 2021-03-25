@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 255,2020-01-01 20:55:42.276839+00:00,b'`\xe6)j',75.89480733402486,16.375,Dedham,42.2441,-71.1688,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1231,2020-01-02 17:18:19.387180+00:00,b'`\xed\xf0\x1a',74.82748217867082,12.518,Dedham,42.2441,-71.1688,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 2561,2020-01-04 17:07:30.067185+00:00,b'G\xebT\x0c',5.587550825639722,15.706,Dedham,42.2441,-71.1688,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 129,2020-01-01 01:13:02.545070+00:00,b'\xad\r]\xa5',22.37279717166064,18.105,Concord,42.4567,-71.3747,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 244,2020-01-01 20:57:42.270029+00:00,b'G\xea\xe0\xe0',38.315821176088086,13.0,Concord,42.4567,-71.3747,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 247,2020-01-01 01:04:46.074814+00:00,b'\x18\xda\xb6M',11.779512387279317,32.051,Concord,42.4567,-71.3747,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

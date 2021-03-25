@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 203,2020-01-01 13:08:28.203026+00:00,b'&\x07\xfb\x90h\x84m\xf5\xf5\xd0t\x1e\xf6\x968 ',1.9095513524872627,42.255,Chelsea,42.3973,-71.0372,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
 378,2020-01-01 20:42:27.492508+00:00,b'&\x07\xfb\x90\x0ew\x96p\xf5\xce2\x1c\xb4\xf24v',0.1805539587502585,32.147,Chelsea,42.3973,-71.0372,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
 499,2020-01-01 01:24:51.974821+00:00,"b'&\x07\xfb\x90\x0ey\xfc\x1f\xf4\xde\n\x00\xb6\x9e\x84,'",4.053425424866466,39.452,Chelsea,42.3973,-71.0372,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."

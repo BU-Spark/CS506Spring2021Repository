@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 7410,2020-01-09 20:40:28.752465+00:00,"b'&\x01\x01\x8dG\x80\x1f0\xec\x10>\xec\x08\xc0,M'",1.2626511295134348,18.392,Winthrop,42.3763,-70.98,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 7622,2020-01-09 20:41:25.328510+00:00,"b'&\x01\x01\x8dG\x80\x1f0\xec\x10>\xec\x08\xc0,M'",0.9686619845589466,19.186,Winthrop,42.3763,-70.98,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 9396,2020-01-11 13:21:24.186817+00:00,b'&\x01\x01\x8dG\x80+\xa0\xf8\xd0\xf9\xa9\xdf\x8e\x98\x15',5.51901777185921,19.416,Winthrop,42.3763,-70.98,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

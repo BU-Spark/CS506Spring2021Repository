@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 16,2020-01-01 01:01:52.740162+00:00,b'G\xaer$',2.9541400783105307,11.608,Wilmington,42.5575,-71.1736,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 179,2020-01-01 01:00:22.867570+00:00,b'G\xaer$',13.782450899453282,9.246,Wilmington,42.5575,-71.1736,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 754,2020-01-02 01:24:24.618710+00:00,b'\xc6\x1c\x80\x9b',0.6416558426274198,96.363,Wilmington,42.5575,-71.1736,20402.0,OSRAM-SYLVANIA - OSRAM SYLVANIA INC.

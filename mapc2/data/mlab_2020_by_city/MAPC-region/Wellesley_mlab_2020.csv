@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 466,2020-01-01 20:30:47.112548+00:00,b'l\x07\xccE',470.93043050621,8.647,Wellesley,42.2958,-71.3018,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 959,2020-01-02 20:30:35.680913+00:00,b'l\x07\xccE',485.53126238644586,8.767,Wellesley,42.2958,-71.3018,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1766,2020-01-03 20:52:23.677996+00:00,b'l\x07\xccE',362.954050054678,8.698,Wellesley,42.2958,-71.3018,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 21277,2020-01-24 17:01:23.485153+00:00,b'\xad\xa6\x06\x89',7.997891857191069,27.07,Cohasset,42.2426,-70.8144,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 60040,2020-03-09 19:50:09.112737+00:00,b'E\xc1I\x83',27.35809353219612,29.383,Cohasset,42.2426,-70.8144,11351.0,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC
 86051,2020-03-27 16:18:07.719800+00:00,b'4|\x06X',47.15537993009762,20.697,Cohasset,42.2426,-70.8144,11589.0,"STOWE-ACCESS - Stowe Access, LLC"

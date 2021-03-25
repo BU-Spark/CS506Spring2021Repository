@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 14179,2020-01-16 13:28:30.139678+00:00,b'\x18hF\xe6',24.61577705949865,9.137,Dover,42.2362,-71.2854,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 24528,2020-01-28 20:33:53.836907+00:00,"b'&\x00\x10\x00\xb0#\xc9E\xc5,\xce\x98\xbd\xd1\x03\xa7'",14.734523888590497,36.088,Dover,42.2362,-71.2854,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
 24670,2020-01-28 20:33:17.020888+00:00,"b'&\x00\x10\x00\xb0#\xc9E\xc5,\xce\x98\xbd\xd1\x03\xa7'",27.12327550697445,38.823,Dover,42.2362,-71.2854,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless

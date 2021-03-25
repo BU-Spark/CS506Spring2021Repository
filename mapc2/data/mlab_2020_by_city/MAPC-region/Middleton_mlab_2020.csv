@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 2180,2020-01-03 17:27:40.800542+00:00,b'\xad\tv]',12.803530477203092,20.755,Middleton,42.5937,-71.0222,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 11922,2020-01-14 17:11:33.834835+00:00,b'`Y\xeb=',17.95114482368442,18.372,Middleton,42.5937,-71.0222,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 23501,2020-01-27 01:01:44.005979+00:00,b'&\x01\x01\x81\xc4\x80\x17\x90\xac\xa0\xe4\xf3\x06\x9bpR',2.600501012675676,17.68,Middleton,42.5937,-71.0222,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 154,2020-01-01 17:10:43.713005+00:00,b'\x18>\x1a\x1c',5.369224954603633,16.104,Sudbury,42.3822,-71.4275,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 578,2020-01-01 13:10:29.361990+00:00,b'l1\x88(',85.98693487335733,9.752,Sudbury,42.3822,-71.4275,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 801,2020-01-02 01:28:49.784600+00:00,b'&\x01\x01\x8f\t\x02t\x00m\x99\xf7\xf7\x91\xad)\x92',5.636986316554316,27.983,Sudbury,42.3822,-71.4275,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

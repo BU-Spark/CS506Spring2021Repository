@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 1661,2020-01-03 20:37:11.053468+00:00,b'I\x8e\xe2\x8e',2.564359646690938,16.947,Boxborough,42.4884,-71.5178,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1684,2020-01-03 20:53:44.345181+00:00,"b""&\x01\x01\x8f\x08\x80\x02\xd0\xf9q\x92)'\x08Ep""",2.1765982517705003,20.528,Boxborough,42.4884,-71.5178,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1723,2020-01-03 20:35:50.004598+00:00,b'I\x8e\xe2\x8e',4.298122048780577,21.625,Boxborough,42.4884,-71.5178,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 136,2020-01-01 01:03:41.778297+00:00,"b""\x92s'x""",24.543521069290623,21.105,Everett,42.415,-71.0527,6079.0,RCN-AS - RCN
 453,2020-01-01 01:22:26.067758+00:00,b'&\x07\xfb\x90h7\xcd\x95t\xf5\xd8\xaf\xa9\x08i\xe9',3.2404007208178194,39.858,Everett,42.415,-71.0527,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."
 633,2020-01-01 17:19:24.164880+00:00,b'&\x01\x01\x8dE\x81\t\x90@$\tf\\\xba\xb4O',10.237481617475064,16.397,Everett,42.415,-71.0527,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

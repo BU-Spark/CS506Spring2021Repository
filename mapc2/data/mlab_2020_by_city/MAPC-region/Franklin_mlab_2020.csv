@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 115,2020-01-01 01:00:49.343906+00:00,b'HJ\x97\xb5',107.99016418803777,15.015,Franklin,42.08,-71.4175,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 151,2020-01-01 20:36:53.589400+00:00,b'HJD\xbc',346.34214164447576,11.549,Franklin,42.08,-71.4175,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 518,2020-01-01 20:35:11.451097+00:00,b'\xad\rGJ',17.03157745664359,39.309,Franklin,42.08,-71.4175,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

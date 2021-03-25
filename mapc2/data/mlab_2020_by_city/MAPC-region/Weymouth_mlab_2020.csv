@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 210,2020-01-01 13:19:34.143299+00:00,b'&\x01\x01\x9b\x84\x00+ \x8d\xd8\x87\xe6_H\x04\xd7',5.054837800853719,16.707,Weymouth,42.2123,-70.9619,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 3574,2020-01-05 20:30:16.473434+00:00,b'&\x01\x01\x9b\x84\x01V\x804\x18\x16wS\xe4\xb8\xc1',3.731246267816274,19.531,Weymouth,42.2123,-70.9619,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 3680,2020-01-05 20:46:48.744821+00:00,b'KC\x12\xb5',0.3886205397212204,256.268,Weymouth,42.2123,-70.9619,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

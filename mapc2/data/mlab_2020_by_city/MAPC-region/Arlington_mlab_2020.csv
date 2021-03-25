@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 358,2020-01-01 01:07:09.632092+00:00,b'\xad\x0e\xab]',24.13956242809165,35.924,Arlington,42.4143,-71.1766,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 433,2020-01-01 01:00:58.566234+00:00,b'\x92sC\xbc',17.150692869079993,16.246,Arlington,42.4188,-71.1557,6079.0,RCN-AS - RCN
 463,2020-01-01 13:07:07.536729+00:00,b'\xad\x0e\xab]',38.79905503584094,20.712,Arlington,42.4143,-71.1766,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

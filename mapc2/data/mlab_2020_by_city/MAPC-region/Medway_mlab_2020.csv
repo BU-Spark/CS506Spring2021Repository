@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 906,2020-01-02 01:24:40.151134+00:00,"b'`\xe6,\x9a'",11.722603792632896,19.497,Medway,42.1506,-71.4268,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1846,2020-01-03 17:02:58.480161+00:00,b'd\x00\xcd!',31.43509845563602,16.682,Medway,42.1506,-71.4268,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1935,2020-01-03 17:00:27.538394+00:00,b'd\x00\xcd!',101.5123797681462,16.649,Medway,42.1506,-71.4268,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

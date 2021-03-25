@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 2319,2020-01-03 01:23:28.252656+00:00,b'&\x01\x01\x8a\x00\x00V` \xc3\xe92\xa4#\xdaY',17.24308607338651,21.744,Essex,42.6286,-70.7828,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 2655,2020-01-04 20:49:19.942303+00:00,b'&\x01\x01\x8a\x00\x01~\xf0\xb9\xe9\x19\xbb\x1a\x84\x8a1',5.8543758682136575,21.342,Essex,42.6286,-70.7828,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 3762,2020-01-05 20:40:38.655776+00:00,b'&\x01\x01\x8a\x00\x01E\x10e\xfd\xcd\xb0\xae\xf1\xb8?',11.172274345708413,19.514,Essex,42.6286,-70.7828,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

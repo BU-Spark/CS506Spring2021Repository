@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 172,2020-01-01 17:01:58.131313+00:00,b'I\x11t:',5.905223451201212,13.817,Watertown,42.3725,-71.1814,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 236,2020-01-01 20:30:28.820897+00:00,b'B\x1f\x80\x1a',11.028124880972172,38.0,Watertown,42.3725,-71.1814,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 601,2020-01-01 17:07:43.709018+00:00,b'\x98\xb3\xd1f',92.49972172278451,6.761,Watertown,42.3725,-71.1814,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

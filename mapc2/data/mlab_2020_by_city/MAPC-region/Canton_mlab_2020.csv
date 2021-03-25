@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 2007,2020-01-03 13:24:44.005217+00:00,b'Jh\xb3\x90',302.04005548785113,8.808,Canton,42.1648,-71.1379,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 5498,2020-01-07 01:10:13.556761+00:00,b'l\x07\xd4\x95',82.0197691615467,11.375,Canton,42.1648,-71.1379,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 8176,2020-01-10 17:20:23.622333+00:00,b'&\x030\x05B\x08-\x00\xd8\xdf \x17\x99+\xb6?',16.203648943777953,36.68,Canton,42.1648,-71.1379,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

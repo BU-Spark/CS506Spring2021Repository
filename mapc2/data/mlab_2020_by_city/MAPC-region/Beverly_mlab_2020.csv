@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 314,2020-01-01 20:59:15.910243+00:00,b'I\xba\xcdL',9.952638742464393,36.234,Beverly,42.5583,-70.8782,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 321,2020-01-01 20:51:41.940444+00:00,b'&\x01\x01\x81\xc2\x00a`\xc9a\x8f\xf8\x91\xe8\x9bq',11.346910644403453,25.752,Beverly,42.5583,-70.8782,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1331,2020-01-02 01:17:54.406304+00:00,b'&\x01\x01\x81\xc3\x81\x94\xa0\x94u\r\xa1\xa0XT\x02',10.904762443840715,22.268,Beverly,42.5583,-70.8782,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

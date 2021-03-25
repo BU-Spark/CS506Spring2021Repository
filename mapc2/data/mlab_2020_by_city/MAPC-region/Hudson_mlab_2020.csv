@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 73,2020-01-01 20:43:47.130237+00:00,b'`\xfcZ;',93.5406802464941,8.179,Hudson,42.3928,-71.5654,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 387,2020-01-01 01:00:34.785179+00:00,b'&\x00\x10\x00\xb0B\xd5FU\xac-\x8e\xdc-\xc6l',4.085969148722568,49.581,Hudson,42.3928,-71.5654,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
 694,2020-01-01 13:27:54.305554+00:00,b'KE\xf4\x90',11.610064377899851,18.249,Hudson,42.3928,-71.5654,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

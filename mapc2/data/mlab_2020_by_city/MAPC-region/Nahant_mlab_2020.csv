@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 24775,2020-01-28 17:04:48.578001+00:00,b'`\\\x81\xc9',2.298371686704369,31.736,Nahant,42.4261,-70.9277,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 88466,2020-03-28 16:08:34.851675+00:00,b'`\\\x80\xba',23.145433373295973,22.233,Nahant,42.4301,-70.9289,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 89062,2020-03-29 16:08:33.961696+00:00,b'`\\\x80\xba',23.210545060865865,20.093,Nahant,42.4301,-70.9289,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

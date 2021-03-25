@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 53918,2020-03-02 16:24:11.640251+00:00,b'Jh|V',117.09178316180584,8.894,Holbrook,42.1464,-71.0083,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 54534,2020-03-02 00:22:09.001125+00:00,b'Jh|V',117.82225848960928,8.266,Holbrook,42.1464,-71.0083,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 59596,2020-03-09 19:49:00.210513+00:00,b'Jh}\xe2',39.82766893364831,9.745,Holbrook,42.1464,-71.0083,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

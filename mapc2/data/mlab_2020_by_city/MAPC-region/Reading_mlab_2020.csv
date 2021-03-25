@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 33,2020-01-01 20:33:25.029734+00:00,b'B\x1eV\xc9',5.6519249003049215,24.716,Reading,42.5278,-71.104,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 474,2020-01-01 01:28:44.805848+00:00,b'\xad0\xe9K',108.61220233792127,11.693,Reading,42.5278,-71.104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 2893,2020-01-04 13:18:30.368038+00:00,b'\xad0\xf0\xb7',31.911009341501195,8.479,Reading,42.5278,-71.104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 27,2020-01-01 17:21:16.610620+00:00,b'\xd1\x0664',16.54580719912571,16.009,Somerville,42.3996,-71.1246,6079.0,RCN-AS - RCN
 42,2020-01-01 17:12:57.161797+00:00,b'\xd1\x06\xe5 ',24.745490156569826,23.771,Somerville,42.3797,-71.1034,6079.0,RCN-AS - RCN
 144,2020-01-01 17:22:22.408667+00:00,b'\xd1\x06\xcf\x7f',17.88943775067462,16.32,Somerville,42.3912,-71.0882,6079.0,RCN-AS - RCN

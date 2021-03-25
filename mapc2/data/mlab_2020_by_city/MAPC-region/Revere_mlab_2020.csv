@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 3,2020-01-01 01:05:05.758330+00:00,b'I{\xeer',11.766821587736258,25.999,Revere,42.4125,-71.0034,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 28,2020-01-01 17:20:29.325008+00:00,b'\x92s6\xc0',17.872397380043566,16.844,Revere,42.4125,-71.0034,6079.0,RCN-AS - RCN
 220,2020-01-01 20:41:30.185894+00:00,b'&\x07\xfb\x90hQc%\xc4\xb5\xdcNCL\xbf\xd7',9.074851242148544,41.386,Revere,42.4125,-71.0034,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."

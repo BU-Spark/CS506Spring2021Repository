@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 285,2020-01-01 13:22:00.302179+00:00,b'&\x01\x01\x8eA\x01\xf8\xf0\x99n\xab\x94v\xf7d\x05',11.091308661756033,14.563,Marshfield,42.1034,-70.6967,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 484,2020-01-01 01:29:14.688347+00:00,b'KC\x8aP',1.8908160347796736,21.053,Marshfield,42.1034,-70.6967,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 590,2020-01-01 13:23:34.321844+00:00,b'&\x01\x01\x8eA\x01\xf8\xf0\xd9y!\xfc\xfb\xb3\xed)',10.797730630209614,14.64,Marshfield,42.1034,-70.6967,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 18,2020-01-01 01:06:35.089364+00:00,b'`\xed8\xc8',26.11265031593509,12.167,Belmont,42.3935,-71.1836,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 613,2020-01-01 01:06:00.163215+00:00,b'`\xed8\xc8',45.11956444666247,12.529,Belmont,42.3935,-71.1836,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1205,2020-01-02 17:13:26.517790+00:00,b'k\x01\xe6j',62.88864444027384,9.713,Belmont,42.3935,-71.1836,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

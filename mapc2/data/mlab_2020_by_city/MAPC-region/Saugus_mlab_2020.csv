@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 284,2020-01-01 17:19:21.392803+00:00,b'I{\xd9y',11.743606767649448,19.64,Saugus,42.4609,-71.0074,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 946,2020-01-02 17:07:22.526929+00:00,b'I{\xd9y',11.420384378744863,28.0,Saugus,42.4609,-71.0074,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 1939,2020-01-03 01:27:13.602174+00:00,b'&\x07\xfb\x90h$\xfb\x80\x84\xf4\x11\xf4Viji',0.2272878177524588,64.371,Saugus,42.4609,-71.0074,21928.0,"T-MOBILE-AS21928 - T-Mobile USA, Inc."

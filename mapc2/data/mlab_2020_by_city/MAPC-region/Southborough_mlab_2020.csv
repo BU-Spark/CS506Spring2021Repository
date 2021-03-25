@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 4329,2020-01-05 13:10:20.690727+00:00,b'H]\xceH',61.452983477142496,9.141,Southborough,42.2939,-71.532,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 9680,2020-01-11 01:08:34.516405+00:00,b'\xadL\x86\xb8',3.9197405530162936,9.721,Southborough,42.2939,-71.532,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 10234,2020-01-12 20:53:32.810531+00:00,b'\xadL\x86\x05',77.48497938494272,12.219,Southborough,42.2939,-71.532,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 35,2020-01-01 01:17:16.021991+00:00,b'B\x1fg\r',11.80822997349632,20.503,Danvers,42.5639,-70.9463,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 50,2020-01-01 17:18:01.287331+00:00,b'B\x1fg\r',11.810789613355464,20.417,Danvers,42.5639,-70.9463,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 55,2020-01-01 20:39:17.500220+00:00,b'C\x97q\xf2',43.73908821009441,3.722,Danvers,42.5639,-70.9463,7029.0,WINDSTREAM - Windstream Communications Inc

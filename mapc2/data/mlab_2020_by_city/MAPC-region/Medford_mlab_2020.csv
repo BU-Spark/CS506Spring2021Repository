@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 34,2020-01-01 17:10:42.409787+00:00,b'b\xd8@\xfd',5.530974528365287,28.784,Medford,42.4178,-71.1134,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 403,2020-01-01 17:01:47.431906+00:00,b'B\x1e\x08?',5.940138450290694,19.039,Medford,42.4178,-71.1134,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
 532,2020-01-01 17:15:14.786197+00:00,b'd\x00\xb4\x82',89.65007085505853,9.648,Medford,42.4178,-71.1134,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

@@ -29,20 +29,20 @@ The Metropolitan Area Planning Council - MAPC
 
 ## Purpose
 
-The primary objective of the previous deliverable was simply to obtain the data; included within deliverable 1 were usable csv files of publicly available broadband data from both Ookla and MLAB for the 2020 calendar year. The purpose of this deliverable is to begin analysis of this 
+The primary objective of the previous deliverable was simply to obtain the data; included within deliverable 1 were usable csv files of publicly available broadband data from both Ookla and MLAB for the 2020 calendar year. In this deliverable, we build upon the previous work, with two primary outcomes.
 
+The first outcome is to begin in-depth analysis of these datasets, with a particular focus on the following points:
 
+- Develop a statistical understanding of the datasets
+- Label the data with Provider information, for both Ookla and MLAB
+- Produce sub-datasets for each municipality, for both Ookla and MLAB
+- Compute average broadband speed for each provider, per municipality.
 
-Some of my thoughts:
+The second outcome is to develop a clear and detailed plan for further development work in this project, by specifying the desired final analysis, obtaining the remaining data sets, and listing the steps required to complete this body of work.
 
-- We should try and filter out undesired providers (like Whole Foods and maybe BU? Ask Kamran) - I think MAPC has a list of providers, try to filter so we use only those ones
-- It would be helpful to simplify the Providers in the MLAB data: for example, “UUNET - MCI Communications Services, Inc. d/b/a Verizon Business” -> “Verizon”
-- When averaging, try to use only provider/city combos that have at least x measurements - that is, filter out single measurements (less than x, not sure what a good value for x is. Maybe 10, 100?) which are likely outliers.
-- If we can successfully filter out unwanted providers and providers/city combos with < x measurements (prev bullet), then produce a csv of overall mean broadband speed per city. Sine there are 101 MAPC regions, this file would have 101 data points.
-- No point in having two MLAB primary files - merge into one, and remove accidental index (I forgot to set index=False in [df.to](http://df.to/)_csv when I added provider name to the MLAB data)
-- Unclear if we should try and “merge” Ookla and MLAB datasets, or if we should simply produce charts (the scatter plot Ryan was talking about) for each of them independently. I’m leaning towards keeping them separate, since they measure different things. Ask Kamran.
+The following sections will discuss each of the above primary outcomes of this deliverable in more detail.
 
-- For Ookla, we also have upload speed, so it would definitely make sense to have an independent scatter plot correlating Ookla upload speeds with median income
+## Labeling Ookla Data
 
 In the previous deliverable, the Ookla data was labeled with county information, as this information information is publicly available and easy to obtain. Unfortunately, labeling this data by county does not correlate well with the previous work done by MAPC; as much of MAPC's work is grouped by municipality -- a finer grain resolution than by county -- it was necessary to further granularize the data points in Ookla, by labeling each data point with a specific municipality.
 

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 788,2020-01-02 20:31:27.228813+00:00,"b'&\x00\x10\x00\xb01\xa5\xe1U""\xa7\x1a\xa2;\xb5P'",42.20310206755664,34.895,Lincoln,42.4217,-71.3137,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
 6263,2020-01-08 17:28:35.873522+00:00,b'\xc0\xe2Qn',89.01071645206918,9.914,Lincoln,42.4217,-71.3137,16524.0,METTEL - Metropolitan Telecomm
 7983,2020-01-10 20:54:42.414433+00:00,b'&\x01\x01\x8f\x08\x01\xca ={&\x10Wq\xbb\xb6',16.90121447387313,20.289,Lincoln,42.4217,-71.3137,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

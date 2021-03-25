@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 20,2020-01-01 17:25:53.783960+00:00,b'\xad0\xa7\x1f',97.38028887671352,14.775,Malden,42.428,-71.0618,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 472,2020-01-01 01:20:23.663881+00:00,b'`\xe6\xf9\xd9',5.380585623358966,15.384,Malden,42.428,-71.0618,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 877,2020-01-02 01:08:39.827954+00:00,b'A`\x9d\\',3.2842654342258206,15.954,Malden,42.428,-71.0618,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

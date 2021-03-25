@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 308,2020-01-01 20:55:58.035793+00:00,b'd\x00uD',42.61270969337502,14.295,Stoneham,42.4843,-71.0952,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 2766,2020-01-04 17:17:25.049247+00:00,b'd\x00\xbf\xf4',28.776613172753407,14.066,Stoneham,42.4843,-71.0952,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 3706,2020-01-05 17:11:53.323355+00:00,b'F\x14\x18\xb0',16.240497546683283,12.58,Stoneham,42.4843,-71.0952,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

@@ -1,4 +1,4 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+Unnamed: 0,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
 24,2020-01-01 01:06:19.038756+00:00,b'\xadL#;',7.988846743893839,16.458,Lexington,42.4571,-71.221,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 665,2020-01-01 13:07:34.376155+00:00,b'HF:Q',92.02862830548688,12.739,Lexington,42.4571,-71.221,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
 1076,2020-01-02 13:09:39.972948+00:00,b'2\xe04\x06',93.17363265381984,8.365,Lexington,42.4571,-71.221,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
