@@ -1,0 +1,627 @@
+---
+title: "Bike Sharing Data Analysis"
+output: html_notebook
+---
+
+Pre-processing
+
+```{r}
+# Clear memory
+rm(list = ls())
+
+#Loading the data in
+day_data <- read.csv("day.csv")
+
+#Forcing columns to numeric
+Time = as.numeric(sub("^(\\d+).(\\d+).*", "\\1.\\2", day_data$dteday))
+Date = as.Date(day_data$dteday,format = "%Y-%m-%d")
+Season = as.numeric(as.character(day_data$season))
+Year = as.numeric(as.character(day_data$yr))
+Month = as.numeric(as.character(day_data$mnth))
+Holiday = as.numeric(as.character(day_data$holiday))
+Weekday = as.numeric(as.character(day_data$weekday))
+WorkingDay = as.numeric(as.character(day_data$workingday))
+WeatherSituation = as.numeric(as.character(day_data$weathersit))
+Temperature = as.numeric(as.character(day_data$temp))
+TemperatureFeel = as.numeric(as.character(day_data$atemp))
+Humidity = as.numeric(as.character(day_data$hum))
+WindSpeed = as.numeric(as.character(day_data$windspeed))
+CountCasuals = as.numeric(as.character(day_data$casual))
+CountRegistered = as.numeric(as.character(day_data$registered))
+CountRentals = as.numeric(as.character(day_data$cnt))
+
+data <- data.frame(Date,Temperature,CountRentals,Humidity, WorkingDay, Weekday, Holiday, Season, Month, WindSpeed, CountCasuals, CountRegistered, WeatherSituation)
+
+#2011 data: training, 2012 data: validation
+Training = data[(data$Date >= "2011-01-01" & data$Date <= "2011-12-31"),];
+Validation = data[(data$Date >= "2012-01-01" & data$Date <= "2012-12-31"),];
+
+#Loading necessary libraries
+library(ggplot2)
+library(hrbrthemes)
+library(GGally)
+library(glmnet)
+library(ggfortify)
+```
+
+Linear Model 1
+
+```{r}
+lr_1.mls <- lm(CountRegistered ~ Temperature + WorkingDay + WindSpeed, data=Training)
+summary(lr_1.mls)
+mse_lr_1 <- mean(lr_1.mls$residuals^2)
+
+lc_1.mls <- lm(CountCasuals ~ Temperature + WorkingDay + WindSpeed, data=Training)
+summary(lc_1.mls)
+mse_lc_1 <- mean(lc_1.mls$residuals^2)
+
+mse_lr_1
+mse_lr_1 / mean(Training$CountRegistered^2)
+mse_lc_1
+mse_lc_1 / mean(Training$CountCasuals^2)
+
+
+
+ggplot() + 
+  geom_point(data=data.frame(Training$CountRegistered,rstandard(lr_1.mls)), aes(x=Training$CountRegistered, y=rstandard(lr_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountRegistered Standarized Residuals Linear 1")
+ggplot() + 
+  geom_point(data=data.frame(Training$CountCasuals,rstandard(lc_1.mls)), aes(x=Training$CountCasuals, y=rstandard(lc_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountCasuals Standarized Residuals Linear 1")
+ggplot() +
+  geom_point(data=data.frame(lr_1.mls$fitted.values, rstandard(lr_1.mls)), aes(x=lr_1.mls$fitted.values, y=rstandard(lr_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+ggplot() +
+  geom_point(data=data.frame(lc_1.mls$fitted.values, rstandard(lc_1.mls)), aes(x=lc_1.mls$fitted.values, y=rstandard(lc_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+
+p <- ggplot(data.frame(lr_1.mls$residuals), aes(sample = rstandard(lr_1.mls)))
+p + stat_qq() + stat_qq_line() 
+
+l <- ggplot(data.frame(lc_1.mls$residuals), aes(sample = rstandard(lc_1.mls)))
+l + stat_qq() + stat_qq_line()
+
+
+# Histograms
+ggplot(data = data.frame(rstandard(lr_1.mls)), aes(x = rstandard(lr_1.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram CountRegistered Linear 1")
+
+ggplot(data = data.frame(rstandard(lc_1.mls)), aes(x = rstandard(lc_1.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram CountCasuals Linear 1")
+```
+
+Linear 2
+
+```{r}
+
+lr_2.mls <- lm(CountRegistered ~ Temperature + WindSpeed + WorkingDay + Humidity , data=Training)
+summary(lr_2.mls)
+mse_lr_2 <- mean(lr_2.mls$residuals^2)
+
+lc_2.mls <- lm(CountCasuals ~ Temperature + WindSpeed + WorkingDay + Humidity , data=Training)
+summary(lc_2.mls)
+mse_lc_2 <- mean(lc_2.mls$residuals^2)
+
+pred_lr_2 <-predict(lr_2.mls, se.fit = TRUE, newdata=Validation)
+vres_lr_2 <- Validation$CountRegistered - pred_lr_2$fit
+pred_lc_2 <-predict(lc_2.mls, se.fit = TRUE, newdata=Validation)
+vres_lc_2 <- Validation$CountCasuals - pred_lc_2$fit
+
+mse_v_lr_2 <- mean(vres_lr_2^2)
+mse_v_lc_2 <- mean(vres_lc_2^2)
+rmse_lr_2 <- mse_v_lr_2 / mean(Validation$CountRegistered^2)
+rmse_lc_2 <- mse_v_lc_2 / mean(Validation$CountCasuals^2)
+
+ggplot() + 
+  geom_point(data=data.frame(Training$CountRegistered,rstandard(lr_2.mls)), aes(x=Training$CountRegistered, y=rstandard(lr_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountRegistered Standarized Residuals Linear 1")
+ggplot() + 
+  geom_point(data=data.frame(Training$CountCasuals,rstandard(lc_2.mls)), aes(x=Training$CountCasuals, y=rstandard(lc_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountCasuals Standarized Residuals Linear 1")
+ggplot() +
+  geom_point(data=data.frame(lr_2.mls$fitted.values, rstandard(lr_2.mls)), aes(x=lr_2.mls$fitted.values, y=rstandard(lr_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+ggplot() +
+  geom_point(data=data.frame(lc_2.mls$fitted.values, rstandard(lc_2.mls)), aes(x=lc_2.mls$fitted.values, y=rstandard(lc_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+p <- ggplot(data.frame(lr_2.mls$residuals), aes(sample = rstandard(lr_2.mls)))
+p + stat_qq() + stat_qq_line() 
+
+l <- ggplot(data.frame(lc_2.mls$residuals), aes(sample = rstandard(lc_2.mls)))
+l + stat_qq() + stat_qq_line()
+
+
+# Histograms
+ggplot(data = data.frame(rstandard(lr_2.mls)), aes(x = rstandard(lr_2.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Registered MLS Plot")
+
+ggplot(data = data.frame(rstandard(lc_2.mls)), aes(x = rstandard(lc_2.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Casual MLS Plot")
+
+```
+
+Linear 3
+
+```{r}
+
+lr_3.mls <- lm(CountRegistered ~ Temperature + Weekday + WeatherSituation, data=Training)
+summary(lr_3.mls)
+mse_lr_3 <- mean(lr_3.mls$residuals^2)
+
+lc_3.mls <- lm(CountCasuals ~ Temperature + Weekday + WeatherSituation, data=Training)
+summary(lc_3.mls)
+mse_lc_3 <- mean(lc_3.mls$residuals^2)
+
+pred_lr_3 <-predict(lr_3.mls, se.fit = TRUE, newdata=Validation)
+vres_lr_3 <- Validation$CountRegistered - pred_lr_3$fit
+pred_lc_3 <-predict(lc_3.mls, se.fit = TRUE, newdata=Validation)
+vres_lc_3 <- Validation$CountCasuals - pred_lc_3$fit
+
+mse_v_lr_3 <- mean(vres_lr_3^2)
+mse_v_lc_3 <- mean(vres_lc_3^2)
+rmse_lr_3 <- mse_v_lr_3 / mean(Validation$CountRegistered^2)
+rmse_lc_3 <- mse_v_lc_3 / mean(Validation$CountCasuals^2)
+
+ggplot() + 
+  geom_point(data=data.frame(Training$CountRegistered,rstandard(lr_3.mls)), aes(x=Training$CountRegistered, y=rstandard(lr_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountRegistered Standarized Residuals Linear 1")
+ggplot() + 
+  geom_point(data=data.frame(Training$CountCasuals,rstandard(lc_3.mls)), aes(x=Training$CountCasuals, y=rstandard(lc_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountCasuals Standarized Residuals Linear 1")
+ggplot() +
+  geom_point(data=data.frame(lr_3.mls$fitted.values, rstandard(lr_3.mls)), aes(x=lr_3.mls$fitted.values, y=rstandard(lr_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+ggplot() +
+  geom_point(data=data.frame(lc_3.mls$fitted.values, rstandard(lc_3.mls)), aes(x=lc_3.mls$fitted.values, y=rstandard(lc_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+
+p <- ggplot(data.frame(lr_3.mls$residuals), aes(sample = rstandard(lr_3.mls)))
+p + stat_qq() + stat_qq_line() 
+
+l <- ggplot(data.frame(lc_3.mls$residuals), aes(sample = rstandard(lc_3.mls)))
+l + stat_qq() + stat_qq_line()
+
+
+# Histograms
+ggplot(data = data.frame(rstandard(lr_3.mls)), aes(x = rstandard(lr_3.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Registered MLS Plot")
+
+ggplot(data = data.frame(rstandard(lc_3.mls)), aes(x = rstandard(lc_3.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Casual MLS Plot")
+
+```
+
+Quadratic 1
+
+```{r}
+
+qr_1.mls <- lm(CountRegistered~Temperature + I((Temperature)^2)+WindSpeed+WorkingDay, data=Training)
+summary(qr_1.mls)
+mse_qr_1 <- mean(qr_1.mls$residuals^2)
+
+qc_1.mls <- lm(CountCasuals~Temperature + I((Temperature)^2)+WindSpeed+WorkingDay, data=Training)
+summary(qc_1.mls)
+mse_qc_1 <- mean(qc_1.mls$residuals^2)
+
+mse_qr_1
+mse_qr_1 / mean(Training$CountRegistered^2)
+mse_qc_1
+mse_qc_1 / mean(Training$CountCasuals^2)
+
+ggplot() + 
+  geom_point(data=data.frame(Training$CountRegistered,rstandard(qr_1.mls)), aes(x=Training$CountRegistered, y=rstandard(qr_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountRegistered Standarized Residuals Linear 1")
+ggplot() + 
+  geom_point(data=data.frame(Training$CountCasuals,rstandard(qc_1.mls)), aes(x=Training$CountCasuals, y=rstandard(qc_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountCasuals Standarized Residuals Linear 1")
+ggplot() +
+  geom_point(data=data.frame(qr_1.mls$fitted.values, rstandard(qr_1.mls)), aes(x=qr_1.mls$fitted.values, y=rstandard(qr_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+ggplot() +
+  geom_point(data=data.frame(qc_1.mls$fitted.values, rstandard(qc_1.mls)), aes(x=qc_1.mls$fitted.values, y=rstandard(qc_1.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+
+p <- ggplot(data.frame(qr_1.mls$residuals), aes(sample = rstandard(qr_1.mls)))
+p + stat_qq() + stat_qq_line() 
+
+l <- ggplot(data.frame(qc_1.mls$residuals), aes(sample = rstandard(qc_1.mls)))
+l + stat_qq() + stat_qq_line()
+
+
+# Histograms
+ggplot(data = data.frame(rstandard(qr_1.mls)), aes(x = rstandard(qr_1.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Registered MLS Plot")
+
+ggplot(data = data.frame(rstandard(qc_1.mls)), aes(x = rstandard(qc_1.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Casual MLS Plot")
+```
+
+Quadratic 2
+
+```{r}
+
+qr_2.mls <- lm(CountRegistered ~ Temperature + I((Temperature)^2) + WindSpeed + I((WindSpeed)^2) + WorkingDay + Humidity + I((Humidity)^2), data=Training)
+summary(qr_2.mls)
+mse_qr_2 <- mean(qr_2.mls$residuals^2)
+
+qc_2.mls <- lm(CountCasuals ~ Month + I((Month)^2) + Temperature + I((Temperature)^2) + WindSpeed + I((WindSpeed)^2) + WorkingDay + Humidity + I((Humidity)^2), data=Training)
+summary(qc_2.mls)
+mse_qc_2 <- mean(qc_2.mls$residuals^2)
+
+pred_qr_2 <-predict(qr_2.mls, se.fit = TRUE, newdata=Validation)
+vres_qr_2 <- Validation$CountRegistered - pred_qr_2$fit
+pred_qc_2 <-predict(qc_2.mls, se.fit = TRUE, newdata=Validation)
+vres_qc_2 <- Validation$CountCasuals - pred_qc_2$fit
+
+mse_v_qr_2 <- mean(vres_qr_2^2)
+mse_v_qc_2 <- mean(vres_qc_2^2)
+rmse_qr_2 <- mse_v_qr_2 / mean(Validation$CountRegistered^2)
+rmse_qc_2 <- mse_v_qc_2 / mean(Validation$CountCasuals^2)
+
+ggplot() + 
+  geom_point(data=data.frame(Training$CountRegistered,rstandard(qr_2.mls)), aes(x=Training$CountRegistered, y=rstandard(qr_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountRegistered Standarized Residuals Linear 1")
+ggplot() + 
+  geom_point(data=data.frame(Training$CountCasuals,rstandard(qc_2.mls)), aes(x=Training$CountCasuals, y=rstandard(qc_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountCasuals Standarized Residuals Linear 1")
+ggplot() +
+  geom_point(data=data.frame(qr_2.mls$fitted.values, rstandard(qr_2.mls)), aes(x=qr_2.mls$fitted.values, y=rstandard(qr_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+ggplot() +
+  geom_point(data=data.frame(qc_2.mls$fitted.values, rstandard(qc_2.mls)), aes(x=qc_2.mls$fitted.values, y=rstandard(qc_2.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+
+p <- ggplot(data.frame(qr_2.mls$residuals), aes(sample = rstandard(qr_2.mls)))
+p + stat_qq() + stat_qq_line() 
+
+l <- ggplot(data.frame(qc_2.mls$residuals), aes(sample = rstandard(qc_2.mls)))
+l + stat_qq() + stat_qq_line()
+
+
+# Histograms
+ggplot(data = data.frame(rstandard(qr_2.mls)), aes(x = rstandard(qr_2.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Registered MLS Plot")
+
+ggplot(data = data.frame(rstandard(qc_2.mls)), aes(x = rstandard(qc_2.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Casual MLS Plot")
+```
+
+Quadratic 3
+
+```{r}
+
+qr_3.mls <- lm(CountRegistered ~ Temperature + I((Temperature)^2) + Weekday + WeatherSituation, data=Training)
+summary(qr_2.mls)
+mse_qr_3 <- mean(qr_2.mls$residuals^2)
+
+qc_3.mls <- lm(CountCasuals ~ Temperature + I((Temperature)^2) + Weekday + WeatherSituation, data=Training)
+summary(qc_3.mls)
+mse_qc_3 <- mean(qc_3.mls$residuals^2)
+
+pred_qr_3 <-predict(qr_3.mls, se.fit = TRUE, newdata=Validation)
+vres_qr_3 <- Validation$CountRegistered - pred_qr_3$fit
+pred_qc_3 <-predict(qc_3.mls, se.fit = TRUE, newdata=Validation)
+vres_qc_3 <- Validation$CountCasuals - pred_qc_3$fit
+
+mse_v_qr_3 <- mean(vres_qr_3^2)
+mse_v_qc_3 <- mean(vres_qc_3^2)
+rmse_qr_3 <- mse_v_qr_3 / mean(Validation$CountRegistered^2)
+rmse_qc_3 <- mse_v_qc_3 / mean(Validation$CountCasuals^2)
+
+ggplot() + 
+  geom_point(data=data.frame(Training$CountRegistered,rstandard(qr_3.mls)), aes(x=Training$CountRegistered, y=rstandard(qr_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountRegistered Standarized Residuals Linear 1")
+ggplot() + 
+  geom_point(data=data.frame(Training$CountCasuals,rstandard(qc_3.mls)), aes(x=Training$CountCasuals, y=rstandard(qc_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residual") + ggtitle("CountCasuals Standarized Residuals Linear 1")
+ggplot() +
+  geom_point(data=data.frame(qr_3.mls$fitted.values, rstandard(qr_3.mls)), aes(x=qr_3.mls$fitted.values, y=rstandard(qr_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+ggplot() +
+  geom_point(data=data.frame(qc_3.mls$fitted.values, rstandard(qc_3.mls)), aes(x=qc_3.mls$fitted.values, y=rstandard(qc_3.mls), color = "MLS"), size = 1) +
+  geom_hline(yintercept=2,color='blue') + geom_hline(yintercept=-2, color='blue') +
+  scale_color_manual(name = element_blank(), labels = c("MLS"), values = c("blue")) +
+  labs(y = "Standarized Residuals") + labs(x = "Fitted values") + 
+  ggtitle("CountRegistered Standarized Residuals Linear 1 (Fitted) ")
+
+p <- ggplot(data.frame(qr_3.mls$residuals), aes(sample = rstandard(qr_3.mls)))
+p + stat_qq() + stat_qq_line() 
+
+l <- ggplot(data.frame(qc_3.mls$residuals), aes(sample = rstandard(qc_3.mls)))
+l + stat_qq() + stat_qq_line()
+
+
+# Histograms
+ggplot(data = data.frame(rstandard(qr_3.mls)), aes(x = rstandard(qr_3.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Registered MLS Plot")
+
+ggplot(data = data.frame(rstandard(qc_3.mls)), aes(x = rstandard(qc_3.mls))) + geom_histogram(bins = 30) +
+  ggtitle("Histogram Casual MLS Plot")
+
+```
+MSE and rMSE comparisons
+
+```{r}
+
+"linear 1"
+mse_v_lr_1
+mse_lc_1
+rmse_lr_1
+rmse_lc_1
+"linear 2"
+mse_v_lr_2
+mse_lc_2
+rmse_lr_2
+rmse_lc_2
+"linear 3"
+mse_v_lr_3
+mse_lc_3
+rmse_lr_3
+rmse_lc_3
+"quadratic 1"
+mse_v_qr_1
+mse_v_qc_1
+rmse_qr_1
+rmse_qc_1
+"quadratic 2"
+mse_v_qr_2
+mse_v_qc_2
+rmse_qr_2
+rmse_qc_2
+"quadratic 3"
+mse_v_qr_3
+mse_v_qc_3
+rmse_qr_3
+rmse_qc_3
+
+#95% confidence intervals
+round(confint(r_model.mls,level=0.95),7)
+round(confint(c_model.mls,level=0.95),7)
+
+
+# Covariance([bo,b1])
+vcov(r_model.mls)
+vcov(c_model.mls)
+```
+
+
+Validation
+
+
+```{r}
+
+#Quadratic 1
+
+pred_qr_1 <-predict(qr_1.mls, se.fit = TRUE, newdata=Validation)
+vres_qr_1 <- Validation$CountRegistered - pred_qr_1$fit
+pred_qc_1<- predict(qc_1.mls, se.fit = TRUE, newdata=Validation)
+vres_qc_1 <- Validation$CountCasuals - pred_qc_1$fit
+
+mse_v_qr_1 <- mean(vres_qr_1^2)
+mse_v_qc_1 <- mean(vres_qc_1^2)
+rmse_qr_1 <- mse_v_qr_1 / mean(Validation$CountRegistered^2)
+rmse_qc_1 <- mse_v_qc_1 / mean(Validation$CountCasuals^2)
+
+"qr_1"
+mse_v_qr_1
+mse_qr_1
+rmse_qr_1
+"qc_1"
+mse_v_qc_1
+mse_qc_1
+rmse_qc_1
+
+#Plotting actual vs predicted for CountRegistered
+
+# Create data frame with validation observation and prediction
+test_qr_1 = data.frame(Validation$CountRegistered,pred_qr_1$fit, 1:length(pred_qr_1$fit));
+colnames(test_qr_1)[1] = "CountRegistered"
+colnames(test_qr_1)[2] = "Prediction"
+colnames(test_qr_1)[3] = "Index"
+
+ggplot(data = test_qr_1, aes(x = CountRegistered, y = Prediction)) + geom_point() + 
+  geom_abline(intercept = 0, slope = 1) +
+  ggtitle("Validation Quadratic CountRegistered vs Prediction")
+
+# Further comparisons
+ggplot(data = test_qr_1, aes(x = Index)) +
+  geom_line(aes(y = CountRegistered, color = "CountRegistered")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountRegistered","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") + 
+  ggtitle("Quadratic CountRegistered Validation")
+
+# Hard to see, let's zoom in
+test2_qr_1 = test_qr_1[100:150,]
+
+ggplot(data = test2_qr_1, aes(x = Index)) +
+  geom_line(aes(y = CountRegistered, color = "CountRegistered")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountRegistered","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") +
+  ggtitle("Quadratic CountRegistered Validation")
+
+
+#Plotting actual vs predicted for CountCasuals
+
+# Create data frame with validation observation and prediction
+test_qc_1 = data.frame(Validation$CountCasuals,pred_qc_1$fit, 1:length(pred_qc_1$fit));
+colnames(test_qc_1)[1] = "CountCasuals"
+colnames(test_qc_1)[2] = "Prediction"
+colnames(test_qc_1)[3] = "Index"
+
+ggplot(data = test_qc_1, aes(x = CountCasuals, y = Prediction)) + geom_point() + 
+  geom_abline(intercept = 0, slope = 1) +
+  ggtitle("Validation Quadratic CountCasuals vs Prediction")
+
+# Further comparisons
+ggplot(data = test_qc_1, aes(x = Index)) +
+  geom_line(aes(y = CountCasuals, color = "CountCasuals")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountCasuals","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") + 
+  ggtitle("Quadratic Validation CountCasuals")
+
+# Hard to see, let's zoom in
+test2_qc_1 = test_qc_1[100:150,]
+
+ggplot(data = test2_qc_1, aes(x = Index)) +
+  geom_line(aes(y = CountCasuals, color = "CountCasuals")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountCasuals","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") +
+  ggtitle("Quadratic Validation CountCasuals")
+
+
+#Linear 1
+
+pred_lr_1 <-predict(lr_1.mls, se.fit = TRUE, newdata=Validation)
+vres_lr_1 <- Validation$CountRegistered - pred_lr_1$fit
+pred_lc_1 <-predict(lc_1.mls, se.fit = TRUE, newdata=Validation)
+vres_lc_1 <- Validation$CountCasuals - pred_lc_1$fit
+
+mse_v_lr_1 <- mean(vres_lr_1^2)
+mse_v_lc_1 <- mean(vres_lc_1^2)
+rmse_lr_1 <- mse_v_lr_1 / mean(Validation$CountRegistered^2)
+rmse_lc_1 <- mse_v_lc_1 / mean(Validation$CountCasuals^2)
+
+"lr_1"
+mse_v_lr_1
+mse_lr_1
+rmse_lr_1
+"lc_1"
+mse_v_lc_1
+mse_lc_1
+rmse_lc_1
+
+test_lr_1 = data.frame(Validation$CountRegistered,pred_lr_1$fit, 1:length(pred_lr_1$fit));
+colnames(test_lr_1)[1] = "CountRegistered"
+colnames(test_lr_1)[2] = "Prediction"
+colnames(test_lr_1)[3] = "Index"
+
+ggplot(data = test_lr_1, aes(x = CountRegistered, y = Prediction)) + geom_point() + 
+  geom_abline(intercept = 0, slope = 1) +
+  ggtitle("Linear Validation CountRegistered vs Prediction")
+
+# Further comparisons
+ggplot(data = test_lr_1, aes(x = Index)) +
+  geom_line(aes(y = CountRegistered, color = "CountRegistered")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountRegistered","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") + 
+  ggtitle("Linear Validation CountRegistered")
+
+# Hard to see, let's zoom in
+test2_lr_1 = test_lr_1[100:150,]
+
+ggplot(data = test2_lr_1, aes(x = Index)) +
+  geom_line(aes(y = CountRegistered, color = "CountRegistered")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountRegistered","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") +
+  ggtitle("Linear Validation CountRegistered")
+
+
+#Plotting actual vs predicted for CountCasuals
+
+# Create data frame with validation observation and prediction
+test_lc_1 = data.frame(Validation$CountCasuals,pred_lc_1$fit, 1:length(pred_lc_1$fit));
+colnames(test_lc_1)[1] = "CountCasuals"
+colnames(test_lc_1)[2] = "Prediction"
+colnames(test_lc_1)[3] = "Index"
+
+ggplot(data = test_lc_1, aes(x = CountCasuals, y = Prediction)) + geom_point() + 
+  geom_abline(intercept = 0, slope = 1) +
+  ggtitle("Validation CountCasuals vs Prediction")
+
+# Further comparisons
+ggplot(data = test_lc_1, aes(x = Index)) +
+  geom_line(aes(y = CountCasuals, color = "CountCasuals")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountCasuals","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") + 
+  ggtitle("Linear Validation CountCasuals")
+
+# Hard to see, let's zoom in
+test2_lc_1 = test_lc_1[100:150,]
+
+ggplot(data = test2_lc_1, aes(x = Index)) +
+  geom_line(aes(y = CountCasuals, color = "CountCasuals")) + 
+  geom_line(aes(y = Prediction, color="Prediction"), linetype="twodash") +  
+  scale_color_manual(name = element_blank(), labels = c("CountCasuals","Prediction"),
+                     values = c("darkred", "steelblue")) + labs(y = "") +
+  ggtitle("Linear Validation CountCasuals")
+
+
+```
+
+Takeaways from Validation:
+
+We need to train on multi-year data to accurately account for growth of the bike rental market not related to weather/situational conditions. 
+If we acquired future data, it would make sense to train and cross validate on multi-year data, because it's possible that didn't fit the 2011 data as well would have fit the 2012 data better (possibly run some analysis if Julio says that's ok)
+
+
+
+
+
+We don't have information on the number of registered riders (just how much they rented) so likely that customer base just grew (because casual riders remained relatively the same)
+
+
+
