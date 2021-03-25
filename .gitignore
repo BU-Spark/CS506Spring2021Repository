@@ -33,6 +33,7 @@ starter-code/data/*.csv
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so

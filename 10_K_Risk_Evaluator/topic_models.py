@@ -5,14 +5,7 @@
 The process of learning, recognizing, and extracting these topics across a
 collection of documents is called topic modeling.
 
-Method 1. The Term Frequency – Inverse Document Frequency (TF-IDF)
-Involves multiplying a local component like term frequency (TF) with a global
-component, that is, inverse document frequency (IDF) and optionally
-normalizing the result to unit length. As a result of this, the words that
-occur frequently across documents will get downweighted.
-
-
-Method 2. Latent Dirichlet Allocation (LDA)
+Implementing Latent Dirichlet Allocation (LDA)
 LDA represents documents as mixtures of topics (a probabilistic topic model).
 
 E.g., If we have 3 topics, then some specific probability distributions we’d
@@ -35,98 +28,175 @@ them using DBSCAN."
 Written by Evie Wan, Nicholas Mosca, Eric South
 --------------------------------------------------------------------------------
 '''
+# Supporting Libaries
+import pandas as pd
+from itertools import chain
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
+from wordcloud import WordCloud, STOPWORDS
+
+# Pre-processing; string cleaning
+from nltk.corpus import stopwords
+
+# Pre-processing; feature engineering
+import gensim
 from gensim import corpora
 from gensim import models
-import numpy as np
 
+# Internal packages
 import html_parser
 
 
-def tf_idf(corpus_of_text):
+# Upload table containing list of companies and their corresponding risk text
+data = pd.read_csv("data/10k_2020.csv")
+
+# Specify list of stop words
+stop_words = stopwords.words('english')
+more_stops_words = ['may', 'us', 'could', 'product', 'products', 'clinical', 
+                    'development', 'regulatory', 'including', 'nk', 'business']
+
+stop_words = stop_words + more_stops_words
+
+
+# Combine all words from csv to create a total corpus of terms
+processed_text = []
+for i in range(len(data)):
+    text = data.iloc[i, 1]
+    try:
+        text = gensim.utils.simple_preprocess(text, deacc=True)  # Clean string
+    except:
+        text = ['missing']  # Empty risk sections (i.e. nan values)
+
+    temp_list = []
+    for j in range(len(text)):  # Remove stop_words from risk section text
+        if text[j] not in stop_words:
+            temp_list.append(text[j])
+    try:
+        processed_text.append(temp_list)
+    except:
+        processed_text.append(['missing'])
+
+
+# Create dictionary
+# Reformat all_words before feeding into gensim's Dictionary method
+all_words = list(chain.from_iterable(processed_text))  # Flattening nested list
+lda_dict = corpora.Dictionary([all_words])
+
+# Create corpus
+corpus = [lda_dict.doc2bow(text) for text in processed_text]
+
+# Build a Latent Dirichlet Allocation (LDA) model
+lda_model = models.LdaMulticore(corpus=corpus,
+                                id2word=lda_dict,
+                                random_state=100,
+                                num_topics=5,
+                                passes=10,
+                                chunksize=1000,
+                                batch=False,
+                                alpha='asymmetric',
+                                decay=0.5,
+                                offset=64,
+                                eta=None,
+                                eval_every=0,
+                                iterations=100,
+                                gamma_threshold=0.001,
+                                per_word_topics=True)
+
+# Save the model
+# lda_model.save('lda_model.model')
+lda_model.print_topics(-1)  # See the topics
+
+
+# Identify the dominant topic (& its percentage contribution) for each document
+def format_topics_sentences(ldamodel=None, corpus=corpus, texts=data):
     """
-    Compare documents by Term Frequency–Inverse Document Frequency (TF-IDF).
+    Extract the dominant topics from a list of risk texts.
 
-    :param corpus_of_text: list of documents, where each document is a sublist
-    of tokenized strings.
-    :return weights: nested list containing words and their frequency weights.
+    :param ldamodel: LDA model pre-fitted with corpus and dictionary.
+    :param corpus: list of tuples containing words & their occurance in corpus.
+    :param texts: list of strings--should specify the lower boundary.
+    :return section_text: nested list of tokenize strings (for each risk text).
+
     """
-    # Create dictionary (each words gets a unique ID)
-    risk_dict = corpora.Dictionary(corpus_of_text)
-    # print(risk_dict.token2id)  # Display words and their unique IDs
+    # Initialize output DataFrame
+    topics = pd.DataFrame()
 
-    # Create a bag-of-words corpus
-    risk_corpus = \
-        [risk_dict.doc2bow(doc, allow_update=True) for doc in corpus_of_text]
-    # print(risk_corpus)  # Print corpus represented as a dense array
+    # Grab the main topic in each document
+    for i, rows in enumerate(ldamodel[corpus]):
+        row = rows[0] if ldamodel.per_word_topics else rows
+        print(row)
 
-    # Reference dictionary to make corpus human readable
-    # word_counts = \
-    #     [[(risk_dict[id], count) for id,
-    #       count in line] for line in risk_corpus]
-    # print(word_counts)  # Print corpus where IDs are replaced with the word
+        row = sorted(row, key=lambda x: (x[1]), reverse=True)
 
-    # Save the dict and corpus to disk
-    # risk_dict.save('risk_dict.dict')
-    # risk_corpora.MmCorpus.serialize('bow_corpus.mm', bow_corpus)
+        # Get the dominant topic, % contribution and keywords for each document
+        for j, (topic_num, prop_topic) in enumerate(row):
+            if j == 0:  # Dominant topic
+                wp = ldamodel.show_topic(topic_num)
+                topic_keywords = ", ".join([word for word, prop in wp])
+                topics = \
+                    topics.append(pd.Series([int(topic_num),
+                                             round(prop_topic, 4),
+                                             topic_keywords]),
+                                  ignore_index=True)
+            else:
+                break
+    topics.columns = \
+        ['DominantTopic', 'PercentContribution', 'TopicKeywords']
 
-    # Load them back
-    # loaded_dict = corpora.Dictionary.load('risk_dict.dict')
-    # risk_corpus = corpora.MmCorpus('bow_corpus.mm')
-    # for line in corpus:
-    #     print(line)
-
-    # Create the TF-IDF model
-    tfidf = models.TfidfModel(risk_corpus, smartirs='ntc')
-
-    # Show the TF-IDF weights
-    for doc in tfidf[risk_corpus]:
-        weights = [[risk_dict[id],
-                    np.around(freq, decimals=2)] for id, freq in doc]
-
-    return weights
+    # Add original text to the end of the output
+    contents = pd.Series(texts)
+    topics = pd.concat([topics, contents], axis=1)
+    return(topics)
 
 
-def lda(corpus_of_text):
-    """
-    Compare documents by Latent Dirichlet Allocation (LDA).
+df_topic_sents_keywords = \
+    format_topics_sentences(ldamodel=lda_model,
+                            corpus=corpus,
+                            texts=processed_text)
 
-    :param corpus_of_text: list of documents, where each document is a sublist
-    of tokenized strings.
-    :return model: set of words that are most associated with each topic.
-    """
-    # Create a dictionary and corpus for the LDA model
-    lda_dict = corpora.Dictionary(corpus_of_text)
-    lda_corpus = [lda_dict.doc2bow(line) for line in corpus_of_text]
+# Format
+dominant_topics = df_topic_sents_keywords.reset_index()
+dominant_topics.columns = ['DocumentNum',
+                           'DominantTopic',
+                           'TopicPercentContribution',
+                           'Keywords',
+                           'Text']
+dominant_topics.head(10)
 
-    # Train the model
-    lda_model = models.LdaMulticore(corpus=lda_corpus,
-                                    id2word=lda_dict,
-                                    random_state=100,
-                                    num_topics=4,
-                                    passes=10,
-                                    chunksize=1000,
-                                    batch=False,
-                                    alpha='asymmetric',
-                                    decay=0.5,
-                                    offset=64,
-                                    eta=None,
-                                    eval_every=0,
-                                    iterations=100,
-                                    gamma_threshold=0.001,
-                                    per_word_topics=True)
 
-    # Save the model
-    # lda_model.save('lda_model.model')
+# Create wordclouds of top n words in each topic
+cols = [color for name, color in mcolors.XKCD_COLORS.items()]
 
-    return lda_model.print_topics(-1)  # See the topics
+cloud = WordCloud(background_color='white',
+                  width=2500,
+                  height=1800,
+                  max_words=15,
+                  colormap='tab10',
+                  color_func=lambda *args, **kwargs: cols[i],
+                  prefer_horizontal=1.0)
+
+topics = lda_model.show_topics(formatted=False)
+
+fig, axes = plt.subplots(1, 5, figsize=(10,10), sharex=True, sharey=True)
+
+for i, ax in enumerate(axes.flatten()):
+    fig.add_subplot(ax)
+    topic_words = dict(topics[i][1])
+    cloud.generate_from_frequencies(topic_words, max_font_size=300)
+    plt.gca().imshow(cloud)
+    plt.gca().set_title('Topic ' + str(i), fontdict=dict(size=16))
+    plt.gca().axis('off')
+
+
+plt.subplots_adjust(wspace=0, hspace=0)
+plt.axis('off')
+plt.margins(x=0, y=0)
+plt.tight_layout()
+plt.show()
 
 
 def main():
     all_text = html_parser.main()  # Import a nested list of tokenized words
-    tf_idf_weights = tf_idf(all_text)  # Run TF-IDF model and return weights
-    topic_mixtures = lda(all_text)
-
-    print(tf_idf_weights)
     print(topic_mixtures)
 
 
