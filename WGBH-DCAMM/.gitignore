@@ -7,8 +7,10 @@ __pycache__/
 *.so
 .DS_Store
 ../.DS_Store
+.idea/
 ../.idea/
-venv/
+../venv/
+venv
 
 # Distribution / packaging
 .Python
