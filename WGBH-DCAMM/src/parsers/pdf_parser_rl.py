@@ -6,12 +6,12 @@
 
 import math
 from operator import itemgetter
-from typing import List
-import sys
+
 import pdfplumber
 from PIL import ImageDraw, ImageFont, Image
 from pdfplumber.table import TableFinder
-from tqdm.asyncio import tqdm
+
+from DataSheet import *
 
 
 def almost_equals(num1, num2, precision=5.0):
@@ -329,7 +329,6 @@ class Line:
         pt2 = self.p2
         cross_product = (point.y - pt1.y) * (pt2.x - pt1.x) - (point.x - pt1.x) * (pt2.y - pt1.y)
 
-
         # compare versus epsilon for floating point values, or != 0 if using integers
         if abs(cross_product) > math.e:
             return False
@@ -339,7 +338,6 @@ class Line:
             return False
 
         squared_length_ba = (pt2.x - pt1.x) * (pt2.x - pt1.x) + (pt2.y - pt1.y) * (pt2.y - pt1.y)
-
         if dot_product > squared_length_ba:
             return False
 
@@ -468,7 +466,6 @@ class Cell:
         canvas.line((self.p4.as_tuple, self.p1.as_tuple), color, width)
         if self.text:
             canvas.text((self.p1.x + 3, self.p1.y + 3), self.text, fill=text_color, font=self.font)
-
 
     def print_cell(self):
         buffer = ''
