@@ -44,9 +44,9 @@ Many cities such as [Melbourne](https://www.planning.vic.gov.au/__data/assets/pd
 		<td>Yes</td>
 	</tr>
 	<tr>
-		<td>Deliverable 2</td>
+		<td><a href='deliverables/deliverable2'>Deliverable 2</td>
 		<td>March 24, 2021</td>
-		<td>No</td>
+		<td>Yes</td>
 	</tr>
 	<tr>
 		<td>Deliverable 3</td>
