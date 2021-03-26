@@ -74,6 +74,14 @@ def avg_coord(coords):
     mean_lat = math.degrees(central_latitude)
     mean_long = math.degrees(central_longitude)
     return mean_lat,mean_long
+def splitCoords(coords):
+    lat = []
+    lon = []
+    for coord in coords:
+        lat.append(coord[0])
+        lon.append(coord[1])
+    return lat,lon
+
 # df = import_data("../../dataset_ignore/Open_Space.csv")
 
 df = read_shapefile("../../dataset_ignore/Open_Space/Open_Space.shp")
@@ -85,8 +93,13 @@ df['TypeLong'] = similarity_replace(df.TypeLong)
 df=df.sort_values(by=['ACRES'], ascending=False)
 
 #creating average coordinates
-df['avg_coord'] = df['coords'].apply(lambda coords: avg_coord(coords))
+# df['avg_coord'] = df['coords'].apply(lambda coords: avg_coord(coords))
+# df[['lat', 'lon']] = pd.DataFrame(df['avg_coord'].tolist(), index=df.index)
 
-df[['lat', 'lon']] = pd.DataFrame(df['avg_coord'].tolist(), index=df.index)
+#split coords
+df['latlon'] = df['coords'].apply(lambda coords: splitCoords(coords))
+df[['lat', 'lon']] = pd.DataFrame(df['latlon'].tolist(), index=df.index)
+df.drop(['latlon'], axis=1)
+# print('-----')
 print(df[['lat','lon']].head())
-output_data(df,"../../datasets_clean/open_space_manipulated.csv")
+output_data(df,"../../datasets_clean/open_space_latlon.csv")
