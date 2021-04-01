@@ -9,15 +9,23 @@ import argparse
 import mpld3
 import numpy as np
 
+# Returns 1 if the city is in MAPC list, 0 otherwise
+def city_in_mapc(city, mapc_list):
+  if city in mapc_list:
+    return 1
+  return 0
+
 #################### Main Control Flow
 parser = argparse.ArgumentParser(description='Scatter of MBPS against MHI')
 parser.add_argument('--mhi-file', dest="mhi_file", help="Census file")
 parser.add_argument('--mlab-file', dest="mlab_file", help="MLAB data")
+parser.add_argument('--mapc-file', dest="mapc_file", help="MAPC municipalities file")
 args = parser.parse_args()
 
 # Read input files
 df_mhi = pd.read_csv(args.mhi_file)
 df_mlab = pd.read_csv(args.mlab_file)
+mapc_cities = pd.read_csv(args.mapc_file)['municipal'].to_list()
 
 # First, compute average MBPS per city in mlab data
 mlab_avg_mbps = df_mlab.groupby(['City']).mean().drop(columns=['MinRTT', 'Latitude'  ,'Longitude' ,'ProviderNumber'])
@@ -31,9 +39,17 @@ joined = joined[['mhi', 'City', 'MeanThroughputMbps']]
 # Note: the join "auto-removed" any cities that did not appear in both data sets.
 # It would be interesting to have a list of these.
 
+# Add a new column that indicates if the city is in MAPC munis, and build a color array from it
+joined['InMapc'] = joined.apply(lambda row: city_in_mapc(row['City'], mapc_cities), axis=1)
+out_color = '#7d7975'
+in_color = '#eba134'
+colors = np.array([in_color if city == 1 else out_color for city in joined['InMapc']])
+
 # Plot City against mhi
-fig, ax = plt.subplots(figsize=(15,10)) # Grey background
-scatter = ax.scatter(joined['mhi'], joined['MeanThroughputMbps'], alpha=0.9)
+fig, ax = plt.subplots(figsize=(15,10))
+x = joined['mhi']
+y = joined['MeanThroughputMbps']
+scatter = ax.scatter(x, y, alpha=0.9, c=colors)
 
 # Label each data point with the associated city
 labels = joined['City'].to_list()
@@ -51,7 +67,16 @@ ax.set_yticklabels(yvalues, fontsize=16)
 
 # Configure colors
 ax.set_facecolor('#EEEEEE')
-ax.grid(color='w', linestyle='--', linewidth=0.5)
+ax.grid(linestyle='--', linewidth=0.5, alpha=0.3)
+
+# Add a trendline
+z = np.polyfit(x, y, 1)
+p = np.poly1d(z)
+ax.plot(x,p(x),"r--")
 
 # Finally, show the plot
 mpld3.show()
+
+# Some ideas:
+# - color points by whether or not they are in 101 MAPC munis
+# - Produce second plot, with data points that are above 150 MBPS removed
