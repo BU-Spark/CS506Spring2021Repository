@@ -59,11 +59,12 @@ mpld3.plugins.connect(fig, tooltip)
 # Set labels
 ax.set_xlabel("Median Household Income, 2014-2018, Dollars", size=20)
 ax.set_ylabel("Mean Throughput Mbps, MLAB 2020 data", size=20)
-ax.set_title("Average Broadband Speed against Median Household Income", size=30)
+ax.set_title("MLAB: Average Broadband Speed against Median Household Income", size=30)
 xvalues = np.arange(40000,240000, 20000)
 yvalues = np.arange(0, 400, 50)
 ax.set_xticklabels(xvalues, fontsize=16)
 ax.set_yticklabels(yvalues, fontsize=16)
+# ax.legend()
 
 # Configure colors
 ax.set_facecolor('#EEEEEE')
@@ -72,11 +73,30 @@ ax.grid(linestyle='--', linewidth=0.5, alpha=0.3)
 # Add a trendline
 z = np.polyfit(x, y, 1)
 p = np.poly1d(z)
-ax.plot(x,p(x),"r--")
+ax.plot(x,p(x),"r--", label='All')
+
+# Add trendlines for each of the two categories of municipalities
+in_mapc_data = joined[joined['InMapc'] == 1]
+out_mapc_data = joined[joined['InMapc'] != 1]
+# In MAPC trendline
+x_in = in_mapc_data['mhi']
+y_in = in_mapc_data['MeanThroughputMbps']
+z_in = np.polyfit(x_in, y_in, 1)
+p_in = np.poly1d(z_in)
+ax.plot(x_in,p_in(x_in),"--", c=in_color, label='MAPC Tracked Municipalities')
+# Not in MAPC trendline
+x_out = out_mapc_data['mhi']
+y_out = out_mapc_data['MeanThroughputMbps']
+z_out = np.polyfit(x_out, y_out, 1)
+p_out = np.poly1d(z_out)
+ax.plot(x_out,p_out(x_out),"--", c=out_color, label='Non-Tracked Municipalities')
 
 # Finally, show the plot
+ax.legend()
 mpld3.show()
 
+mpld3.save_html(fig, "output/mlab_mhi_vs_mbps_2020.html")
+
 # Some ideas:
-# - color points by whether or not they are in 101 MAPC munis
 # - Produce second plot, with data points that are above 150 MBPS removed
+# - Trend lines for each category of municipalities
