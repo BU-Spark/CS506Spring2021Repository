@@ -1,4 +1,5 @@
 ./mapc2/groupWork/AdamPythonParquet/data506
+csv_data
 
 # Parquet data files
 data/*.parquet

@@ -1,0 +1,13 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+40243,2020-02-15 20:38:35.457033+00:00,b'l\x08\xe7\xf7',0.440420136381922,32.505,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41074,2020-02-16 13:02:50.744759+00:00,b'l\x08\xe4$',0.1685117084205503,138.984,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41552,2020-02-16 13:03:45.505012+00:00,b'l\x08\xe4$',0.2138164081895941,43.359,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+90492,2020-03-30 12:28:14.699696+00:00,b'l\x08\xe5\xfb',0.6152002431087077,226.916,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+99487,2020-04-04 00:23:38.337413+00:00,b'l\x08\xe9^',0.650492233815678,215.216,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100460,2020-04-04 00:19:57.367714+00:00,b'l\x08\xe9^',0.6568495735284571,227.433,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+107769,2020-04-09 19:35:06.192441+00:00,b'l\x08\xe9^',0.3756157324408504,286.78,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+109012,2020-04-09 12:01:46.116432+00:00,b'l\x08\xe9^',0.6925569549153548,167.527,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+122503,2020-04-18 00:25:56.248761+00:00,b'l\x08\xe95',0.4716723752086348,164.873,Middlefield,42.3561,-73.0104,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201438,2020-06-11 00:23:09.427610+00:00,b'l\x08\xe6\x12',0.6314227493553601,290.889,Middlefield,42.3561,-73.0113,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201500,2020-06-11 00:22:23.815160+00:00,b'l\x08\xe6\x12',0.6193044292415288,313.0,Middlefield,42.3561,-73.0113,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204562,2020-06-13 19:41:50.792362+00:00,b'l\x08\xe6\xa4',0.8381205375281502,32.153,Middlefield,42.3561,-73.0113,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

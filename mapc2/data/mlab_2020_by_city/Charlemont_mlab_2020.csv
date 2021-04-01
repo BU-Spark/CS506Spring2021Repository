@@ -1,0 +1,16 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+143072,2020-05-01 16:20:15.205375+00:00,b'HO\xd7d',0.5537043365259982,291.303,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+163859,2020-05-15 12:16:30.397870+00:00,b'HO\xd7\x1c',0.4667746153895202,682.489,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+165459,2020-05-16 19:53:49.507414+00:00,b'HO\xd7\x86',0.750858075272326,37.911,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+177720,2020-05-25 16:00:32.403102+00:00,b'`\xf0\xc8p',0.4015909853145627,51.212,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+177798,2020-05-25 16:02:52.344758+00:00,b'`\xf0\xc8p',0.4925970748687237,149.805,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+178347,2020-05-26 19:33:16.874100+00:00,b'`\xf0\xc87',0.3410228829976117,44.648,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+180300,2020-05-27 00:12:18.005530+00:00,b'`\xf0\xc87',0.3204879358173541,48.532,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+180717,2020-05-27 19:51:27.106464+00:00,b'`\xf0\xc87',0.2615006375202025,393.956,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181602,2020-05-28 00:06:24.542604+00:00,b'`\xf0\xc87',0.2999664329981525,49.784,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181650,2020-05-28 19:44:31.390574+00:00,b'`\xf0\xc87',0.3179464004869678,50.985,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+337075,2020-09-05 00:18:08.638338+00:00,b'G\x7f\x02\xd9',0.4721150394475286,89.841,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+337258,2020-09-05 00:01:37.247493+00:00,b'G\x7f\x02\xd9',0.575137204633419,118.763,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+342868,2020-09-10 12:09:19.513834+00:00,b'G\x7f\x02\x85',0.7116066126333321,33.374,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+343418,2020-09-10 12:10:49.900056+00:00,b'G\x7f\x02\x85',0.7116091809054941,31.047,Charlemont,42.608,-72.8901,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+373627,2020-10-13 12:24:49.742916+00:00,b'\xa1M*.',39.201010581351454,10.149,Charlemont,42.608,-72.8901,7849.0,CROCKERCOM - CROCKER COMMUNICATIONS
