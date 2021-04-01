@@ -93,7 +93,7 @@ ax.plot(x_out,p_out(x_out),"--", c=out_color, label='Non-Tracked Municipalities'
 
 # Finally, show the plot
 ax.legend()
-mpld3.show()
+# mpld3.show()
 
 mpld3.save_html(fig, "output/mlab_mhi_vs_mbps_2020.html")
 
