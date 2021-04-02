@@ -44,6 +44,7 @@ df_mhi['City'] = df_mhi['municipal']
 # Join mlab_avg_mbps and df_mhi
 joined = pd.merge(df_mhi, mlab_avg_mbps, on="City")
 joined = joined[['mhi', 'City', args.speed_col]]
+joined[args.speed_col] = joined[args.speed_col] / float(1024)
 # Note: the join "auto-removed" any cities that did not appear in both data sets.
 # It would be interesting to have a list of these.
 
@@ -66,12 +67,12 @@ mpld3.plugins.connect(fig, tooltip)
 
 # Set labels
 ax.set_xlabel("Median Household Income, 2014-2018, Dollars", size=20)
-ax.set_ylabel("Mean Throughput Mbps, MLAB 2020 data", size=20)
-ax.set_title("MLAB: Average Broadband Speed against Median Household Income", size=30)
-xvalues = np.arange(40000, 240000, 20000)
-yvalues = np.arange(0, 400, 50)
-ax.set_xticklabels(xvalues, fontsize=16)
-ax.set_yticklabels(yvalues, fontsize=16)
+ax.set_ylabel("Download Mbps, Ookla 2020 data", size=20)
+ax.set_title("Ookla: Average Download Broadband Speed against Median Household Income", size=30)
+# xvalues = np.arange(40000, 240000, 20000)
+# yvalues = np.arange(0, 1000000, 200000)
+# ax.set_xticklabels(xvalues, fontsize=16)
+# ax.set_yticklabels(yvalues, fontsize=16)
 # ax.legend()
 
 # Configure colors
