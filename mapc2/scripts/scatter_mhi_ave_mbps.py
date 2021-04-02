@@ -44,7 +44,10 @@ df_mhi['City'] = df_mhi['municipal']
 # Join mlab_avg_mbps and df_mhi
 joined = pd.merge(df_mhi, mlab_avg_mbps, on="City")
 joined = joined[['mhi', 'City', args.speed_col]]
+
+# this is specific to Ookla
 joined[args.speed_col] = joined[args.speed_col] / float(1024)
+
 # Note: the join "auto-removed" any cities that did not appear in both data sets.
 # It would be interesting to have a list of these.
 
@@ -65,7 +68,7 @@ labels = joined['City'].to_list()
 tooltip = mpld3.plugins.PointLabelTooltip(scatter, labels=labels)
 mpld3.plugins.connect(fig, tooltip)
 
-# Set labels
+# Set labels: these need to be updated to allow for either Ookla or MLAB
 ax.set_xlabel("Median Household Income, 2014-2018, Dollars", size=20)
 ax.set_ylabel("Download Mbps, Ookla 2020 data", size=20)
 ax.set_title("Ookla: Average Download Broadband Speed against Median Household Income", size=30)
