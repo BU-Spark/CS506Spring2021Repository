@@ -4,6 +4,13 @@ csv_data
 # Parquet data files
 data/*.parquet
 
+# shapefiles
+data/export-gisdata.mapc.ma_municipalities
+data/tl_2020_us_state
+data/townssurvey_shp
+Ookla shape data
+
+
 # Standard python gitignore config
 # Byte-compiled / optimized / DLL files
 __pycache__/
