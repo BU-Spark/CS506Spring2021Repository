@@ -99,7 +99,7 @@ df=df.sort_values(by=['ACRES'], ascending=False)
 #split coords
 df['latlon'] = df['coords'].apply(lambda coords: splitCoords(coords))
 df[['lat', 'lon']] = pd.DataFrame(df['latlon'].tolist(), index=df.index)
-df.drop(['latlon'], axis=1)
+df = df.drop(['latlon'], axis=1)
 # print('-----')
 print(df[['lat','lon']].head())
 output_data(df,"../../datasets_clean/open_space_latlon.csv")
