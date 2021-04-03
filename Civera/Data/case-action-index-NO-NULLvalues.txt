@@ -1,0 +1,1009 @@
+case_action_id	case_id	actor	action	description	date_time	file_reference_number	last_indexed
+473392	473388	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-08-03 00:00:00	0	2017-02-05 14:49:43
+473396	473388	Administrator/rix CTA	Appointment of agent filed	Appointment of Agent	2010-08-03 00:00:00	0	2017-02-05 14:49:43
+473397	473388	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-08-03 00:00:00	0	2017-02-05 14:49:43
+473398	473388	Administrator/rix CTA	Certificate of Death filed	Certificate of Death (Mary Lorraine Vernaglia)	2010-08-03 00:00:00	0	2017-02-05 14:49:43
+473416	473388	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-05-31 00:00:00	0	2017-02-05 14:49:43
+604891	604888	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-09-28 00:00:00	0	2017-02-05 14:49:43
+604892	604888	Administrator/rix CTA	Copy of will filed	Copy of Will dated 09/19/1989 3p.	2011-09-28 00:00:00	0	2017-02-05 14:49:43
+604893	604888	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-09-28 00:00:00	0	2017-02-05 14:49:43
+604907	604888	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-08-30 00:00:00	0	2017-02-05 14:49:43
+692668	692665	Administrator/rix CTA	Petition for Administration	Petition for Administration	2011-10-17 00:00:00	0	2017-02-05 14:49:43
+692670	692665	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-10-17 00:00:00	0	2017-02-05 14:49:43
+702494	702491	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+702496	702491	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+702506	702491	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate by Temporary Administrator WWA	2011-10-25 00:00:00	0	2017-02-05 14:49:43
+702522	702491	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-09-25 00:00:00	0	2017-02-05 14:49:43
+759998	759995	Administrator/rix CTA	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2010-06-10 00:00:00	0	2017-02-05 14:49:43
+760000	759995	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-06-10 00:00:00	0	2017-02-05 14:49:43
+770010	770007	Administrator/rix CTA	Copy of will filed	Will	2010-09-07 00:00:00	0	2017-02-05 14:49:43
+770011	770007	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-09-07 00:00:00	0	2017-02-05 14:49:43
+770012	770007	Administrator/rix CTA	Bond without sureties filed	Bond without Sureties	2010-09-07 00:00:00	0	2017-02-05 14:49:43
+770014	770007	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-09-07 00:00:00	0	2017-02-05 14:49:43
+770016	770007	Administrator/rix CTA	Military affidavit filed	Affidavit as to Military Service	2010-10-29 00:00:00	0	2017-02-05 14:49:43
+770023	770007	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-12-06 00:00:00	0	2017-02-05 14:49:43
+770025	770007	Administrator/rix CTA	Petition for Order of Complete	Citation on Petition for Order of Complete Settlement requesting to adjudicate a final settlement issued.	2012-12-19 00:00:00	0	2017-02-05 14:49:43
+779901	779898	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+779902	779898	Administrator/rix CTA	Copy of will filed	Copy of Will : 6 Pages	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+779904	779898	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+779909	779898	Administrator/rix CTA	Military affidavit filed	Affidavit as to Military Service	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+779919	779898	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-05-01 00:00:00	0	2017-02-05 14:49:43
+779922	779898	Administrator/rix CTA	Military affidavit filed	Affidavit as to Military Service	2013-05-01 00:00:00	0	2017-02-05 14:49:43
+909237	909234	Administrator/rix CTA	Petition for Administration	Petition for Administration with the Will Annexed	2011-11-15 00:00:00	0	2017-02-05 14:49:43
+909239	909234	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-11-15 00:00:00	0	2017-02-05 14:49:43
+934384	934380	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-10-01 00:00:00	0	2017-02-05 14:49:43
+934387	934380	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-10-01 00:00:00	0	2017-02-05 14:49:43
+934388	934380	Administrator/rix CTA	Certificate of Death filed	Certificate of Death (Ernest Gardner Jones)	2010-10-01 00:00:00	0	2017-02-05 14:49:43
+934389	934380	Administrator/rix CTA	Certificate of Death filed	Certificate of Death (Harold B Nash)	2010-10-01 00:00:00	0	2017-02-05 14:49:43
+934396	934380	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-08-22 00:00:00	0	2017-02-05 14:49:43
+983634	983630	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+983635	983630	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+983646	983630	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-11-19 00:00:00	0	2017-02-05 14:49:43
+1090300	1090297	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-12-19 00:00:00	0	2017-02-05 14:49:43
+1090301	1090297	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-12-19 00:00:00	0	2017-02-05 14:49:43
+1259134	1259130	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-11-12 00:00:00	0	2017-02-05 14:49:43
+1259138	1259130	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-11-12 00:00:00	0	2017-02-05 14:49:43
+1259140	1259130	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Andrew Theodore Hanson	2010-11-12 00:00:00	0	2017-02-05 14:49:43
+1263311	1263307	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-11-10 00:00:00	0	2017-02-05 14:49:43
+1263315	1263307	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-11-10 00:00:00	0	2017-02-05 14:49:43
+1512533	1512529	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-12-07 00:00:00	0	2017-02-05 14:49:43
+1512537	1512529	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-12-07 00:00:00	0	2017-02-05 14:49:43
+1853134	1853131	Administrator/rix CTA	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+1853135	1853131	Administrator/rix CTA	Copy of will filed	Copy of Will dated 05/12/2000 3p.	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+1853136	1853131	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+1973184	1973180	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+1973186	1973180	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+1973203	1973180	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-07-09 00:00:00	0	2017-02-05 14:49:43
+3598003	3597999	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-07-18 00:00:00	0	2017-02-05 14:49:43
+3598006	3597999	Administrator/rix CTA	Petition for Administration	Petition for Administration with the will annexed	2011-07-18 00:00:00	0	2017-02-05 14:49:43
+3632512	3632504	Administrator/rix CTA	Petition for Probate of Foreig	Petition for Probate of Foreign Will	2011-07-29 00:00:00	0	2017-02-05 14:49:43
+3632513	3632504	Administrator/rix CTA	Certificate of Death filed	Certificate of Death (Athena B Pepi aka Ethel Pepi)	2011-07-29 00:00:00	0	2017-02-05 14:49:43
+3635774	3635770	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-07-29 00:00:00	0	2017-02-05 14:49:43
+3635778	3635770	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-07-29 00:00:00	0	2017-02-05 14:49:43
+3740552	3740548	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-08-31 00:00:00	0	2017-02-05 14:49:43
+3740556	3740548	Administrator/rix CTA	Petition for Administration	Petition for Administration with the will Annexed	2011-08-31 00:00:00	0	2017-02-05 14:49:43
+3740564	3740548	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-12-22 00:00:00	0	2017-02-05 14:49:43
+3740571	3740548	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2013-07-24 00:00:00	0	2017-02-05 14:49:43
+3849300	3849294	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+3849308	3849294	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-05-28 00:00:00	0	2017-02-05 14:49:43
+3853279	3853274	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-10-17 00:00:00	0	2017-02-05 14:49:43
+3901040	3901036	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+3901045	3901036	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+3901053	3901036	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-05-08 00:00:00	0	2017-02-05 14:49:43
+3937269	3937265	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+3937273	3937265	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+3937275	3937265	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Lois A Pignataro	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+3992783	3992779	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-12-21 00:00:00	0	2017-02-05 14:49:43
+3992787	3992779	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-12-21 00:00:00	0	2017-02-05 14:49:43
+3992794	3992779	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-02-20 00:00:00	0	2017-02-05 14:49:43
+3996870	3996864	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-12-20 00:00:00	0	2017-02-05 14:49:43
+3996874	3996864	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-12-20 00:00:00	0	2017-02-05 14:49:43
+5042969	5042965	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-07-14 00:00:00	0	2017-02-05 14:49:43
+5042972	5042965	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-07-14 00:00:00	0	2017-02-05 14:49:43
+5126007	5126004	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-07-26 00:00:00	0	2017-02-05 14:49:43
+5126009	5126004	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-07-26 00:00:00	0	2017-02-05 14:49:43
+5212773	5212769	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-01-04 00:00:00	0	2017-02-05 14:49:43
+5212778	5212769	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-01-04 00:00:00	0	2017-02-05 14:49:43
+5223304	5223300	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+5223308	5223300	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+5223310	5223300	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Barbara Jeanne Kennedy	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+5229783	5229780	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-01-10 00:00:00	0	2017-02-05 14:49:43
+5229786	5229780	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-01-10 00:00:00	0	2017-02-05 14:49:43
+5345301	5345298	Administrator/rix CTA	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+5345303	5345298	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+5345315	5345298	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2014-06-19 00:00:00	0	2017-02-05 14:49:43
+5396756	5396752	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-02-24 00:00:00	0	2017-02-05 14:49:43
+5396759	5396752	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-02-24 00:00:00	0	2017-02-05 14:49:43
+5396761	5396752	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Margaret M. McCarthy	2011-02-24 00:00:00	0	2017-02-05 14:49:43
+5413964	5413961	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-09-16 00:00:00	0	2017-02-05 14:49:43
+5413966	5413961	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-09-16 00:00:00	0	2017-02-05 14:49:43
+5579932	5579925	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-03-29 00:00:00	0	2017-02-05 14:49:43
+5579935	5579925	Administrator/rix CTA	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2011-03-29 00:00:00	0	2017-02-05 14:49:43
+5579951	5579925	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-06-05 00:00:00	0	2017-02-05 14:49:43
+5612859	5612856	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-10-15 00:00:00	0	2017-02-05 14:49:43
+5612863	5612856	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-10-15 00:00:00	0	2017-02-05 14:49:43
+5702486	5702482	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-15 00:00:00	0	2017-02-05 14:49:43
+5702489	5702482	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-15 00:00:00	0	2017-02-05 14:49:43
+5702501	5702482	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate
+
+Attorney Shaughnessy Esq., Tracy Elizabeth	2011-05-17 00:00:00	0	2017-02-05 14:49:43
+5725055	5725051	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-22 00:00:00	0	2017-02-05 14:49:43
+5725058	5725051	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-22 00:00:00	0	2017-02-05 14:49:43
+5725446	5725442	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-22 00:00:00	0	2017-02-05 14:49:43
+5725451	5725442	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-22 00:00:00	0	2017-02-05 14:49:43
+5726216	5726212	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-22 00:00:00	0	2017-02-05 14:49:43
+5726218	5726212	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-22 00:00:00	0	2017-02-05 14:49:43
+5763596	5763591	Administrator/rix CTA	Petition for Probate of Foreig	Petition for Probate of Foreign Will	2011-05-03 00:00:00	0	2017-02-05 14:49:43
+5764545	5764538	Administrator/rix CTA	Petition for Probate of Foreig	Petition for Probate of Foreign Will	2011-05-02 00:00:00	0	2017-02-05 14:49:43
+5860387	5860383	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-05-24 00:00:00	0	2017-02-05 14:49:43
+5860392	5860383	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-05-24 00:00:00	0	2017-02-05 14:49:43
+5860408	5860383	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-08-22 00:00:00	0	2017-02-05 14:49:43
+5929480	5929476	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-06-06 00:00:00	0	2017-02-05 14:49:43
+5929483	5929476	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-06-06 00:00:00	0	2017-02-05 14:49:43
+5929484	5929476	Administrator/rix CTA	Certificate of Death filed	Certificate of Death (Wayne Silva)	2011-06-06 00:00:00	0	2017-02-05 14:49:43
+5929485	5929476	Administrator/rix CTA	Certificate of Death filed	Certificate of Death (Joseph Silva)	2011-06-06 00:00:00	0	2017-02-05 14:49:43
+6009904	6009901	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+6381973	6381969	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2012-03-12 00:00:00	0	2017-02-05 14:49:43
+6381977	6381969	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2012-03-12 00:00:00	0	2017-02-05 14:49:43
+6381989	6381969	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2014-05-22 00:00:00	0	2017-02-05 14:49:43
+6390030	6390025	Administrator/rix CTA	Petition for Probate of Foreig	Petition for Probate of Foreign Will	2012-03-15 00:00:00	0	2017-02-05 14:49:43
+6416937	6416931	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2012-03-27 00:00:00	0	2017-02-05 14:49:43
+6625415	6625412	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+6625417	6625412	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+6625426	6625412	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-09-09 00:00:00	0	2017-02-05 14:49:43
+6802103	6802100	Administrator/rix CTA	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2011-03-14 00:00:00	0	2017-02-05 14:49:43
+6802105	6802100	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-03-14 00:00:00	0	2017-02-05 14:49:43
+6802108	6802100	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-19 00:00:00	0	2017-02-05 14:49:43
+6839192	6839189	Administrator/rix CTA	Petition for Administration	Petition for Administration	2011-03-28 00:00:00	0	2017-02-05 14:49:43
+6839194	6839189	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-03-28 00:00:00	0	2017-02-05 14:49:43
+6896397	6896393	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-14 00:00:00	0	2017-02-05 14:49:43
+6896399	6896393	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-14 00:00:00	0	2017-02-05 14:49:43
+6896424	6896393	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2014-07-16 00:00:00	0	2017-02-05 14:49:43
+7199308	7199302	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2011-04-28 00:00:00	0	2017-02-05 14:49:43
+7199310	7199302	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-28 00:00:00	0	2017-02-05 14:49:43
+7537482	7537479	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-01-04 00:00:00	0	2017-02-05 14:49:43
+7537485	7537479	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-01-04 00:00:00	0	2017-02-05 14:49:43
+7567525	7567522	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-01-25 00:00:00	0	2017-02-05 14:49:43
+7567526	7567522	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-01-25 00:00:00	0	2017-02-05 14:49:43
+7636206	7636201	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-18 00:00:00	0	2017-02-05 14:49:43
+7636210	7636201	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-02-26 00:00:00	0	2017-02-05 14:49:43
+7637043	7637040	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-02-25 00:00:00	0	2017-02-05 14:49:43
+7637047	7637040	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-25 00:00:00	0	2017-02-05 14:49:43
+7746726	7746723	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-03-24 00:00:00	0	2017-02-05 14:49:43
+7746729	7746723	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-03-24 00:00:00	0	2017-02-05 14:49:43
+7872699	7872696	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-04-09 00:00:00	0	2017-02-05 14:49:43
+7872701	7872696	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-04-09 00:00:00	0	2017-02-05 14:49:43
+7886272	7886269	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-04-16 00:00:00	0	2017-02-05 14:49:43
+7886274	7886269	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-04-16 00:00:00	0	2017-02-05 14:49:43
+7886278	7886269	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Marjorie L Huff	2010-04-16 00:00:00	0	2017-02-05 14:49:43
+7886279	7886269	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Chester Linwood Linscott, Jr	2010-04-16 00:00:00	0	2017-02-05 14:49:43
+7886282	7886269	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Wayne M. Brown	2010-07-15 00:00:00	0	2017-02-05 14:49:43
+7886292	7886269	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-10-08 00:00:00	0	2017-02-05 14:49:43
+7886294	7886269	Administrator/rix CTA	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-12-01 00:00:00	0	2017-02-05 14:49:43
+7948649	7948645	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-05-10 00:00:00	0	2017-02-05 14:49:43
+7948651	7948645	Administrator/rix CTA	Petition for Administration	Petition for Administration CTA	2010-05-10 00:00:00	0	2017-02-05 14:49:43
+7977715	7977711	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-05-27 00:00:00	0	2017-02-05 14:49:43
+7977718	7977711	Administrator/rix CTA	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2010-05-27 00:00:00	0	2017-02-05 14:49:43
+7977730	7977711	Administrator/rix CTA	Petition for Allowance of Acco	Petition for Allowance of Account	2012-04-25 00:00:00	0	2017-02-05 14:49:43
+7977736	7977711	Administrator/rix CTA	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-06-06 00:00:00	0	2017-02-05 14:49:43
+8198269	8198264	Administrator/rix CTA	Petition for Probate of Foreig	Petition for Probate of Foreign Will	2010-11-16 00:00:00	0	2017-02-05 14:49:43
+8580022	8580017	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-12-02 00:00:00	0	2017-02-05 14:49:43
+8707211	8707206	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-12-07 00:00:00	0	2017-02-05 14:49:43
+8707975	8707970	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-12-07 00:00:00	0	2017-02-05 14:49:43
+8731112	8731107	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-12-09 00:00:00	0	2017-02-05 14:49:43
+8847002	8846997	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-12-22 00:00:00	0	2017-02-05 14:49:43
+14634606	14634593	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-01-04 00:00:00	0	2017-02-05 14:49:43
+14909524	14909510	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-01-22 00:00:00	0	2017-02-05 14:49:43
+15058582	15058569	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-01 00:00:00	0	2017-02-05 14:49:43
+15157836	15157821	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-09 00:00:00	0	2017-02-05 14:49:43
+15270200	15270184	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-07-07 00:00:00	0	2017-02-05 14:49:43
+15273758	15273748	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-07-13 00:00:00	0	2017-02-05 14:49:43
+15279038	15279025	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-07-07 00:00:00	0	2017-02-05 14:49:43
+15299925	15299916	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-18 00:00:00	0	2017-02-05 14:49:43
+15311801	15311789	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-07-11 00:00:00	0	2017-02-05 14:49:43
+15379462	15379447	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-22 00:00:00	0	2017-02-05 14:49:43
+15384415	15384409	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-02-24 00:00:00	0	2017-02-05 14:49:43
+15427846	15427836	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-08-10 00:00:00	0	2017-02-05 14:49:43
+17941931	17941913	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-06-03 00:00:00	0	2017-02-05 14:49:43
+18099798	18099733	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Judith Marie Hope	2010-07-21 00:00:00	0	2017-02-05 14:49:43
+18366824	18366796	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2010-08-23 00:00:00	0	2017-02-05 14:49:43
+18366846	18366796	Administrator/rix CTA	Certificate of Death filed	Certificate of Death of Julie A. MacDonald	2010-09-23 00:00:00	0	2017-02-05 14:49:43
+19557048	19557031	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-03-31 00:00:00	0	2017-02-05 14:49:43
+19599090	19599077	Administrator/rix CTA	Certificate of Death filed	Certificate of Death	2011-04-14 00:00:00	0	2017-02-05 14:49:43
+25241	25238	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+25242	25238	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+25243	25238	Administrator/trix	Appointment of agent filed	Appointment of Agent	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+25244	25238	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+25246	25238	Administrator/trix	Copy of will filed	Will	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+25247	25238	Administrator/trix	Petition for Administration	Petition for Administration DBN	2011-06-20 00:00:00	0	2017-02-05 14:49:43
+25252	25238	Administrator/trix	UCC filed	Uniform Counsel Certification Form Filed by Michael Hooker	2011-08-17 00:00:00	0	2017-02-05 14:49:43
+25263	25238	Administrator/trix	Military affidavit filed	Affidavit as to Military Service  (FIRST & FINAL ACCOUNT)	2013-08-01 00:00:00	0	2017-02-05 14:49:43
+25266	25238	Administrator/trix	Petition for Order of Complete	Citation on Petition for Order of Complete Settlement requesting to approve an accounting issued.	2013-08-01 00:00:00	0	2017-02-05 14:49:43
+25267	25238	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-08-01 00:00:00	0	2017-02-05 14:49:43
+30781	30778	Administrator/trix	Petition for Administration	Petition for Administration DBN	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+30782	30778	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+30783	30778	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+30784	30778	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+35029	35026	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+35030	35026	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+35031	35026	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+35032	35026	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-11 00:00:00	0	2017-02-05 14:49:43
+35041	35026	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+54102	54099	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-13 00:00:00	0	2017-02-05 14:49:43
+54103	54099	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-14 00:00:00	0	2017-02-05 14:49:43
+54104	54099	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-12-14 00:00:00	0	2017-02-05 14:49:43
+54106	54099	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2011-01-03 00:00:00	0	2017-02-05 14:49:43
+71574	71571	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-14 00:00:00	0	2017-02-05 14:49:43
+71575	71571	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-12-14 00:00:00	0	2017-02-05 14:49:43
+71576	71571	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-14 00:00:00	0	2017-02-05 14:49:43
+74141	74138	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-15 00:00:00	0	2017-02-05 14:49:43
+74142	74138	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-15 00:00:00	0	2017-02-05 14:49:43
+74144	74138	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-01-15 00:00:00	0	2017-02-05 14:49:43
+74145	74138	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-15 00:00:00	0	2017-02-05 14:49:43
+74152	74138	Administrator/trix	Bond without sureties filed	Bond without Sureties of Ellen Halm-Owoo, Administratrix - approved March 19, 2010 by Daniel L. Gibson, Asst. Reg.	2010-03-22 00:00:00	0	2017-02-05 14:49:43
+103187	103184	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-16 00:00:00	0	2017-02-05 14:49:43
+103188	103184	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-16 00:00:00	0	2017-02-05 14:49:43
+105191	105188	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-03 00:00:00	0	2017-02-05 14:49:43
+105192	105188	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-01-03 00:00:00	0	2017-02-05 14:49:43
+105195	105188	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-03 00:00:00	0	2017-02-05 14:49:43
+105529	105526	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-16 00:00:00	0	2017-02-05 14:49:43
+105530	105526	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-17 00:00:00	0	2017-02-05 14:49:43
+105531	105526	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-12-17 00:00:00	0	2017-02-05 14:49:43
+114867	114859	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-21 00:00:00	0	2017-02-05 14:49:43
+114878	114859	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-08-04 00:00:00	0	2017-02-05 14:49:43
+162585	162582	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-04 00:00:00	0	2017-02-05 14:49:43
+162588	162582	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-04 00:00:00	0	2017-02-05 14:49:43
+162594	162582	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-06-22 00:00:00	0	2017-02-05 14:49:43
+171077	171072	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-25 00:00:00	0	2017-02-05 14:49:43
+171079	171072	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-25 00:00:00	0	2017-02-05 14:49:43
+172539	172536	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+172541	172536	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+172542	172536	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+172543	172536	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+172553	172536	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-03-16 00:00:00	0	2017-02-05 14:49:43
+172557	172536	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-08-11 00:00:00	0	2017-02-05 14:49:43
+173323	173320	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-21 00:00:00	0	2017-02-05 14:49:43
+173325	173320	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-12-21 00:00:00	0	2017-02-05 14:49:43
+173326	173320	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-21 00:00:00	0	2017-02-05 14:49:43
+177400	177397	Administrator/trix	Petition for Administration	Petition for Administration DBN	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+177401	177397	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+177402	177397	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-26 00:00:00	0	2017-02-05 14:49:43
+192864	192861	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-23 00:00:00	0	2017-02-05 14:49:43
+192865	192861	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-23 00:00:00	0	2017-02-05 14:49:43
+197418	197415	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-23 00:00:00	0	2017-02-05 14:49:43
+197420	197415	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-12-23 00:00:00	0	2017-02-05 14:49:43
+197421	197415	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-12-23 00:00:00	0	2017-02-05 14:49:43
+197422	197415	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-23 00:00:00	0	2017-02-05 14:49:43
+200770	200767	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-24 00:00:00	0	2017-02-05 14:49:43
+200772	200767	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-24 00:00:00	0	2017-02-05 14:49:43
+225593	225589	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-28 00:00:00	0	2017-02-05 14:49:43
+232573	232570	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-28 00:00:00	0	2017-02-05 14:49:43
+232575	232570	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-12-28 00:00:00	0	2017-02-05 14:49:43
+232576	232570	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-12-28 00:00:00	0	2017-02-05 14:49:43
+232577	232570	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-28 00:00:00	0	2017-02-05 14:49:43
+235526	235523	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-28 00:00:00	0	2017-02-05 14:49:43
+235527	235523	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-28 00:00:00	0	2017-02-05 14:49:43
+235528	235523	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-28 00:00:00	0	2017-02-05 14:49:43
+242176	242173	Administrator/trix	Petition for Administration	Petition for Administration DBN	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+246504	246501	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-29 00:00:00	0	2017-02-05 14:49:43
+246505	246501	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-29 00:00:00	0	2017-02-05 14:49:43
+246506	246501	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-01-29 00:00:00	0	2017-02-05 14:49:43
+247802	247799	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-31 00:00:00	0	2017-02-05 14:49:43
+247804	247799	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-12-31 00:00:00	0	2017-02-05 14:49:43
+247805	247799	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-31 00:00:00	0	2017-02-05 14:49:43
+249074	249071	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-12-31 00:00:00	0	2017-02-05 14:49:43
+249075	249071	Administrator/trix	Petition for Administration	Petition for Administration	2010-12-31 00:00:00	0	2017-02-05 14:49:43
+249307	249304	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+249308	249304	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-07 00:00:00	0	2017-02-05 14:49:43
+249312	249304	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2011-12-02 00:00:00	0	2017-02-05 14:49:43
+249317	249304	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-09-12 00:00:00	0	2017-02-05 14:49:43
+257317	257314	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-02 00:00:00	0	2017-02-05 14:49:43
+257319	257314	Administrator/trix	Appointment of agent filed	Appointment of Agent: Jennifer Z. Flanagan, Esq.	2010-07-02 00:00:00	0	2017-02-05 14:49:43
+257320	257314	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-02 00:00:00	0	2017-02-05 14:49:43
+257323	257314	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-08-04 00:00:00	0	2017-02-05 14:49:43
+258247	258244	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-01 00:00:00	0	2017-02-05 14:49:43
+258249	258244	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-07-01 00:00:00	0	2017-02-05 14:49:43
+258250	258244	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-01 00:00:00	0	2017-02-05 14:49:43
+258259	258244	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-03-03 00:00:00	0	2017-02-05 14:49:43
+259351	259348	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-01 00:00:00	0	2017-02-05 14:49:43
+259353	259348	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-07-01 00:00:00	0	2017-02-05 14:49:43
+259355	259348	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-01 00:00:00	0	2017-02-05 14:49:43
+281000	280997	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-02 00:00:00	0	2017-02-05 14:49:43
+281001	280997	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-02-02 00:00:00	0	2017-02-05 14:49:43
+281003	280997	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-02 00:00:00	0	2017-02-05 14:49:43
+281005	280997	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-02-02 00:00:00	0	2017-02-05 14:49:43
+283117	283114	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-07 00:00:00	0	2017-02-05 14:49:43
+283119	283114	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-07-07 00:00:00	0	2017-02-05 14:49:43
+283120	283114	Administrator/trix	Appointment of agent filed	Appointment of Agent: Russell P. Canevazzi, Esq.	2010-07-07 00:00:00	0	2017-02-05 14:49:43
+283122	283114	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-07 00:00:00	0	2017-02-05 14:49:43
+283129	283114	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-04-29 00:00:00	0	2017-02-05 14:49:43
+284040	284037	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-08 00:00:00	0	2017-02-05 14:49:43
+284042	284037	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-07-08 00:00:00	0	2017-02-05 14:49:43
+284045	284037	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-08 00:00:00	0	2017-02-05 14:49:43
+302672	302668	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-08 00:00:00	0	2017-02-05 14:49:43
+302674	302668	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-07-08 00:00:00	0	2017-02-05 14:49:43
+302675	302668	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-08 00:00:00	0	2017-02-05 14:49:43
+318467	318464	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-15 00:00:00	0	2017-02-05 14:49:43
+318470	318464	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-15 00:00:00	0	2017-02-05 14:49:43
+321369	321366	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-14 00:00:00	0	2017-02-05 14:49:43
+321374	321366	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-14 00:00:00	0	2017-02-05 14:49:43
+321387	321366	Administrator/trix	Petition for Allowance of Acco	Petition for Allowance of Account	2012-04-20 00:00:00	0	2017-02-05 14:49:43
+323725	323722	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-04 00:00:00	0	2017-02-05 14:49:43
+323728	323722	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-04 00:00:00	0	2017-02-05 14:49:43
+329062	329059	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-16 00:00:00	0	2017-02-05 14:49:43
+329067	329059	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-16 00:00:00	0	2017-02-05 14:49:43
+340729	340726	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-20 00:00:00	0	2017-02-05 14:49:43
+340731	340726	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-20 00:00:00	0	2017-02-05 14:49:43
+343112	343109	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-11 00:00:00	0	2017-02-05 14:49:43
+343114	343109	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-11 00:00:00	0	2017-02-05 14:49:43
+343124	343109	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-11-02 00:00:00	0	2017-02-05 14:49:43
+344749	344746	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-04 00:00:00	0	2017-02-05 14:49:43
+344751	344746	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-04 00:00:00	0	2017-02-05 14:49:43
+346588	346585	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-05 00:00:00	0	2017-02-05 14:49:43
+346589	346585	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-02-05 00:00:00	0	2017-02-05 14:49:43
+346591	346585	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-05 00:00:00	0	2017-02-05 14:49:43
+346596	346585	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-02-23 00:00:00	0	2017-02-05 14:49:43
+356238	356235	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-22 00:00:00	0	2017-02-05 14:49:43
+356242	356235	Administrator/trix	Appointment of agent filed	Appointment of Agent: Jeffrey D. Williams	2010-07-22 00:00:00	0	2017-02-05 14:49:43
+356243	356235	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-22 00:00:00	0	2017-02-05 14:49:43
+356250	356235	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-09-06 00:00:00	0	2017-02-05 14:49:43
+356252	356235	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-12-31 00:00:00	0	2017-02-05 14:49:43
+369574	369571	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-08 00:00:00	0	2017-02-05 14:49:43
+369576	369571	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-08 00:00:00	0	2017-02-05 14:49:43
+371500	371497	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-27 00:00:00	0	2017-02-05 14:49:43
+371502	371497	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-27 00:00:00	0	2017-02-05 14:49:43
+391749	391746	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-13 00:00:00	0	2017-02-05 14:49:43
+391752	391746	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-13 00:00:00	0	2017-02-05 14:49:43
+403286	403282	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-07-29 00:00:00	0	2017-02-05 14:49:43
+403289	403282	Administrator/trix	Petition for Administration	Petition for Administration	2010-07-29 00:00:00	0	2017-02-05 14:49:43
+417382	417379	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-12 00:00:00	0	2017-02-05 14:49:43
+417385	417379	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-12 00:00:00	0	2017-02-05 14:49:43
+422388	422385	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-12 00:00:00	0	2017-02-05 14:49:43
+422392	422385	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-12 00:00:00	0	2017-02-05 14:49:43
+434075	434072	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-14 00:00:00	0	2017-02-05 14:49:43
+434079	434072	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-14 00:00:00	0	2017-02-05 14:49:43
+471891	471888	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-04 00:00:00	0	2017-02-05 14:49:43
+471893	471888	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-04 00:00:00	0	2017-02-05 14:49:43
+474423	474420	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-19 00:00:00	0	2017-02-05 14:49:43
+474426	474420	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-19 00:00:00	0	2017-02-05 14:49:43
+488544	488541	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-05 00:00:00	0	2017-02-05 14:49:43
+488547	488541	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-05 00:00:00	0	2017-02-05 14:49:43
+491335	491332	Administrator/trix	Petition for Administration	Petition for Administration CTA	2010-02-22 00:00:00	0	2017-02-05 14:49:43
+491338	491332	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-22 00:00:00	0	2017-02-05 14:49:43
+491971	491968	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-06 00:00:00	0	2017-02-05 14:49:43
+491975	491968	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-06 00:00:00	0	2017-02-05 14:49:43
+505007	505004	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-09 00:00:00	0	2017-02-05 14:49:43
+505009	505004	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-09 00:00:00	0	2017-02-05 14:49:43
+511823	511820	Administrator/trix	Petition for Administration	Petition for Administration - fee paid in 10P0389 (case filed in error)	2010-02-23 00:00:00	0	2017-02-05 14:49:43
+518144	518141	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-10 00:00:00	0	2017-02-05 14:49:43
+518147	518141	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-10 00:00:00	0	2017-02-05 14:49:43
+525221	525218	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-24 00:00:00	0	2017-02-05 14:49:43
+525224	525218	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-24 00:00:00	0	2017-02-05 14:49:43
+525800	525797	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-11 00:00:00	0	2017-02-05 14:49:43
+525803	525797	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-11 00:00:00	0	2017-02-05 14:49:43
+533982	533979	Administrator/trix	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2010-02-24 00:00:00	0	2017-02-05 14:49:43
+533983	533979	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-24 00:00:00	0	2017-02-05 14:49:43
+544095	544092	Administrator/trix	Petition for Administration	Petition for Administration DBN/CTA	2010-02-26 00:00:00	0	2017-02-05 14:49:43
+564747	564744	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-01 00:00:00	0	2017-02-05 14:49:43
+564748	564744	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-01 00:00:00	0	2017-02-05 14:49:43
+568368	568365	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-01 00:00:00	0	2017-02-05 14:49:43
+568371	568365	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-01 00:00:00	0	2017-02-05 14:49:43
+568372	568365	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-03-01 00:00:00	0	2017-02-05 14:49:43
+583506	583503	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-02 00:00:00	0	2017-02-05 14:49:43
+583509	583503	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-02 00:00:00	0	2017-02-05 14:49:43
+586343	586340	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-13 00:00:00	0	2017-02-05 14:49:43
+586346	586340	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-13 00:00:00	0	2017-02-05 14:49:43
+599339	599336	Administrator/trix	Petition for Administration	Petition for Administration	2011-09-27 00:00:00	0	2017-02-05 14:49:43
+599340	599336	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-09-27 00:00:00	0	2017-02-05 14:49:43
+599709	599706	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-03 00:00:00	0	2017-02-05 14:49:43
+599712	599706	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-03 00:00:00	0	2017-02-05 14:49:43
+599715	599706	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-03-03 00:00:00	0	2017-02-05 14:49:43
+600082	600079	Administrator/trix	Petition for Administration	Petition for Administration	2011-09-27 00:00:00	0	2017-02-05 14:49:43
+600083	600079	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-09-27 00:00:00	0	2017-02-05 14:49:43
+600587	600584	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-16 00:00:00	0	2017-02-05 14:49:43
+600590	600584	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-16 00:00:00	0	2017-02-05 14:49:43
+601881	601878	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-03 00:00:00	0	2017-02-05 14:49:43
+601883	601878	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-03 00:00:00	0	2017-02-05 14:49:43
+601950	601947	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-16 00:00:00	0	2017-02-05 14:49:43
+601953	601947	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-16 00:00:00	0	2017-02-05 14:49:43
+603499	603496	Administrator/trix	Petition for Administration	Petition for Administration	2011-09-26 00:00:00	0	2017-02-05 14:49:43
+603500	603496	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-09-26 00:00:00	0	2017-02-05 14:49:43
+605823	605820	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-04 00:00:00	0	2017-02-05 14:49:43
+605826	605820	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-04 00:00:00	0	2017-02-05 14:49:43
+608606	608603	Administrator/trix	Petition for Administration	Petition for Administration DBN	2010-03-04 00:00:00	0	2017-02-05 14:49:43
+609234	609231	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-04 00:00:00	0	2017-02-05 14:49:43
+609235	609231	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-04 00:00:00	0	2017-02-05 14:49:43
+610440	610436	Administrator/trix	Petition for Administration	Petition for Administration	2011-09-30 00:00:00	0	2017-02-05 14:49:43
+610441	610436	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-09-30 00:00:00	0	2017-02-05 14:49:43
+612609	612606	Administrator/trix	Petition for Administration	Petition for Administration	2011-09-30 00:00:00	0	2017-02-05 14:49:43
+612610	612606	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-09-30 00:00:00	0	2017-02-05 14:49:43
+615473	615470	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-18 00:00:00	0	2017-02-05 14:49:43
+615477	615470	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-18 00:00:00	0	2017-02-05 14:49:43
+615892	615889	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-19 00:00:00	0	2017-02-05 14:49:43
+615896	615889	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-19 00:00:00	0	2017-02-05 14:49:43
+617988	617985	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-03 00:00:00	0	2017-02-05 14:49:43
+617989	617985	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-03 00:00:00	0	2017-02-05 14:49:43
+619167	619164	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-03 00:00:00	0	2017-02-05 14:49:43
+619168	619164	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-03 00:00:00	0	2017-02-05 14:49:43
+619180	619164	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-01-14 00:00:00	0	2017-02-05 14:49:43
+619417	619414	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-03 00:00:00	0	2017-02-05 14:49:43
+619418	619414	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-03 00:00:00	0	2017-02-05 14:49:43
+619429	619414	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-01-14 00:00:00	0	2017-02-05 14:49:43
+635742	635739	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-07 00:00:00	0	2017-02-05 14:49:43
+635743	635739	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-07 00:00:00	0	2017-02-05 14:49:43
+643891	643888	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-08 00:00:00	0	2017-02-05 14:49:43
+643895	643888	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-08 00:00:00	0	2017-02-05 14:49:43
+645384	645381	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-09 00:00:00	0	2017-02-05 14:49:43
+645385	645381	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-09 00:00:00	0	2017-02-05 14:49:43
+646679	646676	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-09 00:00:00	0	2017-02-05 14:49:43
+646680	646676	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-09 00:00:00	0	2017-02-05 14:49:43
+649503	649500	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-09 00:00:00	0	2017-02-05 14:49:43
+649505	649500	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-09 00:00:00	0	2017-02-05 14:49:43
+650120	650117	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+650124	650117	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+650482	650479	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-18 00:00:00	0	2017-02-05 14:49:43
+650485	650479	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-18 00:00:00	0	2017-02-05 14:49:43
+658741	658737	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-09 00:00:00	0	2017-02-05 14:49:43
+658743	658737	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-09 00:00:00	0	2017-02-05 14:49:43
+660943	660940	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-11 00:00:00	0	2017-02-05 14:49:43
+660944	660940	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-11 00:00:00	0	2017-02-05 14:49:43
+662697	662694	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-11 00:00:00	0	2017-02-05 14:49:43
+662699	662694	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-12 00:00:00	0	2017-02-05 14:49:43
+668233	668230	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-12 00:00:00	0	2017-02-05 14:49:43
+668234	668230	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-12 00:00:00	0	2017-02-05 14:49:43
+669114	669110	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-12 00:00:00	0	2017-02-05 14:49:43
+669115	669110	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-12 00:00:00	0	2017-02-05 14:49:43
+669892	669888	Administrator/trix	Petition for Administration	Petition for Administration DBN	2011-10-12 00:00:00	0	2017-02-05 14:49:43
+671323	671320	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-13 00:00:00	0	2017-02-05 14:49:43
+671324	671320	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-13 00:00:00	0	2017-02-05 14:49:43
+671604	671600	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-23 00:00:00	0	2017-02-05 14:49:43
+671606	671600	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-23 00:00:00	0	2017-02-05 14:49:43
+671814	671811	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-13 00:00:00	0	2017-02-05 14:49:43
+671815	671811	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-13 00:00:00	0	2017-02-05 14:49:43
+675061	675058	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-15 00:00:00	0	2017-02-05 14:49:43
+675062	675058	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-15 00:00:00	0	2017-02-05 14:49:43
+675529	675526	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+675531	675526	Administrator/trix	Certificate of Death filed	Certificate of Death ( original in 11P0267)	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+675957	675954	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+675959	675954	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+680243	680240	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-23 00:00:00	0	2017-02-05 14:49:43
+680247	680240	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-23 00:00:00	0	2017-02-05 14:49:43
+683397	683394	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-16 00:00:00	0	2017-02-05 14:49:43
+683399	683394	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-16 00:00:00	0	2017-02-05 14:49:43
+683409	683394	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate filed by John E. Meaney April 1, 2010	2010-04-01 00:00:00	0	2017-02-05 14:49:43
+685668	685665	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-23 00:00:00	0	2017-02-05 14:49:43
+685670	685665	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-23 00:00:00	0	2017-02-05 14:49:43
+686215	686212	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-24 00:00:00	0	2017-02-05 14:49:43
+686217	686212	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-24 00:00:00	0	2017-02-05 14:49:43
+686224	686212	Administrator/trix	Petition for Sale of Real Esta	Petition for sale of Real Estate	2012-05-31 00:00:00	0	2017-02-05 14:49:43
+687965	687962	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-16 00:00:00	0	2017-02-05 14:49:43
+687970	687962	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+691000	690997	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+691003	690997	Administrator/trix	Petition for Administration	Petition for Administration DBN	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+692094	692091	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-26 00:00:00	0	2017-02-05 14:49:43
+692096	692091	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-26 00:00:00	0	2017-02-05 14:49:43
+692110	692091	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-11-26 00:00:00	0	2017-02-05 14:49:43
+697337	697334	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+697340	697334	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+698712	698709	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+698715	698709	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+698721	698709	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-03-03 00:00:00	0	2017-02-05 14:49:43
+700421	700418	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-18 00:00:00	0	2017-02-05 14:49:43
+700422	700418	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-18 00:00:00	0	2017-02-05 14:49:43
+700430	700418	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-12-28 00:00:00	0	2017-02-05 14:49:43
+701330	701327	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-24 00:00:00	0	2017-02-05 14:49:43
+701334	701327	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-24 00:00:00	0	2017-02-05 14:49:43
+701341	701327	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-03-03 00:00:00	0	2017-02-05 14:49:43
+701953	701950	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+701956	701950	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-26 00:00:00	0	2017-02-05 14:49:43
+708398	708395	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+708399	708395	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+708400	708395	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+708401	708395	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+708409	708395	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-06-27 00:00:00	0	2017-02-05 14:49:43
+709770	709766	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+709771	709766	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+709772	709766	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+712113	712110	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+712114	712110	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+714554	714549	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-22 00:00:00	0	2017-02-05 14:49:43
+714556	714549	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-03-22 00:00:00	0	2017-02-05 14:49:43
+714557	714549	Administrator/trix	Appointment of agent filed	Appointment of Agent	2010-03-22 00:00:00	0	2017-02-05 14:49:43
+714558	714549	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-22 00:00:00	0	2017-02-05 14:49:43
+715031	715028	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+715032	715028	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+715033	715028	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+715035	715028	Administrator/trix	UCC filed	Uniform Counsel Certification Form Filed by Giannpiero Spino	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+715036	715028	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2011-10-19 00:00:00	0	2017-02-05 14:49:43
+715655	715652	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+715656	715652	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-07 00:00:00	0	2017-02-05 14:49:43
+715660	715652	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-08-18 00:00:00	0	2017-02-05 14:49:43
+718961	718958	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-27 00:00:00	0	2017-02-05 14:49:43
+718962	718958	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-08-27 00:00:00	0	2017-02-05 14:49:43
+718964	718958	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-27 00:00:00	0	2017-02-05 14:49:43
+719532	719529	Administrator/trix	Petition for Administration	Petition for Administration	2012-02-06 00:00:00	0	2017-02-05 14:49:43
+719533	719529	Administrator/trix	Bond without sureties filed	Bond without Sureties	2012-02-06 00:00:00	0	2017-02-05 14:49:43
+719534	719529	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-02-06 00:00:00	0	2017-02-05 14:49:43
+719535	719529	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-02-06 00:00:00	0	2017-02-05 14:49:43
+726299	726296	Administrator/trix	Petition for Administration	Petition for Administration	2012-02-08 00:00:00	0	2017-02-05 14:49:43
+726300	726296	Administrator/trix	Bond with sureties filed	Bond with Sureties	2012-02-08 00:00:00	0	2017-02-05 14:49:43
+726301	726296	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-02-08 00:00:00	0	2017-02-05 14:49:43
+726302	726296	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-02-08 00:00:00	0	2017-02-05 14:49:43
+726308	726296	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement
+
+Attorney: Sisto, Esq., James J	2013-09-03 00:00:00	0	2017-02-05 14:49:43
+727808	727805	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+727809	727805	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+727810	727805	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+727811	727805	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+729677	729672	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+729681	729672	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+729688	729672	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-28 00:00:00	0	2017-02-05 14:49:43
+733408	733402	Administrator/trix	Petition for Administration	Petition for Administration CTA	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+733409	733402	Administrator/trix	Bond without sureties filed	Bond without Sureties	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+733410	733402	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+733411	733402	Administrator/trix	Certificate of Death filed	Certificate of Death of John Francis Quirk, Jr.	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+733412	733402	Administrator/trix	Copy of will filed	Will, dated 6/29/1995	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+733413	733402	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-02-09 00:00:00	0	2017-02-05 14:49:43
+733431	733402	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-04-02 00:00:00	0	2017-02-05 14:49:43
+734467	734464	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-21 00:00:00	0	2017-02-05 14:49:43
+734468	734464	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-21 00:00:00	0	2017-02-05 14:49:43
+736205	736202	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+736206	736202	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+736209	736202	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-04-30 00:00:00	0	2017-02-05 14:49:43
+736210	736202	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-05-03 00:00:00	0	2017-02-05 14:49:43
+736215	736202	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-05-03 00:00:00	0	2017-02-05 14:49:43
+737815	737812	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-31 00:00:00	0	2017-02-05 14:49:43
+737817	737812	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-08-31 00:00:00	0	2017-02-05 14:49:43
+737820	737812	Administrator/trix	Petition for Administration	Petition for Administration	2010-08-31 00:00:00	0	2017-02-05 14:49:43
+737827	737812	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-11-03 00:00:00	0	2017-02-05 14:49:43
+738335	738332	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-10 00:00:00	0	2017-02-05 14:49:43
+738336	738332	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-10 00:00:00	0	2017-02-05 14:49:43
+739950	739946	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+739951	739946	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+739952	739946	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+740801	740798	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+740802	740798	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-23 00:00:00	0	2017-02-05 14:49:43
+740804	740798	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-03-24 00:00:00	0	2017-02-05 14:49:43
+740811	740798	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-09-12 00:00:00	0	2017-02-05 14:49:43
+741075	741072	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+741077	741072	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+741078	741072	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+742830	742827	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+742832	742827	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+742834	742827	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+746779	746776	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-09 00:00:00	0	2017-02-05 14:49:43
+746780	746776	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-09 00:00:00	0	2017-02-05 14:49:43
+752486	752483	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-24 00:00:00	0	2017-02-05 14:49:43
+752487	752483	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+752488	752483	Administrator/trix	Bond with sureties filed	Bond with Sureties	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+752490	752483	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2011-02-22 00:00:00	0	2017-02-05 14:49:43
+757930	757926	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-03 00:00:00	0	2017-02-05 14:49:43
+757932	757926	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-03 00:00:00	0	2017-02-05 14:49:43
+757933	757926	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-03 00:00:00	0	2017-02-05 14:49:43
+769667	769663	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-25 00:00:00	0	2017-02-05 14:49:43
+769668	769663	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-25 00:00:00	0	2017-02-05 14:49:43
+769670	769663	Administrator/trix	Appointment of agent filed	Appointment of Agent	2011-10-25 00:00:00	0	2017-02-05 14:49:43
+776621	776617	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+776622	776617	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+776625	776617	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2011-12-23 00:00:00	0	2017-02-05 14:49:43
+776631	776617	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-09-07 00:00:00	0	2017-02-05 14:49:43
+776838	776835	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-11 00:00:00	0	2017-02-05 14:49:43
+776839	776835	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-11 00:00:00	0	2017-02-05 14:49:43
+777801	777798	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-26 00:00:00	0	2017-02-05 14:49:43
+777802	777798	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-10-26 00:00:00	0	2017-02-05 14:49:43
+777975	777972	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-09 00:00:00	0	2017-02-05 14:49:43
+777978	777972	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-09 00:00:00	0	2017-02-05 14:49:43
+777983	777972	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-10-22 00:00:00	0	2017-02-05 14:49:43
+778636	778633	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+778637	778633	Administrator/trix	Bond with sureties filed	Bond with Sureties	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+778638	778633	Administrator/trix	UCC filed	Uniform Counsel Certification Form Filed by Attorney Sherill R. Gould	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+778639	778633	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+779864	779861	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-09 00:00:00	0	2017-02-05 14:49:43
+779866	779861	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-09 00:00:00	0	2017-02-05 14:49:43
+779867	779861	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-09 00:00:00	0	2017-02-05 14:49:43
+779878	779861	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-10-03 00:00:00	0	2017-02-05 14:49:43
+781331	781327	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+781332	781327	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+781333	781327	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+784189	784186	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+784190	784186	Administrator/trix	Bond with sureties filed	Bond with Sureties	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+784192	784186	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+784197	784186	Administrator/trix	Petition for Order of Complete	Citation on Petition for Order of Complete Settlement requesting to approve an accounting, determine heirs, compel or approve a distribution, adjudicate a final settlement issued.	2013-12-20 00:00:00	0	2017-02-05 14:49:43
+789396	789393	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-08 00:00:00	0	2017-02-05 14:49:43
+789398	789393	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-08 00:00:00	0	2017-02-05 14:49:43
+789399	789393	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-08 00:00:00	0	2017-02-05 14:49:43
+789858	789855	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-31 00:00:00	0	2017-02-05 14:49:43
+789859	789855	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-31 00:00:00	0	2017-02-05 14:49:43
+789860	789855	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-10-31 00:00:00	0	2017-02-05 14:49:43
+790307	790303	Administrator/trix	Certificate of Death filed	Certificate of Death &  Affidavit As To Domicile	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+790308	790303	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+790311	790303	Administrator/trix	Petition for Administration	Petition for Administration CTA	2011-01-19 00:00:00	0	2017-02-05 14:49:43
+790605	790602	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-10 00:00:00	0	2017-02-05 14:49:43
+790607	790602	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-10 00:00:00	0	2017-02-05 14:49:43
+790608	790602	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-10 00:00:00	0	2017-02-05 14:49:43
+791077	791073	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-31 00:00:00	0	2017-02-05 14:49:43
+791078	791073	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-10-31 00:00:00	0	2017-02-05 14:49:43
+791441	791438	Administrator/trix	Petition for Administration	Petition for Administration	2012-03-13 00:00:00	0	2017-02-05 14:49:43
+791442	791438	Administrator/trix	Bond without sureties filed	Bond without Sureties	2012-03-13 00:00:00	0	2017-02-05 14:49:43
+791443	791438	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-03-13 00:00:00	0	2017-02-05 14:49:43
+791444	791438	Administrator/trix	Certificate of Death filed	Certificate of Death (copy-original in 97P0660)	2012-03-13 00:00:00	0	2017-02-05 14:49:43
+791449	791438	Administrator/trix	Affidavit filed	Affidavit of Indigency Filed	2012-04-05 00:00:00	0	2017-02-05 14:49:43
+802298	802295	Administrator/trix	Petition for Administration	Petition for Administration	2012-03-19 00:00:00	0	2017-02-05 14:49:43
+802299	802295	Administrator/trix	Bond without sureties filed	Bond without Sureties	2012-03-19 00:00:00	0	2017-02-05 14:49:43
+802300	802295	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-03-19 00:00:00	0	2017-02-05 14:49:43
+802301	802295	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-03-19 00:00:00	0	2017-02-05 14:49:43
+802302	802295	Administrator/trix	Appointment of agent filed	Appointment of Agent	2012-03-19 00:00:00	0	2017-02-05 14:49:43
+802311	802295	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-08-07 00:00:00	0	2017-02-05 14:49:43
+802315	802295	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-05-23 00:00:00	0	2017-02-05 14:49:43
+804534	804531	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-20 00:00:00	0	2017-02-05 14:49:43
+804535	804531	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-01-20 00:00:00	0	2017-02-05 14:49:43
+804537	804531	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-20 00:00:00	0	2017-02-05 14:49:43
+804765	804762	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-03 00:00:00	0	2017-02-05 14:49:43
+804766	804762	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-03 00:00:00	0	2017-02-05 14:49:43
+810303	810300	Administrator/trix	Petition for Administration	Petition for Administration	2012-03-23 00:00:00	0	2017-02-05 14:49:43
+810304	810300	Administrator/trix	Bond without sureties filed	Bond without Sureties	2012-03-23 00:00:00	0	2017-02-05 14:49:43
+810305	810300	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-03-23 00:00:00	0	2017-02-05 14:49:43
+810306	810300	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-03-23 00:00:00	0	2017-02-05 14:49:43
+812431	812425	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-11-04 00:00:00	0	2017-02-05 14:49:43
+815987	815982	Administrator/trix	Petition for Administration	Petition for Administration	2010-03-31 00:00:00	0	2017-02-05 14:49:43
+815988	815982	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-03-31 00:00:00	0	2017-02-05 14:49:43
+815989	815982	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-03-31 00:00:00	0	2017-02-05 14:49:43
+815990	815982	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-03-31 00:00:00	0	2017-02-05 14:49:43
+815998	815982	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-08-29 00:00:00	0	2017-02-05 14:49:43
+816471	816468	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+816472	816468	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+816473	816468	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+816475	816468	Administrator/trix	UCC filed	Uniform Counsel Certification Form Filed by Daniel W. Doherty, Esq.	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+825582	825579	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+825583	825579	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+825585	825579	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+825586	825579	Administrator/trix	UCC filed	Uniform Counsel Certification Form Filed by James P. Maselan	2010-06-15 00:00:00	0	2017-02-05 14:49:43
+827410	827407	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-21 00:00:00	0	2017-02-05 14:49:43
+827411	827407	Administrator/trix	Bond with sureties filed	Bond with Sureties	2011-01-21 00:00:00	0	2017-02-05 14:49:43
+827412	827407	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-21 00:00:00	0	2017-02-05 14:49:43
+827413	827407	Administrator/trix	UCC filed	Uniform Counsel Certification Form Filed by
+
+Attorney Cournoyer Jr., Esq., Gerald S	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+829019	829016	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-07 00:00:00	0	2017-02-05 14:49:43
+829020	829016	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-07 00:00:00	0	2017-02-05 14:49:43
+829021	829016	Administrator/trix	Appointment of agent filed	Appointment of Agent	2011-11-22 00:00:00	0	2017-02-05 14:49:43
+829022	829016	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-11-22 00:00:00	0	2017-02-05 14:49:43
+831965	831962	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-16 00:00:00	0	2017-02-05 14:49:43
+831966	831962	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-16 00:00:00	0	2017-02-05 14:49:43
+831974	831962	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-09-27 00:00:00	0	2017-02-05 14:49:43
+834700	834697	Administrator/trix	Petition for Administration	Petition for Appointment of Public Administrator	2014-09-18 00:00:00	0	2017-02-05 14:49:43
+834701	834697	Administrator/trix	Certificate of Death filed	Certificate of Death	2014-09-18 00:00:00	0	2017-02-05 14:49:43
+834703	834697	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2014-09-18 00:00:00	0	2017-02-05 14:49:43
+837410	837407	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+837411	837407	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+837412	837407	Administrator/trix	Bond without sureties filed	Bond without Sureties	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+837414	837407	Administrator/trix	Appointment of agent filed	Appointment of Agent	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+837420	837407	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-08-15 00:00:00	0	2017-02-05 14:49:43
+837422	837407	Administrator/trix	Petition for Sale of Real Esta	Motion to Amend Petition for Sale of Real Estate and Waive Citation as to Amended Petition for Sale of Real Estate	2012-10-12 00:00:00	0	2017-02-05 14:49:43
+837423	837407	Administrator/trix	Petition for Sale of Real Esta	Amended Petition for Sale of Real Estate	2012-10-12 00:00:00	0	2017-02-05 14:49:43
+837426	837407	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2012-10-17 00:00:00	0	2017-02-05 14:49:43
+840894	840891	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-02 00:00:00	0	2017-02-05 14:49:43
+840895	840891	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-04-02 00:00:00	0	2017-02-05 14:49:43
+840896	840891	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-02 00:00:00	0	2017-02-05 14:49:43
+840899	840891	Administrator/trix	Bond without sureties filed	Bond without Sureties	2010-04-02 00:00:00	0	2017-02-05 14:49:43
+840904	840891	Administrator/trix	Bond without sureties filed	Bond without Sureties - approved May 27, 2010 by Daniel L. Gibson, Asst.Reg.	2010-06-02 00:00:00	0	2017-02-05 14:49:43
+848084	848080	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-22 00:00:00	0	2017-02-05 14:49:43
+848086	848080	Administrator/trix	Military affidavit filed	Affidavit as to Military Service	2010-09-22 00:00:00	0	2017-02-05 14:49:43
+848087	848080	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-22 00:00:00	0	2017-02-05 14:49:43
+848093	848080	Administrator/trix	Petition for Sale of Real Esta	Peter Marinos & Vicki Chandler's Petition for Sale of Real Estate in the sum of: $125,000.00	2010-12-17 00:00:00	0	2017-02-05 14:49:43
+857228	857224	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-06 00:00:00	0	2017-02-05 14:49:43
+857229	857224	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-06 00:00:00	0	2017-02-05 14:49:43
+857487	857484	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+857490	857484	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+861897	861894	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+861900	861894	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+862929	862926	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+862932	862926	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+863810	863807	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-18 00:00:00	0	2017-02-05 14:49:43
+863811	863807	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-18 00:00:00	0	2017-02-05 14:49:43
+863816	863807	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-07-09 00:00:00	0	2017-02-05 14:49:43
+864369	864365	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+866122	866119	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+866125	866119	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+869356	869353	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+869360	869353	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+870516	870513	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-18 00:00:00	0	2017-02-05 14:49:43
+870517	870513	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-18 00:00:00	0	2017-02-05 14:49:43
+870526	870513	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-03-14 00:00:00	0	2017-02-05 14:49:43
+871630	871627	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-18 00:00:00	0	2017-02-05 14:49:43
+871631	871627	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-18 00:00:00	0	2017-02-05 14:49:43
+871641	871627	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-05-20 00:00:00	0	2017-02-05 14:49:43
+872885	872882	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+872887	872882	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-24 00:00:00	0	2017-02-05 14:49:43
+872895	872882	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-11-09 00:00:00	0	2017-02-05 14:49:43
+873615	873612	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+873619	873612	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+874467	874464	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-23 00:00:00	0	2017-02-05 14:49:43
+874470	874464	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-23 00:00:00	0	2017-02-05 14:49:43
+875179	875176	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+875181	875176	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+879168	879165	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+879172	879165	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+879180	879165	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-05-25 00:00:00	0	2017-02-05 14:49:43
+887828	887825	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-28 00:00:00	0	2017-02-05 14:49:43
+887831	887825	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-28 00:00:00	0	2017-02-05 14:49:43
+887837	887825	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2015-02-18 00:00:00	0	2017-02-05 14:49:43
+890575	890572	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-27 00:00:00	0	2017-02-05 14:49:43
+890578	890572	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-27 00:00:00	0	2017-02-05 14:49:43
+891541	891538	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-27 00:00:00	0	2017-02-05 14:49:43
+891544	891538	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-27 00:00:00	0	2017-02-05 14:49:43
+896281	896278	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-15 00:00:00	0	2017-02-05 14:49:43
+896282	896278	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-15 00:00:00	0	2017-02-05 14:49:43
+896290	896278	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-03-08 00:00:00	0	2017-02-05 14:49:43
+896519	896516	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-14 00:00:00	0	2017-02-05 14:49:43
+896520	896516	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-14 00:00:00	0	2017-02-05 14:49:43
+897245	897242	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-08 00:00:00	0	2017-02-05 14:49:43
+897246	897242	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-08 00:00:00	0	2017-02-05 14:49:43
+897440	897437	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-14 00:00:00	0	2017-02-05 14:49:43
+897441	897437	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-14 00:00:00	0	2017-02-05 14:49:43
+897452	897437	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-08-03 00:00:00	0	2017-02-05 14:49:43
+899806	899803	Administrator/trix	Certificate of Death filed	Certificate of Death of Robert O. Henrickson	2010-09-28 00:00:00	0	2017-02-05 14:49:43
+899809	899803	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-28 00:00:00	0	2017-02-05 14:49:43
+899810	899803	Administrator/trix	Certificate of Death filed	Certificate of Death of Florence Henrickson	2010-09-28 00:00:00	0	2017-02-05 14:49:43
+905018	905015	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-29 00:00:00	0	2017-02-05 14:49:43
+905022	905015	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-29 00:00:00	0	2017-02-05 14:49:43
+906035	906032	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-09 00:00:00	0	2017-02-05 14:49:43
+906038	906032	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-09 00:00:00	0	2017-02-05 14:49:43
+907582	907579	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-30 00:00:00	0	2017-02-05 14:49:43
+907585	907579	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-30 00:00:00	0	2017-02-05 14:49:43
+909673	909670	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-16 00:00:00	0	2017-02-05 14:49:43
+909674	909670	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-16 00:00:00	0	2017-02-05 14:49:43
+912427	912424	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-17 00:00:00	0	2017-02-05 14:49:43
+912428	912424	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-17 00:00:00	0	2017-02-05 14:49:43
+916841	916838	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-23 00:00:00	0	2017-02-05 14:49:43
+916842	916838	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-23 00:00:00	0	2017-02-05 14:49:43
+921191	921188	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-18 00:00:00	0	2017-02-05 14:49:43
+921192	921188	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-18 00:00:00	0	2017-02-05 14:49:43
+921201	921188	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-10-22 00:00:00	0	2017-02-05 14:49:43
+922107	922104	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-29 00:00:00	0	2017-02-05 14:49:43
+922109	922104	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-29 00:00:00	0	2017-02-05 14:49:43
+923099	923096	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-17 00:00:00	0	2017-02-05 14:49:43
+923100	923096	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-17 00:00:00	0	2017-02-05 14:49:43
+923817	923813	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-30 00:00:00	0	2017-02-05 14:49:43
+923819	923813	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-30 00:00:00	0	2017-02-05 14:49:43
+924624	924621	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-29 00:00:00	0	2017-02-05 14:49:43
+924628	924621	Administrator/trix	Petition for Administration	Petition for Administration	2010-09-29 00:00:00	0	2017-02-05 14:49:43
+925457	925454	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-18 00:00:00	0	2017-02-05 14:49:43
+925458	925454	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-18 00:00:00	0	2017-02-05 14:49:43
+925467	925454	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-10-15 00:00:00	0	2017-02-05 14:49:43
+927061	927058	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-12 00:00:00	0	2017-02-05 14:49:43
+927062	927058	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-12 00:00:00	0	2017-02-05 14:49:43
+933134	933131	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-26 00:00:00	0	2017-02-05 14:49:43
+933137	933131	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-26 00:00:00	0	2017-02-05 14:49:43
+933147	933131	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-08-21 00:00:00	0	2017-02-05 14:49:43
+933915	933911	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-25 00:00:00	0	2017-02-05 14:49:43
+933918	933911	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-25 00:00:00	0	2017-02-05 14:49:43
+935347	935344	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-01-27 00:00:00	0	2017-02-05 14:49:43
+935350	935344	Administrator/trix	Petition for Administration	Petition for Administration	2011-01-27 00:00:00	0	2017-02-05 14:49:43
+935359	935344	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-09-25 00:00:00	0	2017-02-05 14:49:43
+937095	937092	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-21 00:00:00	0	2017-02-05 14:49:43
+937096	937092	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-21 00:00:00	0	2017-02-05 14:49:43
+937105	937092	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-03-29 00:00:00	0	2017-02-05 14:49:43
+937110	937092	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2013-01-24 00:00:00	0	2017-02-05 14:49:43
+939531	939528	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-21 00:00:00	0	2017-02-05 14:49:43
+939532	939528	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-21 00:00:00	0	2017-02-05 14:49:43
+939542	939528	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-09-12 00:00:00	0	2017-02-05 14:49:43
+939547	939528	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2014-08-14 00:00:00	0	2017-02-05 14:49:43
+941235	941232	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-21 00:00:00	0	2017-02-05 14:49:43
+941236	941232	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-21 00:00:00	0	2017-02-05 14:49:43
+941507	941504	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+941509	941504	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+942373	942370	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-04 00:00:00	0	2017-02-05 14:49:43
+942377	942370	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-04 00:00:00	0	2017-02-05 14:49:43
+943994	943991	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+943996	943991	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+944729	944726	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-04 00:00:00	0	2017-02-05 14:49:43
+944733	944726	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-04 00:00:00	0	2017-02-05 14:49:43
+945219	945216	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+945221	945216	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+948433	948429	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-25 00:00:00	0	2017-02-05 14:49:43
+948435	948429	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-25 00:00:00	0	2017-02-05 14:49:43
+948746	948743	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-22 00:00:00	0	2017-02-05 14:49:43
+948747	948743	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-22 00:00:00	0	2017-02-05 14:49:43
+948754	948743	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-12-30 00:00:00	0	2017-02-05 14:49:43
+948761	948743	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-05-03 00:00:00	0	2017-02-05 14:49:43
+948765	948743	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-12-18 00:00:00	0	2017-02-05 14:49:43
+949783	949779	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-22 00:00:00	0	2017-02-05 14:49:43
+949784	949779	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-22 00:00:00	0	2017-02-05 14:49:43
+953824	953821	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+953825	953821	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-24 00:00:00	0	2017-02-05 14:49:43
+958977	958974	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-14 00:00:00	0	2017-02-05 14:49:43
+958980	958974	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-14 00:00:00	0	2017-02-05 14:49:43
+961660	961657	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-25 00:00:00	0	2017-02-05 14:49:43
+961661	961657	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-25 00:00:00	0	2017-02-05 14:49:43
+961670	961657	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-04-11 00:00:00	0	2017-02-05 14:49:43
+970498	970495	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-25 00:00:00	0	2017-02-05 14:49:43
+971706	971703	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-14 00:00:00	0	2017-02-05 14:49:43
+971707	971703	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-14 00:00:00	0	2017-02-05 14:49:43
+971721	971703	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-10-27 00:00:00	0	2017-02-05 14:49:43
+971725	971703	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-01-12 00:00:00	0	2017-02-05 14:49:43
+971732	971703	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement (w/ decree)---citation dept.	2015-06-11 00:00:00	0	2017-02-05 14:49:43
+973677	973674	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-07 00:00:00	0	2017-02-05 14:49:43
+973680	973674	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-07 00:00:00	0	2017-02-05 14:49:43
+977535	977532	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-08 00:00:00	0	2017-02-05 14:49:43
+977538	977532	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-08 00:00:00	0	2017-02-05 14:49:43
+977547	977532	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-06-13 00:00:00	0	2017-02-05 14:49:43
+977549	977532	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-11-22 00:00:00	0	2017-02-05 14:49:43
+984093	984090	Administrator/trix	Petition for Administration	Petition for Administration	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+984094	984090	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-11-28 00:00:00	0	2017-02-05 14:49:43
+989035	989032	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-13 00:00:00	0	2017-02-05 14:49:43
+989039	989032	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-13 00:00:00	0	2017-02-05 14:49:43
+989045	989032	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-03-03 00:00:00	0	2017-02-05 14:49:43
+990545	990542	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-13 00:00:00	0	2017-02-05 14:49:43
+990549	990542	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-13 00:00:00	0	2017-02-05 14:49:43
+991613	991610	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-12 00:00:00	0	2017-02-05 14:49:43
+991615	991610	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-12 00:00:00	0	2017-02-05 14:49:43
+999358	999355	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-28 00:00:00	0	2017-02-05 14:49:43
+999359	999355	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-28 00:00:00	0	2017-02-05 14:49:43
+1000012	1000009	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-20 00:00:00	0	2017-02-05 14:49:43
+1000013	1000009	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-20 00:00:00	0	2017-02-05 14:49:43
+1012983	1012980	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-29 00:00:00	0	2017-02-05 14:49:43
+1014010	1014007	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-28 00:00:00	0	2017-02-05 14:49:43
+1014011	1014007	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-28 00:00:00	0	2017-02-05 14:49:43
+1015770	1015767	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-29 00:00:00	0	2017-02-05 14:49:43
+1015775	1015767	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-09-24 00:00:00	0	2017-02-05 14:49:43
+1017161	1017158	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-28 00:00:00	0	2017-02-05 14:49:43
+1020476	1020473	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-05 00:00:00	0	2017-02-05 14:49:43
+1020477	1020473	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-05 00:00:00	0	2017-02-05 14:49:43
+1022084	1022081	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-22 00:00:00	0	2017-02-05 14:49:43
+1022090	1022081	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-05-14 00:00:00	0	2017-02-05 14:49:43
+1024854	1024851	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-06 00:00:00	0	2017-02-05 14:49:43
+1024855	1024851	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-06 00:00:00	0	2017-02-05 14:49:43
+1024865	1024851	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-11-30 00:00:00	0	2017-02-05 14:49:43
+1026970	1026966	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-05 00:00:00	0	2017-02-05 14:49:43
+1026971	1026966	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-05 00:00:00	0	2017-02-05 14:49:43
+1026979	1026966	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-11-06 00:00:00	0	2017-02-05 14:49:43
+1031292	1031289	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-07 00:00:00	0	2017-02-05 14:49:43
+1031293	1031289	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-07 00:00:00	0	2017-02-05 14:49:43
+1031401	1031398	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-18 00:00:00	0	2017-02-05 14:49:43
+1031405	1031398	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-18 00:00:00	0	2017-02-05 14:49:43
+1032916	1032913	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-23 00:00:00	0	2017-02-05 14:49:43
+1032919	1032913	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-23 00:00:00	0	2017-02-05 14:49:43
+1032922	1032913	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-05-27 00:00:00	0	2017-02-05 14:49:43
+1033144	1033141	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-18 00:00:00	0	2017-02-05 14:49:43
+1033147	1033141	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-18 00:00:00	0	2017-02-05 14:49:43
+1033154	1033141	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-11-01 00:00:00	0	2017-02-05 14:49:43
+1036231	1036228	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-23 00:00:00	0	2017-02-05 14:49:43
+1036234	1036228	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-23 00:00:00	0	2017-02-05 14:49:43
+1036247	1036228	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-08-27 00:00:00	0	2017-02-05 14:49:43
+1037358	1037354	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-04 00:00:00	0	2017-02-05 14:49:43
+1037360	1037354	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-04 00:00:00	0	2017-02-05 14:49:43
+1038542	1038538	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-05 00:00:00	0	2017-02-05 14:49:43
+1038543	1038538	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-05 00:00:00	0	2017-02-05 14:49:43
+1042430	1042427	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-08 00:00:00	0	2017-02-05 14:49:43
+1042431	1042427	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-08 00:00:00	0	2017-02-05 14:49:43
+1042643	1042640	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1042644	1042640	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1043923	1043920	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-02-03 00:00:00	0	2017-02-05 14:49:43
+1043926	1043920	Administrator/trix	Petition for Administration	Petition for Administration	2011-02-03 00:00:00	0	2017-02-05 14:49:43
+1043936	1043920	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-08-30 00:00:00	0	2017-02-05 14:49:43
+1044278	1044275	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1044279	1044275	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1049564	1049561	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1049565	1049561	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1050813	1050810	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1050818	1050810	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-08-17 00:00:00	0	2017-02-05 14:49:43
+1052717	1052714	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-12 00:00:00	0	2017-02-05 14:49:43
+1052718	1052714	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-12 00:00:00	0	2017-02-05 14:49:43
+1053827	1053824	Administrator/trix	Petition for Administration	Petition for Administration	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1053828	1053824	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-06-30 00:00:00	0	2017-02-05 14:49:43
+1055704	1055701	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-27 00:00:00	0	2017-02-05 14:49:43
+1055705	1055701	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-27 00:00:00	0	2017-02-05 14:49:43
+1058152	1058149	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-27 00:00:00	0	2017-02-05 14:49:43
+1058154	1058149	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-27 00:00:00	0	2017-02-05 14:49:43
+1059826	1059822	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-27 00:00:00	0	2017-02-05 14:49:43
+1059827	1059822	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-27 00:00:00	0	2017-02-05 14:49:43
+1063865	1063862	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-11 00:00:00	0	2017-02-05 14:49:43
+1063867	1063862	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-11 00:00:00	0	2017-02-05 14:49:43
+1063877	1063862	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-02-25 00:00:00	0	2017-02-05 14:49:43
+1065349	1065346	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-14 00:00:00	0	2017-02-05 14:49:43
+1065350	1065346	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-14 00:00:00	0	2017-02-05 14:49:43
+1066282	1066279	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-15 00:00:00	0	2017-02-05 14:49:43
+1066283	1066279	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-15 00:00:00	0	2017-02-05 14:49:43
+1066288	1066279	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-01-13 00:00:00	0	2017-02-05 14:49:43
+1066296	1066279	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-06-28 00:00:00	0	2017-02-05 14:49:43
+1067512	1067509	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-02-04 00:00:00	0	2017-02-05 14:49:43
+1067514	1067509	Administrator/trix	Petition for Administration	Petition for Administration	2011-02-04 00:00:00	0	2017-02-05 14:49:43
+1069206	1069202	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-12 00:00:00	0	2017-02-05 14:49:43
+1069208	1069202	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-12 00:00:00	0	2017-02-05 14:49:43
+1071121	1071118	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-22 00:00:00	0	2017-02-05 14:49:43
+1071124	1071118	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-22 00:00:00	0	2017-02-05 14:49:43
+1072161	1072153	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-11-14 00:00:00	0	2017-02-05 14:49:43
+1072166	1072153	Administrator/trix	Decree and Order of Formal Pro	Decree and Order of Formal Probate	2013-05-22 00:00:00	0	2017-02-05 14:49:43
+1072485	1072482	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-22 00:00:00	0	2017-02-05 14:49:43
+1072490	1072482	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-22 00:00:00	0	2017-02-05 14:49:43
+1072497	1072482	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2011-06-24 00:00:00	0	2017-02-05 14:49:43
+1073055	1073051	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-28 00:00:00	0	2017-02-05 14:49:43
+1073058	1073051	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-28 00:00:00	0	2017-02-05 14:49:43
+1073065	1073051	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-09-01 00:00:00	0	2017-02-05 14:49:43
+1076159	1076156	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-04 00:00:00	0	2017-02-05 14:49:43
+1076166	1076156	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-04 00:00:00	0	2017-02-05 14:49:43
+1079018	1079015	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-16 00:00:00	0	2017-02-05 14:49:43
+1079019	1079015	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-16 00:00:00	0	2017-02-05 14:49:43
+1079254	1079251	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-16 00:00:00	0	2017-02-05 14:49:43
+1079255	1079251	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-16 00:00:00	0	2017-02-05 14:49:43
+1079656	1079652	Administrator/trix	Petition for Administration	Petition for Administration	2010-01-05 00:00:00	0	2017-02-05 14:49:43
+1079658	1079652	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-05 00:00:00	0	2017-02-05 14:49:43
+1079666	1079652	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-11-08 00:00:00	0	2017-02-05 14:49:43
+1079753	1079750	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-16 00:00:00	0	2017-02-05 14:49:43
+1079754	1079750	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-16 00:00:00	0	2017-02-05 14:49:43
+1083314	1083311	Administrator/trix	Petition for Administration	Petition for Administration	2011-10-14 00:00:00	0	2017-02-05 14:49:43
+1083316	1083311	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+1083326	1083311	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-06-28 00:00:00	0	2017-02-05 14:49:43
+1083809	1083806	Administrator/trix	Petition for Administration	Petition for Administration DBN/CTA	2012-01-18 00:00:00	0	2017-02-05 14:49:43
+1087784	1087781	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-19 00:00:00	0	2017-02-05 14:49:43
+1087785	1087781	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-19 00:00:00	0	2017-02-05 14:49:43
+1089370	1089366	Administrator/trix	Petition for Administration	Petition for Administration	2010-04-30 00:00:00	0	2017-02-05 14:49:43
+1089373	1089366	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-04-30 00:00:00	0	2017-02-05 14:49:43
+1091420	1091417	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-19 00:00:00	0	2017-02-05 14:49:43
+1091422	1091417	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-19 00:00:00	0	2017-02-05 14:49:43
+1091431	1091417	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-03-04 00:00:00	0	2017-02-05 14:49:43
+1091987	1091984	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-28 00:00:00	0	2017-02-05 14:49:43
+1091991	1091984	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-28 00:00:00	0	2017-02-05 14:49:43
+1093401	1093398	Administrator/trix	Petition for Administration	Petition for Administration DBN/CTA	2010-10-26 00:00:00	0	2017-02-05 14:49:43
+1094523	1094520	Administrator/trix	Petition for Administration	Petition for Administration CTA	2010-01-12 00:00:00	0	2017-02-05 14:49:43
+1094525	1094520	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-12 00:00:00	0	2017-02-05 14:49:43
+1094539	1094520	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-12-16 00:00:00	0	2017-02-05 14:49:43
+1094657	1094653	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-27 00:00:00	0	2017-02-05 14:49:43
+1096251	1096245	Administrator/trix	Petition for Administration	Petition for Administration DBN/CTA	2011-02-08 00:00:00	0	2017-02-05 14:49:43
+1096253	1096245	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-02-08 00:00:00	0	2017-02-05 14:49:43
+1096258	1096245	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2013-09-30 00:00:00	0	2017-02-05 14:49:43
+1097583	1097580	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-02-08 00:00:00	0	2017-02-05 14:49:43
+1097586	1097580	Administrator/trix	Petition for Administration	Petition for Administration	2011-02-08 00:00:00	0	2017-02-05 14:49:43
+1097598	1097580	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-09-11 00:00:00	0	2017-02-05 14:49:43
+1102401	1102398	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-02-07 00:00:00	0	2017-02-05 14:49:43
+1102405	1102398	Administrator/trix	Petition for Administration	Petition for Administration	2011-02-07 00:00:00	0	2017-02-05 14:49:43
+1102410	1102398	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-07-30 00:00:00	0	2017-02-05 14:49:43
+1103166	1103163	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-27 00:00:00	0	2017-02-05 14:49:43
+1103168	1103163	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-27 00:00:00	0	2017-02-05 14:49:43
+1104581	1104578	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-28 00:00:00	0	2017-02-05 14:49:43
+1104583	1104578	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-28 00:00:00	0	2017-02-05 14:49:43
+1105741	1105738	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-26 00:00:00	0	2017-02-05 14:49:43
+1105744	1105738	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-26 00:00:00	0	2017-02-05 14:49:43
+1107155	1107152	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-24 00:00:00	0	2017-02-05 14:49:43
+1107157	1107152	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-24 00:00:00	0	2017-02-05 14:49:43
+1110488	1110485	Administrator/trix	Petition for Administration	Petition for Administration DBN	2010-01-21 00:00:00	0	2017-02-05 14:49:43
+1110491	1110485	Administrator/trix	Certificate of Death filed	Certificate of Death of Named Executor, William Kasky	2010-01-21 00:00:00	0	2017-02-05 14:49:43
+1110492	1110485	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-01-21 00:00:00	0	2017-02-05 14:49:43
+1113794	1113791	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-22 00:00:00	0	2017-02-05 14:49:43
+1113795	1113791	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-22 00:00:00	0	2017-02-05 14:49:43
+1113803	1113791	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-11-21 00:00:00	0	2017-02-05 14:49:43
+1119143	1119140	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-22 00:00:00	0	2017-02-05 14:49:43
+1119147	1119140	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-30 00:00:00	0	2017-02-05 14:49:43
+1119158	1119155	Administrator/trix	Petition for Administration	Petition for Administration	2010-10-29 00:00:00	0	2017-02-05 14:49:43
+1119160	1119155	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-10-29 00:00:00	0	2017-02-05 14:49:43
+1119195	1119192	Administrator/trix	Petition for Administration	Petition for Administration	2010-05-04 00:00:00	0	2017-02-05 14:49:43
+1119198	1119192	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-05-04 00:00:00	0	2017-02-05 14:49:43
+1120364	1120361	Administrator/trix	Petition for Administration	Petition for Administration	2010-05-05 00:00:00	0	2017-02-05 14:49:43
+1120367	1120361	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-05-05 00:00:00	0	2017-02-05 14:49:43
+1121813	1121809	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-23 00:00:00	0	2017-02-05 14:49:43
+1121814	1121809	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-12-23 00:00:00	0	2017-02-05 14:49:43
+1121822	1121809	Administrator/trix	Certificate of Death filed	Certificate of Death
+
+Applies To: Holmes, William M (Administrator/trix)	2013-07-31 00:00:00	0	2017-02-05 14:49:43
+1124579	1124575	Administrator/trix	Petition for Administration	Petition for Administration DBN/CTA	2010-01-25 00:00:00	0	2017-02-05 14:49:43
+1130211	1130208	Administrator/trix	Petition for Administration	Petition for Administration	2010-05-06 00:00:00	0	2017-02-05 14:49:43
+1130213	1130208	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-05-06 00:00:00	0	2017-02-05 14:49:43
+1132143	1132140	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-27 00:00:00	0	2017-02-05 14:49:43
+1132145	1132140	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-27 00:00:00	0	2017-02-05 14:49:43
+1133709	1133706	Administrator/trix	Petition for Administration	Petition for Administration	2012-01-27 00:00:00	0	2017-02-05 14:49:43
+1133711	1133706	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-27 00:00:00	0	2017-02-05 14:49:43
+1135780	1135777	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-02-07 00:00:00	0	2017-02-05 14:49:43
+1135783	1135777	Administrator/trix	Petition for Probate of Will a	Petition for Probate of Will and Appointment of Executor	2011-02-07 00:00:00	0	2017-02-05 14:49:43
+1143032	1143029	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-11-02 00:00:00	0	2017-02-05 14:49:43
+1143036	1143029	Administrator/trix	Petition for Administration	Petition for Administration	2010-11-02 00:00:00	0	2017-02-05 14:49:43
+1144364	1144361	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-11-01 00:00:00	0	2017-02-05 14:49:43
+1144367	1144361	Administrator/trix	Petition for Administration	Petition for Administration	2010-11-01 00:00:00	0	2017-02-05 14:49:43
+1144377	1144361	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2012-06-12 00:00:00	0	2017-02-05 14:49:43
+1144893	1144889	Administrator/trix	Petition for Administration	Petition for Administration	2011-12-29 00:00:00	0	2017-02-05 14:49:43
+1144896	1144889	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-01-04 00:00:00	0	2017-02-05 14:49:43
+1144903	1144889	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-04-30 00:00:00	0	2017-02-05 14:49:43
+1145289	1145286	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-11-01 00:00:00	0	2017-02-05 14:49:43
+1145292	1145286	Administrator/trix	Petition for Administration	Petition for Administration	2010-11-01 00:00:00	0	2017-02-05 14:49:43
+1145377	1145370	Administrator/trix	Petition for Administration	Petition for Administration	2010-02-01 00:00:00	0	2017-02-05 14:49:43
+1145379	1145370	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-02-01 00:00:00	0	2017-02-05 14:49:43
+1145399	1145370	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2010-08-20 00:00:00	0	2017-02-05 14:49:43
+1145418	1145370	Administrator/trix	Petition for Order of Complete	Petition for Order of Complete Settlement	2015-03-13 00:00:00	0	2017-02-05 14:49:43
+1146089	1146086	Administrator/trix	Petition for Administration	Petition for Administration	2010-11-01 00:00:00	0	2017-02-05 14:49:43
+1146090	1146086	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-11-09 00:00:00	0	2017-02-05 14:49:43
+1146861	1146856	Administrator/trix	Petition for Administration	Petition for Administration	2010-11-01 00:00:00	0	2017-02-05 14:49:43
+1149886	1149882	Administrator/trix	Petition for Administration	Petition for Administration	2012-02-01 00:00:00	0	2017-02-05 14:49:43
+1149888	1149882	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-02-01 00:00:00	0	2017-02-05 14:49:43
+1153531	1153528	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-05-07 00:00:00	0	2017-02-05 14:49:43
+1153534	1153528	Administrator/trix	Petition for Administration	Petition for Administration	2010-05-10 00:00:00	0	2017-02-05 14:49:43
+1154027	1154022	Administrator/trix	Petition for Administration	Petition for Administration	2010-05-07 00:00:00	0	2017-02-05 14:49:43
+1154028	1154022	Administrator/trix	Certificate of Death filed	Certificate of Death	2010-05-07 00:00:00	0	2017-02-05 14:49:43
+1155698	1155695	Administrator/trix	Petition for Administration	Petition for Administration	2011-07-07 00:00:00	0	2017-02-05 14:49:43
+1155702	1155695	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-07-07 00:00:00	0	2017-02-05 14:49:43
+1157260	1157257	Administrator/trix	Petition for Administration	Petition for Administration	2012-02-03 00:00:00	0	2017-02-05 14:49:43
+1157262	1157257	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-02-03 00:00:00	0	2017-02-05 14:49:43
+1157274	1157257	Administrator/trix	Petition for Sale of Real Esta	Petition for Sale of Real Estate	2012-05-29 00:00:00	0	2017-02-05 14:49:43
+1157487	1157484	Administrator/trix	Petition for Administration	Petition for Administration	2012-02-03 00:00:00	0	2017-02-05 14:49:43
+1157489	1157484	Administrator/trix	Certificate of Death filed	Certificate of Death	2012-02-03 00:00:00	0	2017-02-05 14:49:43
+1163114	1163111	Administrator/trix	Certificate of Death filed	Certificate of Death	2011-07-21 00:00:00	0	2017-02-05 14:49:43
