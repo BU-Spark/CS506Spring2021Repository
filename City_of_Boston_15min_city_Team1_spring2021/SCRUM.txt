@@ -19,3 +19,6 @@ We have been discussing efficient algorithms for the final task, and should be a
 Week 4, for deliverable 2:
 We have implemented the algorithm for a small sample of the data and have done some analysis. Details are in deliverable 2.
 For next steps, we will repeat the steps on the whole dataset after refining the dataset (if necessary), and do demongraphic research.
+
+Week 5:
+We have collected all the data and get all the codes; the only thing left is to do analysis on the results we get and produce a report.
