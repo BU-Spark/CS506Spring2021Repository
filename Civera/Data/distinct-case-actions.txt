@@ -1,0 +1,158 @@
+action,action_index
+Acknowledgement of service,1
+Affidavit filed,2
+Affidavit in support of motion,3
+Agreement for Judgment,4
+Amended Answer filed,5
+Answer filed,6
+Answer to counterclaim filed,7
+Appearance filed,8
+Application filed,9
+Appointment of agent filed,10
+Arbitration,11
+Assent And Waiver Of Notice fi,12
+Bankruptcy stay of proceedings,13
+Bond approved,14
+Bond with sureties filed,15
+Bond without sureties filed,16
+Capias,17
+Capias expired,18
+Capias returned,19
+Capias returned unserved,20
+Case inactivated,21
+Case management conference,22
+Certificate of Death filed,23
+Change of address,24
+Complaint filed,25
+Continuance,26
+Copy of will filed,27
+Corporate disclosure statement,28
+Counsel added,29
+Counsel withdrawal,30
+Counterclaim filed,31
+Debtor before the court,32
+Decree and Order of Formal Pro,33
+Default,34
+Default Removed,35
+Demand for Jury Trial,36
+Deposit in Court,37
+Dismissal,38
+Entry of Action filed,39
+Event cancelled,40
+Event resulted,41
+Event scheduled,42
+Ex Parte hearing,43
+Execution,44
+Execution satisfied,45
+Execution unsatisfied,46
+Execution Writ,47
+Fee due,48
+Fee paid,49
+Fee waived,50
+Hearing,51
+Interpreter requested,52
+Judgment,53
+Judgment amended,54
+Judgment debtor able to pay,55
+Judgment debtor unable to pay,56
+Judgment vacated,57
+Mediation,58
+Memorandum filed,59
+Military affidavit filed,60
+Misc Notes,61
+Motion allowed,62
+Motion denied,63
+Motion for continuance,64
+Motion for default judgment,65
+Motion for exemption from time,66
+Motion for final judgment for ,67
+Motion for judgment on the ple,68
+Motion for minor settlement,69
+Motion for new capias,70
+Motion for successive service ,71
+Motion for summary judgment,72
+Motion to accept copy of will,73
+Motion to amend judgment,74
+Motion to amend judgment and e,75
+Motion to amend Voluntary Admi,76
+Motion to appoint special proc,77
+Motion to approve transfer of ,78
+Motion to assess attorney fees,79
+Motion to assess damages,80
+Motion to attach by trustee pr,81
+Motion to compel discovery,82
+Motion to dismiss counterclaim,83
+Motion to inspect records,84
+Motion to issue execution,85
+Motion to lift garnishment,86
+Motion to remove default,87
+Motion to serve trustee summon,88
+Motion to stay execution,89
+Motion to strike answer,90
+Motion to Substitute a Party,91
+Motion to transfer,92
+Motion to vacate dismissal,93
+Motion to vacate judgment,94
+Motion withdrawn,95
+Must file to avoid judgment,96
+No capias returned,97
+No Parties Present,98
+Notice of appeal,99
+Notice of claim,100
+Notice of dismissal,101
+Notice of dismissal filed,102
+Notice of intent to offer medi,103
+Notice of potential default,104
+Notice of potential dismissal,105
+Notice of trial,106
+Notice sent,107
+Notice to quit filed,108
+Opposition to motion,109
+Order for Informal Probate,110
+Order Nisi,111
+Order Nisi for Dismissal,112
+Original note filed,113
+Payment order,114
+Payment review,115
+Petition for Administration,116
+Petition for Allowance of Acco,117
+Petition for Appointment of Tr,118
+Petition for Formal Probate,119
+Petition for Informal Probate,120
+Petition for Order of Complete,121
+Petition for Probate of Foreig,122
+Petition for Probate of Will a,123
+Petition for Removal of Person,124
+Petition for Sale of Real Esta,125
+Petition for Special Administr,126
+Pre-Trial conference,127
+Pre-Trial Memorandum,128
+Release of All Demands and Ass,129
+Request for admissions filed,130
+Request for continuance,131
+Request for Temporary Restrain,132
+Request to not dismiss,133
+Return of Execution,134
+Return of Service,135
+Satisfaction of judgment,136
+Settlement agreement,137
+Statement of damages filed,138
+Statement of small claim filed,139
+Statement of Voluntary Adminis,140
+Status Review,141
+Suggestion of bankruptcy filed,142
+Suggestion of death filed,143
+Summary Process Summons and Co,144
+Summons,145
+System Notes,146
+Termination notice filed,147
+Third-party cross-claim filed,148
+Transfer of case,149
+Trial,150
+UCC filed,151
+Under Advisement,152
+Verification of Defendant's Ad,153
+Waiver of Attorneys Fees filed,154
+Waiver of Award of Pre-Judgmen,155
+Waiver of jury trial,156
+Witness list filed,157
