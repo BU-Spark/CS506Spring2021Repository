@@ -82,24 +82,36 @@ def splitCoords(coords):
         lon.append(coord[1])
     return lat,lon
 
+def map_type_to_business_type(t):
+    if t == 'Malls, Squares & Plazas' or t == 'Parks, Playgrounds & Athletic Fields':
+        return 'recreation'
+    return ''
+
 # df = import_data("../../dataset_ignore/Open_Space.csv")
 
 df = read_shapefile("../../dataset_ignore/Open_Space/Open_Space.shp")
 # print(df.columns)
 print(df[['coords']].head())
 df = df[['SITE_NAME','ADDRESS','coords','TypeLong','ACRES']]
-# print("df is \n",df.head())
+
 df['TypeLong'] = similarity_replace(df.TypeLong)
 df=df.sort_values(by=['ACRES'], ascending=False)
-
+df = df.drop('ACRES', 1)
+print("df is \n",df.head())
 #creating average coordinates
-# df['avg_coord'] = df['coords'].apply(lambda coords: avg_coord(coords))
-# df[['lat', 'lon']] = pd.DataFrame(df['avg_coord'].tolist(), index=df.index)
+df['avg_coord'] = df['coords'].apply(lambda coords: avg_coord(coords))
+df[['lat', 'lon']] = pd.DataFrame(df['avg_coord'].tolist(), index=df.index)
+df = df.drop('avg_coord',1)
+df = df.drop('coords',1)
+
+
+df['business_type'] =df['TypeLong'].apply(lambda t:map_type_to_business_type(t))
+df = df.drop(['TypeLong'], axis=1)
 
 #split coords
-df['latlon'] = df['coords'].apply(lambda coords: splitCoords(coords))
-df[['lat', 'lon']] = pd.DataFrame(df['latlon'].tolist(), index=df.index)
-df = df.drop(['latlon'], axis=1)
+# df['latlon'] = df['coords'].apply(lambda coords: splitCoords(coords))
+# df[['lat', 'lon']] = pd.DataFrame(df['latlon'].tolist(), index=df.index)
+# df = df.drop(['latlon'], axis=1)
 # print('-----')
 print(df[['lat','lon']].head())
-output_data(df,"../../datasets_clean/open_space_latlon.csv")
+output_data(df,"../../datasets_clean/open_space_latlon_avg.csv")
