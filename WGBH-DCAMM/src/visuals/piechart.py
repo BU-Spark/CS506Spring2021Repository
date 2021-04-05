@@ -1,4 +1,4 @@
-import matplotlib
+import matplotlib.pyplot as plt
 import pandas as pd
 
 df = pd.read_csv("data2/WorkforceUtilizationSummaryReport201901.csv")
@@ -69,21 +69,33 @@ WorkSum = WorkSum.drop(columns=['MONTH', 'YEAR'])
 WorkMSum = WorkMSum.drop(columns=['YEAR'])
 WorkSum.to_csv("data/WorkforceCraftSummaryReport2019.csv", index=False)
 WorkMSum.to_csv("data/WorkforceCraftMonthlySummaryReport2019.csv", index=False)
+NoWorkSum = nh.groupby(['CRAFT_LEVEL'], as_index=False).sum()
+NoWorkSum.to_csv("data/WorkforceCraftMonthlySummaryReport2019.csv", index=False)
+
+df1 = df.groupby(['CRAFT_LEVEL'], as_index=False).sum()
+df1 = df1.drop(columns=['MONTH','YEAR'])
+
+df6 = df.groupby(['MONTH','CRAFT_LEVEL'], as_index=False).sum()
+df6 = df6.drop(columns=['YEAR'])
+df6.to_csv("data/WorkforceMonthlySummaryReport2019.csv", index=False)
+
+df5 = df.groupby(['MONTH'], as_index=False).sum()
+df5 = df5.drop(columns=['YEAR'])
+df5.to_csv("data/WorkforceMonthlySummaryReport2019.csv", index=False)
 
 df1 = df1.T.reset_index()
 df1
 
-df1.columns = df1.iloc[0].tolist()
-df1 = df1.drop(0)
+# df1.columns = df1.iloc[0].tolist()
+# df1 = df1.drop(0)
 
 df1
-
 
 # %matplotlib
 # df1=df[:5]
 
-df1.plot('craft_level',kind = 'bar', figsize=(10,7))
-
+df1.plot('CRAFT_LEVEL',kind = 'bar', figsize=(10,7))
+plt.show()
 df2 = pd.concat([df1['craft_level'], df1[df1.columns.tolist()[1:]].sum(axis=1) ], axis=1)
 df2.columns = ['craft_level', 'total_hours']
 df2
