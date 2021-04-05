@@ -80,12 +80,18 @@ def process_grp(remaining,df_num, row_num, grp_name, STOREIT, NEWHIRE, COL, MONT
                 CONSTR_TRADE = str(df_num.values[row_num][0]).replace('\r',' ').replace('\n',' ')
                 CRAFT_LVL = str(df_num.values[row_num][1]).replace('Journey','Journeymen')
             if rows == 1:
-                if df_num.values[row_num+rows][1]=='0.00':
+                try:
+                    float(str(df_num.values[row_num + rows][1]).replace(',', ''))
                     offset =1
+                except ValueError:
+                    pass
                 CRAFT_LVL = df_num.values[row_num+rows][1-offset]
             if rows == 3:
-                if df_num.values[row_num+rows][1]=='0.00':
+                try:
+                    float(df_num.values[row_num + rows][1])
                     offset =1
+                except ValueError:
+                    pass
                 CRAFT_LVL = str(df_num.values[row_num+rows][1-offset]).replace(' ','_')
             if rows == 0 or rows == 1 or rows == 3:
                 STOREIT, NEWHIRE, PROJCT, PROJCT_CD, CONTRACTOR, CONSTR_TRADE = \
@@ -193,8 +199,8 @@ def main(argv):
         if debug:
             print(STOREIT)
     #         "./data/WorkforceUtilizationSummaryReportApril2019.pdf")
-    outfile =  outfile + MONTHYR[3:7] + MONTH + '.csv'
-    STOREIT.to_csv(outfile, index=False)
+    outfile1 =  outfile + MONTHYR[3:7] + MONTH + '.csv'
+    STOREIT.to_csv(outfile1, index=False)
     outfile2 =  outfile + 'NH'+ MONTHYR[3:7] + MONTH + '.csv'
     NEWHIRE.to_csv(outfile2, index=False)
 
