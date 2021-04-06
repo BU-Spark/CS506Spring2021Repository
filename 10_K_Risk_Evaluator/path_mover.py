@@ -8,7 +8,7 @@ import re
 
 
 # #importing index information 
-# file = 'IBB-holdings.csv'
+
 # IBB = pd.read_csv(file,skiprows=13)
 # # alphabet order
 # IBB.sort_values(by=['Symbol'], inplace=True) 
@@ -16,7 +16,7 @@ import re
 # holdings = list(IBB["Symbol"])
 # holdings = holdings[:-2]
 
-file = pd.read_csv('actual.csv')
+file = pd.read_csv('data/actual.csv')
 holdings = list(file["holdings"])
 holdings = holdings[:-1]
 
