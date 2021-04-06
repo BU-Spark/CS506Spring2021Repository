@@ -164,6 +164,11 @@ dominant_topics.columns = ['DocumentNum',
 dominant_topics.head(10)
 
 
+
+
+
+
+
 # Create wordclouds of top n words in each topic
 cols = [color for name, color in mcolors.XKCD_COLORS.items()]
 

@@ -20,7 +20,7 @@
 from pathlib import Path
 import pandas as pd
 from html_parser import *
-from bulk_10k_extraction import local_location # Example: /Users/nick/Documents/cs506/project
+from path_mover import local_location # Example: /Users/nick/Documents/cs506/project
 from path_mover import file_paths 
 
 # list of file paths as strings 
@@ -56,17 +56,43 @@ Risk_2020 = []
 for x2 in Paths_2020:
     Risk_2020.append(main_path(x2))
 
+#removing repeated words 
+
+#2019
+clean_text_2019 = []
+for company in Risk_2019:
+    clean_text_2019.append(set(company))
+
+clean_text_2020 = []
+for company in Risk_2020:
+    clean_text_2020.append(set(company))
+
+
+
 
 #converting to Dictionary
 
 Dict_2019 = dict(zip(Ticker_2019,Risk_2019))
 Dict_2020 = dict(zip(Ticker_2020,Risk_2020))
 
+#v2
+Dict_2019v2 = dict(zip(Ticker_2019,clean_text_2019))
+Dict_2020v2 = dict(zip(Ticker_2020,clean_text_2020))
 
-DF_2019 = pd.DataFrame.from_dict(Dict_2019,orient= 'index', columns= ['Risk Text'])
-DF_2020 = pd.DataFrame.from_dict(Dict_2020, orient= 'index', columns = ['Risk Text'])
+
+DF_2019 = pd.DataFrame(Dict_2019.items(),columns = ['Ticker', "Risk Text"])
+DF_2020 = pd.DataFrame(Dict_2020.items(),columns = ['Ticker', "Risk Text"])
+
+#v2
+DF_2019v2 = pd.DataFrame(Dict_2019v2.items(),columns = ['Ticker', "Risk Text"])
+DF_2020v2 = pd.DataFrame(Dict_2020v2.items(),columns = ['Ticker', "Risk Text"])
+
 
 #write to csv
 
-DF_2019.to_csv('10k_2019.csv')
-DF_2020.to_csv('10k_2020.csv')
+DF_2019.to_csv('data/10k_2019.csv')
+DF_2020.to_csv('data/10k_2020.csv')
+
+#v2
+DF_2019v2.to_csv('data/10k_2019v2.csv')
+DF_2020v2.to_csv('data/10k_2020v2.csv')
