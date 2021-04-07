@@ -31,9 +31,12 @@ Written by Evie Wan, Nicholas Mosca, Eric South
 # Supporting Libaries
 import pandas as pd
 from itertools import chain
+import numpy as np
+import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from wordcloud import WordCloud, STOPWORDS
+import math
 
 # Pre-processing; string cleaning
 from nltk.corpus import stopwords
@@ -48,7 +51,8 @@ import html_parser
 
 
 # Upload table containing list of companies and their corresponding risk text
-data = pd.read_csv("data/10k_2020.csv")
+data = pd.read_csv("data/10k_2019.csv")
+
 
 # Specify list of stop words
 stop_words = stopwords.words('english')
@@ -61,7 +65,7 @@ stop_words = stop_words + more_stops_words
 # Combine all words from csv to create a total corpus of terms
 processed_text = []
 for i in range(len(data)):
-    text = data.iloc[i, 1]
+    text = data.iloc[i, 2]
     try:
         text = gensim.utils.simple_preprocess(text, deacc=True)  # Clean string
     except:
@@ -89,7 +93,7 @@ corpus = [lda_dict.doc2bow(text) for text in processed_text]
 lda_model = models.LdaMulticore(corpus=corpus,
                                 id2word=lda_dict,
                                 random_state=100,
-                                num_topics=5,
+                                num_topics=3,
                                 passes=10,
                                 chunksize=1000,
                                 batch=False,
@@ -163,10 +167,7 @@ dominant_topics.columns = ['DocumentNum',
                            'Text']
 dominant_topics.head(10)
 
-
-
-
-
+dominant_topics['company'] = data.iloc[:, 1]  # Add TCKR information from data.
 
 
 # Create wordclouds of top n words in each topic
@@ -198,6 +199,69 @@ plt.axis('off')
 plt.margins(x=0, y=0)
 plt.tight_layout()
 plt.show()
+
+
+
+# Incorperate revenue data into dominant topics
+revenue = pd.read_csv("data/revenue.csv")
+
+df = \
+    pd.merge(left=dominant_topics, right=revenue, how='left', on='company')
+
+
+# Fold change: the ratio of the changes between final and original (Y-X)/X
+df['fc'] = (df['new_revenue'] - df['old_revenue'])/ df['old_revenue']
+
+for i in range(len(df)):  # Remove any observations that have 'inf' values
+    if math.isinf(df['fc'][i]):
+        df['fc'][i] = float("NaN")
+
+# Although LDA was set to 5 topics, there are 3 dominant topics among output
+df['DominantTopic'].unique()
+df.groupby('DominantTopic').size().to_frame('count').reset_index()
+# df.to_csv('LDA_and_revenue_v1.csv')
+
+
+# Plotting efforts -------------------------------------------------
+
+# Set plot style in seaborn!
+sns.set(style="darkgrid")
+
+# Parameter modifcations in top 10% of CelloQuery() scores
+df2 = df[df['fc'] < np.nanpercentile(df['fc'],
+                                     90)].sort_values(by='fc', ascending=False)
+
+# Fold change of revenue for companies colored by their dominant topic
+fig, ax = plt.subplots(figsize=(12, 5))
+sns.barplot(x="company", y="fc", hue="DominantTopic", data=df2, dodge=False)
+ax.xaxis.set_tick_params(labelsize=8, rotation=90)
+ax.set_xlabel("Company", fontsize = 10, fontweight = 'bold')
+ax.set_ylabel("Fold Change in Revenue (2019-2020)",
+              fontsize = 10, fontweight = 'bold')
+
+
+# For each topic group, number of companies with positive fold change
+df3 = df[df['fc'] > 0]
+df3 = df3.groupby('DominantTopic').size().to_frame('count').reset_index()
+fig, ax = plt.subplots(figsize=(5, 5))
+sns.barplot(x="DominantTopic", y="count", hue="DominantTopic", data=df3, dodge=False)
+ax.xaxis.set_tick_params(labelsize=8)
+ax.set_xlabel("Dominant Topic Determined by LDA",
+              fontsize=10, fontweight='bold')
+ax.set_ylabel("# of Companies with Positive FoldChange in Revenue",
+              fontsize = 10, fontweight = 'bold')
+
+
+# For each topic group, number of companies with positive fold change
+df4 = df[df['fc'] < 0]
+df4 = df4.groupby('DominantTopic').size().to_frame('count').reset_index()
+fig, ax = plt.subplots(figsize=(5, 5))
+sns.barplot(x="DominantTopic", y="count", hue="DominantTopic", data=df4, dodge=False)
+ax.xaxis.set_tick_params(labelsize=8)
+ax.set_xlabel("Dominant Topic Determined by LDA",
+              fontsize=10, fontweight='bold')
+ax.set_ylabel("# of Companies with Negative FoldChange in Revenue",
+              fontsize = 10, fontweight = 'bold')
 
 
 def main():
