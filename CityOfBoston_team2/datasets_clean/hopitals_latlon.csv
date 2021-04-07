@@ -1,0 +1,16 @@
+,name,address,zip,lat,lon,category
+0,Beth Israel Deaconess Medical Center East,330 Brookline Avenue,2215,42.33983731658445,-71.10568105381743,Healthcare
+1,Steward St. Elizabeth's Medical Center,736 Cambridge Street,2135,42.349591211257945,-71.14798020984189,Healthcare
+2,Tufts Medical Center,800 Washington Street,2111,42.34966045745257,-71.0635160189449,Healthcare
+3,Massachusetts Eye and Ear Infirmary,243 Charles Street,2114,42.36278305641266,-71.07030250738548,Healthcare
+4,Shriners Hospital For Children - Boston,51 Blossom Street,2114,42.363097328045114,-71.06645103005185,Healthcare
+5,Massachusetts General Hospital,55 Fruit Street,2114,42.36321503919174,-71.06877254175193,Healthcare
+6,Steward Carney Hospital,2100 Dorchester Avenue,2124,42.278047295415305,-71.06605102098908,Healthcare
+7,Brigham and Women's Faulkner Hospital,1153 Centre Street,2130,42.30145260025576,-71.12817507226376,Healthcare
+8,New England Baptist Hospital,125 Parker Hill Avenue,2120,42.32975731201328,-71.1067310524686,Healthcare
+9,Boston Medical Center - Menino Pavilion,830-840 Harrison Avenue,2118,42.334731125472146,-71.07295810648955,Healthcare
+10,Brigham and Women's Hospital,75 Francis Street,2115,42.33612380367531,-71.10748152270317,Healthcare
+11,Boston Medical Center - Newton Pavilion,88 East Newton Street,2118,42.33687113484805,-71.07088246912366,Healthcare
+12,Boston Children's Hospital,300 Longwood Avenue,2115,42.337483122285036,-71.10488330398817,Healthcare
+13,Dana-Farber Cancer Institute,450 Brookline Avenue,2215,42.33761073746788,-71.10828022441756,Healthcare
+14,Beth Israel Deaconess Medical Center West,One Deaconess Road,2215,42.337817314659304,-71.10908105554576,Healthcare
