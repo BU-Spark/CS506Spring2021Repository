@@ -36,7 +36,7 @@ mycursor = mydb.cursor()
 # Load sql to dataframe 
 # Get Training Set (Action != NULL and Actor != NULL)
 # Getting 10000 values first 
-case_index_not_null = pd.read_sql("SELECT * FROM wp_courtdocs.cdocs_case_action_index as c_a_index WHERE c_a_index.action != ' ' and c_a_index.actor != ' ' LIMIT 10000;", con = mydb)
+case_index_not_null = pd.read_sql("SELECT * FROM wp_courtdocs.cdocs_case_action_index as c_a_index WHERE c_a_index.action != ' ' and c_a_index.actor != ' ' and rand() <= .2;", con = mydb)
 columns = ['actor','action','description']
 trainSet = case_index_not_null[columns]
 print(trainSet.head())
@@ -77,20 +77,20 @@ testSet['description'] = testSet['description'].apply(lambda x: [item for item i
 print(testSet.head())
 
 #use Lemmatizer for train and test set 
-lemmatizer = WordNetLemmatizer() 
-trainSet['description'] = trainSet['description'].apply(lambda x:[lemmatizer.lemmatize(word) for word in x])
-testSet['description'] = testSet['description'].apply(lambda x:[lemmatizer.lemmatize(word) for word in x])
+#lemmatizer = WordNetLemmatizer() 
+#trainSet['description'] = trainSet['description'].apply(lambda x:[lemmatizer.lemmatize(word) for word in x])
+#testSet['description'] = testSet['description'].apply(lambda x:[lemmatizer.lemmatize(word) for word in x])
 
 #remove duplicate words after lemmatizing 
-trainSet['description'] = trainSet['description'].apply(lambda x:list(dict.fromkeys(x)))
-print()
-print('trainingSet after lemmatizer & removing dupes ')
-print(trainSet.head())
+#trainSet['description'] = trainSet['description'].apply(lambda x:list(dict.fromkeys(x)))
+#print()
+#print('trainingSet after lemmatizer & removing dupes ')
+#print(trainSet.head())
 
-testSet['description'] = testSet['description'].apply(lambda x:list(dict.fromkeys(x)))
-print()
-print('testSet after lemmatizer & removing dupes ')
-print(testSet.head())
+#testSet['description'] = testSet['description'].apply(lambda x:list(dict.fromkeys(x)))
+#print()
+#print('testSet after lemmatizer & removing dupes ')
+#print(testSet.head())
 
 #copy
 trainSet1 = copy.deepcopy(trainSet)
