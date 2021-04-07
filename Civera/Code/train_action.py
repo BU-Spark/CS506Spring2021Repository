@@ -33,6 +33,14 @@ else:
 mycursor = mydb.cursor()
 
 
+#code for new custom training Set
+# SELECT distinct(c_a_index.action) ,
+#        count(c_a_index.description),
+#        ROUND(count(c_a_index.description) * 0.01,0) as rounded
+# FROM wp_courtdocs.cdocs_case_action_index as c_a_index
+# where c_a_index.action != " "  and c_a_index.actor != " " 
+# group by c_a_index.action 
+
 # Load sql to dataframe 
 # Get Training Set (Action != NULL and Actor != NULL)
 # Getting 10000 values first 
@@ -129,6 +137,7 @@ clf2.fit(X_train, y_train)
 #RandomForest Prediction 
 prediction1 = clf1.predict(testSet1['description'])
 print(prediction1.shape)
+print(prediction1)
 print() 
 #score: 0.025610244097639057
 
@@ -137,6 +146,8 @@ print(accuracy_score(y_test, prediction1[:9996]))
 #MultinomialNB Prediction 
 prediction2 = clf2.predict(testSet1['description'])
 print(prediction2.shape)
+
+
 
 print(accuracy_score(y_test, prediction2[:9996]))
 #score: 0.0858343337334934
