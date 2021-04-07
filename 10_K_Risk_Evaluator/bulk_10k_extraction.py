@@ -3,7 +3,7 @@ import pandas as pd
 from sec_edgar_downloader import Downloader
 
 # importing IBB holdings. csv
-file = 'IBB-holdings.csv'
+file = 'data/IBB-holdings.csv'
 IBB = pd.read_csv(file,skiprows=13)
 holdings = list(IBB["Symbol"])
 
