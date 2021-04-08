@@ -47,5 +47,6 @@ training = training.append(training1, ignore_index=True)
 
 print(training.head())
 print(training.shape)
-#path = 'C:\\Users\\Serra\\Desktop\\CS506Spring2021Repository\\Civera\\Data\\custom-training.txt'
-#training.to_csv(path, mode='a', index = False) 
+
+path = 'C:\\Users\\Serra\\Desktop\\CS506Spring2021Repository\\Civera\\Data\\custom-training.txt'
+training.to_csv(path, mode='w', index = False) 
