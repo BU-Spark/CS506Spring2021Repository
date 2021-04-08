@@ -22,3 +22,6 @@ For next steps, we will repeat the steps on the whole dataset after refining the
 
 Week 5:
 We have collected all the data and get all the codes; the only thing left is to do analysis on the results we get and produce a report.
+
+Week 6:
+All data processed. Need to contact client for next step (e.g. refine the results).
