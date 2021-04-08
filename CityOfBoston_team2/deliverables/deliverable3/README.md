@@ -7,6 +7,16 @@ to each type of amenity have been determined. Some analysis has also
 been completed regarding relationship between areas with amenity access
 and demographics of those same areas.
 
+## Final dataset
+
+The final merged dataset has been created; it is called
+`final_merge.csv` in this directory. The features on it are `name`,
+`zip`, `lat`, `lon`, `category`, and `address`. Most of these are
+self-explanatory. `lat` and `lon` correspond to latitude and longitude
+respectively, `address` refers to street address, and `category` is
+amenity category. Each of the amenity datasets was standardized and
+concatenated to create this dataset.
+
 ## General insights
 
 Overall, there seems to be a broad distribution of all amenity types.
@@ -25,6 +35,11 @@ amenities, mostly because every parcel was within 15 minutes of a
 commercial amenity, and there were 16,033 out of 62,190 parcels (25.8%)
 that lacked at least one amenity.
 
+Most of the missing amenities were concentrated in the zip codes 02136
+and 02132, which did not have noticeably different demographic
+properties in out initial analysis—it is very likely that more in-depth
+analysis will be required to understand this observed trend.
+
 It should also be noted that the analyses were carried out for only
 residential parcels. That is, only distances from residential parcels to
 amenities were considered in order to cut down on calculation time (of
@@ -41,31 +56,40 @@ equal across zip codes and demographics.
 
 ![‘Map of access for education amenities.’](figures/education.png)
 
-1.4% of parcels do not have access to education amenities.
+1.4% of parcels do not have access to education amenities. The majority
+of the underserved parcels are in the zipcodes 02132 and 02136.
 
 ## Food Access
 
 ![‘Map of access for food access amenities.’](figures/food.png)
 
-1.8% of parcels do not have access to food access amenities.
+1.8% of parcels do not have access to food access amenities. Though no
+zip codes had a very large number of parcels missing amenities, the zip
+codes 02130, 02132, and 02467 have the largest number of underserved
+parcels.
 
 ## Healthcare
 
 ![‘Map of access for healthcare amenities.’](figures/health.png)
 
-2.9% of parcels do not have access to healthcare amenities.
+2.9% of parcels do not have access to healthcare amenities. Most of
+these parcels are found in the zipcode 02136.
 
 ## Recreation
 
 ![‘Map of access for recreation amenities.’](figures/recreation.png)
 
-2.3% of parcels do not have access to recreation amenities.
+2.3% of parcels do not have access to recreation amenities. Most of the
+under-served parcels seem to be concentrated in zip codes 02126, 02131,
+02132, and 02136.
 
 ## Social
 
 ![‘Map of access for social amenities.’](figures/social.png)
 
-24.1% of parcels do not have access to social amenities.
+24.1% of parcels do not have access to social amenities. The large
+majority of the under-served parcels were in the zip codes 02136 and
+02132, though there were some others missing a signficant number.
 
 ## Next Steps
 
