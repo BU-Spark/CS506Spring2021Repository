@@ -44,9 +44,12 @@ mycursor = mydb.cursor()
 # Load sql to dataframe 
 # Get Training Set (Action != NULL and Actor != NULL)
 # Getting 10000 values first 
-case_index_not_null = pd.read_sql("SELECT c_a_index.actor, c_a_index.action, c_a_index.description FROM wp_courtdocs.cdocs_case_action_index as c_a_index where c_a_index.actor != ' ' and c_a_index.action != ' ' and c_a_index.description != ' ' LIMIT 50000", con = mydb)
+#case_index_not_null = pd.read_sql("SELECT c_a_index.actor, c_a_index.action, c_a_index.description FROM wp_courtdocs.cdocs_case_action_index as c_a_index where c_a_index.actor != ' ' and c_a_index.action != ' ' and c_a_index.description != ' ' LIMIT 50000", con = mydb)
+custom_training = pd.read_csv("C:\\Users\\Serra\\Desktop\\CS506Spring2021Repository\\Civera\\Data\\merge-custom.txt", error_bad_lines=False)
 columns = ['action','description']
-trainSet = case_index_not_null[columns]
+#trainSet = case_index_not_null[columns]
+trainSet = custom_training[columns]
+#print(trainSet1.head())
 print(trainSet.head())
 print(trainSet.shape)
 
@@ -141,7 +144,7 @@ print(prediction1)
 print() 
 #score: 0.025610244097639057
 
-print(accuracy_score(y_test, prediction1[:9996]))
+print(accuracy_score(y_test, prediction1[:9190]))
 
 #MultinomialNB Prediction 
 prediction2 = clf2.predict(testSet1['description'])
@@ -149,7 +152,7 @@ print(prediction2.shape)
 
 
 
-print(accuracy_score(y_test, prediction2[:9996]))
+print(accuracy_score(y_test, prediction2[:9190]))
 #score: 0.0858343337334934
 
 submission1 = pd.DataFrame({'description':testSet1['description'],'action_index':prediction1})
