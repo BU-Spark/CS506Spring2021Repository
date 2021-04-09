@@ -54,11 +54,13 @@ def generate_df(stocks, start_date=None, end_date=None, save_results=False):
     
 def read_all_twitter_data(folder='./twitter_raw_data/clean_data/'):
     all_tweets_df = pd.DataFrame()
+    old_dir = os.getcwd()
     os.chdir(folder)
     for tweet_file in glob.glob('*.pkl'):
         all_tweets_df = all_tweets_df.append(pd.read_pickle(tweet_file))
 
     all_tweets_df.drop_duplicates(subset=['id'], inplace=True)
+    os.chdir(old_dir)
     return all_tweets_df
 
 def add_excel_id(df):
