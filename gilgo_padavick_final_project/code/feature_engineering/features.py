@@ -3,6 +3,8 @@ import pandas as pd
 import seaborn as sns
 import pyarrow.parquet as pq
 import matplotlib.pyplot as plt
+import glob
+import os
 
 
 
@@ -40,3 +42,15 @@ def plot_vs_price(df, col, start, end, save_loc=None):
         fig.savefig(save_loc)
     else:
         fig.show()
+
+def import_labeled_data(path='../../data'):
+    labeled_data = pd.DataFrame()
+    old_dir = os.getcwd()
+    os.chdir(path)
+    for label_file in glob.glob('*.csv'):
+        data = pd.read_csv(label_file)
+        data = data[data['Sentiment'].notna()]
+        data['id_str'] = data['id_str'].str.replace("a", "")
+        labeled_data = labeled_data.append(data)
+    os.chdir(old_dir)
+    return labeled_data
