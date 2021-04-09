@@ -34,11 +34,17 @@ In the recent five years, the total waste weight for the top 18 different types 
 #### Deliverable 2
 
 Procedure:
-*We have collected the packing type, weight and carbon emissions (if possible) for top 10 ground coffee, top 10 coffee creamer and top 10 K-Cup products in quantity from the categories of our previous analysis.
 
-*We have collected the total weight, size, weight of toner and carbon emissions (if possible) for top 10 ink cartridge in quantity.
+* We have collected the packing type, weight and carbon emissions (if possible) for top 10 ground coffee, top 10 coffee creamer and top 10 K-Cup products in quantity from the categories of our previous analysis.
 
-*We have received a secondary batch of data about the toner and coffee requests from different BU departments and do some pre-process of the data.
+* We have collected the total weight, size, weight of toner and carbon emissions (if possible) for top 10 ink cartridge in quantity.
+
+* We have received a secondary batch of data about the toner and coffee requests from different BU departments and do some pre-process of the data.
+
+Conclusion:
+We answered the following question:
+* Total waste weight for top 10 K-Cup Coffee
+* Total waste weight for the top two creams
 
 
 #### Data description
