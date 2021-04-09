@@ -432,7 +432,36 @@ As can be seen here, Lightower had an average MeanThroughputMbps of 46.2 megabit
 
 ## Results
 
+[For now, as of deliverable 3, we leave this section generally blank, as there is still more work to be done in obtaining results. We have initial results for both Ookla and MLAB, in terms of statewide statistics, upload/download speed maps, and scatter plots of broadband speed per municipality against median household income. However, as there are still more results to obtain, we hold off on formally writing about them here. Nonetheless, we do present two scatter plots, which are the primary outcomes of this deliverable]
 
+##### MLAB Data and Median Household Income
+
+![](/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/output/mlab_income.png)
+
+Here, we present a scatter plot of the MLAB data averaged per provider against median household income from the 2014-2018 census. Note that we used data from this census, because the 2020 census data is not yet available. In the chart, each data point is a municiaplity in MA; the data points colored in orange are municipalities within the MAPC's purview, and the grey data points are other cities. 
+
+There are a number of key points here:
+
+1. The vast majority of municipalities are beneath the 100 Mbps target broadband speed, many significantly so.
+2. There does exist a slight correlation between median household income and throughput Mbps
+3. There numerous outliers; some low income municipalities with high throughput Mpbs, and many high income low throughput Mbbs municipalities.
+4. It appears that there is a fairly dense clustering of municipalities towards the "bottom left" of the chart; interestingly, there doesn't seem to be much of a difference in terms of broadband speeds for municipalities with median incomes less than $120,000 per year.
+
+##### Ookla Data and Median Household Income
+
+![ookla_income](/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/output/ookla_income.png)
+
+We also present a similar chart for the Ookla data. Here, there are anumber of key points:
+
+- The biggest difference is in the apparent measured speeds - measuring internet speed against a local ISP server as opposed to a larger network which includes autonomous systems yields much higher measurements.
+- Among MAPC municipalities, there actually appears to be a downward trend as compared to median household income, while the opposite relationship exists for other municipalities.
 
 ## Conclusion and Discussion
 
+[As with the results section, we hold off on writing any conclusions or discussions, as there is still a fair bit of data cleaning, filtering, and further scatter plots to generate.]
+
+<div class="page-break"></div>
+
+## Towards Deliverable 4
+
+TODO
