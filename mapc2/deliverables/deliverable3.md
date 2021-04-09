@@ -228,6 +228,7 @@ Here, we see the upload speeds, per municipality in MA. There are a number of it
 
 The MAPC was concerned that there has existed an imbalance between download and upload speeds for some time, because people often care more about download speed than upload speed. Unfortunately, this problem is particularly important during the present time, since the due to the pandemic, there is an extensive amount of video communication ongoing for both business and education.
 
+<div class="page-break"></div>
 ## MLAB Dataset
 
 The Measurement Lab is an open source project, and aims to advance internet research by providing useful information to anyone about their internet performance. Notably, if you type something along the lines of "how fast is my internet" into Google, MLAB will execute the operations necessary to measure the speed. Unlike Ookla, MLAB attempts to give a more realistic sense of internet speeds, within the context of the larger internet newtork, and not limited to the speeds provided by a specific ISP.
@@ -447,6 +448,8 @@ There are a number of key points here:
 3. There numerous outliers; some low income municipalities with high throughput Mpbs, and many high income low throughput Mbbs municipalities.
 4. It appears that there is a fairly dense clustering of municipalities towards the "bottom left" of the chart; interestingly, there doesn't seem to be much of a difference in terms of broadband speeds for municipalities with median incomes less than $120,000 per year.
 
+We also generated an interactive HTML file of this data, with tooltips for labeling municipalities.
+
 ##### Ookla Data and Median Household Income
 
 ![ookla_income](/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/output/ookla_income.png)
@@ -455,6 +458,8 @@ We also present a similar chart for the Ookla data. Here, there are anumber of k
 
 - The biggest difference is in the apparent measured speeds - measuring internet speed against a local ISP server as opposed to a larger network which includes autonomous systems yields much higher measurements.
 - Among MAPC municipalities, there actually appears to be a downward trend as compared to median household income, while the opposite relationship exists for other municipalities.
+
+As with MLAB, we also generated an interactive HTML file of this data, with tooltips for labeling municipalities.
 
 ## Conclusion and Discussion
 
