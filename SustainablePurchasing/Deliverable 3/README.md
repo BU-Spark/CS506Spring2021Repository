@@ -13,10 +13,12 @@ All data should have been collected. All project questions should have been revi
 - [ ] Submit a PR with the above report and modifications to original proposal
 
 #### Project Question
+The goal for the project is to explore the working supplies requests and expenditure from BU staff based on which we analyze the waste volume and GHG emission of the main categories (i.e. Coffee and Ink Cartridge) and their subcategories. According to the analysis, we are expected to provide some insightful suggestions regarding to BU sustainability in the future.
 
 * What is the waste volume of the specified categories?
 * what is the weight of the waste to represent the waste volume of the products and use some carbon emission of the main material to represent product emission?
 * What are ways the University could ask the vendors to change the options they offer ? e.g. buy less K-cup, more bag coffee
+* What is the difference between the weight of each componets for the coffee and creamer waste
 
 #### Deliverable 1
 
@@ -43,8 +45,8 @@ Procedure:
 
 We have received three batch of data from clients. 
 * First part of data is about the list of things that the University purchases every year. Most of them are coffee and toner. That data contains each singal request that the university have. Our clients tell us that toner and coffee are two main components that university uses. 
-* Second data batch is about the number of toner and paper that the office request each year. We call it WBMason Paper and Toner. The client This is mainly because we find the the papaer and toner are two main contribuctors of the green house gas. 
-* Last, we ask our clients to provide the list of different departments and colleges. We want to find out the pattern of different apaprtment request to find a solution to reduce the green house gas.  
+* Second data batch is about the number of toner and paper that the office request each year. We call it WBMason Paper and Toner. This is mainly because we find the the papaer and toner are two main contribuctors of the green house gas. 
+* Last, we ask our clients to provide the list of different departments and colleges. We want to find out the pattern of different apaprtment request to find a solution to reduce the green house gas. In this dataset, we have different data with different apartment so we can try to find the frequency of different apartment to answer the key question of our peoject. 
 
 
 
