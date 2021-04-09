@@ -464,4 +464,25 @@ We also present a similar chart for the Ookla data. Here, there are anumber of k
 
 ## Towards Deliverable 4
 
-TODO
+There is still a decent amount of work left to do for the next and final deliverable, and we discuss that here.
+
+- **Outlier filtering**: it appears there are a number of outliers, and we'd like to filter them out
+- **Provider cleanup**: there are many providers within the dataset, and only some of them offer residential or business services. We'd like to remove otehr providers from the data
+- **Scatter Plots per Provider**: generate similar scatter plots for each of the primary providers, as we did similarly here with the entire MLAB and Ookla data sets.
+- **Time Histories**: given time, generate further such plots for years prior to 2020.
+- **Municipality Coverage**: statewide map that includes all relevant information for each municipality: median household income, available providers, overall average speed, per provider average speed.
+
+## Summary
+
+In this deliverable, we continue our analysis of the datasets, and present scatter plots of broadband speed against median household income. We also wrote this as an initial draft of the final report.
+
+Checklist:
+
+1. All data is collected: we have collected all the required data. Note: it's possible that if we build a time history, we'll need more data, but we have scripts to do so if necessary.
+2. Refine the preliminary analysis of the data performed in PD1&2: as documented above
+3. Answer another key question: We examined broadband coverage across the state, and presented maps of download and upload speeds per municipality.
+4. Attempt to answer overarching project question: we generated scatter plots of broadband speed against median household income.
+5. Create a draft of your final report: as presented.
+6. Refine project scope and list of limitations with data and potential risks of achieving project goal: Listed above.
+7. Submit a PR with the above report and modifications to original proposal
+
