@@ -70,6 +70,6 @@ We don’t have direct access to the original resources. Everytime we apply for 
 ### [Deliverable 3 @April 10, 2021](https://github.com/milesway/CS506Spring2021Repository/tree/master/SustainablePurchasing/Deliverable%203)
 1. We got another secondary data from our clients.
 2. We refined our analysis for delverable 2.
-3. We analyze the total spend and request numbers on Coffee and Ink Cartridge for different BU departments.
-4. We analyze the ordering frequency for coffee, toner and coffee and answer one key analysis question.
-4. We create a draft for our final report.
+3. We analyzed the total spend and request numbers on Coffee and Ink Cartridge for different BU departments.
+4. We analyzed the ordering frequency for coffee, toner and coffee and answer one key analysis question.
+4. We created a draft for our final report.
