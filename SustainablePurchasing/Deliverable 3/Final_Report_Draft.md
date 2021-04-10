@@ -13,13 +13,13 @@ The goal for the project is to explore the working supplies requests and expend
 ### Deliverable 1
 
 Procedure:
-We removed all data which has "Unclassified" value at the column for "Part - Supplier Part Number".
-We have calculated the number of requests for coffee and toner quarterly, monthly and yearly, and visualized the trends through ploting lines and bars.
-We have plotted pie charts for reavealing the top 20 coffee products and top 20 toner products respectively with the most number of requestes within 5 years and visualized their request numbers through the histogram.
-We found average waste value for plastic K-Cup Pods from online open source and estimated value for Coffee Creamer from Amazon to calculate waste weights for the top 20 coffee products with the most number of requests.
+* We removed all data which has "Unclassified" value at the column for "Part - Supplier Part Number".
+* We have calculated the number of requests for coffee and toner quarterly, monthly and yearly, and visualized the trends through ploting lines and bars.
+* We have plotted pie charts for reavealing the top 20 coffee products and top 20 toner products respectively with the most number of requestes within 5 years and visualized their request numbers through the histogram.
+* We found average waste value for plastic K-Cup Pods from online open source and estimated value for Coffee Creamer from Amazon to calculate waste weights for the top 20 coffee products with the most number of requests.
 
 Conclusion: 
-In the recent five years, the total waste weight for the top 18 different types of K-cups with the most total number is 1.512 tons, and the total waste for the top 2 different types of coffee creamer with the most total number is 0.4 kg.
+* In the recent five years, the total waste weight for the top 18 different types of K-cups with the most total number is 1.512 tons, and the total waste for the top 2 different types of coffee creamer with the most total number is 0.4 kg.
 
 ### Deliverable 2
 
@@ -36,6 +36,19 @@ We answered the following question:
 * Total waste weight for top 10 K-Cup Coffee
 * Total waste weight for the top two creams
 
+### Deliverable 3
+
+Procedure:
+* We calculated carbon emission estimate of top 10 K-Cup, top 10 consumed ground coffee and top 10 consumed coffee creamer
+* We calculated the cost that different departments spent on K-cups and Bagged Coffee, and the top 10 departments that requested Toner and Coffee most in the last 5 years respectively. 
+* We analyzed the order frequency of coffee, toner and paper, represented the top ten items in the order times in these two categories, and drew a line chart of the order frequency of that 20 most frequently used items
+
+Conclusion: 
+* The carbon emissions of a K-Cup is 26.4g.
+* The carbon emission of top 10 consumed ground coffee is about 233.52616kg carbon dioxide.
+* The carbon emission of the top 10 consumed coffee creamer is about 14021.788kg carbon dioxide.
+* School of Medicine and School of Public Health behold one place in top 3 among the rank of ordering numbers and ordering spends from different departments of BU.
+* K-Cup coffee pods is ordered every 0.7 days on average, toner cartridge is ordered every 5.1 days on average and paper is ordered every 1.12 days on average. 
 
 ### Data description
 

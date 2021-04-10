@@ -57,7 +57,7 @@ By collecting carbon emission of producing the packing materials(eg. carton or c
 
 ![](./image/department_request_coffee_year.png)
 
-- We analyzed the order frequency of coffee and toner, represented the top ten items in the order times in these two categories, and drew a line chart of the order frequency of that 20 most frequently used items. 
+- We analyzed the order frequency of coffee, toner and paper, represented the top ten items in the order times in these two categories, and drew a line chart of the order frequency of that 20 most frequently used items. 
 
 - For coffee, using the most commonly used coffee as the representation of the rest nine coffee products, which product code is GMT6520, Breakfast Blend Coffee K-Cup Pods, is ordered every 0.7 days on average. And the data is mainly concentrated between ordering multiple times a day to ordering once every three days. There are only a few cases where the interval between two orders exceeds five days. These large intervals mainly occur during holidays when the office was closed by tracing back to the order date. 2020 is the year in which large intervals frequently occur, with cases where the interval between two purchases is as long as 20 days because of the remote working/teaching pattern affected by the epidemic.
 
