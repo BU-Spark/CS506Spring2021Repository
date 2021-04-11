@@ -58,7 +58,7 @@ for i in range(len(common_locations)):
     try:
         street_address = common_locations[i][0]
         city = 'Revere'
-        Google_query = "https://maps.googleapis.com/maps/api/geocode/json?address="+street_address+", "+city+" MA&key=AIzaSyD5UAYQMmsDdkUFfjq38Ved2GNt5c2Jy0o"
+        Google_query = "https://maps.googleapis.com/maps/api/geocode/json?address="+street_address+", "+city+" MA&key=APIKEY"
         Google_request = requests.get(Google_query)
         Google_JSON = Google_request.json()
 
