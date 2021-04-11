@@ -3,5 +3,6 @@ tabula-py
 camelot-py
 pytest
 pytest-cov
+pandera
 testfixtures
 tox

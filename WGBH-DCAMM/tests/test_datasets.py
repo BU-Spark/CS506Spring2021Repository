@@ -1,3 +1,4 @@
+import base64
 import csv
 
 import PyPDF2
