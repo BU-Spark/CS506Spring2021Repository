@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import re
+import math
 from csv import writer
 import copy
 import os 
@@ -45,7 +46,7 @@ mycursor = mydb.cursor()
 # Get Training Set (Action != NULL and Actor != NULL)
 # Getting 10000 values first 
 #case_index_not_null = pd.read_sql("SELECT c_a_index.actor, c_a_index.action, c_a_index.description FROM wp_courtdocs.cdocs_case_action_index as c_a_index where c_a_index.actor != ' ' and c_a_index.action != ' ' and c_a_index.description != ' ' LIMIT 50000", con = mydb)
-custom_training = pd.read_csv("C:\\Users\\Serra\\Desktop\\CS506Spring2021Repository\\Civera\\Data\\merge-custom.txt", error_bad_lines=False)
+custom_training = pd.read_csv("C:\\Users\\Serra\\Desktop\\CS506Spring2021Repository\\Civera\\Data\\custom-training.txt", error_bad_lines=False)
 columns = ['action','description']
 #trainSet = case_index_not_null[columns]
 trainSet = custom_training[columns]
@@ -128,14 +129,10 @@ y = trainSet1['action_index']
 print("train-test-split processing")
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2, random_state = 42)
 
+
 clf1 = Pipeline([('tfidf', TfidfVectorizer()),('rdf',RandomForestClassifier()),])
 # training data through the pipeline
 clf1.fit(X_train, y_train)
-
-
-clf2 = Pipeline([('tfidf', TfidfVectorizer()),('mnb',MultinomialNB()),])
-# training data through the pipeline
-clf2.fit(X_train, y_train)
 
 #RandomForest Prediction 
 prediction1 = clf1.predict(testSet1['description'])
@@ -144,16 +141,46 @@ print(prediction1)
 print() 
 #score: 0.025610244097639057
 
-print(accuracy_score(y_test, prediction1[:9190]))
+print('accuracy score')
+print(accuracy_score(y[:5000], prediction1[:5000]))
+print(mean_squared_error(y_test[:5000], prediction1[:5000]))
+print ('RF accuracy: TRAINING', clf1.score(X_train,y_train))
+print ('RF accuracy: TESTING', clf1.score(X_test,y_test))
+
+clf2 = Pipeline([('tfidf', TfidfVectorizer()),('mnb',MultinomialNB()),])
+# training data through the pipeline
+clf2.fit(X_train, y_train)
 
 #MultinomialNB Prediction 
 prediction2 = clf2.predict(testSet1['description'])
 print(prediction2.shape)
 
-
-
 print(accuracy_score(y_test, prediction2[:9190]))
+print ('MNB accuracy: TRAINING', clf2.score(X_train,y_train))
+print ('MNB accuracy: TESTING', clf2.score(X_test,y_test))
 #score: 0.0858343337334934
+
+
+clf3 = Pipeline([('tfidf', TfidfVectorizer()),('lsvc', LinearSVC(dual=False,C = 0.2)),])
+# training data through the pipeline
+clf3.fit(X_train, y_train)
+
+#LinearSVC Prediction 
+prediction3 = clf3.predict(testSet1['description'])
+print(prediction3.shape)
+
+print(accuracy_score(y_test, prediction3[:9190]))
+#score: 
+
+# estimators=[('RDF',clf1),('MNB',clf2),('SVC',clf3)]
+# ensemble = VotingClassifier(estimators, voting='hard')
+# #fit model to training data
+# ensemble.fit(X_train, y_train)
+
+# prediction4 = ensemble.predict(testSet1['description'])
+# print(prediction4.shape)
+
+# print(accuracy_score(y_test, prediction4[:9190]))
 
 submission1 = pd.DataFrame({'description':testSet1['description'],'action_index':prediction1})
 #Visualize the first 5 rows
