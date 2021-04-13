@@ -1,0 +1,5 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+64331,2020-03-13 19:42:40.601033+00:00,b'@\x19T=',1.6082983739187486,12.945,Rochdale,42.1987,-71.9062,26251.0,"SIRIUS-1 - Prospeed.Net,Inc."
+193124,2020-06-05 19:40:32.203105+00:00,b'&\x00ldj\x80E\x00\x18\x08\xd0\xc9\xfe\x8dE\x9c',3.305107366924147,29.753,Rochdale,42.1987,-71.9062,20115.0,CHARTER-NET-HKY-NC - Charter Communications
+217574,2020-06-22 12:00:17.639975+00:00,"b'&\x00ldj\x80\x11\xc9\x91\xe40\x17\xb3\xd7\xc2,'",10.253597357219054,27.451,Rochdale,42.1987,-71.9062,20115.0,CHARTER-NET-HKY-NC - Charter Communications
+228541,2020-06-27 00:05:38.584563+00:00,b'&\x00ldj\x80\x003\xd9Y\xce\xd2\\\xe7\x89W',9.904747171317188,30.891,Rochdale,42.1987,-71.9062,20115.0,CHARTER-NET-HKY-NC - Charter Communications

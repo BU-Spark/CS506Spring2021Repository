@@ -1,0 +1,588 @@
+City,ProviderName,MeanThroughputMbps,MinRTT
+Abington,CELLCO - Cellco Partnership DBA Verizon Wireless,2.3930211933064864,49.099
+Abington,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.205228984624082,32.30766666666667
+Abington,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",21.396348533404968,16.142384615384614
+Acton,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.07523540876945,18.022499999999997
+Acton,"JUNIPER-NETWORKS - Juniper Networks, Inc.",8.400411243293476,6.191
+Acton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",95.2357481139401,93385.96795652174
+Acushnet,"COMCAST-7922 - Comcast Cable Communications, Inc.",26.405297078979807,56.623999999999995
+Agawam,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.040066078925443,24.983333333333334
+Allston,CELLCO - Cellco Partnership DBA Verizon Wireless,13.600694924793107,40.1161
+Allston,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.66716099112395,22.93208333333334
+Allston,RCN-AS - RCN,3.6111274788126435,10.722000000000001
+Allston,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,2.257470420317732,41.438
+Amesbury,"COMCAST-7922 - Comcast Cable Communications, Inc.",26.805415712579645,29.326125
+Amesbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7031645905754311,77.661
+Amherst,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.942175009970104,25.417406250000003
+Andover,"ATT-INTERNET4 - AT&T Services, Inc.",19.588356242899945,12.612
+Andover,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.612884872373034,25.754761904761907
+Andover,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",207.3073794390465,10.744695652173913
+Arlington,CELLCO - Cellco Partnership DBA Verizon Wireless,6.189830550453235,41.543666666666674
+Arlington,"COMCAST-7922 - Comcast Cable Communications, Inc.",22.522539490055365,21.14976086956522
+Arlington,RCN-AS - RCN,13.767739247912262,24.092101449275354
+Arlington,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",118.00640760452347,13.828033333333332
+Ashburnham,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.119579029973398,21.676099999999998
+Ashby,"COMCAST-7922 - Comcast Cable Communications, Inc.",23.47697614511117,15.311
+Ashfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.6282386755246944,88.92109090909092
+Ashland,CELLCO - Cellco Partnership DBA Verizon Wireless,4.119096340431714,33.012
+Ashland,"COMCAST-7922 - Comcast Cable Communications, Inc.",2.785266477460276,24.222
+Ashland,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",71.16233640583069,16.454232558139534
+Athol,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,9.73253049764993,47.937789473684205
+Attleboro,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.674145943711693,26.2245304347826
+Auburn,CHARTER-NET-HKY-NC - Charter Communications,14.152121777866236,41.9841
+Auburn,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5708554664533512,45.144999999999996
+Auburndale,CELLCO - Cellco Partnership DBA Verizon Wireless,11.832917969930609,43.4512
+Avon,"COMCAST-7922 - Comcast Cable Communications, Inc.",18.688435962172115,40.0085
+Baldwinville,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.439168959198503,19.3335
+Bedford,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.892793511631025,21.056347826086956
+Bedford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",77.48031810025182,13.120739130434782
+Belchertown,CHARTER-NET-HKY-NC - Charter Communications,3.5781231526031982,21.193
+Bellingham,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.585322632975782,24.44886666666667
+Bellingham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",79.69146405077751,9.96
+Belmont,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.502390185180925,19.465799999999998
+Belmont,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",72.967793624524,13.673727272727273
+Berkley,TAUNTON-MUNICIPAL - Taunton Municipal Lighting Plant,24.548745453475558,10.797
+Bernardston,"FAIRPO-3 - FAIRPOINT COMMUNICATIONS, INC.",19.683237443306727,32.995
+Beverly,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.4225540456085595,21.409061224489804
+Billerica,CELLCO - Cellco Partnership DBA Verizon Wireless,6.618241781181538,44.9295
+Billerica,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.844437611823963,19.453307692307693
+Billerica,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",228.92952189617534,19.43071111111111
+Blackstone,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.28139646129322,154.913
+Boston,APPLE Apple Inc,23.38977295738041,215.437
+Boston,"ATT-INTERNET4 - AT&T Services, Inc.",130.97498777165694,22.19
+Boston,ATTIS-ASN4473 - AT&T Internet Services,3.9522048192253263,98.54700000000001
+Boston,AXCELX-NET - AxcelX Technologies LLC,13.566816348992834,49.16025
+Boston,BIGLEAF - Bigleaf Networks LLC,4.423677530928448,8.052999999999999
+Boston,"CAMBINC-1 - Cambridge Incubator, Inc.",85.37047707969751,12.047
+Boston,CELLCO - Cellco Partnership DBA Verizon Wireless,5.711141902627697,50.61739999999999
+Boston,COGENT Cogent/PSI,104.23207782748555,20.51914814814814
+Boston,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.751989638046865,25.856679665738152
+Boston,LEVEL3 Level 3 Communications,15.070995232809544,7.769000000000001
+Boston,LIGHTOWER Lightower Fiber Networks (LIGHT-141),117.44603398362746,8.571
+Boston,MASSACHUSETTS - Commonwealth of Massachusetts,32.185214139733354,13.453399999999998
+Boston,RCN-AS - RCN,19.481924930444514,18.761375
+Boston,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",9.834814646982954,44.71983333333335
+Boston,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",254.6189039290963,12.914776315789469
+Boston,WINDSTREAM - Windstream Communications Inc,4.573599246549486,20.179333333333332
+Boxborough,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.34719658136814,22.10035294117647
+Boxford,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.539881900554395,20.0365
+Boxford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",86.78710409034773,16.7845
+Boxford,WINDSTREAM - Windstream Communications Inc,63.29998221485897,15.713333333333333
+Boylston,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",50.40327626827647,32.399
+Braintree,ASN-BELD - Braintree Electric Light Dept.,10.578542726266491,31.659285714285716
+Braintree,"COMCAST-7922 - Comcast Cable Communications, Inc.",0.27344858390396304,49.44075
+Braintree,LEVEL3 Level 3 Communications,6.1286697104165055,24.232
+Braintree,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",127.426542377748,29.482769230769232
+Brewster,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.83814910403643,34.128510204081635
+Bridgewater,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.655408201490312,25.482866666666663
+Bridgewater,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.4826074866841968,41.725
+Brighton,CELLCO - Cellco Partnership DBA Verizon Wireless,4.099703569088465,64.55655555555556
+Brighton,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.910657362509241,24.787562499999996
+Brighton,LIGHTOWER Lightower Fiber Networks (LIGHT-141),38.56331861847918,7.598
+Brighton,RCN-AS - RCN,13.004918037266577,22.57315625
+Brighton,TWDX TOWARDEX Carrier Services IP TRANSIT BACKBONE,1.1130694771676275,16.7235
+Brighton,"VHS-BOMA - Vanguard Health Management, Inc.",6.500978599658472,12.853
+Brockton,BROCKTONHOSPITAL-ORG - Brockton Hospital,0.4754312759869231,13.540999999999999
+Brockton,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.898139324289618,22.923350649350645
+Brockton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.21361507512226768,753.3657142857143
+Brookfield,CHARTER-NET-HKY-NC - Charter Communications,12.37591206725562,48.6215
+Brookline,AS12222 Akamai Technologies,203.60340942216445,8.891
+Brookline,CELLCO - Cellco Partnership DBA Verizon Wireless,5.697094998181593,55.3298148148148
+Brookline,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.660724046051754,27.432319587628864
+Brookline,RCN-AS - RCN,13.169962383748762,17.96191428571428
+Brookline,RIVERPARK-CAPITAL-LLC - RIVERPARK CAPITAL LLC,125.58688109259622,9.376333333333333
+Brookline,ROBERTSDYBDAHL - Roberts & Dybdahl Inc.,254.3810745492302,8.465666666666666
+Brookline,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.3201136223763014,34.588
+Burlington,"COMCAST-7922 - Comcast Cable Communications, Inc.",32.71621449661722,15.84390909090909
+Burlington,MILLIPORE - Millipore Corp.,2.252508066314045,286.153
+Burlington,RCN-AS - RCN,9.485487903195612,18.472923076923077
+Burlington,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,242.27248891723738,28.985
+Burlington,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",90.97309701001916,16.147624999999994
+Buzzards Bay,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.7742521289349,34.467749999999995
+Buzzards Bay,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5212052099588654,504.93875
+Cambridge,ASN-QWEST-US NOVARTIS-DMZ-US,43.48718401033539,8.759
+Cambridge,"CAMBINC-1 - Cambridge Incubator, Inc.",3.5753562630008866,8.917
+Cambridge,CELLCO - Cellco Partnership DBA Verizon Wireless,2.2308899942922493,41.36371428571429
+Cambridge,"COMCAST-7015 - Comcast Cable Communications Holdings, Inc",200.5325096562236,10.015
+Cambridge,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.83271677430581,31.468251046025106
+Cambridge,HARVARD-UNIV - Harvard University,27.24036030928882,11.485
+Cambridge,LIGHTOWER Lightower Fiber Networks (LIGHT-141),37.04620665717722,36.565999999999995
+Cambridge,MIT-GATEWAYS - Massachusetts Institute of Technology,100.43873806404517,12.510692307692311
+Cambridge,RCN-AS - RCN,3.477096114149825,8.94
+Cambridge,SEGNET - SEG Network Technologies,3.6111084376380913,13.833
+Cambridge,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",2.6125535105874786,49.4715
+Cambridge,"TWRS-MA - Towerstream I, Inc.",22.73086050396984,6.819
+Cambridge,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5498642413859219,201.49349999999998
+Cambridge,WAUSAU-INS - Liberty Mutual Group,6.572076386595892,10.055947368421052
+Cambridge,WB-DEN2 - Viasat Communications Inc.,0.9379122967131931,44.8605
+Canton,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.49313660000754,27.42725
+Canton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",129.00577812428608,19.199666666666666
+Carlisle,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.953249272316088,39.150999999999996
+Carver,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.319955512993126,26.718875
+Centerville,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.762618314304392,27.191750000000003
+Charlestown,CELLCO - Cellco Partnership DBA Verizon Wireless,1.0236378498985863,49.684
+Charlestown,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.037160000092275,25.706428571428564
+Charlestown,NETRIPLEX-CORPORATION - Netriplex Corporation,10.531928286338854,197.81775000000002
+Charlton,CHARTER-NET-HKY-NC - Charter Communications,7.22210592265597,24.00269230769231
+Chelmsford,"COMCAST-7922 - Comcast Cable Communications, Inc.",29.055628816413467,23.466666666666665
+Chelmsford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",143.4699030636267,12.50648
+Chelsea,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.551522553279608,21.563000000000002
+Chelsea,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",3.721264738276504,45.86000000000001
+Chestnut Hill,CELLCO - Cellco Partnership DBA Verizon Wireless,4.896051372592626,42.047200000000004
+Chestnut Hill,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.78690842741016,27.987428571428573
+Chicopee,CHARTER-NET-HKY-NC - Charter Communications,8.533171498572104,31.759964285714297
+Chicopee,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",6.180087273032813,33.852
+Clinton,"COMCAST-7922 - Comcast Cable Communications, Inc.",27.826532090446065,24.031789473684213
+Concord,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.987729046447447,30.984754385964912
+Concord,CONCORD-MA - Town of Concord MA,53.44799381367946,21.6898
+Danvers,AS11676 - Xerox Business Services,11.743305966325334,131.3975
+Danvers,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.898860322717363,25.012741935483866
+Danvers,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",94.10848789937923,16.0943
+Danvers,WINDSTREAM - Windstream Communications Inc,43.71507988264821,3.637
+Dedham,"COMCAST-7922 - Comcast Cable Communications, Inc.",19.685337835825344,20.22557142857143
+Dedham,RCN-AS - RCN,14.663065681622273,22.227153846153843
+Dedham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",83.48172070965711,11.938250000000002
+Dennis,"COMCAST-7922 - Comcast Cable Communications, Inc.",17.29527501801628,21.82133333333333
+Devens,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.322289593577977,15.939
+Dorchester,CELLCO - Cellco Partnership DBA Verizon Wireless,0.9363376426517178,53.54175
+Dorchester,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.417412646472739,27.770787234042555
+Dorchester,COMMRAIL - Access Northeast Inc.,184.55504269505082,7.057
+Dorchester,MASS-CONVENTION-CENTER-AUTHORITY - Massachusetts Convention Center Authority,89.11467736070283,9.660666666666666
+Dorchester,RCN-AS - RCN,17.2308194993549,18.637333333333334
+Dorchester,ROBERTSDYBDAHL - Roberts & Dybdahl Inc.,21.33587113434458,12.111
+Dorchester,"SINGLE-DIGITS - Single Digits, Inc.",48.63947137956315,6.6850000000000005
+Dorchester,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",9.353441937135035,60.15103225806452
+Dorchester,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",176.43249830137196,10.830195121951217
+Dorchester,XO-AS15 - XO Communications,34.89213166016105,12.427333333333332
+Douglas,CHARTER-NET-HKY-NC - Charter Communications,7.754807211363357,49.561083333333336
+Dracut,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.744264077267731,22.825772727272724
+Dracut,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",4.293052684773471,38.769666666666666
+Dudley,CHARTER-NET-HKY-NC - Charter Communications,7.955052230876665,28.609714285714283
+Duxbury,"ATT-INTERNET4 - AT&T Services, Inc.",11.159730245202022,45.845000000000006
+Duxbury,CELLCO - Cellco Partnership DBA Verizon Wireless,2.3098814390166784,48.68
+Duxbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",18.322475699045686,13.138333333333334
+East Bridgewater,"COMCAST-7922 - Comcast Cable Communications, Inc.",25.91783558644176,27.71088461538462
+East Brookfield,CHARTER-NET-HKY-NC - Charter Communications,4.447098455138301,25.62
+East Falmouth,CAPENET - CapeNet LLC,13.57203848515484,14.917541666666665
+East Falmouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.968664425535255,32.30383333333333
+East Longmeadow,"ACCESSPLUS-COMMUNICATIONS - AccessPlus Communications, Inc.",298.4671382906535,10.831
+East Longmeadow,CHARTER-NET-HKY-NC - Charter Communications,9.686073048765056,21.395
+East Wareham,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.312727833087507,19.051
+East Weymouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.908858127051861,26.343571428571426
+Eastham,"COMCAST-7922 - Comcast Cable Communications, Inc.",25.587397168782342,28.414763157894736
+Easthampton,CELLCO - Cellco Partnership DBA Verizon Wireless,11.784083189213716,44.068666666666665
+Easthampton,CHARTER-NET-HKY-NC - Charter Communications,9.735652496653511,20.778000000000002
+Easthampton,LIGHTOWER Lightower Fiber Networks (LIGHT-141),146.60839565910078,11.567
+Easthampton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.49658055704828197,66.8264
+Edgartown,"COMCAST-7922 - Comcast Cable Communications, Inc.",3.7065589329591173,25.420333333333332
+Essex,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.393687496514275,21.642
+Essex,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",151.75392653473563,8.923
+Everett,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.637875244616906,20.771818181818187
+Everett,RCN-AS - RCN,15.187910484678953,18.420083333333334
+Everett,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",6.558073646603214,50.05983333333334
+Fairhaven,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.009240157318617,21.543333333333333
+Fall River,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.866735132659018,26.269701754385967
+Fall River,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",14.16307488348854,38.47983333333334
+Fisherville,CHARTER-NET-HKY-NC - Charter Communications,13.286557491456099,5.501
+Fisherville,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",10.142532280052064,14.714
+Fitchburg,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.558453894641445,20.920941176470585
+Fitchburg,"NITEL - NETWORK INNOVATIONS, INC.",34.77958395978528,13.1725
+Fitchburg,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",134.66290184844573,16.143333333333334
+Florence,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.891707328432326,26.399099999999997
+Foxborough,ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.,0.15439443536663297,18.85125
+Foxborough,"COMCAST-7922 - Comcast Cable Communications, Inc.",33.729391152515845,37.42771428571429
+Foxborough,MFNX MFN - Metromedia Fiber Network,12.794080629765684,49.68600000000001
+Foxborough,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",71.29230131235659,12.713444444444443
+Framingham,BOSE-CORPORATION-US - Bose Corporation,22.892097630814764,8.271
+Framingham,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.120868166700395,19.81854
+Framingham,RCN-AS - RCN,16.269434707309003,25.159052631578948
+Framingham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",129.42222869472116,10.10928947368421
+Franklin,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.18836434790272,30.04155555555555
+Franklin,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",207.51618331354533,11.336432432432433
+Gardner,CHARTER-NET-HKY-NC - Charter Communications,20.41299704157952,25.534000000000002
+Gardner,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.728156264122976,29.308
+Gardner,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7069395204032569,34.626999999999995
+Georgetown,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",102.2993204715138,26.67975
+Gloucester,"COMCAST-7922 - Comcast Cable Communications, Inc.",26.735661262163756,33.15266037735849
+Gloucester,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",27.74599106972834,28.650374999999997
+Grafton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",103.76146314178251,46.409099999999995
+Granby,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.8951701321281655,23.927666666666667
+Granville,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.881426908351729,18.189
+Great Barrington,HGE-NET - Holyoke Gas & Electric Department,463.3863078338006,10.32342857142857
+Great Barrington,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,14.015684423863897,20.251333333333328
+Greenfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.332931848031896,38.987100000000005
+Groton,CHARTER-NET-HKY-NC - Charter Communications,8.251199989708924,48.0835
+Groton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",99.44948621844512,12.145125000000002
+Groveland,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.818747117214485,30.129166666666666
+Groveland,"SIRIUS-1 - Prospeed.Net,Inc.",36.352627406078,11.645166666666666
+Hadley,CHARTER-NET-HKY-NC - Charter Communications,19.98007887296537,26.964000000000002
+Halifax,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.217537373683387,27.601636363636363
+Hanover,"COMCAST-7922 - Comcast Cable Communications, Inc.",2.62934200126552,47.49657142857142
+Hanover,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",14.407039274553606,14.207250000000002
+Hanson,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.30675703950559,24.035
+Hardwick,"COMCAST-7922 - Comcast Cable Communications, Inc.",572.5265842905845,10.221
+Harvard,CHARTER-NET-HKY-NC - Charter Communications,11.25431686855636,23.24533333333333
+Harwich,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.7363991754616,22.473818181818185
+Haverhill,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.802959950134083,36.40826865671642
+Haverhill,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7229196470700394,14.682799999999997
+Head of Westport,CHARTER-NET-HKY-NC - Charter Communications,9.288631309328817,23.122833333333336
+Hingham,CELLCO - Cellco Partnership DBA Verizon Wireless,2.001564374377568,34.8545
+Hingham,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.190079090213494,33.08006666666667
+Hingham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",100.17251791014198,14.220600000000001
+Hinsdale,HNS-DIRECPC - Hughes Network Systems,2.0436411284443095,55.4702
+Holden,CHARTER-NET-HKY-NC - Charter Communications,9.478482940991777,48.67014285714287
+Holliston,"IVANET-NYC - VIP Calling, Inc.",4.691590484650174,104.0285
+Holliston,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",136.9334101121098,28.357857142857142
+Holyoke,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.82410544422635,26.444489361702125
+Holyoke,HGE-NET - Holyoke Gas & Electric Department,203.59267025479372,12.425
+Holyoke,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.6354782079012573,32.821
+Hopedale,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",57.216225073329824,13.303599999999998
+Hopkinton,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.366005628811688,17.552
+Hopkinton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",314.51353098606256,11.425406249999998
+Hudson,CELLCO - Cellco Partnership DBA Verizon Wireless,3.0614066462657985,56.939888888888895
+Hudson,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.339287680501272,21.007304347826086
+Hudson,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",139.20077515784266,12.2802
+Hyde Park,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.526658012493526,16.144333333333332
+Hyde Park,RCN-AS - RCN,9.076022228338188,21.008000000000003
+Hyde Park,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",102.80283333965929,8.666799999999999
+Indian Orchard,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.299361444962505,16.038999999999998
+Ipswich,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",95.63318549327579,11.690875
+Jamaica Plain,CELLCO - Cellco Partnership DBA Verizon Wireless,2.6964183821120975,46.0948
+Jamaica Plain,CITYOFBOSTON - City of Boston,49.238043004276506,12.857000000000001
+Jamaica Plain,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.416344292906758,23.562607843137265
+Jamaica Plain,MEITCA-AS - Mitsubishi Electric ITA (HSL),413.6817167886554,7.231
+Jamaica Plain,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",200.29092634839733,21.9127619047619
+Kingston,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.428834633288817,24.478
+Kingston,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",31.761710878991906,59.69357142857141
+Lawrence,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.192595891852966,28.753869565217386
+Lawrence,"QXSNET-AS - Worldwide TechServices, LLC.",1.915024113166913,159.24099999999999
+Lawrence,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",13.425045108913308,47.12764705882353
+Lawrence,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",98.83872877502333,11.74125
+Lee,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,3.1343242140258747,52.0908139534884
+Leeds,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.397811796742419,21.0585
+Leicester,CHARTER-NET-HKY-NC - Charter Communications,20.14498510121555,28.658
+Lenox,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,9.763599119784562,55.99522857142857
+Leominster,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.695480415718196,23.26438461538462
+Leominster,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",93.66191106149654,10.603000000000002
+Leverett,HGE-NET - Holyoke Gas & Electric Department,124.16876200941385,12.405999999999999
+Lexington,"COMCAST-7922 - Comcast Cable Communications, Inc.",68.84194999727687,14.326545454545455
+Lexington,GRANITE - Granite Telecommunications LLC,0.683425677671199,14.165
+Lexington,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",201.75898313564429,10.399928571428577
+Lexington,"VERMONT-TELE - Vermont Telephone Company, Inc.",9.467940483839886,24.142
+Lincoln,CELLCO - Cellco Partnership DBA Verizon Wireless,42.203102067556635,34.895
+Lincoln,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.693878497977911,21.673857142857145
+Lincoln,METTEL - Metropolitan Telecomm,89.01071645206919,9.914
+Littleton,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.570453361282961,23.660249999999998
+Littleton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",70.39356696715937,10.628894736842108
+Longmeadow,CHARTER-NET-HKY-NC - Charter Communications,5.9485492826706485,23.214000000000002
+Longmeadow,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.629653744384694,25.637272727272727
+Longmeadow,DSCI - DSCI Corporation,2.905312516385405,12.270999999999999
+Lowell,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.455168529769635,26.999027522935773
+Ludlow,CHARTER-NET-HKY-NC - Charter Communications,7.2633316309655696,33.863851851851855
+Lunenburg,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.521575974647583,24.9795
+Lynn,CELLCO-PART - Cellco Partnership DBA Verizon Wireless,2.027467029839316,89.44466666666666
+Lynn,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.876668245732093,27.75745945945946
+Lynn,PHILIPS-INTERNET Koninklijke Philips N.V. (internet presence),85.9353800831274,13.165999999999999
+Lynn,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",211.16223407558525,12.585212121212123
+Lynnfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.411797691690333,24.7206
+Lynnfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",69.97225756273968,15.762875
+Malden,"COMCAST-7922 - Comcast Cable Communications, Inc.",20.494128330711106,20.050577777777775
+Malden,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",90.04412350362364,15.713866666666668
+Mansfield,"ATT-INTERNET4 - AT&T Services, Inc.",279.6641085252979,11.981
+Mansfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.428573167735717,25.331
+Mansfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",174.68601801310504,11.449833333333336
+Marblehead,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.112253045371544,19.84445454545455
+Marblehead,PREVARE-LLC-BEVERLY-MA - Prevare LLC,35.660240327066745,27.634999999999998
+Marblehead,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",374.3118666632352,9.845090909090908
+Marion,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.262858169425901,22.362828571428576
+Marlborough,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.806272016385675,28.89433333333334
+Marlborough,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",107.16093483521276,13.322578947368424
+Marshfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.432518051957956,17.686374999999998
+Marshfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",127.62956833693714,14.3624375
+Marstons Mills,"COMCAST-7922 - Comcast Cable Communications, Inc.",35.03951247583242,23.83539655172414
+Mashpee,CAPENET - CapeNet LLC,69.80473145227741,18.23
+Mashpee,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.366760075532364,31.433705882352942
+Mashpee,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.2384592163411987,42.527
+Mattapan,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.369979699402288,37.696
+Mattapan,LIGHTOWER Lightower Fiber Networks (LIGHT-141),329.77434005543745,5.667000000000001
+Mattapoisett,"COMCAST-7922 - Comcast Cable Communications, Inc.",21.450247828452888,34.245
+Mattapoisett,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",251.70701926259983,8.732999999999999
+Maynard,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.351567599772196,24.152814814814814
+Maynard,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",84.9955450711604,12.623466666666669
+Medfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.012128632767773,22.03655737704918
+Medfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",59.92236838062069,32.2185
+Medford,AS12222 Akamai Technologies,110.42809751761051,9.426333333333334
+Medford,"COMCAST-7922 - Comcast Cable Communications, Inc.",26.078108732177423,25.91242857142857
+Medford,ROBERTSDYBDAHL - Roberts & Dybdahl Inc.,314.7798826392156,8.466
+Medford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",97.9480315714413,12.172687500000004
+Medway,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.728621065970625,28.468
+Medway,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",43.23264381387859,16.291500000000003
+Melrose,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.7136072287777395,26.715
+Melrose,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",41.30324526786896,15.78111111111111
+Mendon,"COMCAST-7922 - Comcast Cable Communications, Inc.",17.75257852159815,18.8645
+Methuen,"COMCAST-7922 - Comcast Cable Communications, Inc.",21.157510311149796,23.74082352941176
+Methuen,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",83.8568589132893,15.66088571428571
+Middleboro,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.925908577473699,26.907363636363637
+Middleboro,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",122.01490344807988,13.460150000000002
+Middleton,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.803530477203093,20.755
+Milford,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.770152839445304,21.786499999999997
+Milford,LIGHTOWER Lightower Fiber Networks (LIGHT-141),86.63820715733446,7.165
+Milford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",44.656126396988036,14.568166666666665
+Millbury,CHARTER-NET-HKY-NC - Charter Communications,2.366664899288211,21.0235
+Millbury,COMMRAIL - Access Northeast Inc.,2.611115022606383,47.235200000000006
+Millbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",52.33532556579206,13.607
+Millis,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",97.25449477776448,11.935333333333332
+Milton,CELLCO - Cellco Partnership DBA Verizon Wireless,3.6318955778585016,40.683499999999995
+Milton,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.329198716994449,33.40872340425532
+Milton,RCN-AS - RCN,14.178381604660881,21.341538461538462
+Monson,CELLCO - Cellco Partnership DBA Verizon Wireless,13.152006564845223,44.8535
+Monson,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.918477378165304,23.561199999999996
+Monterey,HGE-NET - Holyoke Gas & Electric Department,194.8678335107878,9.916599999999999
+Nantucket,"COMCAST-7922 - Comcast Cable Communications, Inc.",20.63352379086851,27.876737864077665
+Natick,CELLCO - Cellco Partnership DBA Verizon Wireless,1.1615323045899655,49.8104
+Natick,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.350560025014231,19.021
+Natick,RCN-AS - RCN,13.996249141842428,40.13238888888888
+Natick,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",253.104677249186,11.668697916666666
+Needham,BIGLEAF - Bigleaf Networks LLC,34.37076166865652,36.62014285714286
+Needham,"COMCAST-7015 - Comcast Cable Communications Holdings, Inc",81.44187743091352,7.864
+Needham,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.969190040470357,22.381
+Needham,RCN-AS - RCN,15.008757754650256,17.65642857142857
+Needham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",118.79145632696424,13.707416666666667
+Needham Heights,LIGHTOWER Lightower Fiber Networks (LIGHT-141),13.321824814498571,14.222166666666666
+New Bedford,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.089512582465325,27.374166666666667
+New Bedford,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",4.670942880811088,34.678
+New Bedford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.354825557271425,549.5546666666668
+New Bedford,WINDSTREAM - Windstream Communications Inc,182.08458844963118,13.661
+Newburyport,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.783455997115212,30.46070666666666
+Newburyport,OXNET - Oxford Networks,5.913539297469833,27.658
+Newton,AS12222 Akamai Technologies,15.94271730370015,31.628
+Newton,RCN-AS - RCN,11.463122689279805,20.77181818181818
+Newton Center,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.748910545410927,15.809666666666667
+Newton Center,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",360.53049287435397,31.631756410256404
+Newtonville,CELLCO - Cellco Partnership DBA Verizon Wireless,13.89293229598571,33.35766666666667
+North Adams,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,6.875560049722847,44.14092857142857
+North Andover,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.000870772074153,19.621888888888886
+North Andover,MASSACHUSETTS - Commonwealth of Massachusetts,0.5983455284681531,6.845
+North Andover,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",317.82833342905525,11.163130434782607
+North Attleboro,"COMCAST-7922 - Comcast Cable Communications, Inc.",29.677120755811384,23.348333333333333
+North Attleboro,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",166.98058666987893,12.706499999999998
+North Billerica,"COMCAST-7922 - Comcast Cable Communications, Inc.",31.87610136915282,31.113
+North Billerica,WINDSTREAM - Windstream Communications Inc,80.37738441137657,8.411
+North Chatham,"COMCAST-7922 - Comcast Cable Communications, Inc.",15.841207996380904,28.58883333333333
+North Dartmouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.662252217398139,17.3035
+North Easton,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.420066410532357,26.57025
+North Easton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",45.17756749263419,13.005500000000001
+North Grafton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",97.84713673480915,14.76375
+North Hatfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",48.849952665700386,11.005999999999998
+North Reading,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",212.3726003213215,13.914857142857143
+North Weymouth,HMH-18830 - Houghton Mifflin Harcourt Publishing Company,4.0598068876219955,54.315
+Northampton,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.019742266880478,23.237238095238098
+Northampton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5887726297258097,39.849
+Northborough,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",127.21392298890582,10.678457142857141
+Northbridge,CHARTER-NET-HKY-NC - Charter Communications,5.286424436685996,28.8395
+Norton,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.81859554081045,29.38907692307692
+Norwell,"COMCAST-7922 - Comcast Cable Communications, Inc.",12.67231560260034,37.150999999999996
+Norwell,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",256.6535536739872,10.342
+Norwood,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.833294339457067,16.698750000000004
+Norwood,LIGHTOWER Lightower Fiber Networks (LIGHT-141),67.91321996173221,49.038999999999994
+Norwood,NLB-ASN - Norwood Light Broadband,23.3125322031426,21.646750000000004
+Norwood,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",107.80169611161362,10.797
+Orange,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,10.796812783174513,29.295
+Oxford,CHARTER-NET-HKY-NC - Charter Communications,8.419518875470573,31.748611111111114
+Palmer,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.937972227937145,18.7125
+Paxton,CELLCO - Cellco Partnership DBA Verizon Wireless,7.070326486094325,42.303999999999995
+Paxton,CHARTER-NET-HKY-NC - Charter Communications,8.353357786131312,25.86
+Peabody,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.303332686431078,27.899
+Peabody,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5149341457358048,188.8562
+Pembroke,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.518660874049296,18.42233333333333
+Pembroke,LINEARTECH-INC - LINEAR TECHNOLOGIES INC.,74.4491198088749,12.613
+Pepperell,CELLCO - Cellco Partnership DBA Verizon Wireless,15.254418724439999,67.8875
+Pepperell,CHARTER-NET-HKY-NC - Charter Communications,11.455329741635918,58.08713636363635
+Pepperell,XO-AS15 - XO Communications,38.853358188316385,4.740399999999999
+Pittsfield,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,10.069631969380946,34.11424
+Pittsfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5426049462513807,258.60366666666664
+Plainville,"ATT-INTERNET4 - AT&T Services, Inc.",41.42707031806511,25.788
+Plainville,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.115095339482746,19.428
+Plymouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.847804103115709,34.235440000000004
+Plymouth,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",61.763777581163964,13.157083333333334
+Plympton,"COMCAST-7922 - Comcast Cable Communications, Inc.",20.365513809888547,18.142
+Pocasset,"COMCAST-7922 - Comcast Cable Communications, Inc.",28.95151697589261,27.8
+Princeton,CHARTER-NET-HKY-NC - Charter Communications,11.317293668238854,16.253
+Provincetown,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.004376783201101,33.433976190476194
+Quincy,ASN-CXA-ALL-CCI-22773-RDC - Cox Communications Inc.,87.2537960541161,10.800999999999998
+Quincy,"BELLATLANTIC-COM - Bell Atlantic, Inc.",3.400589285208854,3.36475
+Quincy,CELLCO - Cellco Partnership DBA Verizon Wireless,1.7639181076379398,50.713249999999995
+Quincy,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.695097392145087,24.007225
+Quincy,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",10.080850169959445,35.755
+Quincy,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.6067128041441715,39.830666666666666
+Quincy,XO-AS15 - XO Communications,2.039683839482355,15.568999999999999
+Randolph,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.759807183747244,28.353866666666665
+Randolph,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",203.91974901877168,11.310878787878789
+Raynham,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.87143530499468,77.95977777777777
+Reading,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.685950476315847,19.39171428571429
+Reading,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",97.41897790331446,10.74275
+Rehoboth,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.80085295048547,25.146200000000004
+Revere,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.433710968568672,24.954195121951212
+Revere,RCN-AS - RCN,17.47304578620864,24.988454545454545
+Revere,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",13.219267376767347,46.123769230769234
+Revere,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7059904354950052,38.958
+Rochester,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",22.369617983911084,17.172
+Rockland,"COMCAST-7922 - Comcast Cable Communications, Inc.",27.178111356729776,22.417
+Rockland,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",44.9258707635767,14.19575
+Rockport,"COMCAST-7922 - Comcast Cable Communications, Inc.",32.51159972311539,26.74015789473684
+Roslindale,CELLCO - Cellco Partnership DBA Verizon Wireless,5.301306630178258,46.12370588235294
+Roslindale,RCN-AS - RCN,14.400451865025122,18.439799999999998
+Roslindale,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",45.329753234225436,42.298
+Roslindale,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",133.95357669049332,22.272499999999997
+Rowley,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.94222064035616,23.247
+Rowley,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",341.91126230608586,9.15819512195122
+Roxbury,CELLCO - Cellco Partnership DBA Verizon Wireless,10.374540620641072,46.10930769230769
+Roxbury,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",1.1438676378628803,42.623599999999996
+Roxbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",132.4549973659009,11.681000000000001
+Roxbury Crossing,RCN-AS - RCN,301.19454660793525,7.4479999999999995
+Roxbury Crossing,XO-AS15 - XO Communications,38.43616666663672,7.714499999999999
+Royalston,"ACCESSPLUS-COMMUNICATIONS - AccessPlus Communications, Inc.",3.70536275429048,23.66
+Rutland,CHARTER-NET-HKY-NC - Charter Communications,10.402264895508964,23.002
+Rutland,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.6608822038649189,32.184
+Salem,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.166923243947359,25.67214634146342
+Sandwich,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.357994309506076,24.138
+Saugus,"COMCAST-7922 - Comcast Cable Communications, Inc.",14.698732532688373,24.9501875
+Saugus,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",1.4343303422671003,46.28266666666667
+Scituate,"COMCAST-7922 - Comcast Cable Communications, Inc.",22.546314953126096,22.543985507246376
+Seekonk,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.576037302415079,24.834999999999997
+Sharon,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.930939688107767,32.5071690140845
+Sherborn,"COMCAST-7922 - Comcast Cable Communications, Inc.",40.71275489667701,15.8065
+Shirley,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7098318383592186,41.9345
+Shrewsbury,ASN-SHREWS - Shrewsbury Electric and Cable Operations,4.20517455228399,23.951566037735844
+Shrewsbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.713346691887962,32.386799999999994
+Somerset,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.098667497119513,19.094285714285714
+Somerville,AS1239 SprintLink Global Network,78.04231740042428,66.296
+Somerville,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.942092224790127,25.107321428571435
+Somerville,MASSACHUSETTS - Commonwealth of Massachusetts,104.45890302097571,33.22025000000001
+Somerville,MVANET - USAI.NET,129.16647053222678,7.7405
+Somerville,RCN-AS - RCN,13.43826699326131,20.141499999999997
+Somerville,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.8404624450566162,32.759
+South Deerfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.078236437614837,35.6564
+South Dennis,"COMCAST-7922 - Comcast Cable Communications, Inc.",31.53240016059459,23.811374999999998
+South Easton,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.2350596540411996,14.627500000000001
+South Easton,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",0.9577974062648221,51.080999999999996
+South Egremont,CROCKERCOM - CROCKER COMMUNICATIONS,19.76464841895321,10.620999999999999
+South Hadley,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.824992159004268,26.113818181818182
+South Hadley,HGE-NET - Holyoke Gas & Electric Department,245.37834416112696,10.495333333333333
+South Hamilton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",76.28346188903184,13.105923076923075
+South Hamilton,WINDSTREAM - Windstream Communications Inc,2.1734817222422,14.668000000000001
+South Weymouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.007759430424358,19.958428571428566
+South Yarmouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.066563231890835,22.883850000000002
+South Yarmouth,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.6376638920684946,39.864599999999996
+Southampton,"COMCAST-7922 - Comcast Cable Communications, Inc.",92.831710315783,10.402999999999999
+Southborough,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",32.686362015079396,9.431000000000001
+Southbridge,CHARTER-NET-HKY-NC - Charter Communications,8.576314159764177,41.569615384615375
+Southbridge,"COMCAST-7922 - Comcast Cable Communications, Inc.",3.643438542341419,26.401
+Spencer,CHARTER-NET-HKY-NC - Charter Communications,10.229839860874602,24.119500000000002
+Springfield,"ACCESSPLUS-COMMUNICATIONS - AccessPlus Communications, Inc.",19.01875632666386,11.001727272727273
+Springfield,AS1239 SprintLink Global Network,1.7007273873050468,56.98987499999999
+Springfield,CELLCO - Cellco Partnership DBA Verizon Wireless,17.764910886950833,61.944
+Springfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.052354076486443,24.83815873015874
+Springfield,SPCS - Sprint Personal Communications Systems,1.9625938974815926,57.830414285714326
+Springfield,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",17.52636648433765,36.18900000000001
+Springfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7701335875397244,38.08145454545455
+Springfield,"WAYPORT - Wayport, Inc.",6.6258061188209245,9.21
+Sterling,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.891171706382792,25.208499999999997
+Stoneham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",46.73857203466873,14.464583333333332
+Stoughton,CELLCO - Cellco Partnership DBA Verizon Wireless,2.302857231297694,39.963
+Stoughton,"COMCAST-7922 - Comcast Cable Communications, Inc.",10.414310283090057,21.508000000000003
+Stoughton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",178.79087375395338,32.002900000000004
+Stow,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",70.98868464224577,12.393400000000003
+Sturbridge,CHARTER-NET-HKY-NC - Charter Communications,6.579789179867018,24.64154166666667
+Sudbury,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.401231946705252,20.415833333333335
+Sudbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",64.78066640426579,10.6056
+Sunderland,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.265160057994741,22.770222222222223
+Sutton,CHARTER-NET-HKY-NC - Charter Communications,4.741696504701919,52.759
+Swampscott,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.442993895253179,36.743
+Swampscott,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",56.952081909682725,18.16433333333333
+Swansea,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.876058141063753,32.654062499999995
+Taunton,"COMCAST-7922 - Comcast Cable Communications, Inc.",7.475602370692429,26.557000000000002
+Taunton,"T-MOBILE-AS21928 - T-Mobile USA, Inc.",14.835945571384263,37.649
+Taunton,TAUNTON-MUNICIPAL - Taunton Municipal Lighting Plant,112.50994739726124,9.690999999999999
+Taunton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",117.13474439071062,11.810333333333334
+Tewksbury,"COMCAST-7922 - Comcast Cable Communications, Inc.",25.801051696577673,19.21775
+Tewksbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",218.1146921649677,10.628435897435901
+Three Rivers,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.891113519969758,18.076
+Topsfield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",74.0744499085317,13.136208333333334
+Townsend,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.962213043758542,15.945
+Tyngsboro,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.279671686887619,1094.212
+Tyngsboro,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",39.90481571965786,15.024000000000001
+Upton,CHARTER-NET-HKY-NC - Charter Communications,8.949927013364034,28.529666666666667
+Uxbridge,CHARTER-NET-HKY-NC - Charter Communications,12.34874441109051,21.93872727272727
+Vineyard Haven,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.664054203703818,26.513949999999994
+Waban,"COMCAST-7922 - Comcast Cable Communications, Inc.",170.42649843502488,26.926454545454543
+Wakefield,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.453329714524111,18.70690476190476
+Wakefield,RCN-AS - RCN,13.001783682892649,19.384666666666668
+Wakefield,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",123.51460937383214,17.318624999999997
+Walpole,RCN-AS - RCN,24.83525001184942,16.129
+Walpole,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",149.21568187301236,10.984714285714286
+Waltham,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.949603327938078,22.162538461538468
+Waltham,LIGHTOWER Lightower Fiber Networks (LIGHT-141),5.152245359891063,8.539
+Waltham,RCN-AS - RCN,12.900487885941423,20.59894444444444
+Waltham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",202.9586253246864,11.518222222222223
+Ware,"COMCAST-7922 - Comcast Cable Communications, Inc.",18.762804705330673,21.818928571428568
+Ware,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5607062734241992,28.318
+Wareham,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.983201013383616,28.783250000000002
+Wareham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",91.22519553094399,9.62475
+Warwick,"ACCESSPLUS-COMMUNICATIONS - AccessPlus Communications, Inc.",2.48655054548536,83.84800000000001
+Watertown,CELLCO - Cellco Partnership DBA Verizon Wireless,9.79625734244182,46.285
+Watertown,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.948251199731088,23.906891304347823
+Watertown,RCN-AS - RCN,15.959146769097936,16.723350000000003
+Watertown,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",91.85643571567479,6.5480909090909085
+Watertown,WINDSTREAM - Windstream Communications Inc,1.9564527805498129,30.429000000000002
+Wayland,CELLCO - Cellco Partnership DBA Verizon Wireless,5.760479648023158,43.933
+Wayland,"COMCAST-7922 - Comcast Cable Communications, Inc.",3.5236365821492615,17.495666666666665
+Wayland,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",88.41078680825446,11.371230769230769
+Webster,CELLCO - Cellco Partnership DBA Verizon Wireless,0.5058803739055048,35.655
+Webster,CHARTER-NET-HKY-NC - Charter Communications,8.496172990732758,49.79739285714287
+Wellesley,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",362.00586766929416,8.155
+Wellesley Hills,"COMCAST-7922 - Comcast Cable Communications, Inc.",20.145865969203793,19.925322580645165
+Wellesley Hills,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",66.65244070578865,13.604720930232556
+West Boylston,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.7195340278944542,38.204
+West Bridgewater,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.741887867804403,24.4135
+West Newbury,PUTNAMFT - Putnam Fiduciary Trust,89.17688945133081,15.789000000000001
+West Newbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",87.44985047133012,14.497285714285715
+West Newton,CELLCO - Cellco Partnership DBA Verizon Wireless,2.205610859301848,30.899
+West Newton,"COMCAST-7922 - Comcast Cable Communications, Inc.",26.697664908412772,19.309375
+West Newton,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",71.91285345288213,16.147205128205126
+West Roxbury,"COMCAST-7922 - Comcast Cable Communications, Inc.",11.212017154310821,25.505999999999997
+West Roxbury,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",213.1864541009934,9.971333333333334
+West Roxbury,WINDSTREAM - Windstream Communications Inc,29.61168802752524,13.072000000000001
+West Springfield,"BAYSTATEHEALTH - Baystate Health, Inc.",14.240014303975036,14.992
+West Springfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",6.603565928738826,23.139799999999994
+West Yarmouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.04185425117107,24.3052
+Westborough,CHARTER-NET-HKY-NC - Charter Communications,7.1740134339369375,20.509
+Westborough,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",72.34527156547153,14.057380952380955
+Westfield,"COMCAST-7922 - Comcast Cable Communications, Inc.",8.537789944386297,22.937157894736846
+Westford,"COMCAST-7922 - Comcast Cable Communications, Inc.",5.869604132854878,21.75788235294118
+Westford,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",184.6897259321778,13.821163265306122
+Westminster,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.157873828751013,24.747124999999997
+Weston,"COMCAST-7922 - Comcast Cable Communications, Inc.",33.23730080698068,18.103543859649122
+Westwood,CELLCO - Cellco Partnership DBA Verizon Wireless,2.2982473730523387,44.443000000000005
+Westwood,"COMCAST-7922 - Comcast Cable Communications, Inc.",34.871420358018945,24.52476923076923
+Westwood,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",108.54425673762913,12.081
+Weymouth,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.2032648247625275,84.60024999999999
+Whitinsville,CHARTER-NET-HKY-NC - Charter Communications,12.466609468929962,33.495733333333334
+Wilbraham,CHARTER-NET-HKY-NC - Charter Communications,68.09304519236673,38.87425
+Williamstown,RR-NYSREGION-ASN-01 - Time Warner Cable Internet LLC,10.062117466989296,19.613
+Wilmington,OSRAM-SYLVANIA - OSRAM SYLVANIA INC.,0.44838936653462763,107.061
+Wilmington,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",157.13043690652225,13.136416666666662
+Winchendon,"COMCAST-7922 - Comcast Cable Communications, Inc.",9.19184956696003,20.837875000000004
+Winchester,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.584571467375001,38.610666666666674
+Winchester,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",72.67835824853775,10.514365853658536
+Winthrop,"COMCAST-7922 - Comcast Cable Communications, Inc.",4.514896548144122,18.54175
+Woburn,"COMCAST-7922 - Comcast Cable Communications, Inc.",13.277198929017349,24.100714285714282
+Woburn,RCN-AS - RCN,18.78194692411541,18.16325
+Woburn,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",80.68374258368603,17.67211111111111
+Worcester,ASN-SHREWS - Shrewsbury Electric and Cable Operations,61.09269746199502,10.201
+Worcester,CELLCO - Cellco Partnership DBA Verizon Wireless,0.9757661261280868,41.402
+Worcester,CHARTER-NET-HKY-NC - Charter Communications,8.327179954012118,27.316814569536422
+Worcester,"COMCAST-7922 - Comcast Cable Communications, Inc.",16.52897743556404,26.9635
+Worcester,LIGHTOWER Lightower Fiber Networks (LIGHT-141),41.295357544465936,6.797000000000001
+Worcester,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",0.5616373657171337,49.12292307692308
+Wrentham,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business",183.03994979816457,13.605333333333332

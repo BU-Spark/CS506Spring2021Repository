@@ -1,0 +1,4 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+64739,2020-03-14 00:19:49.273291+00:00,b'\x17\x1e\x8cc',17.28255410516493,18.585,Hubbardston,42.4865,-72.0012,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+201096,2020-06-11 16:06:39.513283+00:00,b'2\xd0\x98\xf6',1.194238927585678,27.1,Hubbardston,42.4865,-72.0012,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+331982,2020-09-01 19:48:01.904208+00:00,b'K\x82\xfc#',11.183408223369923,43.324,Hubbardston,42.4865,-72.0012,20115.0,CHARTER-NET-HKY-NC - Charter Communications

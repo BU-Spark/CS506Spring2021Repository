@@ -1,0 +1,4 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+180822,2020-05-27 16:00:19.463548+00:00,b'\x17\x1e\x87\xf9',34.903405317012314,22.755,Erving,42.6076,-72.4292,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+224266,2020-06-25 19:42:09.483793+00:00,b'\x17\x1e\x87\xcd',19.056814013175742,16.459,Erving,42.6037,-72.4306,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+231250,2020-06-29 12:03:37.785057+00:00,b'\x17\x1e\x87\xcd',12.094337149507869,33.814,Erving,42.6037,-72.4306,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

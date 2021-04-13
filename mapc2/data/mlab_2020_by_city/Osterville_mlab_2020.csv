@@ -1,0 +1,28 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+36586,2020-02-11 17:25:21.646495+00:00,"b'`C""\xc1'",9.422199933776318,18.137,Osterville,41.63,-70.3837,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+56549,2020-03-05 16:22:32.181847+00:00,b'l\x14\x17E',0.8918136556537173,40.3,Osterville,41.63,-70.3837,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70996,2020-03-18 19:31:35.077798+00:00,b'H]\x03Z',0.1159363434283912,34.956,Osterville,41.63,-70.3837,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+88205,2020-03-28 16:22:08.826347+00:00,b'2\xfc\xeb\xd1',33.091136801326726,20.485,Osterville,41.63,-70.3837,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+89155,2020-03-29 16:22:09.482011+00:00,b'2\xfc\xeb\xd1',31.107519262871985,199.486,Osterville,41.63,-70.3837,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+90438,2020-03-30 16:22:11.857699+00:00,b'2\xfc\xeb\xd1',34.793758031656004,103.678,Osterville,41.63,-70.3837,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+110850,2020-04-11 16:29:45.563071+00:00,b'H]\x038',0.3681687084861488,23.318,Osterville,41.63,-70.3837,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+413747,2020-12-01 17:27:26.873400+00:00,b'\x83m\x85\xe2',22.78422201302266,10.161,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+414775,2020-12-02 13:10:41.170442+00:00,b'\x83m\x85\xe2',22.791269772370043,10.448,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+415169,2020-12-03 01:09:54.194853+00:00,b'\x83m\x85\xe2',22.770222585610124,10.042,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+417224,2020-12-05 20:50:56.037077+00:00,b'\x83m\x85\xe2',22.775015760484145,10.997,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+417566,2020-12-06 20:35:22.841700+00:00,b'\x83m\x85\xe2',22.77261008649145,10.485,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+418486,2020-12-07 13:29:13.469224+00:00,b'\x83m\x85\xe2',22.75486638712407,10.526,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+420145,2020-12-09 01:18:07.199904+00:00,b'\x83m\x85\xe2',22.784122532226085,10.176,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+421401,2020-12-11 01:01:33.741600+00:00,b'\x83m\x85\xe2',22.7651883258882,10.181,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+421666,2020-12-11 01:09:15.483148+00:00,b'\x83m\x85\xe2',22.80937424955019,9.871,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+423189,2020-12-13 01:17:33.485359+00:00,b'\x83m\x85\xe2',22.80295217898235,9.016,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+425702,2020-12-16 13:20:26.152718+00:00,b'\x83m\x85\xe2',22.79337136414961,10.246,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+428576,2020-12-20 13:07:29.446071+00:00,b'\x83m\x85\xe2',22.73838563747216,12.939,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+429681,2020-12-22 20:47:18.460326+00:00,b'\x83m\x85\xe2',22.74025026735489,12.905,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+429696,2020-12-22 17:14:50.334770+00:00,b'\x83m\x85\xe2',22.740336373367672,12.871,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+430041,2020-12-22 20:40:41.654212+00:00,b'\x83m\x85\xe2',22.781698095267583,13.016,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+430206,2020-12-22 20:55:08.644968+00:00,b'\x83m\x85\xe2',22.773282692482724,12.707,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+433545,2020-12-27 13:09:48.530887+00:00,b'\x83m\x85\xe2',22.774992892401592,12.769,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+434544,2020-12-28 20:54:31.012110+00:00,b'\x83m\x85\xe2',22.76569644147334,12.762,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+435384,2020-12-29 17:24:43.630426+00:00,b'\x83m\x85\xe2',22.740312247531925,12.913,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
+436938,2020-12-31 13:16:18.760544+00:00,b'\x83m\x85\xe2',22.788797390769343,13.02,Osterville,41.6337,-70.3854,14464.0,RINET - Rhode Island Network for Educ. Technology
