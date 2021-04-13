@@ -1,7 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-70656,2020-03-18 12:20:59.533929+00:00,"b'`\\\x88""'",39.55772927216849,22.065,East Walpole,42.1532,-71.2179,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-73732,2020-03-19 19:37:54.225911+00:00,b'`\\\x88!',3.6110301370989615,16.261,East Walpole,42.1532,-71.2179,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-96713,2020-04-02 16:24:09.124238+00:00,b'K\x92\x04\x11',5.4355691909811386,47.428,East Walpole,42.1532,-71.2179,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-96837,2020-04-02 16:24:51.861720+00:00,b'K\x92\x04\x11',4.954330595010164,46.392,East Walpole,42.1532,-71.2179,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-160503,2020-05-13 00:11:32.124332+00:00,b'`C*\x19',10.50445357562556,23.452,East Walpole,42.1532,-71.2179,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-163113,2020-05-15 12:07:10.833136+00:00,b'2\xfc\xf2\xe5',1.551791126826289,17.608,East Walpole,42.1532,-71.2179,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

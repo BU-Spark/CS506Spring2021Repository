@@ -1,2 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-7664,2020-01-09 17:00:40.743618+00:00,b'2\xca\xca\x06',48.84995266570039,11.006,North Hatfield,42.4112,-72.6223,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

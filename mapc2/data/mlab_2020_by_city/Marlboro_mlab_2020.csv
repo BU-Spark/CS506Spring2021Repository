@@ -1,2 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-12005,2020-01-14 17:23:41.661897+00:00,b'\x90\xb2\x05\xe0',24.08168280975991,12.254,Marlboro,42.7168,-70.9731,714.0,APPLE Apple Inc

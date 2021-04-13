@@ -1,4 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-253161,2020-07-11 00:19:46.023354+00:00,b'&\x01\x01\x9d\x03\x02F\x109\x8b\x95\xdb\xda\xdf\xbb%',5.856763596330316,19.358,Sagamore Beach,41.7933,-70.5196,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-278943,2020-07-25 19:47:57.430497+00:00,b'&\x01\x01\x9d\x03\x02E\x80`\x0b\xaa\x10N\x19S)',4.69623776404828,19.748,Sagamore Beach,41.7933,-70.5196,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-293095,2020-08-04 00:23:42.710030+00:00,b'\xc0ky\x1a',80.52464376790232,9.707,Sagamore Beach,41.7933,-70.5196,32145.0,CAPENET - CapeNet LLC

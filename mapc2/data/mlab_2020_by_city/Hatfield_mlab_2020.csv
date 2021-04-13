@@ -1,6 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-170117,2020-05-20 16:12:12.309714+00:00,b'`_\xbd\xdd',22.261783658697805,17.34,Hatfield,42.3844,-72.6167,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-272579,2020-07-22 16:15:58.981195+00:00,b'2\xff\xa2\xc1',8.535914016716301,22.554,Hatfield,42.3844,-72.6167,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-336198,2020-09-04 16:08:55.191917+00:00,b'G\x7f\x03\xe8',0.7045781110342408,39.532,Hatfield,42.3844,-72.6167,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-336657,2020-09-04 16:08:07.032168+00:00,b'G\x7f\x03\xe8',0.6382448842673089,58.862,Hatfield,42.3844,-72.6167,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-427350,2020-12-18 13:12:52.851957+00:00,b'I\x9f\xf4\xbc',9.182066187451232,17.179,Hatfield,42.3844,-72.6167,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

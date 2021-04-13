@@ -1,4 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-74138,2020-03-20 00:03:38.067186+00:00,b'&\x01\x01\x96\x87\x00\x05\xf0\xac\x87\xbc\xb5\xc6\xcax\xed',17.19155133577002,19.862,North Dighton,41.8525,-71.148,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-190887,2020-06-03 19:41:15.464622+00:00,b'\xad\rMM',13.40488725992237,18.604,North Dighton,41.8525,-71.148,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-217553,2020-06-22 12:18:32.326348+00:00,b'2\xd2p}',4.712871250835244,28.531,North Dighton,41.8525,-71.148,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

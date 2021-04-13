@@ -1,3 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-349191,2020-09-16 12:23:30.595480+00:00,b'K\x93(\xfb',27.05544070869206,17.814,Newton Lower Falls,42.3267,-71.2595,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-349253,2020-09-16 12:25:55.745870+00:00,b'K\x93(\xfb',32.33230389267752,14.078,Newton Lower Falls,42.3267,-71.2595,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

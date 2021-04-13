@@ -1,3 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-283203,2020-07-28 16:11:40.725216+00:00,b'F\x16\x94\xa4',0.567481528137671,38.167,Nutting Lake,42.5379,-71.2689,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-283423,2020-07-28 16:05:33.769603+00:00,b'F\x16\x94\xa4',0.7028770308723756,39.441,Nutting Lake,42.5379,-71.2689,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

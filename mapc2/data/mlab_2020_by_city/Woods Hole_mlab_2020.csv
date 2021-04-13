@@ -1,7 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-54336,2020-03-02 19:34:02.856987+00:00,b'K\x90\x9d\xe1',2.6417965639485423,22.893,Woods Hole,41.5263,-70.6643,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
-137188,2020-04-28 16:00:21.690316+00:00,b'\x80\x80\xe1\xb9',2.4269861786890075,10.206,Woods Hole,41.5263,-70.6643,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
-137805,2020-04-28 16:03:01.578714+00:00,b'\x80\x80\xe1\xb9',3.3250822855718862,13.152,Woods Hole,41.5263,-70.6643,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
-244043,2020-07-06 16:02:07.768832+00:00,b'G\xae\x8f-',0.6588106654442388,49.613,Woods Hole,41.5263,-70.6643,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-265974,2020-07-18 00:07:50.623035+00:00,b'G\xae\x8f\xa6',0.6907429344414859,16.684,Woods Hole,41.5263,-70.6643,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
-393030,2020-11-03 17:00:30.253230+00:00,b'\x80\x80y6',89.224062162319,7.573,Woods Hole,41.5263,-70.6643,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution

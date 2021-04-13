@@ -1,6 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-13649,2020-01-16 17:03:28.626169+00:00,b'?\x83Q:',8.712368129611853,20.775,Dalton,42.475,-73.1603,7029.0,WINDSTREAM - Windstream Communications Inc
-14262,2020-01-16 17:02:53.410786+00:00,b'?\x83Q:',7.963564772919741,20.205,Dalton,42.475,-73.1603,7029.0,WINDSTREAM - Windstream Communications Inc
-42807,2020-02-18 13:10:20.944579+00:00,b'?\x83Q:',3.8857015064972407,20.865,Dalton,42.475,-73.1603,7029.0,WINDSTREAM - Windstream Communications Inc
-43033,2020-02-18 13:09:49.119826+00:00,b'?\x83Q:',5.174977723050385,26.046,Dalton,42.475,-73.1603,7029.0,WINDSTREAM - Windstream Communications Inc
-183033,2020-05-29 00:13:59.699368+00:00,b'`\xf0\xc8\x92',0.4448230361608289,44.213,Dalton,42.475,-73.1603,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"

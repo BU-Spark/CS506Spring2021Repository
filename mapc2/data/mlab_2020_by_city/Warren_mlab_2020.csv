@@ -1,4 +1,0 @@
-Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
-101611,2020-04-05 16:16:09.990459+00:00,b' \x01\x05\xb0E\xc5Bh\xa9\x00\xe2\t\xc3\xb0\x847',2.232822518034754,61.541,Warren,42.204,-72.1994,6621.0,HNS-DIRECPC - Hughes Network Systems
-106698,2020-04-08 00:16:15.785527+00:00,b' \x01\x05\xb0E\xc5v\x88\xb8\xecj\xbb\xf6W\x83\xdf',1.8071452661365133,62.278,Warren,42.204,-72.1994,6621.0,HNS-DIRECPC - Hughes Network Systems
-280143,2020-07-26 12:19:23.180233+00:00,b' \x01\x05\xb0E\xdb@\xb8\xf1\x14I&Q\xc4B\xa0',1.827762685367382,61.827,Warren,42.204,-72.1994,6621.0,HNS-DIRECPC - Hughes Network Systems
