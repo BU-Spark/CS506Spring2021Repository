@@ -15,3 +15,13 @@ We are supposed to meet the client and PM again next week.
 Week 3:
 We are currently working on the parcel dataset and open space dataset. 
 We have been discussing efficient algorithms for the final task, and should be able to implement it after meeting of group members on Monday.
+
+Week 4, for deliverable 2:
+We have implemented the algorithm for a small sample of the data and have done some analysis. Details are in deliverable 2.
+For next steps, we will repeat the steps on the whole dataset after refining the dataset (if necessary), and do demongraphic research.
+
+Week 5:
+We have collected all the data and get all the codes; the only thing left is to do analysis on the results we get and produce a report.
+
+Week 6:
+All data processed. Need to contact client for next step (e.g. refine the results).
