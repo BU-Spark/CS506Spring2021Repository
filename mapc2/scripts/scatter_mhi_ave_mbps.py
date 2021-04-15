@@ -18,7 +18,7 @@ def city_in_mapc(city, mapc_list):
 #################### Main Control Flow
 parser = argparse.ArgumentParser(description='Scatter of MBPS against MHI')
 parser.add_argument('--mhi-file', dest="mhi_file", help="Census file")
-parser.add_argument('--mlab-file', dest="mlab_file", help="MLAB data")
+parser.add_argument('--input-file', dest="input_file", help="MLAB data")
 parser.add_argument('--mapc-file', dest="mapc_file", help="MAPC municipalities file")
 parser.add_argument('--speed-col', dest="speed_col", help='name of column that has speed value')
 parser.add_argument('--output', dest="out_file", help="Outputfile")
@@ -26,16 +26,16 @@ args = parser.parse_args()
 
 # Read input files
 df_mhi = pd.read_csv(args.mhi_file)
-df_mlab = pd.read_csv(args.mlab_file)
+df_input = pd.read_csv(args.input_file)
 mapc_cities = pd.read_csv(args.mapc_file)['municipal'].to_list()
 
 # Possibly rename municipal column in input file
-if 'municipal' in df_mlab.columns:
-  df_mlab = df_mlab.rename(columns={"municipal": "City"})
+if 'municipal' in df_input.columns:
+  df_input = df_input.rename(columns={"municipal": "City"})
 
 # First, compute average MBPS per city in mlab data
-# mlab_avg_mbps = df_mlab.groupby(['City']).mean().drop(columns=['MinRTT', 'Latitude'  ,'Longitude' ,'ProviderNumber'])
-mlab_avg_mbps = df_mlab.groupby(['City']).mean() #.drop(columns=['MinRTT', 'Latitude'  ,'Longitude' ,'ProviderNumber'])
+# mlab_avg_mbps = df_input.groupby(['City']).mean().drop(columns=['MinRTT', 'Latitude'  ,'Longitude' ,'ProviderNumber'])
+mlab_avg_mbps = df_input.groupby(['City']).mean() #.drop(columns=['MinRTT', 'Latitude'  ,'Longitude' ,'ProviderNumber'])
 mlab_avg_mbps = mlab_avg_mbps[[args.speed_col]]
 
 # Rename 'municipal' in MHI file to City
@@ -45,8 +45,12 @@ df_mhi['City'] = df_mhi['municipal']
 joined = pd.merge(df_mhi, mlab_avg_mbps, on="City")
 joined = joined[['mhi', 'City', args.speed_col]]
 
-# this is specific to Ookla
-joined[args.speed_col] = joined[args.speed_col] / float(1024)
+# # this is specific to Ookla (convert Ookla's kbps -> Mbps)
+# joined[args.speed_col] = joined[args.speed_col] / float(1024)
+
+# Filter outliers
+# breakpoint()
+joined = joined[joined[args.speed_col]<150]
 
 # Note: the join "auto-removed" any cities that did not appear in both data sets.
 # It would be interesting to have a list of these.
@@ -70,8 +74,8 @@ mpld3.plugins.connect(fig, tooltip)
 
 # Set labels: these need to be updated to allow for either Ookla or MLAB
 ax.set_xlabel("Median Household Income, 2014-2018, Dollars", size=20)
-ax.set_ylabel("Download Mbps, Ookla 2020 data", size=20)
-ax.set_title("Ookla: Average Download Broadband Speed against Median Household Income", size=30)
+ax.set_ylabel("Mean Throughput Mbps, MLAB 2020 data", size=20)
+ax.set_title("MLAB: Mean Throughput Broadband Speed against Median Household Income", size=30)
 # xvalues = np.arange(40000, 240000, 20000)
 # yvalues = np.arange(0, 1000000, 200000)
 # ax.set_xticklabels(xvalues, fontsize=16)
