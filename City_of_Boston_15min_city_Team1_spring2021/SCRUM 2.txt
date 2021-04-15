@@ -1,0 +1,17 @@
+For deliverable 0, week1 :
+All materials (mainly datasets) have been reviewed. Scope of the project is not yet revised. 
+We need to know whether a revision is necessary after meeting with our client. The meeting is this Thursday.
+Questions like the 1st one in the limitation list are to be asked during the meeting.
+
+
+For deliverable 1, week 2:
+We have been working on preprocessing the collected dataset. The dataset from Boston Master Business and establishments dataset are combined with Grocers dataset from MAPC. 
+For Environmental justice demographics, since it is a map dataset, we do not plan to combine it at this step; what we plan to do is to compare it with our result in the end.
+We are still waiting for datasets on green space from the client. 
+In next step, we will try to visualize the data we already have. 
+We still need to know the exact definition of a "parcel" and we are trying to know more about Google map API, which may be useful later. 
+We are supposed to meet the client and PM again next week.
+
+Week 3:
+We are currently working on the parcel dataset and open space dataset. 
+We have been discussing efficient algorithms for the final task, and should be able to implement it after meeting of group members on Monday.

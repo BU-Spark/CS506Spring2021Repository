@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+392193,2020-11-02 01:10:26.009595+00:00,"b'\x18""?\x07'",32.27898351883548,17.715,Bondsville,42.2072,-72.3458,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

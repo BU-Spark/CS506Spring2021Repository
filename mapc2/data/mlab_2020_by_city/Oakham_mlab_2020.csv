@@ -1,0 +1,6 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+32333,2020-02-06 20:32:21.394189+00:00,b'A\xd1<\x92',90.03961839219087,14.0,Oakham,42.348,-72.0513,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+32736,2020-02-06 20:34:29.905871+00:00,b'A\xd1<\x92',102.37603972559468,8.179,Oakham,42.348,-72.0513,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+32911,2020-02-06 20:33:13.175432+00:00,b'A\xd1<\x92',65.03883905011125,12.164,Oakham,42.348,-72.0513,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+154181,2020-05-09 16:11:41.869352+00:00,b'2\xceB\xe2',135.5512490506773,9.442,Oakham,42.344,-72.0502,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+155157,2020-05-10 12:26:48.735329+00:00,b'2\xceB\xe2',135.57076395181065,8.211,Oakham,42.344,-72.0502,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

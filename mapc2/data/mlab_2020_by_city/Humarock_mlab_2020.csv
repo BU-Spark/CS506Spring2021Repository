@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+198150,2020-06-09 19:36:21.685204+00:00,b'J\\\x05\xba',13.387085576654822,23.392,Humarock,42.1438,-70.691,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."

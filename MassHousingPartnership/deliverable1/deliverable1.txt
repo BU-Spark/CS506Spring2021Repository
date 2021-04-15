@@ -1,0 +1,20 @@
+Project Deliverable 1
+ Collect and pre-process a preliminary batch of data:
+
+    We created a heatmap and scatter map of the addresses in our statewise address data for Massachusetts. 
+ 
+ Question we tried to answer: 
+ 
+    Client wanted a process to find the density of address per parcel 
+    using the MA addresses and MA parcels datasets.
+
+    we developed a scaled-down process to combine the address and parcel datasets using Shapley to see how the addresses and parcels 
+    are related. As a sample, our process loaded the address and parcel data from Quincy and generated the density of addresses per parcel.
+
+
+Refining project scope:
+    The computation takes very long time just to see which addresses are in the parcels using Shapley. As a sample, we only tried on 
+    a very small dataset for the city of Quincy. To make this process work for the entire state of MA, we need to come up with a 
+    much more efficent and optimized way to show the calculation.
+ 
+ 

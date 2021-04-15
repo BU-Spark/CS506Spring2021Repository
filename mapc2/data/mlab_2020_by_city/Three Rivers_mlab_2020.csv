@@ -1,0 +1,3 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+2293,2020-01-03 17:08:17.749418+00:00,b'k\x03d\xc1',5.891113519969757,18.076,Three Rivers,42.1819,-72.3624,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+405849,2020-11-20 17:12:38.568134+00:00,b'k\x03e/',15.395470648693916,20.025,Three Rivers,42.1845,-72.3608,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
