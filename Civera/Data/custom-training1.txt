@@ -1,0 +1,1681 @@
+action,description
+Acknowledgement of service,"Acknowledgement of service Guard-Line, Inc.(Defendant)"
+Acknowledgement of service,"Acknowledgement of Service: Crane Co., Individually & Successor To
+National-U.S. Radiator(Defendant)"
+Acknowledgement of service,Acknowledgement of Service: Mine Safety Appliances Company
+Acknowledgement of service,Acknowledgement of Service: A.W. Chesterton Company(Defendant)
+Acknowledgement of service,Acknowledgement of service: Honeywell International Inc(Defendant)
+Acknowledgement of service,"Acknowledgement of service and notice of intent Trane U.S., Inc.,
+f/k/a American Standard Inc., fka American(Defendant)"
+Acknowledgement of service,Acknowledgement of service: Burnham Corporation(Defendant)
+Acknowledgement of service,"Acknowledgement of Service: Georgia-Pacific LLC fka Georgia-Pacific
+Corp(Defendant)"
+Acknowledgement of service,"Acknowledgement of service CBS Corporation, f/k/a Viacom, Inc.,
+Successor By Merger To CBS(Defendant)"
+Acknowledgement of service,Acknowledgement of service United Gilsonite Laboratories(Defendant)
+Affidavit filed,"Affidavit of Midland Funding, LLC  filed."
+Affidavit filed,"Affidavit of Midland Funding, LLC  filed."
+Affidavit filed,Affidavit of D01  MICHAEL SAVARESE filed.
+Affidavit filed,Affidavit of Patrick Leab of rent filed.
+Affidavit filed,Affidavit of Midland Funding LLC assignee of Bank of America/Soverign Bank  filed.
+Affidavit filed,Affidavit of  regarding rent filed.
+Affidavit filed,"Affidavit of Citibank (South Dakota)  filed."
+Affidavit filed,"Affidavit of Kalami Fuels Inc D/B/A Action Oil  filed."
+Affidavit filed,Affidavit of Portfolio Recovery Associates LLC  filed.
+Affidavit filed,"Affidavit of Citibank (South Dakota)  filed."
+Affidavit in support of motion,"Affidavit of KENNETH C. WILSON in support of motion to TO COMPEL PRODUCTION OF DOCUMENTS filed by P01  EMCC, INC., ASSIGNEE OF JORDAN'S FURNITURE."
+Affidavit in support of motion,"Affidavit of Portfolio Recovery Associates, LLC in support of motion to attach filed."
+Affidavit in support of motion,"Affidavit of Kenneth C. Wilson, Esq. in support of motion to attach wages by trustee process filed by LVNV Funding LLC, As Assignee of Citibank (South Dakota), NA / Sears Mastercard."
+Affidavit in support of motion,"Affidavit of Dean A. Heinold, Esq. in support of motion to attach wages by trustee process filed by Citibank, N.A. As successor by merger to Citibank (South Dakota), N.A.."
+Affidavit in support of motion,"Affidavit of LVNV Funding, LLC A/A/O Sears, Roebuck and Co. in support of motion to to attach wages and successive service filed by LVNV Funding, LLC A/A/O Sears, Roebuck and Co..#3"
+Affidavit in support of motion,"Affidavit of LVNV Funding, LLC A/A/O Sears, Roebuck and Co. in support of motion to to attach wages and successive service filed by LVNV Funding, LLC A/A/O Sears, Roebuck and Co..#10"
+Affidavit in support of motion,Affidavit of Discover Bank in support of motion to attach wages by trustee process filed by Discover Bank.
+Affidavit in support of motion,"Affidavit of American Express Bank, FSB in support of motion to request Approval of Attachment by Trustee Process filed by American Express Bank, FSB."
+Affidavit in support of motion,Affidavit of American Express Bank FSB in support of motion to Approve Attachment by Trustee Process filed by American Express Bank FSB.
+Affidavit in support of motion,"Affidavit of BRIAN BROWN, ADMIN OF GGNSC in support of motion to  ATTACH REAL ESTATE filed by P01  GGNSC ATTLEBORO PLEASANT MANOR, LLC."
+Agreement for Judgment,"Agreement for judgment for P01  CITIBANK (SOUTH DAKOTA), N. A. against D01  JANET H. WEATHERS."
+Agreement for Judgment,Agreement for judgment for P01  ELITE CAPITAL MANAGEMENT against D01  JUNIOR DORRELUS.
+Agreement for Judgment,"Agreement for judgment for P01  CACH, LLC against D01  MARTIN T. NGUYEN."
+Agreement for Judgment,11/8/10 child care center parties reach a mediated agreement for judgment for pltff 2500 + 100 costs payment order 300 per month on the 1st of each month first payment 12/1/10 payment review 1/24/11 acm john clough
+Agreement for Judgment,"Agreement for judgment for P01  ANJ, CORPORATION - C/O J. A. CAMBECE LAW OFFICE, P against D01  CAETANO S. ROSA."
+Agreement for Judgment,"Agreement for judgment for P01  VERC, INC. against D01  CHARLES COOPER."
+Agreement for Judgment,"Agreement for judgment for P01  CAPITAL ONE BANK(USA), N.A. against D01  GARRISON C. BOND."
+Agreement for Judgment,"Agreement for judgment for P01  CAPITAL ONE BANK(USA), LLC against D01  DALE M. ROLLAND."
+Agreement for Judgment,"Agreement for judgment for P01  CAPITAL ONE BANK (USA), N.A. against D01  HASHIM L. KRIAUCIUNAS."
+Agreement for Judgment,"Agreement for judgment for P01  RAB PERFORMANCE RECOVERIES, LLC against D01  ALEXIS A. BELL."
+Amended Answer filed,"Amended answer filed by CITIZENS BANK, TRUSTEE (Mass.R.Civ.P. 15)."
+Amended Answer filed,"Amended answer filed by Neville Mabvudza (Mass.R.Civ.P. 15)."
+Amended Answer filed,"Motion  to submit amended answer filed by Neville Mabvudza."
+Amended Answer filed,Amended answer filed by Thomas Brown (Mass.R.Civ.P. 15).
+Amended Answer filed,Amended answer filed by Cheryl Brown (Mass.R.Civ.P. 15).
+Amended Answer filed,"Amended answer filed by Ryan M Conway (Mass.R.Civ.P. 15).Misc Entry:"
+Amended Answer filed,"Amended answer filed by State Farm Fire and Insurance Company As it is Defendant in counterclaim (Mass.R.Civ.P. 15).Plaintiff's Amended Answer to defendant's counterclaim"
+Amended Answer filed,"Amended answer filed by Joseph Galinha As he is Defendant in counterclaim (Mass.R.Civ.P. 15).Joseph Galinha's Amended Answer to Defendant's Counterclaim"
+Amended Answer filed,Amended answer filed by Jose Nebron (Mass.R.Civ.P. 15).
+Amended Answer filed,Amended answer filed by Alan P Birnbaum (Mass.R.Civ.P. 15).
+Answer filed,Answer filed by D01  COMMERCE INSURANCE COMPANY.
+Answer filed,no ability to pay.Not working
+Answer filed,Answer filed by D01  NGU HUYNH.
+Answer filed,Answer filed by D01  ERROL I. COARD.
+Answer filed,Answer filed by D02  BANK OF AMERICA.
+Answer filed,Answer filed by D01  JOSEFINA ROQUE.
+Answer filed,Answer to third-party cross-claim of D01  JOSEFINA ROQUE filed by D02  ALEXANDRO CABRERA.
+Answer filed,Answer filed by D01  CRYSTAL JONES.
+Answer filed,Answer filed by D01  COMMERCE INSURANCE COMPANY.
+Answer filed,Answer filed by D01  ADGIRENE OVERBEA.
+Answer to counterclaim filed,Answer to cross-claim of D01  ABLODE AHIAHORNU & D02 ENTERPRISE RENT A CAR filed by P01  MARITZA HERNANDEZ.
+Answer to counterclaim filed,"Answer to counterclaim of Heidi Oliveri filed by James F. Walker As Trustee of Clyde Street Trust, u/d/t."
+Answer to counterclaim filed,"Answer to counterclaim of D01  RICKY SMITH PONTIAC, INC. filed by P01  ACE TECH INC.."
+Answer to counterclaim filed,"Answer to counterclaim of Mohammed O Bary, Tanha Hai and all other occupants filed by Qing Huai, Aijun Zhu."
+Answer to counterclaim filed,"Answer to counterclaim of Neville Mabvudza filed by RAB Performance Recoveries, LLC."
+Answer to counterclaim filed,"Answer to counterclaim of Chris Shalvoy dba Country Home Construction Co filed by Thomas Brown.and Cheryl Brown"
+Answer to counterclaim filed,Answer to counterclaim of D01  MR. & MRS. JOHN CAWLEY filed by P01  FLORENCE CAWLEY.
+Answer to counterclaim filed,"Answer to counterclaim of Michelle Runyon Formerly known as Michelle Biando filed by Wachusetts Lumber & Building Supply, Inc.."
+Answer to counterclaim filed,"Answer to counterclaim of Michelle Runyon Formerly known as Michelle Biando filed by Wachusetts Lumber & Building Supply, Inc..to amended counterclaim"
+Answer to counterclaim filed,Answer to cross-claim of D02  DIANNE WENG filed by D01  JAMES CHARUBINI.
+Appearance filed,"Appearance for Potfolio Recovery Associates, Llc filed by Attorney STEPHEN A. WIENER 340 Main Street Suite 959 Worcester MA 01608-0613 BBO# 656119"
+Appearance filed,Appearance for Discover Bank filed by Attorney STEPHEN A. WIENER 340 Main Street Suite 959 Worcester MA 01608-0613 BBO# 656119
+Appearance filed,"Appearance for Rab Performance Recoveries, Llc filed by Attorney STEPHEN A. WIENER 340 Main Street Suite 959 Worcester MA 01608-0613 BBO# 656119"
+Appearance filed,"Appearance as substitute counsel for P01  RAB PERFORMANCE RECOVERIES, LLC for this date only filed by PATRICK HANDLIN, Esq. (Uniform Small Claims Rule 7(e))."
+Appearance filed,"Appearance for Midland Funding, Llc filed by Attorney STEPHEN A. WIENER 340 Main Street Suite 959 Worcester MA 01608-0613 BBO# 656119"
+Appearance filed,"Appearance as substitute counsel for P01  MIDLAND FUNDING, LLC for this date only filed by PATRICK HANDLIN, Esq. (Uniform Small Claims Rule 7(e))."
+Appearance filed,Appearance for Natasha R. Hamilton filed by Attorney DANIEL E. POGODA 1601 Blue Hill Avenue Po Box 269100 Mattapan MA 02126 BBO# 639874
+Appearance filed,Appearance for Yell-o-glow Corporation filed by Attorney JOHN M. HORN 225 Friend Street Boston MA 02114 BBO# 239980
+Appearance filed,"Appearance filed for deft. Mass Bay Insurance comp.,(improperly named as Hanover Insurance Co..,)by atty Mark Shaughnessy.Motion of deft. Mass Bay Insurance comp to join and support in deft. Yell-)-Glow's motion to transfer to regular Civil docket filed."
+Appearance filed,Appearance for Hanover Insurance Company filed by Attorney MARK WILLIAM SHAUGHNESSY 695 Atlantic Avenue Boston MA 02111 BBO# 567839
+Application filed,"Application filed on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Application filed,"Supplementary process application filed; filing fee of $30.00 and surcharge of $15.00 paid; summons issued for D01  THOMAS IRBY, JR. and sent to STEPHEN A. WIENER for service (G.L. c.224 §14; c.262 § 2, 4C)."
+Application filed,"Application filed on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Application filed,"Supplementary process application filed; filing fee of $30.00 and surcharge of $15.00 paid; summons issued for D01  KEVIN T. PHAN and sent to STEPHEN A. WIENER for service (G.L. c.224 §14; c.262 § 2, 4C)."
+Application filed,"Application filed on 09/29/2010 at Boston Municipal Court, Dorchester Div.."
+Application filed,"Supplementary process application filed; filing fee of $30.00 and surcharge of $15.00 paid; summons issued for D01  FLETTA M. COLN and sent to CHARLES MASSA, JR for service (G.L. c.224 §14; c.262 § 2, 4C)."
+Application filed,"Application filed on 09/29/2010 at Boston Municipal Court, Dorchester Div.."
+Application filed,"Supplementary process application filed; filing fee of $30.00 and surcharge of $15.00 paid; summons issued for D01  FRANCIS S. GUYTAN and sent to JAMES ANTHONY CAMBECE for service (G.L. c.224 §14; c.262 § 2, 4C)."
+Application filed,"Application filed on 09/29/2010 at Boston Municipal Court, Dorchester Div.."
+Application filed,"Supplementary process application filed; filing fee of $30.00 and surcharge of $15.00 paid; summons issued for D01  MARIE KOROMA and sent to JAMES ANTHONY CAMBECE for service (G.L. c.224 §14; c.262 § 2, 4C)."
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Appointment of agent filed,Appointment of Agent
+Arbitration,Misc Entry: Parties have agreed to Arbitration
+Bond approved,Bond of Joan R. Challinor Approved Clement A Ferris
+Bond approved,Bond of Robin L. Litchfield Approved Clement A Ferris
+Bond approved,"Bond without surety Approved Hon. Geoffrey A Wilson"
+Bond approved,Bond of Stanley E. Tracy Approved Clement A Ferris
+Bond approved,Bond of Shaun F. Kerwood Approved Clement A Ferris
+Bond approved,"Bond of Michael Duffy Approved Clement A Ferris Approved 08/18/2014"
+Bond approved,"Bond of Yvonne L. Gittens of Cambridge MA. 01/28/14 approved Approved Hon. William F McSweeny, III"
+Bond approved,"Bond of personal representative Approved "
+Bond approved,"Bond of Trustee Approved "
+Bond approved,Bond of John Beeler of Sudbury MA 07/11/2014 Magistrate Alison E. McCrone Approved
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond with sureties filed,Bond with Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Bond without sureties filed,Bond without Sureties
+Capias,"Capias issued for D01 THOMAS IRBY, JR.; arrest after sunset has not been authorized (G.L. c.224 §18); ( Miller, Hon. Rosalind H ); sent to Attorney STEPHEN A. WIENER BBO#656119 for service."
+Capias,"Capias issued for D01 LEVI WARE; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney STEPHEN A. WIENER BBO#656119 for service."
+Capias,"Capias issued for D01 PAMELA NORMAN; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney STEPHEN A. WIENER BBO#656119 for service."
+Capias,"Capias issued for D01 DEVAHN R. GEORGE; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney TODD MICHAEL SARDELLA BBO#674449 for service."
+Capias,"Capias issued for D01 JUSTICE CAFE, INC; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney STACIE ELIZABETH NYE-BUCKLEY BBO#668168 for service."
+Capias,"Capias issued for D01 JESSIE BURGOS; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney TODD MICHAEL SARDELLA BBO#674449 for service."
+Capias,"Capias issued for D01 JUNIOR DORRELUS; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney FRANK J. MAIER BBO#315240 for service."
+Capias,"Capias issued for Judgment Debtor to expire on 06/08/2013 and the Court HAS NOT authorized an arrest under this capias to be made after sunset."
+Capias,"Capias issued for D01 JOHN ROSS; arrest after sunset has not been authorized; (G.L. c.224 §18; Uniform Small Claims Rule 7) ( Miller, Hon. Rosalind H ); sent to Attorney LAWRENCE E. O'BRIEN, Jr BBO#375935 for service."
+Capias,"Capias issued for Judgment Debtor to expire on 06/04/2013 and the Court HAS NOT authorized an arrest under this capias to be made after sunset."
+Capias expired,Capias returned expired and unserved.  Defendant filed Bankruptcy
+Capias expired,Capias returned expired and unserved.  New capias requested.
+Capias expired,Capias returned expired and unserved.  New capias requested.
+Capias expired,Capias returned expired and unserved.
+Capias expired,Capias returned expired and unserved
+Capias expired,Capias returned expired and unserved.
+Capias expired,Capias returned expired and unserved.
+Capias expired,Capias returned expired and unserved.
+Capias expired,Capias returned expired and unserved.
+Capias expired,Capias returned expired and unserved.  New capias requested.
+Capias returned,Capias returned
+Capias returned,Capias returned
+Capias returned,Capias Returned.
+Capias returned,Capias returned
+Capias returned,Capias returned
+Capias returned,Capias returned.
+Capias returned,Capias returned
+Capias returned,Capias returned.
+Capias returned,Capias returned
+Capias returned,Capias returned
+Capias returned unserved,"Capias returned unserved - December 26, 2013"
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved as to William Frasier
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved.
+Capias returned unserved,Capias returned unserved.
+Case inactivated,Case Inactivated: Capias outstanding.
+Case inactivated,Case Inactivated: No future events scheduled.
+Case inactivated,Case Inactivated: Capias outstanding.
+Case inactivated,Case Inactivated: Capias outstanding.
+Case inactivated,Case Inactivated: No future events scheduled.
+Case inactivated,Case Inactivated: Capias outstanding.
+Case inactivated,Case Inactivated: Paid in full.
+Case inactivated,Case Inactivated: Capias outstanding.
+Case inactivated,Case Inactivated: Judgment of dismissal has been entered.
+Case inactivated,Case Inactivated: Judgment of dismissal has been entered.
+Case management conference,"2-24-2012 5th session, both parties present, Case management conference held (Dist Ct Standing Order 1-98) ( Clough, AC-M John J. )."
+Case management conference,"Case management conference held (Dist Ct Standing Order 1-98) ( Caldwell, AC-M Valerie ).5th session, 10:32 - 10:34 both parties present,"
+Case management conference,"8-26-2011 Case management conference held (Dist Ct Standing Order 1-98) ( Clough, AC-M John J. ). 5th session, both parties present"
+Case management conference,"9-23-2011 9:33 5th session, Case management conference held (Dist Ct Standing Order 1-98) ( Caldwell, AC-M Valerie )."
+Case management conference,"8-19-2011 Case management conference held (Dist Ct Standing Order 1-98) ( Caldwell, AC-M Valerie ). 5th session, 10:30"
+Case management conference,"8-26-2011 5th session, Case management conference held (Dist Ct Standing Order 1-98) ( Clough, AC-M John J. ). pltff. present, Deft. no show @10:45"
+Case management conference,"7-4-11 Case management conference held (Dist Ct Standing Order 1-98) ( Caldwell, AC-M Valerie ). (not scheduled but was conducted)"
+Case management conference,"Case management conference held (Dist Ct Standing Order 1-98) ( Caldwell, AC-M Valerie ).5th session, 10:03 - 10:05, pltff's atty. stated that pltff. will not appear, case filed after statute of limitations had run out,"
+Case management conference,"Event Scheduled
+Event: Case Management Conference
+Date: 02/07/2014  Time: 01:30 PM
+Result: Not Held But Event Resolved"
+Case management conference,"Event Resulted The following event: Case Management Conference scheduled for 02/07/2014 01:30 PM has been resulted as follows: Result: Not Held But Event Resolved Appeared:"
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Certificate of Death filed,Certificate of Death
+Complaint filed,"Complaint filed on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
+Complaint filed,"Complaint filed on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
+Continuance,CONTINUED FOR PAYMENT until 12/15/2011 10:00 AM.
+Continuance,CONTINUED FOR PAYMENT until 12/15/2011 10:00 AM.
+Continuance,CONTINUED FOR PAYMENT  SCHEDULED on 12/15/2011 10:00 AM RESCHEDULED for 6/14/2012 10:00 AM. Reason: Other.
+Continuance,"Event Resulted The following event: Continued For Payment Until scheduled for 06/14/2012 10:00 AM has been resulted as follows: Result: Held"
+Continuance,"Event Scheduled
+Event: Continued For Payment Until
+Date: 01/10/2013  Time: 10:00 AM
+Result: Event Continued"
+Continuance,"Event Resulted The following event: Continued For Payment Until scheduled for 01/10/2013 10:00 AM has been resulted as follows: Result: Event Continued Reason: For Continuance"
+Continuance,"Event Scheduled Event: Continued For Payment Until Date: 12/12/2013  Time: 10:00 AM"
+Continuance,"Event Scheduled Event: Continued For Payment UntilDate: 12/11/2014  Time: 10:00 AM Result: Event Continued"
+Continuance,"Event Resulted The following event: Continued For Payment Until scheduled for 12/12/2013 10:00 AM has been resulted as follows:  Result: Event Continued  Reason: For Continuance Appeared:"
+Continuance,"Event Resulted The following event: Continued For Payment Until scheduled for 12/11/2014 10:00 AM has been resulted as follows:  Result: Event Continued Appeared:"
+Copy of will filed,"Authenticated Copy of Appointment and Will dated March 9, 1997"
+Copy of will filed,"Will, dated 10/7/2013"
+Copy of will filed,Will (copy of)
+Copy of will filed,"Will, dated 3/14/2013"
+Copy of will filed,Will
+Copy of will filed,Will
+Copy of will filed,Will
+Copy of will filed,Will 6 Pages
+Copy of will filed,Will
+Copy of will filed,Will
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Corporate disclosure statement,Corporate disclosure statement filed by Corporate Party (S.J.C. Rule 1:21).
+Counsel added,"Filed
+On this date Kenneth C Wilson, Esq. added as Private Counsel for Plaintiff Midland Funding, Llc"
+Counsel added,"Filed
+On this date Alisa Katz Campbell, Esq. added for Plaintiff Rockland Trust Company"
+Counsel added,"Filed
+On this date Kenneth C Wilson, Esq. added as Private Counsel for Plaintiff Midland Funding Llc"
+Counsel added,"Appearance filed
+On this date Aaron Cox, Esq. added as Private Counsel for Plaintiff Exelero, Corp"
+Counsel added,"Filed
+On this date Jeffrey A Schreiber, Esq. added as Private Counsel for Plaintiff Cavalry Spv1, L L C As Assignee of Bank Of America/Fia Card Services"
+Counsel added,"Filed
+On this date Jeffrey A Schreiber, Esq. added as Private Counsel for Plaintiff Cavalry Spv1, L L C As Assignee of Hsbc Bank Nevada , N. A. / Orchard Bank"
+Counsel added,"Filed
+On this date Jeffrey A Schreiber, Esq. added as Private Counsel for Plaintiff Cavalry Spv1, L L C As Assignee of Washington Mutual Bank"
+Counsel added,"Filed
+On this date Wed Oct 02 00:00:00 EDT 2013 Wilson, Esq., Kenneth C added for Portfolio Recovery Associates, LLC"
+Counsel added,"Filed
+On this date Wed Oct 02 00:00:00 EDT 2013 Wilson, Esq., Kenneth C added for Discover Bank"
+Counsel added,"Filed
+On this date Wed Oct 02 00:00:00 EDT 2013 Wilson, Esq., Kenneth C added for Portfolio Recovery Associates, LLC"
+Counsel withdrawal,"Filed
+On this date Stephen A. Wiener, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Midland Funding, Llc"
+Counsel withdrawal,"Filed
+On this date Kenneth Michael Lombard, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Rockland Trust Company"
+Counsel withdrawal,"Filed
+On this date Stephen A. Wiener, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Midland Funding Llc"
+Counsel withdrawal,"Appearance filed
+On this date Anne Lark Hemingway, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Exelero, Corp"
+Counsel withdrawal,"Filed
+On this date Joseph E Titlebaum, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Cavalry Spv1, L L C As Assignee of Bank Of America/Fia Card Services"
+Counsel withdrawal,"Filed
+On this date Joseph E Titlebaum, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Cavalry Spv1, L L C As Assignee of Hsbc Bank Nevada , N. A. / Orchard Bank"
+Counsel withdrawal,"Filed
+On this date Joseph E Titlebaum, Esq. dismissed/withdrawn as Private Counsel for Plaintiff Cavalry Spv1, L L C As Assignee of Washington Mutual Bank"
+Counsel withdrawal,"Motion to withdraw as counsel filed by Attorney Stephen A. Wiener Esq..
+"
+Counsel withdrawal,"Filed
+On this date Brian F. O'Connor, Esq. dismissed/withdrawn as Private Counsel for Defendant Christina Banion"
+Counsel withdrawal,"Attorney Daniels, Jr., Esq., Richard S dismissed/withdrawn for Plaintiff Midland Funding On         06/30/2011"
+Counterclaim filed,"Counterclaim filed by D01  ABLODE AHIAHORNU & D02 ENTERPRISE RENT A CAR COMPANY OF BOSTON, LLC against P01  MARITZA HERNANDEZ (Mass.R.Civ.P. 13)."
+Counterclaim filed," Jhoselyn Roman's Counterclaim
+
+"
+Counterclaim filed,"Counterclaim filed by Michael Youngs against Midland Funding LLC As Assignee of Cit Bank (Mass.R.Civ.P. 13).
+"
+Counterclaim filed,"Counterclaim filed by Carrie Fernandez against JA Enterprises, LLC (Uniform Summary Process Rule 5))."
+Counterclaim filed,Counterclaim filed by D01  JILL M. COURVILLE against P01  AMIT RAI (Uniform Summary Process Rule 5)). - Third party complaint filed by defendant w/o filing fee.
+Counterclaim filed," Henry Mesa, Anibal Mesa, Argemiro Mesa's Counterclaim
+
+"
+Counterclaim filed,Counterclaim filed by Steven West against Ben Oshlag (Uniform Summary Process Rule 5)).
+Counterclaim filed,"Counterclaim filed by Tanha Hai and all other occupants against Qing Huai, Aijun Zhu (Uniform Summary Process Rule 5))."
+Counterclaim filed,Counterclaim filed by Pierre Sylvera against J & G Realty (Uniform Summary Process Rule 5)).
+Counterclaim filed,Counterclaim filed by Cristobal R Duran against Soaring Capital LLC As Assignee of Capital One (Mass.R.Civ.P. 13).
+Debtor before the court,"Judgment debtor before the court on capias, $60.00 constable fee."
+Debtor before the court,"Judgment debtor before the court on capias,$60.00 constable fee."
+Debtor before the court,Judgment debtor before the court on capias.
+Debtor before the court,Judgment debtor before the court on capias.
+Debtor before the court,"Judgment debtor before the court on capias, $60.00 constable fee.."
+Debtor before the court,"Judgment debtor before the court on capias.
+$60.00 constable fee."
+Debtor before the court,"Judgment debtor before the court on capias, $60.00 constable fee.."
+Debtor before the court,Judgment debtor before the court on capias$60.00 constable fee.
+Debtor before the court,"Judgment debtor before the court on capias ,$60.00 constable fee.."
+Debtor before the court,"Judgment debtor before the court on capias.
+$60.00 constable fee."
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate Successor
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate
+Decree and Order of Formal Pro,Decree and Order of Formal Probate dated 12/05/2013
+Decree and Order of Formal Pro,Decree and Order of Formal Probate  10/22/14
+Default,Default entered against D01  LEVI WARE.
+Default,Default entered against D01  PAMELA NORMAN.
+Default,Default entered against D01  DEVAHN R. GEORGE.
+Default,"Default entered against D01  JUSTICE CAFE, INC."
+Default,Default entered against D01  JESSIE BURGOS.
+Default,Default entered against D01  JUNIOR DORRELUS.
+Default,Default entered against D01  STARNA NGUYEN.
+Default,Default entered against D01  JOHN ROSS.
+Default,Default entered against D01  ALEJANDRO SENISE.
+Default,Default entered against D01  MARIE THERESE LABONTE.
+Default Removed,Default removed against D01  NGU HUYNH (Mass.R.Civ.P. 55(a))
+Default Removed,"Default removed against D01  ANGELA C. O'NEIL (Mass.R.Civ.P. 55(a)) ( Justice of the Boston Munic Ct, - )."
+Default Removed,"9-9-2011 Default removed against D01  ANAELE HARRIS (Mass.R.Civ.P. 55(a)) ( Baylor, Hon. Robert E. )."
+Default Removed,"Default removed against Lawrence Movsessian (Mass.R.Civ.P. 55(a)).
+
+"
+Default Removed,Default removed against Sephen C Ledogar (Mass.R.Civ.P. 55(a)).
+Default Removed,Default removed against Jenny Rosa (Mass.R.Civ.P. 55(a)).
+Default Removed,"Default removed against Scott B Lander As Trustee of The Lander Family Irrevocable Trust, Citimortgage, Inc. (Mass.R.Civ.P. 55(a))."
+Default Removed,Default removed against Samuel Ditrolio (Mass.R.Civ.P. 55(a)).
+Default Removed,"Default removed against D01  ANITA W. HOOKER (Mass.R.Civ.P. 55(a)) ( McGill, Hon. Paul L. )."
+Default Removed,"Default removed against D01  ANNEMARIE SMITH (Mass.R.Civ.P. 55(a)) ( Brennan, Hon. Martha A. )."
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  AMERICAN EXPRESS (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  CHRISTOPHER HANBERRY (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,Answer & Jury Demand filed by D01  KEITH MCLEOD.
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  AMERCIAN EXPRESS CENTURION BANK (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  AMERICAN EXPRESS CENTURION BANK (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  DISCOVER BANK (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  DISCOVER BANK (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,Jury trial claim on all issues endorsed upon pleading by P01  DISCOVER BANK (G.L. c.231 §103; Mass.R.Civ.P. 38(b)).
+Demand for Jury Trial,"Jury trial claim on all issues endorsed upon pleading by P01  FIA CARD SERVICES, N.A (G.L. c.231 §103; Mass.R.Civ.P. 38(b))."
+Demand for Jury Trial,"Jury trial claim on all issues endorsed upon pleading by P01  FIA CARD SERVICES, N.A (G.L. c.231 §103; Mass.R.Civ.P. 38(b))."
+Deposit in Court,Deposited in court: $300.00 by P01  SUFFOLK COUNTY CONSTABLE'S OFFICE.
+Deposit in Court,Deposited in court: $50.00 by D01  TRUNG HO.
+Deposit in Court,Deposited in court: $200.00 by D01  JAMAL ANTHONY BENNETT.
+Deposit in Court,Deposited in court: $50.00 by D01  MOSSES TAYLOR.
+Deposit in Court,Deposited in court: $60.00 by D01  ESSAM A AHMED OWNER STOP N GAS.
+Deposit in Court,Deposited in court: $100.00 by D01  ALBERTHA GETHERS.
+Deposit in Court,Deposited in court: $150.00 by D01  ETWARIE JAGMOHAN.
+Deposit in Court,Deposited in court: $460.00 by D01  ALGERNON FLOWERS.
+Deposit in Court,Deposited in court: $25.00 by D01  OSVALDO E. BRITO EVORA.
+Deposit in Court,Deposited in court: $200.00 by D01  PETER BRENNAN.
+Dismissal,6/23/11 DISM PAID IN FULL..
+Dismissal,"Judgment of dismissal of claim of P01 JOHN POPE against D01 ELIKA B. WIGINS after both parties failed to appear ( Clough, AC-M John J. ); parties notified."
+Dismissal,CASE DISMISSED.
+Dismissal,"Judgment of dismissal of claim of P01 BOSTON REGIONAL PHYSCIAL THERAPY against D01 LIBERTY MUTUAL INS CO PRES: TED KELLY after both parties failed to appear ( Clough, AC-M John J. ); parties notified."
+Dismissal,"Judgment of dismissal of claim of P01 CAPITAL ONE BANK (USA), N. A. against D01 DOLPHUS C. JUDGE by agreement of the parties ( Caldwell, AC-M Valerie ); parties notified."
+Dismissal,"Judgment of dismissal of claim of P01 CAPITAL ONE BANK ( USA) , N.A. against D01 ELISA M. RODRIGUES & D02 BOSTON COLLEGE TRUSTEE for failure to make service within 90 days (Mass.R.Civ.P. 4[j]) ( Miller, Hon. Rosalind H ); parties notified."
+Dismissal,"Judgment of dismissal of claim of P01 CAVALRY SPV1, L L C against D01 MARIA R. VARGAS for failure to make service within 90 days (Mass.R.Civ.P. 4[j]) ( Miller, Hon. Rosalind H ); parties notified."
+Dismissal,"Judgment of dismissal of claim of P01 BOSTON CHECKCASHERS, INC against D01 PEABODY MOTOR SPORTS INC PRES: ERVIN F LYON after plaintiff(s) failed to appear ( Caldwell, AC-M Valerie ); parties notified."
+Dismissal,"Judgment of dismissal of claim of P01 BOSTON CHECKCASHERS, INC against D01 PEABODY MOTOR SPORTS INC PRES: ERVIN F LYON after plaintiff(s) failed to appear ( Caldwell, AC-M Valerie ); parties notified."
+Dismissal,"Judgment of dismissal of claim of P01 BOSTON CHECKCASHERS, INC against D01 HONG FAN after both parties failed to appear ( Caldwell, AC-M Valerie ); parties notified."
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 28120  Date: 02/22/2011"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 34293  Date: 12/13/2011"
+Entry of Action filed,"Surcharge 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE 
+
+  Receipt: 21269  Date: 01/04/2010"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 28122  Date: 02/22/2011"
+Entry of Action filed,"Surcharge 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE 
+
+
+
+
+
+Dismissed Amount:        15.00
+
+Dismissed Date: 07-jan-2010
+
+Dismissed Type: INDIGENCY
+
+Dismissed By: RAPPK
+
+Comments:"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 22613  Date: 06/03/2010"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE Receipt: 58937 Date: 09/19/2013"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 18844  Date: 07/12/2010"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 23913  Date: 04/27/2011"
+Entry of Action filed,"SURCHARGE 185C:Entry of Action filed (Section 466 - M.G.L. c. 185C, 19)  SURCHARGE  Receipt: 28123  Date: 02/22/2011"
+Event cancelled,MOTION SCHEDULED on 11/7/2011 CANCELED. Reason: Other. (pltff found the capias )
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/29/2011 CANCELED. Reason: Other. (summons served)
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/29/2011 CANCELED. Reason: Other. (summons served)
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/29/2011 CANCELED. Reason: Other. (summons served)
+Event cancelled,CASE MGMT CONFERENCE SCHEDULED on 9/30/2011 CANCELED. Reason: Dismissed.
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/26/2011 CANCELED. Reason: Brought forward. (wage attachment)
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/26/2011 CANCELED. Reason: Brought forward. (wage attachment)
+Event cancelled,CASE MGMT CONFERENCE SCHEDULED on 12/9/2011 CANCELED. Reason: Dismissed.
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/25/2011 CANCELED. Reason: Other. (summons served)
+Event cancelled,DISMISSAL UNDER RULE 4(J) SCHEDULED on 8/25/2011 CANCELED. Reason: Other. (summons served)
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 06/07/2012 11:00 AM has been resulted as follows: 
+
+Result: Defendant Failed To Appear"
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 05/24/2012 11:00 AM has been resulted as follows: 
+
+Result: Defendant Failed To Appear"
+Event resulted,"Event Resulted
+The following event: Motion Hearing (CV) scheduled for 05/08/2014 11:00 AM has been resulted as follows: 
+Result: Held
+Appeared:"
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 05/24/2012 11:00 AM has been resulted as follows: 
+
+Result: Brought Forward"
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 10/18/2012 11:00 AM has been resulted as follows: 
+
+Result: Brought Forward"
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 03/07/2013 11:00 AM has been resulted as follows: 
+
+Result: Brought Forward 
+
+Reason: Settled"
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 10/18/2012 11:00 AM has been resulted as follows: 
+
+Result: Not Held But Resolved"
+Event resulted,"Event Resulted
+The following event: Payment Review scheduled for 04/11/2013 11:00 AM has been resulted as follows: 
+
+Result: Defendant Failed To Appear"
+Event resulted,"Event Resulted
+The following event: Pretrial Conference (CV) scheduled for 06/08/2012 09:00 AM has been resulted as follows: 
+
+Result: Not Held But Resolved"
+Event resulted,"Event Resulted
+The following event: Jury Trial (CV) scheduled for 06/12/2012 09:00 AM has been resulted as follows: 
+
+Result: Held"
+Event scheduled,HEARING SCHEDULED for 06/09/2011 10:00 AM.
+Event scheduled,HEARING SCHEDULED for 06/09/2011 10:00 AM.
+Event scheduled,MAGISTRATE TRIAL SCHEDULED for 05/23/2011 09:00 AM.
+Event scheduled,MAGISTRATE TRIAL SCHEDULED for 06/30/2011 11:00 AM.
+Event scheduled,PAYMENT REVIEW SCHEDULED FOR 08/04/2011 11:00 AM.
+Event scheduled,MAGISTRATE TRIAL SCHEDULED for 06/30/2011 11:00 AM.
+Event scheduled,PAYMENT REVIEW SCHEDULED FOR 08/04/2011 11:00 AM.
+Event scheduled,MAGISTRATE TRIAL SCHEDULED for 06/30/2011 11:00 AM.
+Event scheduled,MOTION SCHEDULED FOR HEARING on 06/16/2011 11:00 AM.
+Event scheduled,MAGISTRATE TRIAL SCHEDULED on 6/30/2011 CANCELED. Reason: Transferred to regular civil docket.
+Ex Parte hearing,"6-24-2011 Ex parte hearing held & allowed in the amount of $29,158.34 ( Coffey, Hon. James W. ) (Tape 5th session from 11:30 to 11:33 )."
+Ex Parte hearing,"6-24-2011 Ex parte hearing held & allowed in the amount of $19,837.31 ( Coffey, Hon. James W. ) (Tape 5th session from 11:30 to 11:33 )."
+Ex Parte hearing,"Ex parte hearing held ( Virzi, Hon. Vito A. ) (Tape 06072010 from 06072010 to 06072010 )."
+Ex Parte hearing,"Ex parte hearing held and allowed returnable on 2/11/10 ( Pierce, Hon. Laurence D. ) (Tape 080 from 2:37 to -- )."
+Ex Parte hearing,"2/17/10  Ex parte hearing held ( McGovern, Hon. James J. ) (Tape COURTROOM 4 from 10:19 to 10:20 )."
+Ex Parte hearing,"Ex parte hearing held ( Kelley Brown, Hon. Angel ) (Tape cr 1 from ? to ? )."
+Ex Parte hearing,"Ex parte hearing held ( Jennings III, Hon. Joseph W. ) (Tape 00 from 00 to 00 )."
+Ex Parte hearing,"Ex parte hearing held ( Sullivan, Hon. James M. ) (Tape CR 1 from ? to ? )."
+Ex Parte hearing,"Ex parte hearing held 6-22-11 for petiton for settlement approval  ( Pierce, Hon. Laurence D. ) (Tape 4th session from 00 to 00 )."
+Ex Parte hearing,"Ex parte hearing held ( Stoddart, Hon. Douglas W. ) (Tape court room 3 from 0 to 1 )."
+Execution,"Execution Issued:
+Execution on Money Judgment
+Judgment Debtor: Janet H. Weathers A/K/A Janet Weathers
+Judgment Creditor: Citibank (South Dakota), N. A.
+Terms of Execution:
+EXON Issuance Date:  08/10/2012
+Judgment Total:  1,777.11			
+Post Judgment Int. Rate:  .12  		Post Judgment Int. Total:  237.96
+Execution Subtotal:  2,015.07		
+Execution Total:  2,015.07
+"
+Execution,"Execution Writ issued against D01 JOANN ROJAS for judgment total of $8,452.66 plus postjudgment interest of $38.91 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $8,491.57 sent to Attorney MICHAEL B. ROSEN BBO#542750."
+Execution,"Execution Writ issued against D01 VALENTINA S. STEWART for judgment total of $3,898.74 plus postjudgment interest of $20.51 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $3,919.25 sent to Attorney ERIN M. RECZEK BBO#65889
+8."
+Execution,"Execution Writ issued against D01 ALBERT WILLIS for judgment total of $13,248.31 plus postjudgment interest of $69.69 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $13,318.00 sent to Attorney ERIN M. RECZEK BBO#658898."
+Execution,"Execution Writ issued against D01 ROSA T. HUYNH for judgment total of $10,352.93 plus postjudgment interest of $54.46 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $10,407.39 sent to Attorney ERIN M. RECZEK BBO#658898."
+Execution,"Execution Writ issued against D01 LUIS G. DIAZ for judgment total of $7,169.65 plus postjudgment interest of $28.29 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $7,197.94 sent to Attorney KENNETH C. WILSON BBO#529910."
+Execution,"Execution Writ issued against D01 MAURICE BROOMES for judgment total of $11,773.54 plus postjudgment interest of $34.84 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $11,808.38 sent to Attorney KENNETH C. WILSON BBO#52991
+0."
+Execution,"Execution Writ issued against D01 ANTHONY CLARKE for judgment total of $1,450.52 plus postjudgment interest of $12.88 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $1,463.40; sent to P01 FITZROY ANDREW."
+Execution,"Execution Writ issued against D01 JOSEPH MCDONOUGH for judgment total of $14,143.66 plus postjudgment interest of $74.40 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $14,218.06 sent to Attorney ERIN M. RECZEK BBO#658898."
+Execution,"Execution Writ issued against D01 ISABEL SENAT for judgment total of $6,894.96 plus postjudgment interest of $38.54 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $6,933.50 sent to Attorney ERIN M. RECZEK BBO#658898."
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution satisfied,Execution Writ returned satisfied in full.
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution satisfied,Execution Writ for possession returned satisfied in full.
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution satisfied,Execution Writ returned satisfied in full.
+Execution satisfied,Execution Writ returned fully satisfied.
+Execution unsatisfied,Execution Writ returned unsatisfied.Original judgment was vacated
+Execution unsatisfied,Execution Writ returned unsatisfied.Deft's last name was incorrectley spelled wrong
+Execution unsatisfied,"Execution Writ returned unsatisfied.
+FOR CORRECTION"
+Execution unsatisfied,Execution Writ returned unsatisfied.
+Execution unsatisfied,Execution Writ returned unsatisfied.
+Execution unsatisfied,Execution Writ returned unsatisfied.
+Execution unsatisfied,"Execution Writ returned unsatisfied.
+capias requested"
+Execution unsatisfied,Execution Writ returned unsatisfied.
+Execution unsatisfied,"Execution Writ returned unsatisfied.
+Returned for correction to defendant's name."
+Execution unsatisfied,"Execution Writ returned unsatisfied.
+"
+Execution Writ,"Execution Writ issued against D01 JUSTICE CAFE, INC for judgment total of $1,285.86 plus postjudgment interest of $37.20 plus postjudgment costs of $0.00 minus credits of $0.00, for execution total of $1,323.06 (Uniform Small Claims Rule7[f]); sent to Att
+orney STACIE ELIZABETH NYE-BUCKLEY BBO#668168."
+Fee due,Civil Filing Fee Surcharge due. Receipt: 55278 Date: 10/02/2013
+Fee due,Civil Filing Fee due Receipt: 55278 Date: 10/02/2013
+Fee due,Civil Filing Fee Surcharge due. Receipt: 55277 Date: 10/02/2013
+Fee due,Civil Filing Fee due Receipt: 55277 Date: 10/02/2013
+Fee due,Civil Filing Fee Surcharge due. Receipt: 55276 Date: 10/02/2013
+Fee due,Civil Filing Fee due Receipt: 55276 Date: 10/02/2013
+Fee due,Civil Filing Fee due Receipt: 55421 Date: 10/04/2013
+Fee due,Civil Filing Fee Surcharge due. Receipt: 55421 Date: 10/04/2013
+Fee due,Civil Filing Fee due Receipt: 55421 Date: 10/04/2013
+Fee due,Civil Filing Fee Surcharge due. Receipt: 55421 Date: 10/04/2013
+Fee paid,Filing fee of $30.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $140.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee paid,Filing fee of $40.00 and surcharge of $10.00 paid (G.L. c.218 §22; 262 §4C).
+Fee waived,"12-10-2010 Appeal filing fee waived on finding of indigency (G.L. c.261 §27C) ( Parham, Jr., AC-M Lloyd )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 §27C) ( Owens, C-M Anthony S. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Poitrast, C-M Stephen C. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Poitrast, C-M Stephen C. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Poitrast, C-M Stephen C. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Riley, AC-M Joseph F. )."
+Fee waived,"Appeal filing fee waived on finding of indigency (G.L. c.261 27C) ( Gaffney, Hon. Kevin J. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Donahue, AC-M Joseph I. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Burton, Acting C-M Barbara Y. )."
+Fee waived,"Filing fee and surcharge waived on finding of indigency (G.L. c.261 27C) ( Burton, Acting C-M Barbara Y. )."
+Hearing,5/23/11 4th session both parties present court amends docket by substituting deft party from michael rasla to the owner akmal moawed .. 10:11am - 10:40 after hearing deft pays pltff 90.00 as satisfied in full case dismissed acm john clough
+Hearing,"6/16/11 4th session 12:05pm-12:44pm deft. Hanover Insurance Co., is dismissed and substituted with deft. Mass Bay Insurance Co.,by agreement of the parties.Heaing on deft's Yell-O)Glow Corp.and deft. Mass Bay Ins. motion to Transfer to the regular civil d
+ocket- pltff files opposition to deft's motion.Atty. Craig Murphy for Yell-O-Glow corp. atty Gridley M.Losee for Mass Bay Ins.atty Michael Balletto for pltff.T.U.A."
+Hearing,neither party present 9:28 offlist deft arrived @ 9:31; pltff not pres; 3rd session deft given dismissal form to give to pltff; deft stated paid in full acm valerie caldwell
+Hearing,"10/17/11 vc called deft 9:20am rm 125 deft arrived @ 11:06 paid $500 cash to pltff deft stated he had eye surgery on 10/5/11 and was unable to come to court; cont 11/7/11 for cfp pltff stated deft's receipts brought today are not for correct dates; if def
+t return w/500 on 11/7/11 pltff willing to dismiss case and accept $1500 as totoal judgment acm valerie caldwell"
+Hearing,"8/8/11 both parties present deft has not been living up to the mediation agreement she has stayed current with her rent but hasnt been able to pay towards the arrearages cont til 9?19/11 for status deft is trying to obtain financial assistance from the la
+boure central in south boston ( see enclosed letter ) acm john clough"
+Hearing,9/19/11 9:21; both parties present; deft brought letter copy if file; called misty hepler re: update on 9/1/11 letter cont 10/17/11 payment review 9:25 stop acm valerie caldwell 3rd session
+Hearing,3/22/12 10:45 start / stop 10:59 both parties present deft in custody 1st session judge coyne deft owes $175 for capias ( today ) deft ordered to go boston housing ct for determinantion on housing case acm valerie caldwell
+Hearing,"Misc Entry: 9/27/12 5th session 3:30 pm 4:01pm both parties present for examination under oath after hearing deft is found in contempt 30 days h of c committed may be purged upon payment of $1,000 to pltff peter parks court orders 200.00 per month thru the court payment review 12/27/12 send notice to both about 12/27/12 mitt issued ( ACM JOHN CLOUGH )"
+Hearing,"Misc Entry: 5th session both parties present 12:50pm - 1:09pm deft pays pltff $200.00 money order, which is august 2013 payment - provides letter from her employees that indicates deft resigned from her job at NESN judge tochka cont matter until 10/24/13 @2PM DEFT ORDERED TO BRING IN PROOF THAT SHE HAS ENROLLED IN SCHOOL FULL TIME AND AND ALSO TO BRING BANK STATEMENTS FROM CITIZINS BANK ( NOTE; DEFT HAS PAID A TOTAL OF 3200 OWES 4291.00 ) ACM JOHN CLOUGH"
+Hearing,Misc Entry: 1st session both parties present before judge coffey deft provides documents showing she is enrolled in an on line master degree program and also brings in back statements as ordered no present ability to pay cont til 1/30/14 at 2pm for deft to bring in her 2013 w-2
+Interpreter requested,Interpreter requested for next court date.
+Interpreter requested,Korean Interpreter requested for next court date.
+Interpreter requested,"Interpreter requested for next court date.
+
+PORTUGUESE
+
+Applies To: Sousa, Luis A (Plaintiff)"
+Interpreter requested,"Interpreter requested for next court date.
+
+PORTUGUESE"
+Interpreter requested,Interpreter requested for next court date./PORTUGUESE
+Interpreter requested,Interpreter requested for next court date. SPANISH
+Interpreter requested,Interpreter requested for next court date.
+Interpreter requested,Interpreter requested for next court date.
+Interpreter requested,Interpreter requested for next court date.
+Interpreter requested,Cantonese Interpreter requested for next court date.
+Judgment,"Judgment for P01 RAB PERFORMANCE RECOVERIES, LLC to recover of D01 LEVI WARE after default the sum of $811.44 plus prejudgment interest of $17.34 and costs of $50.00 for judgment total of $878.78 ( Caldwell, AC-M Valerie ) parties notified."
+Judgment,"Judgment for P01 MIDLAND FUNDING, LLC to recover of D01 PAMELA NORMAN after default the sum of $717.74 plus prejudgment interest of $15.34 and costs of $50.00 for judgment total of $783.08 ( Caldwell, AC-M Valerie ) parties notified."
+Judgment,"Judgment for P01 CAPITAL ONE BANK (USA), N.A. to recover of D01 DEVAHN R. GEORGE after default the sum of $1,090.52 plus prejudgment interest of $23.30 and costs of $50.00 for judgment total of $1,163.82 ( Caldwell, AC-M Valerie ) parties notified."
+Judgment,"Judgment for P01 CLEAN WAY WASTE SERVICES, INC to recover of D01 JUSTICE CAFE, INC after default the sum of $1,210.00 plus prejudgment interest of $25.86 and costs of $50.00 for judgment total of $1,285.86 ( Caldwell, AC-M Valerie ) parties notified."
+Judgment,"Judgment for P01 CITIBANK (SOUTH DAKOTA), N. A. to recover of D01 JANET H. WEATHERS by agreement of the parties the sum of $1,727.11 plus prejudgment interest of $37.48 and costs of $50.00 for judgment total of $1,814.59 ( Caldwell, AC-M Valerie ) parties
+notified."
+Judgment,"Judgment Entered:
+Judgment for the Plaintiff		, by agreement of the parties
+Caldwell, Valerie
+Judgment For: Citibank (South Dakota), N. A.
+Judgment Against: Janet H. Weathers A/K/A Janet Weathers
+Terms of Judgment:
+Jdgmnt Date:  06/30/2011
+Interest Rate:  .12
+Daily Interest Rate:  .000329		
+Damages:
+Damage Amt:  1727.11			Filing Fees:  50.00
+Other Costs:  .00
+Crt Ord Atty Fee:  .00
+Judgment Total:  1,777.11
+Execution entered on 08/10/2012
+"
+Judgment,"Judgment for P01 CAPITAL  ONE BANK, (USA)N.A. to recover of D01 JESSIE BURGOS after default the sum of $3,777.94 plus prejudgment interest of $78.25 and costs of $100.00 for judgment total of $3,956.19 ( Caldwell, AC-M Valerie ) parties notified."
+Judgment,"Judgment Entered:
+Judgment of Dismissal			, for failure to make service within 90 days
+Miller, Hon. Rosalind H
+Judgment For: Midland Funding,Llc As Assignee of Hsbc
+Judgment Against: Jones, Steven
+Terms of Judgment:
+Jdgmnt Date:  10/22/2012"
+Judgment,"Judgment for P01 ELITE CAPITAL MANAGEMENT to recover of D01 JUNIOR DORRELUS by agreement of the parties the sum of $1,004.43 plus prejudgment interest of $20.80 and costs of $50.00 for judgment total of $1,075.23 ( Caldwell, AC-M Valerie ) parties notifie
+d."
+Judgment,"Judgment for P01 ANJ, CORPORATION to recover of D01 STARNA NGUYEN after default the sum of $3,380.28 plus prejudgment interest of $167.81 and costs of $100.00 for judgment total of $3,648.09 ( Clough, AC-M John J. ) parties notified."
+Judgment amended,"Amended Default Judgment, issued.  (Copies Sent to Suburban Mortgage Co., Inc. and Jeremy R. Bombard, Esq.)"
+Judgment amended,"Amended Default Judgment, issued.  (Copy Sent to Giles L. Krill, Esq.)"
+Judgment amended,"Amended Default Judgment and Order Approving Agreement for Judgment, issued.  (Copies Sent to Attorneys Gordon M. Orloff, Jesse W. Abair, David M. Rosen and James H. Krumsiek; also Sent to Marco Del Pinal, and Anastacia Del Pinal)"
+Judgment amended,"Amended Default Judgment, issued. (Copy sent to Atty. Lauren A. Solar.)"
+Judgment amended,"Amended Default Judgment, issued. (Copy sent to Atty James T. Dangora.)"
+Judgment debtor able to pay,"Judgment debtor Vincenzo Granato found, after examination on oath, to be currently able to pay on judgment in the amount of $20.00 per month beginning on 09/26/2012 (G.L. c.224  15-16)."
+Judgment debtor able to pay,"Judgment debtor D01  GLENN BODDIE found, after examination on oath, to be currently able to pay on judgment in the amount of $6,281.52 by on 12/15/2010 (G.L. c.224  15-16) ( Coven, Hon. Mark S. )."
+Judgment debtor able to pay,"Judgment debtor D01  MARGARET SHOOT found, after examination on oath, to be currently able to pay on judgment in the amount of $50.00 per month beginning on 11/01/2010 (G.L. c.224  15-16) ( Coven, Hon. Mark S. )."
+Judgment debtor able to pay,"Judgment debtor D01  TRAN HIEN found, after examination on oath, to be currently able to pay on judgment in the amount of $25.00 per month beginning on 04/01/2011 ( Foley, AC-M James J. )."
+Judgment debtor able to pay,"Judgment debtor Joyce Alicea found, after examination on oath, to be currently able to pay on judgment in the amount of $150.00 per month beginning on 07/03/2015 (G.L. c.224  15-16).
+
+and on the 3rd day of the month thereafter"
+Judgment debtor able to pay,"Judgment debtor Marion J Carter found, after examination on oath, to be currently able to pay on judgment in the amount of 50.00 per month beginning on 06/01/2012 (G.L. c.224  15-16).
+
+"
+Judgment debtor able to pay,"Judgment debtor Marion J Carter found, after examination on oath, to be currently able to pay on judgment in the amount of $50.00 per month beginning on 10/30/2012 (G.L. c.224  15-16)."
+Judgment debtor able to pay,"Judgment debtor Stephen A Keefe found, after examination on oath, to be currently able to pay on judgment in the amount of 40.00 per month beginning on 01/26/2012 (G.L. c.224  15-16).
+
+"
+Judgment debtor able to pay,"Judgment debtor John K Hickey found, after examination on oath, to be currently able to pay on judgment in the amount of 200.00 per month beginning on 03/30/2012 (G.L. c.224  15-16).
+
+
+
+
+
+Attorney Calamita Esq., Grace Marie-Victoria"
+Judgment debtor able to pay,"Judgment debtor D01  WILLIAM GAVEL found, after examination on oath, to be currently able to pay on judgment in the amount of $25.00 per week beginning on 08/25/2010 (G.L. c.224  15-16) ( Coven, Hon. Mark S. )."
+Judgment debtor unable to pay,Judgment debtor Carmen R Castro is stipulated by all parties to be currently unable to pay on judgment (G.L. c.224 15-16).
+Judgment debtor unable to pay,Judgment debtor Jason F Vautour is stipulated by all parties to be currently unable to pay on judgment (G.L. c.224 15-16).
+Judgment debtor unable to pay,"Judgment debtor Timothy Griffiths is stipulated by all parties to be currently unable to pay on judgment (G.L. c.224 15-16).
+"
+Judgment debtor unable to pay,Judgment debtor Timothy M Feeney is stipulated by all parties to be currently unable to pay on judgment (G.L. c.224 15-16).
+Judgment debtor unable to pay,Judgment debtor Timothy M Feeney is stipulated by all parties to be currently unable to pay on judgment (G.L. c.224 15-16).
+Judgment debtor unable to pay,"Judgment debtor Christina M Blanchet found, after examination under oath, to be currently unable to pay on judgment (G.L. c.224 15-16)."
+Judgment debtor unable to pay,"Judgment debtor Jose Carrasquillo found, after examination under oath, to be currently unable to pay on judgment (G.L. c.224 15-16).
+
+"
+Judgment debtor unable to pay,"Judgment debtor Charlene Nimtz found, after examination under oath, to be currently unable to pay on judgment (G.L. c.224 15-16).
+"
+Judgment debtor unable to pay,"Judgment debtor Charlene Nimtz is stipulated by all parties to be currently unable to pay on judgment (G.L. c.224 15-16).
+"
+Judgment debtor unable to pay,"Judgment debtor D01  SHANNON L. THOMAS found, after examination under oath, to be currently unable to pay on judgment (G.L. c.224 15-16) ( Coven, Hon. Mark S. )."
+Judgment vacated,"Judgment entered on 07/07/2011 vacated; AMOUNTS ENTERED IN ERROR ( Miller, Hon. Rosalind H ); parties notified."
+Judgment vacated,"Judgment entered on 03/03/2011 vacated; AFTER MOTION TO VACATE DISMISSAL WAS ALLOWED ( Justice of the Boston Munic Ct, - ); parties notified."
+Judgment vacated,Judgment entered on 09/19/2014 vacated; after Plaintiff's Motion to Vacate Judgment for Defendant was allowed.; parties notifed.
+Judgment vacated,Judgment entered on 02/13/2015 vacated; after Plaintiff's Motion to Vacate Judgment for Defendant was allowed.; parties notifed.
+Judgment vacated,"Judgment entered on 10/18/2011 vacated; PLFF FAILED TO NOTIFY COURT TO CONTINUE TRIAL; parties notifed.
+
+"
+Judgment vacated,Judgment entered on 01/03/2013 vacated; ORDER PURSUANT TO MASS. R. CIV. P. 60(a); parties notifed.
+Judgment vacated,"Judgment entered on 12/19/2011 vacated; appealed. New trial held; parties notifed.
+"
+Judgment vacated,"Judgment entered on 04/28/2011 vacated; Clerical error. Single damages should have been listed as $10,138.33,not $10,183.33; parties notifed.
+"
+Judgment vacated,Judgment entered on 08/12/2014 vacated; ALLOWED MOTION; parties notifed.
+Judgment vacated,Judgment entered on 04/08/2014 vacated; upon motion allowed in court; parties notifed.
+Mediation,Mediation held.
+Mediation,Mediation held.
+Mediation,Mediation held.
+Mediation,Mediation held.
+Mediation,Mediation held.
+Mediation,Mediation held.
+Mediation,Mediation held.
+Mediation,MEDIATION HELD
+Mediation,Mediation held.
+Mediation,Mediation held.
+Memorandum filed,"Memorandum filed by Josefina Roque.
+"
+Memorandum filed,"Memorandum filed by LVNV Funding LLC As Assignee of GE Capital / Peach Direct.
+
+"
+Memorandum filed,"Memorandum filed by Atlantic Credit & Finance Inc As Assignee of HSBC Consumer Lending (USA) Inc.
+
+"
+Memorandum filed,Memorandum filed by Yuet Y Mui AKA Yuet Yung Mui DBA Eighty Eight Restaurant.
+Memorandum filed,Memorandum filed by Discover Bank.
+Memorandum filed,"Memorandum filed by LVNV Funding LLC As Assignee of Citibank / Sears Gold Mastercard.
+
+"
+Memorandum filed,Memorandum filed by Portfolio Recovery Associates LLC assignee of HSBC Card Services (III).
+Memorandum filed,Memorandum filed by National Collegiate Student Loan Trust 2006-2 A Delaware Statutory Trusts.
+Memorandum filed,"Memorandum filed by Atlantic Credit & Finance, Inc As Assignee of HSBC Consumer Lending (USA) Inc.
+
+"
+Memorandum filed,"Memorandum filed by NSTAR Electric.
+
+under (106)"
+Military affidavit filed,"Military affidavit filed as to whether P01  ANJ, CORPORATION is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §521)."
+Military affidavit filed,"Military affidavit filed as to whether D01  CHRISTINA CHEEK is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §521)."
+Military affidavit filed,"Military affidavit filed as to whether D01  VANESSA CALIXTO & D02 SONIA PAULINO  is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §521)."
+Military affidavit filed,"Military affidavit filed as to whether Portfolio Recovery Associates, LLC is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Military affidavit filed,"Military affidavit filed as to whether Sandra Minelli A/K/A Sandra J Minelli is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Military affidavit filed,"Military affidavit filed as to whether Thomas Raftery A/K/A Thomas J Raftery is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Military affidavit filed,"Military affidavit filed as to whether Marie R Lamarre is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Military affidavit filed,"Military affidavit filed as to whether Marie R Lamarre is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Military affidavit filed,"Military affidavit filed as to whether Omar Compass is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Military affidavit filed,"Military affidavit filed as to whether Omar Compass is in military service (Servicemembers Civil Relief Act, P.L. 108-189 §201, 50 U.S.C. App. §421)."
+Misc Notes,Misc Entry: 8/30/12 deft arrested by constables on capias during the arrest deft assaulted 2 of the constable and was arrested by Boston Police and taken to Roxbury Court whre she was arraigned and released on $250.00 cahs bail deft also had an outstanding probation warrant out of the fall river district ct and when she posted the $250.00 bail she was held and travel mitt to fall river pltff on this small claim case waited at dorchester dirstrict court until 4pm
+Misc Notes,Misc Entry:  8/31/12 deft appeared at the clerks office at 3pm after being released by fall River Court deft become loud and abusive at the clerks counter complaining about being arrested by constables on capias the day before. clerk with court permission placed deft in custody as the capias was still outstanding.  Constable were notified to come in and return capias as deft was now in custody. constable Morrison arrived and idicated that she had spoken to Falll River District Court about deft's status and learned from probation in Fall River that they were unaware of deft's new charges in Roxbury Court and if they had known tge P.O. there would have asked to have her held for a probation violation clerk called fall river probation and learned that they have issued a VOP warrant and were asking Dorchester Court to hold her and transport her back to Fall River JUDGE DESMOND holds deft w/out bal for Fall River and instructed deft to return to dorchester court on this small claims case on 9/27/12 @ 10am also lood at DOCKET # 1107sc586
+Misc Notes,Misc Entry: pltff's calls inquring if deft had mailed a check to the court no check received clerk called deft and advised her to send $200.00 money order immediately her response was for the court to send her something in writing
+Misc Notes,Misc Entry: deft drops off a $ 200 money order for pltff clerk office mails cont to pltff
+Misc Notes,Misc Entry: deft drops off money order $200 mailed to pltff payment review 5/2/13
+Misc Notes,Misc Entry: DEFT SENDS $200 MONEY ORDER MAILED TO PLTFF PAYMENT REVIEW 5/2/13
+Misc Notes,Misc Entry: $200 money order received firom deft and mailed to pltff cont to 9/5/13
+Misc Notes,"Misc Entry: $200.00 money order received from Defendant,  money order mailed to Plaintiff"
+Misc Notes,Misc Entry:Deft. called and spoke to clerk Caldwell and is unable to come to court also states is not working since 12/29/14
+Misc Notes,8/11/11 pltff came in to report that deft has paid $24000 of the 2600 and deft owes 200.00 balance pltff will send deft a letter requesting final payment and is she dosent pay she'll come back and request a payment review date acm john clough
+Motion allowed,"Motion to transfer to regular civil docket (G.L. c.218 §24; Uniform Small Claims Rule 4[a]) heard at which both plaintiff and defendant were present and ALLOWED ( Clough, AC-M John J. ) (Tape 4th  session from 12:05pm to 12:44pm )."
+Motion allowed,6/16/11 Deft's motion to Transfer to Civil docket is allowed.(J.Clough)ACM
+Motion allowed,Motion for new capias  allowed.
+Motion allowed,"Motion to remove default and file answer late (Mass.R.Civ.P. 55[c]) heard and ALLOWED ( Coffey, Hon. James W. ) (Tape 5th session from 11:28 to 11:29 )."
+Motion allowed,"11-7-1011 Motion for Inspection & Copying of Medical & Psychological Counseling records from Carney Hospital  heard and ALLOWED ( Baylor, Hon. Robert E. ) (Tape 5th session from 11:55 to 11:56 )."
+Motion allowed,"11-7-2011 Motion for Inspection & copying of Psychological Counseling records from Beth Isreal Deaconess Medical Center heard and ALLOWED ( Baylor, Hon. Robert E. ) (Tape 5th session from 11:55 to 11:56 )."
+Motion allowed,"9-16-2011 Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) heard and ALLOWED to attach Bank Account  in the amount of $29,158.34 ( Gobourne, Hon. Franco J. ) (Tape 5th session from 12:56 to 12:58 )."
+Motion allowed,"10-28-2011 Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) heard and ALLOWED ( Justice of the Boston Munic Ct, Kenneth Desmond ) (Tape 5th session from 12:31 to 12:33 )."
+Motion allowed,"9-23-2011 Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) heard and ALLOWED ( Justice of the Boston Munic Ct, Saranson ) (Tape 5th session from 12:10 to 12:13 )."
+Motion allowed,"7-8-2011 Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) heard and ALLOWED ( Miller, Hon. Rosalind H ) (Tape 5th session from 12:05  )."
+Motion denied,Motion to dismiss (Mass.R.Civ.P. 12[b]) heard and DENIED (Tape 2 from 1017 to 1037).
+Motion denied,9-23-2011 Motion for successive service of trustee summons upon original trustee (Mass.R.Civ.P. 4.2[f]) heard and DENIED ( Justice of the Boston Munic Ct saranson - ) (Tape 5th session from 12:10 to 12:13 ).
+Motion denied,"7-8-2011 Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) heard and DENIED ( Miller, Hon. Rosalind H ) (Tape 5th session from 12:05  ). there is no certificate of service on defendant"
+Motion denied,"10-28-2010 Motion to further stay of Execution heard at which plaintiff was present and defendant was not present and DENIED ( Baylor, Hon. Robert E. ) (Tape Child Care Center  )."
+Motion denied,"Motion to Issue Execution heard at which both plaintiff and defendant were present and DENIED ( Justice of the Boston Munic Ct, -Dasheill ) (Tape 1st session from 9:07 to 9:09 )."
+Motion denied,Motion  for successive service of trustee summons denied.
+Motion denied,"Motion  to vacate judgment denied.
+"
+Motion denied,"Misc Entry: MOt to Vacate Default denied.  On trial date two parties appeared for trial from NJ.  Also previous trial date was continued at request of deft to obtain counsel.
+
+
+
+PJM"
+Motion denied,"Motion for summary judgment (Mass.R.Civ.P.56)  denied.
+
+(defendant's motion)"
+Motion denied,Motion to vacate dismissal denied.
+Motion for continuance,"Motion for continuance (Mass.R.Civ.P.40[b])  filed by Neil B. Ruderman As Trustee of Ruderman Realty Trust, Sandra E. Ruderman As Trustee of Ruderman Realty Trust.
+
+w/Affidavit Supporting
+
+
+
+rec'd 8/3/11"
+Motion for continuance,Motion for continuance (Uniform Small Claims Rule 7[a])  filed by Rose Sullivan.
+Motion for continuance,"Motion for continuance (Mass.R.Civ.P.40[b])  filed by Jill M Courville.
+
+"
+Motion for continuance,"Motion for continuance (Uniform Small Claims Rule 7[a]) filed by D01  HOLYOKE ENTERPRISES, LLC."
+Motion for continuance,Motion to continue trial filed by PARTIES.
+Motion for continuance,"Motion for continuance (Uniform Small Claims Rule 7[a])  filed by Kevin Dufour D/B/A Dufours RV Center.
+No Action on Motion."
+Motion for continuance,Motion for continuance (Uniform Small Claims Rule 7[a]) Def motion for continuance filed by Jeannie Poplaski.
+Motion for continuance,"Motion for continuance (Uniform Small Claims Rule 7[a]) and to amend defendants name filed by Town Sports International, Inc.."
+Motion for continuance,Motion for continuance (Uniform Small Claims Rule 7[a]) filed by D01  THOMAS R. ZARELLA.
+Motion for continuance,Motion for continuance (Uniform Small Claims Rule 7[a])  filed by Chase Plumbing Co. Inc..
+Motion for default judgment,Application to clerk-magistrate to enter default against D01  JOANN ROJAS filed by P01  AMERICAN EXPRESS (Mass.R.Civ.P. 55(a) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate for default judgment against D01  JOANN ROJAS who has been defaulted for failure to appear filed by P01  AMERICAN EXPRESS (Mass.R.Civ.P. 55(b)(1) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate to enter default against D01  NGU HUYNH filed by P01  DOROTHY CARTWRIGHT (Mass.R.Civ.P. 55(a) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate to enter default against D01  VALENTINA S. STEWART filed by P01  DISCOVER BANK (Mass.R.Civ.P. 55(a) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate for default judgment against D01  VALENTINA S. STEWART who has been defaulted for failure to appear filed by P01  DISCOVER BANK (Mass.R.Civ.P. 55(b)(1) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate to enter default against D01  ALBERT WILLIS filed by P01  DISCOVER BANK (Mass.R.Civ.P. 55(a) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate for default judgment against D01  ALBERT WILLIS who has been defaulted for failure to appear filed by P01  DISCOVER BANK (Mass.R.Civ.P. 55(b)(1) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate to enter default against D01  ROSA T. HUYNH filed by P01  DISCOVER BANK (Mass.R.Civ.P. 55(a) & 77(b)).
+Motion for default judgment,Application to clerk-magistrate for default judgment against D01  ROSA T. HUYNH who has been defaulted for failure to appear filed by P01  DISCOVER BANK (Mass.R.Civ.P. 55(b)(1) & 77(b)).
+Motion for default judgment,"Application to clerk-magistrate to enter default against D01  LUIS G. DIAZ filed by P01  FIA CARD SERVICES, N.A (Mass.R.Civ.P. 55(a) & 77(b))."
+Motion for exemption from time,"Motion  to request for exemption from time standards filed by Portfolio Recovery Associates, LLC."
+Motion for exemption from time,"Motion  request for exemption from time standards filed by Midland Funding, LLC."
+Motion for exemption from time,"Motion  for exemption from time standards filed by Midland Funding, LLC."
+Motion for exemption from time,Motion  for exemption from time standards filed by Discover Bank.
+Motion for exemption from time,"Motion  for exemption from time standards filed by Midland Funding, LLC."
+Motion for exemption from time,"Motion  for exemption from time standards filed by Pinnacle Credit Services, LLC."
+Motion for exemption from time,Motion  for exemption from time standards filed by Capital One Bank (USA) N.A..
+Motion for exemption from time,"Motion  for exemption from time standards filed by Midland Funding, LLC."
+Motion for exemption from time,"Motion  for exemption from time standards filed by Midland Funding, LLC."
+Motion for exemption from time,"Motion  request for exemption from time standards filed by Midland Funding, LLC."
+Motion for final judgment for ,Motion for final judgment for relief for failure to answer Interrogatories filed by P01  KENNY C. NGUYEN.
+Motion for final judgment for ,Motion  for final judgment for relief of dismissal under Rule 33A filed by Diane F Labonte In his/her capacity as The Personal Representative for the Estate of Carolyn R. Eldridge.
+Motion for final judgment for ,Motion for final judgment for relief 33A filed by P01  EDWARD THEIS.
+Motion for final judgment for ,Motion for final judgment for relief for failure to answer intgs.  filed by P01  DISCOVER BANK.
+Motion for final judgment for ,Motion For final judgment for relief against def. filed by P01  NOEL GONZALEZ.
+Motion for final judgment for ,"Motion for final judgment for relief for failure to answer intgs.  filed by D01  EXTERIOR REMODELERS OF NEW ENGLAND, INC.."
+Motion for final judgment for ,"Motion for final judgment for relief for failure to answer interrogatories filed by P01  FIA CARD SERVICES, N.A.."
+Motion for final judgment for ,Motion  for final judgment for relief for failure to answer interrogatories (Rule 33a) filed by GE Capital Retail Bank.
+Motion for final judgment for ,Motion for final judgment for relief for failure to answer interrogs filed by P01  TAMI M. DRISTILIARIS.
+Motion for final judgment for ,"Motion  FOR FINAL JUDGMENT FOR RELIEF FOR FAILURE TO ANSWER INTERROGATORIES filed by American Express Bank, FSB.  WITH AFFIDAVIT  IN SUPPORT/ COPY OF FINAL REQUEST FOR ANSWERS/ REQUEST FOR DEFAULT JUDGMENT/ MOTION FOR ASSESSMENT OF DAMAGES / MEMORANDUM OF DAMAGES/ NOTICE OF MOTION AND CERTIFICATE OF SERVICE"
+Motion for judgment on the ple,"Motion  for judgment on the pleadings filed by Asset Acceptance, LLC As Assignee of Sears/Citibank."
+Motion for judgment on the ple,"Motion  for judgment on the pleadings filed by Asset Acceptance, LLC As Assignee of Sears/Citibank."
+Motion for judgment on the ple,"Motion for judgment on the pleadings (Mass.R.Civ.P.12[c]), to assess damages (Mass.R.Civ.P. 55[b][4])  filed by Midland Funding LLC As Assignee of GE Money Bank/Care Credit Dental."
+Motion for judgment on the ple,"On 3/9/10 Motion for judgment on the pleadings (Mass.R.Civ.P. 12[c]) filed by P01  FIA CARD SERVICES, N.A.."
+Motion for judgment on the ple,"Motion for judgment on the pleadings (Mass.R.Civ.P.12[c])  filed by LVNV Funding LLC As Assignee of Citibank / Sears Gold Mastercard.
+
+"
+Motion for judgment on the ple,"Motion for judgment on the pleadings (Mass.R.Civ.P. 12[c]) filed by P01  CITIBANK (SOUTH DAKOTA), N.A.."
+Motion for judgment on the ple,"Motion for judgment on the pleadings (Mass.R.Civ.P. 12[c]) filed by P01  CITIBANK (SOUTH DAKOTA), N.A.."
+Motion for judgment on the ple,"Motion for Judgment on the Pleadings filed by P01  CITIBANK (SOUTH DAKOTA), N.A.."
+Motion for judgment on the ple,"Motion for judgment on the pleadings (Mass.R.Civ.P.12[c]) filed by Advantage Assets II Inc. As Assignee of Ctitibank (South Dakota) N.A..
+
+c/s.."
+Motion for judgment on the ple,Motion for judgment on the pleadings (Mass.R.Civ.P.12[c])  filed by LVNV Funding LLC assignee of HSBC Card Services (Iii) Inc.
+Motion for minor settlement,"Motion minor settlement  filed by P01  AYAN MOHAMED, A MINOR, BY HER PARENTS QADAR M. SEE."
+Motion for minor settlement,"Motion MINOR SETTLEMENT  filed by P01  ANTHONY G. TRIKAS, JR.."
+Motion for minor settlement,Motion minor settlement filed by P01  STEPHANIE MCCABE.
+Motion for new capias,Motion for new capias  filed by Nstar Electric Company.
+Motion for new capias,Motion lost capias and with drawn atty  filed by P01  NATASKA SMALL.
+Motion for new capias,Motion lost capias and withdrawn atty  filed by P01  ERNEST WILLIAMS.
+Motion for new capias,"Motion  LOST CAPIAS filed by Sonya Council.
+"
+Motion for new capias,Motion expired capias  filed by P01  ANN SAINT JUSTE.
+Motion for new capias,Motion lost capias  filed by P01  ANN SAINT JUSTE.
+Motion for new capias,Motion new capias  filed by P01  SUFFOLK COUNTRY CONSTABLES OFFICE INC.
+Motion for new capias,Motion new capias  filed by P01  SUFFOLK COUNTY CONSTABLE'S OFFICE.
+Motion for new capias,"Motion new capias  made in open court by P01  SUFFOLK COUNTY CONSTABLE'S OFFICE and allowed ( Clough, AC-M John J. )."
+Motion for new capias,"Motion for new capias  filed by Suffolk County Constable'S Office.
+"
+Motion for successive service ,"Motion for successive service of trustee summons upon original trustee (Mass.R.Civ.P. 4.2[f]) filed by P01  WORLDWIDE ASSET PURCHASING II, LLC."
+Motion for successive service ,Motion for successive service of trustee summons upon original trustee (Mass.R.Civ.P. 4.2[f]) filed by P01  COLUMBIA FUNDING INC.
+Motion for successive service ,"Motion for successive service of trustee summons  filed by Capital One Bank ( Usa) , N.A.."
+Motion for successive service ,"Motion for successive service of trustee summons  filed by LVNV Funding LLC, As Assignee of Citibank (South Dakota), NA / Sears Mastercard.
+"
+Motion for successive service ,"Motion for successive service of trustee summons  filed by Citibank, N.A. As successor by merger to Citibank (South Dakota), N.A..
+"
+Motion for successive service ,Motion for successive service of trustee summons  filed by Atlantic Credit and Finance Inc.
+Motion for successive service ,"Motion for successive service of trustee summons upon original trustee (Mass.R.Civ.P. 4.2[f]) filed by P01  LVNV FUNDING, LLC  ASSIGNEE OF SEARS, ROEBUCK AND. ATTY ADVISED TO REMARK MOTION"
+Motion for successive service ,"Motion for successive service of trustee summons  filed by Atlantic Credit & Finance, Inc. assignee of HSBC.
+notice of hearing and notice to defendant"
+Motion for successive service ,Motion for successive service of trustee summons  filed by Ford Motor Credit Company.
+Motion for successive service ,Motion for successive service of trustee summons  filed by Discover Bank.
+Motion to accept copy of will,Motion to Allow Copy of Will
+Motion to accept copy of will,Motion to approve copy of will
+Motion to accept copy of will,Motion to accept copy of will
+Motion to accept copy of will,Motion to allow copy of will
+Motion to accept copy of will,Motion to accept copy of will as original
+Motion to accept copy of will,Motion to Accept copy of Will
+Motion to accept copy of will,Motion to accept copy of will
+Motion to accept copy of will,Motion to Allow Photocopy of Will
+Motion to accept copy of will,Motion to allow photocopy of will
+Motion to accept copy of will,Motion to accept copy of will
+Motion to amend judgment,Motion  To Amend Judgment and Execution filed by Anj Corporation.
+Motion to amend judgment,"Motion  to Amend Judgment and Execution filed by Cavalry SPV I, LLC As Assignee of Chase Bank USA, N.A. (WAMU)."
+Motion to amend judgment,"Motion  to amend judgment and execution filed by ANJ, Corporation.
+
+"
+Motion to amend judgment,"Motion  to amend judgment and execution filed by Beneficial Massachusetts Inc..
+"
+Motion to amend judgment,"Motion  to amend judgment and execution filed by Beneficial Massachusetts Inc..
+"
+Motion to amend judgment,"Motion  to amend judgment and execution filed by Beneficial Massachusetts Inc..
+"
+Motion to amend judgment,"Motion  to amend judgment and execution filed by Cavalry SPV I, LLC As Assignee of GE Money Bank / JC Penney."
+Motion to amend judgment,"Motion  to amend Judgment and Execution filed by Adam Chalker.
+"
+Motion to amend judgment,"Motion  TO AMEND JUDGMENT AND EXECUTION filed by ANJ, Corporation."
+Motion to amend judgment,"Motion  TO AMEND JUDGMENT AND EXECUTION filed by Exelero, Corp.."
+Motion to amend judgment and e,Motion  To Amend Judgment and Execution filed by Carl Tucci D/B/A All Phases Mechanical.
+Motion to amend judgment and e,"Motion  to amend judgment and execution filed by ANJ, Corporation."
+Motion to amend judgment and e,"Motion  to amend judgment and execution filed by ANJ, Incorporated."
+Motion to amend judgment and e,"Motion  to Amend Judgment and Execution filed by Integrated Resolution Services, LLC.
+"
+Motion to amend Voluntary Admi,Motion to Amend Voluntary Administration Statement
+Motion to amend Voluntary Admi,Motion to Amend Voluntary Administration Statement
+Motion to amend Voluntary Admi,Motion to amend voluntary administration
+Motion to amend Voluntary Admi,Motion to Amend Voluntary Administration
+Motion to amend Voluntary Admi,Motion to amend voluntary administration
+Motion to amend Voluntary Admi,"Motion to Amend Voluntary Administration Statement
+
+Amened Statement Attached"
+Motion to amend Voluntary Admi,Motion to Amend Voluntary Administration Statement
+Motion to amend Voluntary Admi,Motion to Amend voluntary Administration
+Motion to amend Voluntary Admi,Motion to amend voluntary administration statement
+Motion to amend Voluntary Admi,Motion to Amend Voluntary Administration Statement
+Motion to appoint special proc,Motion to appoint special process server (Civ.P. 3[c] &4)  filed by Ralph Morris.
+Motion to appoint special proc,Motion to appoint special process server (Civ.P. 3[c] &4)  filed by David Z Berthiaume.
+Motion to appoint special proc,"Motion to appoint special process server (Mass.R.Civ.P. 3[c] & 4) filed by P01  ACCESSIBLE DENTAL, PC."
+Motion to appoint special proc,"Motion to appoint special process server (Civ.P. 3[c] &4)  filed by Gary P Allain.
+"
+Motion to appoint special proc,Motion to appoint special process server (Civ.P. 3[c] &4)  filed by Mariusz Dzymborksi.
+Motion to appoint special proc,Motion to appoint special process server (Civ.P. 3[c] &4)  filed by Marcelo Virla.
+Motion to appoint special proc,"Motion to appoint special process server (Civ.P. 3[c] &4)  filed by Carolyn L Rocheleau.
+"
+Motion to appoint special proc,"Motion to appoint special process server (Civ.P. 3[c] &4)  filed by Tara L Joslin.
+"
+Motion to appoint special proc,"Motion to appoint special process server (Mass.R.Civ.P. 3[c] & 4) filed 2/7/11 by P01  SIRK BUILDING, LLP."
+Motion to appoint special proc,"Motion to appoint special process server (Mass.R.Civ.P. 3[c] & 4) filed 2/4/11 by P01  DRACUT FUNERAL HOME, INCORPORATED."
+Motion to approve transfer of ,Motion transfer of structured settlement  filed by D01  GREGORY C. ARCHER.
+Motion to approve transfer of ,"Motion transfer of structured settlement  filed by P01  SETTLEMENT FUNDING, LLC."
+Motion to assess attorney fees,Motion  to Assess Attorney's Fees filed by Northeastern University.
+Motion to assess attorney fees,"Motion to assess attorney fees filed by General Linen Service Co. Inc..
+
+"
+Motion to assess attorney fees,"Motion  to assess attorney fees filed by Stoney Brook Village Apartments Realty, LLC, by its managing agent Corcoran Management Co., Inc..
+
+"
+Motion to assess attorney fees,"Motion  to assess attorney fees filed by Stoney Brook Village Apartments Realty, LLC, by its managing agent Corcoran Management Co., Inc..
+
+"
+Motion to assess attorney fees,"Motion  to assess attorney fees filed by Stoney Brook Village Apartments Realty, LLC, by its managing agent Corcoran Management Co., Inc..
+
+"
+Motion to assess attorney fees,"Motion to assess attorney fees filed by P01  SILVA FUNERAL HOME, INC.."
+Motion to assess attorney fees,Motion  to Assess Attorney Fees filed by Pal Depositor Trust-1.
+Motion to assess attorney fees,"Motion to assess attorney fees filed by P01  SILVA FUNERAL HOME, INC.."
+Motion to assess attorney fees,"Motion to assess attorney fees  filed by Caron's House of Carpets, Inc..
+"
+Motion to assess attorney fees,"Motion to assess attorney fees  filed by Rockland Trust Company.
+affidvit filed"
+Motion to assess damages,Motion assess of damages  filed by P02  KALEENA CARTWRIGHT.
+Motion to assess damages,Motion to assess damages & Final Judgment (Mass.R.Civ.P. 55[b][4]) filed by P01  KENNY C. NGUYEN.
+Motion to assess damages,"Motion  for assessment of damages filed by Asset Acceptance, LLC As Assignee of Sears/Citibank."
+Motion to assess damages,"Motion  for assessment of damages filed by Asset Acceptance, LLC As Assignee of Sears/Citibank."
+Motion to assess damages,Motion to assess damages (Mass.R.Civ.P. 55[b][4])  filed by Capital One Bank (USA) N.A..
+Motion to assess damages,"On 3/9/10 Motion for assessment of damages filed by P01  FIA CARD SERVICES, N.A.."
+Motion to assess damages,Motion  to assess Damages filed by Northeastern University.
+Motion to assess damages,Motion to assess damages (Mass.R.Civ.P. 55[b][4])  filed by Cach LLC.
+Motion to assess damages,"Motion  to assess damages and entry of judgment filed by Phoenix Data, Inc..
+
+"
+Motion to assess damages,Motion to assess damages filed by P01  CAPITAL ONE BANK (USA) NA.
+Motion to attach by trustee pr,Ex parte motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  AMERCIAN EXPRESS CENTURION BANK.
+Motion to attach by trustee pr,Ex parte motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  AMERICAN EXPRESS CENTURION BANK.
+Motion to attach by trustee pr,"Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  WORLDWIDE ASSET PURCHASING II, LLC."
+Motion to attach by trustee pr,Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  COLUMBIA FUNDING INC.
+Motion to attach by trustee pr,Ex parte motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  KENNY C. NGUYEN.
+Motion to attach by trustee pr,"Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  HSBC BANK NEVADA, N.A.."
+Motion to attach by trustee pr,Ex parte motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  AMERICAN EXPRESS CENTURION BANK.
+Motion to attach by trustee pr,"Motion for attachment by trustee process (Civ.P.4.2[g])  filed by Capital One Bank ( Usa) , N.A.."
+Motion to attach by trustee pr,Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  MIDLAND FUNDING LLC.
+Motion to attach by trustee pr,"Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) filed by P01  MIDLAND FUNDING, LLC."
+Motion to compel discovery,Motion to compel discovery (Mass.R.Civ.P. 37[a]) filed by D01  NGU HUYNH.
+Motion to compel discovery,"Motion to compel discovery from third-party defendant, Alexandro Cabrera (Mass.R.Civ.P. 37[a]) filed by D01  JOSEFINA ROQUE."
+Motion to compel discovery,"Motion to compel discovery from plaintiff, Elizabeth Neves  (Mass.R.Civ.P. 37[a]) filed by D01  JOSEFINA ROQUE."
+Motion to compel discovery,"Motion to compel discovery (Mass.R.Civ.P. 37[a]) filed by P01  EMCC, INC., ASSIGNEE OF JORDAN'S FURNITURE."
+Motion to compel discovery,"Motion to compel production of documents filed by P01  BARRON CHIROPRACTIC & REHABILITATION, P.C.."
+Motion to compel discovery,Motion  to compel production of documents from the deft. filed by Ralph Morris.
+Motion to compel discovery,"Motion to compel discovery Uniform Summary Proc Rule 7[d]  filed by John Petrie A/K/A John B Petrie.
+"
+Motion to compel discovery,"Motion to compel discovery (Mass.R.Civ.P. 37[a])  filed by John Petrie A/K/A John B Petrie.
+"
+Motion to compel discovery,Motion to compel discovery Uniform Summary Proc Rule 7[d] and to dismiss  (rec. via fax) filed by Carrie Fernandez.
+Motion to compel discovery,Motion to compel discovery Uniform Summary Proc Rule 7[d]  filed by David S Hersh.
+Motion to dismiss counterclaim,Motion  to Dismiss counterclaim filed by Pal Depositor Trust-1.
+Motion to dismiss counterclaim,"Motion  to dismiss counterclaim filed by Capital One Bank (USA), N.A.."
+Motion to dismiss counterclaim,Motion  to dismiss counterclaim filed by John P Murray.  #4
+Motion to dismiss counterclaim,Motion to dismiss counterclaim filed by Peter Poulin
+Motion to inspect records,Motion for Inspection and Copying of Medical and Psychological Counseling records from Carney Hospital filed by D01  NGU HUYNH.
+Motion to inspect records,Motion for Inspection and copying of psychological counseling records from Beth Isreal Deaconess Medical Center filed by D01  NGU HUYNH.
+Motion to inspect records,Motion for inspection and copying of medical records from Brockton Hospital filed by D01  DONALD MORRIS.
+Motion to inspect records,Motion for inspection and copying of medical records filed by D01  WILLIAM F. BUSIERE.
+Motion to inspect records,"Motion for inspection and copying of medical records from Brockton Hospital, filed by D01  DOMINGOS TEIXEIRA."
+Motion to inspect records,"Motion for inspection and copying of medical records from South Shore Hospital, filed by D01  DOMINGOS TEIXEIRA."
+Motion to inspect records,"Motion for inspection and copying of medical records from South Shore Medical Center,  filed by D01  DOMINGOS TEIXEIRA."
+Motion to inspect records,Motion for inspection and copying of medical records from Brockton Neighborhood Health Center filed by D01  CAO WANG.
+Motion to inspect records,Motion for inspection and copying of medical records from Signature Medical Group filed by D01  CAO WANG.
+Motion to inspect records,Motion for inspection and copying of medical records waived or withdrawn by moving party.
+Motion to issue execution,Motion to issue execution filed by P01  TRINITY TERRACE.
+Motion to issue execution,Motion to Issue Execution filed by P01  TRINITY TERRACE.
+Motion to issue execution,Motion to Issue Execution Late filed by P01  NSTAR ELECTRIC CORP..
+Motion to issue execution,Application to clerk-magistrate for Execution Writ filed by Adams Community Bank (Uniform Summary Process Rule 13).
+Motion to issue execution,"Application to clerk-magistrate for Execution Writ filed by P01  FIA CARD SERVICES, N.A. (Mass.R.Civ.P. 62(a), 69 & 77(b))."
+Motion to issue execution,Application to clerk-magistrate for Execution Writ filed by P01  JOHN M. MELLO (Uniform Summary Process Rule 13).
+Motion to issue execution,"Application to clerk-magistrate for Execution Writ filed by Portfolio Recovery Associates, LLC (Uniform Small Claims Rule 7(f))."
+Motion to issue execution,Application to clerk-magistrate for Execution Writ filed by P01  CHRISTOPHER T. NATALE (Uniform Summary Process Rule 13).
+Motion to issue execution,Application to clerk-magistrate for Execution Writ filed by P01  FEDERAL HOME LOAN MORTGAGE CORPORATION (Uniform Summary Process Rule 13).
+Motion to issue execution,"Application to clerk-magistrate for Execution Writ filed by Atlantic Credit & Finance Inc As Assignee of HSBC Consumer Lending (USA) Inc (Mass.R.Civ.P. 62(a), 69 & 77(b).
+
+"
+Motion to lift garnishment,Motion to lift garnishment filed by D01  ANAELE HARRIS.
+Motion to remove default,Motion to remove default and file answer late (Mass.R.Civ.P. 55[c]) filed by D01  NGU HUYNH.
+Motion to remove default,Motion to remove default and file answer late (Mass.R.Civ.P. 55[c]) filed by D01  NGU HUYNH and assented to by other party(ies).
+Motion to remove default,Motion to remove default (Mass.R.Civ.P. 55[c]) filed by D01  BELFIELD D. CAMPBELL.
+Motion to remove default,Motion to remove default and file answer late (Mass.R.Civ.P. 55[c]) filed by D01  NGU HUYNH.
+Motion to remove default,Motion to remove default (Mass.R.Civ.P. 55[c]) filed by D01  ANGELA C. O'NEIL.
+Motion to remove default,Motion  to remove default and file answer late with affidavit filed by Adam Kelly.
+Motion to remove default,"Motion to remove default and vacate default judgment  filed by John Petrie A/K/A John B Petrie.
+Answer motion requesting information and motion to dismiss filed by defendant."
+Motion to remove default,Motion to remove default (Uniform Small Claims Rule 8)  filed by W. Russell Lee.
+Motion to remove default,Motion TO REMOVE DEFAULT filed by P01  CAPITAL ONE BANK.
+Motion to remove default,"Motion by Francis Cordero to remove default
+
+& to File Late Answer and Discovery"
+Motion to serve trustee summon,"Motion  to serve copy of trustee summons by certified mail after initial service by deputy sheriff filed by Portfolio Recovery Associates, LLC."
+Motion to serve trustee summon,"Motion  to serve trustee summons by certified mail filed by Midland Funding, LLC."
+Motion to serve trustee summon,"Motion  to serve trustee summons by certified mail filed by Midland Funding, LLC."
+Motion to serve trustee summon,"Motion  to serve copy of trustee summons by certified mail after in itial service by deputy sheriff filed by Midland Funding, LLC."
+Motion to serve trustee summon,Motion  to serve copy of trustee summons by certified mail filed by Discover Bank.
+Motion to serve trustee summon,"Motion  to serve copy of trustee summons by certified mail after initial service by deputy sheriff filed by Midland Funding, LLC."
+Motion to serve trustee summon,"Motion  to serve copy of trustee summons by certified mail after initial service by deputy sheriff filed by Midland Funding, LLC."
+Motion to serve trustee summon,"Motion  to serve copy of trustee summons by certified mail after initial service by Sheriff filed by Portfolio Recovery Associates, LLC."
+Motion to serve trustee summon,Motion  to serve copy of trustee summons by ceritfied mail after initial service by Sheriff filed by Discover Bank.
+Motion to serve trustee summon,Motion  to serve trustee summons by certified mail after initial service by deputy sheriff filed by Discover Bank.
+Motion to stay execution,Motion to further stay Execution filed by D02  ANN NEE.
+Motion to stay execution,Motion to further stay Execution filed by D01  EMMA RODRIGUEZ.
+Motion to strike answer,Motion to strike the defendant's answer and to order a default judgment  filed by P01  KENNY C. NGUYEN.
+Motion to strike answer,Motion to strike defendant's answer  filed by P01  KENNY C. NGUYEN.
+Motion to strike answer,Motion to strike defendant's answer filed by P01  BROADCAST MUSIC INC..
+Motion to strike answer,"Opposition filed by Timothy J Bolton to Motion to strike answer that was filed on 04/23/2012.
+"
+Motion to strike answer,"Motion  to strike pro se answer on behalf of World Spirits, Inc. filed by American Express Bank, FSB.
+Exhibits, affidavit in support of motion to strike pro se answer filed."
+Motion to strike answer,"Opposition filed by Backstaff Associates, Inc. to Motion to strike answer and enter defalt that was filed on 01/21/2012.
+
+"
+Motion to strike answer,Motion  Plf's motion to strike deft's answer and request for final default judgment filed by LVNV Funding LLC As Assignee of Washington Mutual.
+Motion to Substitute a Party,"Motion  to Substitute a Party filed by Capital One Bank (USA), N.A.."
+Motion to Substitute a Party,Motion to amend statement of small claim (UniSmCl Rule 5) to substitute a party filed by Target National Bank.
+Motion to Substitute a Party,Motion  Motion to Substitute party and Issue alias execution filed by Ccr Trust 2009-2.
+Motion to Substitute a Party,"Motion  to substitute party plff filed by Household Finance Corporation Ii,."
+Motion to Substitute a Party,"Motion  Plf's motion to substitute a party filed by Hsbc Bank Nevada, N.A.."
+Motion to Substitute a Party,Motion to Extend Deadline for Filing Dispositive Motions to Allow Time to Substitute a Party and Amend the Caption filed by Federal National Mortgage Association
+Motion to Substitute a Party,Motion  to substitute a party filed by Target National Bank.
+Motion to Substitute a Party,Motion  motion to substitute a party filed by John Diaz.
+Motion to Substitute a Party,"Motion to substitute successor party (Mass.R.Civ.P. 25) or in alternative, an order joining Five Seas LLC as a party plaintiff filed by 428 South Street, LLC.
+
+Plaintiff from 428 South Street LLC to Five Seas LLC"
+Motion to Substitute a Party,"Motion to substitute successor party (Mass.R.Civ.P. 25)  filed by Hsbc Bank Nevada, N.A. As Successor In Int.
+OFF LIST"
+Motion to transfer,Motion to transfer to regular civil docket (G.L. c.218 §24; Uniform Small Claims Rule 4[a]) filed by D01  YELL-O-GLOW CORPORATION.
+Motion to transfer,Motion to transfer  filed by Nstar Electric Corp..
+Motion to transfer,Motion to transfer  filed by NSTAR Electric Company.
+Motion to transfer,Motion to transfer  filed by NSTAR Electric Company.
+Motion to transfer,Motion to transfer  filed by Exelero Corp.
+Motion to transfer,Motion to transfer  filed by Exelero Corp.
+Motion to transfer,Motion to transfer  filed by N Star Electric & Gas Corporation.
+Motion to transfer,Motion to transfer Framingham District Court filed by NSTAR Electric Corporation.
+Motion to transfer,Motion to transfer to regular civil docket G.L.c.218s.24  filed by Kenneth M Ngugi A/K/A Kenneth Mutur.
+Motion to transfer,"Motion to transfer to regular civil docket G.L.c.218s.24  filed by Paul B. Cocchi.
+
+"
+Motion to vacate dismissal,"Motion to vacate dismissal under Standing Orders 1-04 or 1-98 for failure to act on default filed by P01  CAVALRY SPV1, L L C."
+Motion to vacate dismissal,"Motion to vacate dismissal (Uniform Small Claims Rule 8) filed by P01  BOSTON CHECKCASHERS, INC."
+Motion to vacate dismissal,"Motion to vacate dismissal (Uniform Small Claims Rule 8) filed by P01  BOSTON CHECKCASHERS, INC."
+Motion to vacate dismissal,Motion to vacate dismissal (Uniform Small Claims Rule 8) filed by P01  BOSTON CHECKCASHERS INC.
+Motion to vacate dismissal,Motion to vacate dismissal (Uniform Small Claims Rule 8) filed by P01  BOSTON CHECKCASHERS INC.
+Motion to vacate dismissal,"Motion to vacate dismissal  filed by Robert Girvin.
+
+NOT MARKED UP FOR HEARING DATE"
+Motion to vacate dismissal,"Motion to vacate dismissal  filed by ZZZ Tech Sleep Lab.
+"
+Motion to vacate dismissal,"Motion to vacate dismissal  filed by ZZZ Tech Sleep Lab.
+"
+Motion to vacate dismissal,"Motion to vacate dismissal  filed by Cavalry SPV I, LLC As Assignee of FIA Card Services, NA/ Bank of America."
+Motion to vacate dismissal,"Motion to vacate dismissal  filed by Lipton Energy, Inc..
+
+Plaintiff has notified the defendant of the motion and date."
+Motion to vacate judgment,"Motion to vacate judgment (Uniform Small Claims Rule 8) filed by P01  CACH, L L C - C/O J. A. CAMBECE LAW OFFICE, P. C.."
+Motion to vacate judgment,Motion to vacate judgment (Uniform Small Claims Rule 8) filed by D01  JON BENZAN.
+Motion to vacate judgment,Motion vacated judgment  filed by D01  JON BENZAN.
+Motion to vacate judgment,Motion to Vacate Judgment and Dismiss filed by P01  NSTAR ELECTRIC CORP..
+Motion to vacate judgment,"Motion  to vacate judgment and vacate claim filed by Portfolio Recovery Associates, LLC As Assignee of Capital One Bank (USA) NA."
+Motion to vacate judgment,"Motion  to vacate judgment filed by John Petrie A/K/A John B Petrie.
+Motion to vacate civil case filed by defendant."
+Motion to vacate judgment,"Motion to vacate judgment (Uniform Small Claims Rule 8) filed by P01  HSBC BANK NEVADA, N.A.."
+Motion to vacate judgment,"Motion to vacate judgment (Uniform Small Claims Rule 8) filed by P01  HSBC BANK NEVADA, N.A.."
+Motion to vacate judgment,Motion to vacate judgment (Uniform Small Claims Rule 8) for Defendant filed by Robert Girvin.
+Motion to vacate judgment,Motion to vacate judgment (Uniform Small Claims Rule 8) for Defendant filed by Robert Girvin.
+Motion withdrawn,Motion to compel discovery (Mass.R.Civ.P. 37[a]) waived or withdrawn by moving party.
+Motion withdrawn,9-23-2011 Motion to compel discovery (Mass.R.Civ.P. 37[a]) waived or withdrawn by moving party.
+Motion withdrawn,Motion to compel discovery (Mass.R.Civ.P. 37[a]) waived or withdrawn by moving party.papers have been provided
+Motion withdrawn,Motion to compel production of documents waived or withdrawn by moving party.
+Motion withdrawn,Motion transfer of structured settlement waived or withdrawn by moving party.
+Motion withdrawn,"On 4/1/10, Plaintiff's Motion for judgment on the pleadings and Plaintiff's Motion for Assessment of Damages waived or withdrawn by moving party."
+Motion withdrawn,Motion to compel discovery (Mass.R.Civ.P. 37[a]) waived or withdrawn by moving party.
+Motion withdrawn,Motion to compel discovery (Mass.R.Civ.P. 37[a]) waived or withdrawn by moving party.
+Motion withdrawn,Motion for judgment on the pleadings (Mass.R.Civ.P. 12[c]) waived or withdrawn by moving party.
+Motion withdrawn,Motion for attachment of real estate(Mass.R.Civ.P.4.1[f])  waived or withdrawn by moving party.
+Must file to avoid judgment,Deft. to file police report for ID fraud & return I.D. fraud Affidavit to plaintiff's attorney by 5/3/11 or judgment to be entered.
+No capias returned,No Capias returned
+No capias returned,No Capias returned
+No capias returned,No Capias returned
+No capias returned,Misc Entry:On capias list but no capias returned Deft. appeared & agreement was  filed no ability to pay
+No capias returned,Misc Entry: No capias returned.
+No capias returned,No capias returned by sheriff
+No capias returned,No Capias returned
+No capias returned,No Capias returned
+No capias returned,No Capias returned
+No capias returned,No Capias returned
+No Parties Present,NPP
+No parties present,neither party present
+No parties present,neither party present
+No parties present,5/23/11 neither party present
+No parties present,NEITHER PARTY PRESENT
+No parties present,neither party present
+No parties present,8/8/11 neither party present
+No parties present,neither party present
+No parties present,6/27/11 neither party present
+No parties present,4/4/11 neither party present
+Notice of appeal,12-10-2010 Notice of appeal for trial by judge filed by D01  JOHNNY YOUNG (G.L. c.218 §23).
+Notice of appeal,Notice of appeal for trial by jury filed by Michael Michel D/B/A Hot Wheels Auto Sales (G.L. c.218 23).
+Notice of appeal,Notice of appeal for trial by judge filed by D01  THOMAS L. ALTOM (G.L. c.218 23).
+Notice of appeal,"Notice of appeal for trial by jury filed by Town Sports International, LLC (G.L. c.218 23)."
+Notice of appeal,Notice of appeal for trial of counterclaim by jury filed by P01  JAMES P. CLAFFEY  (G.L. c.218 23).
+Notice of appeal,Notice of appeal for trial by judge filed by Calvin Green (G.L. c.218 23).
+Notice of appeal,"Notice of appeal for trial by judge filed by Iascollectibles, Inc (G.L. c.218 23)."
+Notice of appeal,Notice of appeal for trial by judge filed by D01  LESLIE STARACE (G.L. c.218 23).
+Notice of appeal,"Notice of appeal for trial by jury filed by Heidi Jagminas (G.L. c.218 23).
+"
+Notice of appeal,"Notice of appeal for trial by jury filed by David Young (G.L. c.218 23).
+
+"
+Notice of dismissal,"Notice of dismissal without prejudice filed by Dennis Housing Authority.
+
+(Faxed copy)"
+Notice of dismissal,"Notice of dismissal without prejudice filed by Dennis Housing Authority.
+
+(original copy)"
+Notice of dismissal,Stipulation of dismissal without prejudice filed.
+Notice of dismissal,Stipulation of dismissal without prejudice filed.
+Notice of dismissal,Stipulation of dismissal with prejudice filed (Mass.R.Civ.P. 41(a)(1) & 58(a)).
+Notice of dismissal,Stipulation of dismissal with prejudice filed (Mass.R.Civ.P. 41(a)(1) & 58(a)).
+Notice of dismissal,Stipulation of dismissal with prejudice filed (Mass.R.Civ.P. 41(a)(1) & 58(a)).
+Notice of dismissal,"Notice of dismissal of supplementary process without prejudice filed by Portfolio Recovery Associates, LLC As Assignee of Capital One Bank (USA) NA.
+
+orig exec ret'd"
+Notice of dismissal,Stipulation of dismissal without prejudice filed.
+Notice of dismissal,Stipulation of dismissal without prejudice filed.
+Notice of dismissal filed,"Notice of dismissal of supplementary process without prejudice filed by P01  POTFOLIO RECOVERY ASSOCIATES, LLC."
+Notice of dismissal filed,Notice of dismissal filed by P01  CLARENCE WILCOX.
+Notice of dismissal filed,"Notice of dismissal filed by P01  CAPITAL ONE BANK (USA), N.A.."
+Notice of dismissal filed,Notice of dismissal filed by P01  HYDE PARK CHIROPRACTIC.
+Notice of dismissal filed,Stipulation of dismissal without prejudice filed.
+Notice of dismissal filed,Notice of dismissal filed by Elite Capital Management.
+Notice of dismissal filed,"Notice of dismissal filed by P01  ANJ, CORPORATION."
+Notice of dismissal filed,Stipulation of dismissal without prejudice filed.
+Notice of dismissal filed,"Notice of dismissal filed by P01  ANJ, INCORPORATED."
+Notice of dismissal filed,Stipulation of dismissal without prejudice filed.
+Notice of intent to offer medi,Affidavit and return receipt filed by D01  NGU HUYNH that notice has been given opposing party(ies) by certified mail of intent to offer medical records in evidence (G.L. c.233 §79G).
+Notice of intent to offer medi,"Affidavit of Ngu Huynh Affidavit of Notice Under M.G.L. c 233 sec.79G filed.
+"
+Notice of intent to offer medi,"Affidavit of Ngu Huynh of the Defendant's intention to offer Medical Records from Beth Isreal Deaconess Medical Center filed.
+"
+Notice of intent to offer medi,"Affidavit of Josefina Roque certified mail, return receipt requested for medical Recods from Whittier Street Health Center filed.
+"
+Notice of intent to offer medi,Affidavit of PURSUANT TO GENERAL LAWS CHAPTER 233 SECTION 79G  filed.
+Notice of intent to offer medi,"Affidavit in compliance with Massachusetts General Laws Chapter 233, Section 79G"
+Notice of intent to offer medi,Notice of Intention to offer certified Medical Records in evidence pursuant to G.L.C. 233 79g (Kingsley Ladega( and (Marianne Langford)
+Notice of potential default,"Order ( Miller, Hon. Rosalind H ); parties notified. unless you hire an attorney for the corporation and file an answer, the corporation will subjected to defaulting (55a) for failure to answer"
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/29/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/29/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/29/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/26/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/26/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/25/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/25/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/25/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/25/2011 09:00 AM.
+Notice of potential dismissal,DISMISSAL UNDER MASS.R.CIV.P. 4(j) potentially applicable on 08/25/2011 09:00 AM.
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice of trial,"Small claim notice of trial issued to plaintiff(s) by first class mail, and to defendant(s) by first class mail (Uniform Small Claims Rule 3(a))."
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice sent to parties.
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice sent to parties.
+Notice sent,Notice of next event sent to parties.
+Notice sent,Notice of court action on 11/07/2011 sent to parties (Mass.R.Civ.P. 77(d)).
+Opposition to motion,"Opposition filed by ANJ Corp. to Motion to dismiss that was filed on 11/29/2011.
+"
+Opposition to motion,"Opposition filed by ANJ Corp. to Motion to vacate judgment that was filed on 08/10/2012.
+"
+Opposition to motion,"Opposition filed by Richard Gothage to Motion for summary judgment that was filed on 10/14/2011.
+
+"
+Opposition to motion,Opposition filed by 223 Bussey LLC to Motion for more time that was filed on 12/16/2014.
+Opposition to motion,"Opposition filed by Jason Leach to Motion for summary judgment that was filed on 06/14/2011.
+
+and memorandum in support"
+Opposition to motion,filed 5/2 Opposition filed by PLAINTIFF to Motion for summary judgment that was filed on 04/15/2011.
+Opposition to motion,"On June 29, 2011 Opposition filed by PLAINTIFF to Motion for summary judgment that was filed on 06/14/2011."
+Opposition to motion,Opposition filed by P01  NANCY KELLEY to Motion to sever and stay that was filed on 07/30/2010.
+Opposition to motion,4/27/11 Opposition filed by P01  JACK VALKENBURG to Motion to dismiss & alternatively cross-motion to extend time to obtain service on out of state defendants that was filed on 04/05/2011.
+Opposition to motion,"Opposition filed by P01  CHIROPRACTIC CARE CENTERS, INC. to Motion to amend answer that was filed on 06/03/2011."
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative
+Order for Informal Probate,"Order for Informal Probate of Will and/or Appointment of Personal Representative,dated 02/26/2014"
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative on 4/11/12
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative dated 01/09/13
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative  7/8/14
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative  7/8/14
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative  7/8/14
+Order for Informal Probate,Order for Informal Probate of Will and/or Appointment of Personal Representative  7/8/14
+Order Nisi,"Order: NISI; parties notified.
+
+#3"
+Order Nisi,"Order: NISI; parties notified.
+
+#7"
+Order Nisi,"Order: NISI; parties notified.
+
+#!5"
+Order Nisi,"Order: NISI; parties notified.
+
+#15"
+Order Nisi,"Order: NISI; parties notified.
+
+#10"
+Order Nisi,"Order: NISI; parties notified.
+
+#8"
+Order Nisi,"Order: NISI; parties notified.
+
+#6"
+Order Nisi,"Order: NISI; parties notified.
+#12"
+Order Nisi,"Order: NISI; parties notified.
+
+#9"
+Order Nisi,"Order: NISI; parties notified.
+#13"
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Order Nisi for Dismissal,Order nisi for judgment of dismissal for failure to act on default (Joint Standing Order 1-04 or Dist. Ct. Standing Order 1-98); parties notified.
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110)
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110)
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110) Pltff's supplemental filing in support of its opposition to deft's motion to dismiss and for sanctions
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110)  Copies of documents subpoenaed by Pltff (Verizon) filed.
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110) Deft Witness List
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110)  Jury Verdict Slip (2) filed
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110)
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110) Joint Agreed Statement filed by the parties.
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110) Pltf Witness List
+Original note filed,Original note or other paper filed (Dist./Mun.Cts.Supp.R.Civ.P. 110)
+Payment order,"Payment order to pay 10.00 per month starting 07/01/2012.
+"
+Payment order,"Payment order to pay total amount by 08/01/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay total amount by 08/01/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay total amount by 08/01/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay total amount by 08/01/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay total amount by 08/01/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay total amount by 07/27/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay  $50.00  per month starting 09/01/2011 ( Caldwell, AC-M Valerie ) ."
+Payment order,"Payment order to pay total amount by 10/24/2011 ( Clough, AC-M John J. ) ."
+Payment order,"Payment order to pay total amount by 07/27/2011 ( Caldwell, AC-M Valerie ) ."
+Payment review,Misc Entry: 1st session for payment review deft ordered to pay #25.00 per month foward each judgment 11sc586 + 11sp303 cont 5/22/14 @ 2pm deft to cont sending payments to dorchester court; deft to bring proof of federal + state taxes filed 5/22/14 you need to provide tax refund info
+Payment review,Misc Entry:1st Sess. BPP before J.Coffey for P.R.Deft. makes $50 money order payment for May.(Clerk failed to make copy of money order)Deft. still unemployed-order to remain at $50 per month
+Payment review,"Payment review held at which plaintiff was present and defendant was not present ( Clough, AC-M John J. )."
+Payment review,"Payment review held at which plaintiff was present and defendant was not present ( Clough, AC-M John J. )."
+Payment review,1.31.11 deft present pltff no show instructed deft to pay pltff the judgment amount cont for further payment review 4/4/11 acm john clough
+Payment review,"Payment review held at which both plaintiff and defendant were present ( Williamson, C-M Liza H. )."
+Payment review,"Payment review held at which plaintiff was present and defendant was not present ( Fleming, AC-M John M. )."
+Payment review,"Payment review held at which both plaintiff and defendant were present ( Conlon, Hon. Albert S. ) (Tape T3 8/12/11 from x to x )."
+Payment review,"Payment review held at which both plaintiff and defendant were present ( Conlon, Hon. Albert S. ) (Tape T3 from 900 to 1000 )."
+Payment review,"Payment review held at which both plaintiff and defendant were present ( Conlon, Hon. Albert S. ) (Tape 3-12/2/11 from 9:53 to xxx )."
+Petition for Administration,Petition for Administration
+Petition for Administration,Petition for Administration DBN
+Petition for Administration,Petition for Administration DBN
+Petition for Administration,Petition for Administration
+Petition for Administration,Petition for Administration
+Petition for Administration,Petition for Administration
+Petition for Administration,Petition for Administration
+Petition for Administration,Petition for Administration
+Petition for Administration,Petition for Administration CTA
+Petition for Administration,Petition for Administration
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account
+Petition for Allowance of Acco,Petition for Allowance of Account (Complete Settlement)
+Petition for Appointment of Tr,Petition for Appointment of Trustee to fill a vacancy
+Petition for Appointment of Tr,Petition for Appointment of Trustee
+Petition for Appointment of Tr,Petition for appointment of Trustee
+Petition for Appointment of Tr,Petition for Appointment of Trustee
+Petition for Appointment of Tr,Petition for Appointment of Trustee
+Petition for Appointment of Tr,Petition for Appointment of Trustee
+Petition for Appointment of Tr,Petition for appointment of trustees
+Petition for Appointment of Tr,Petition for Appointment of Trustee
+Petition for Appointment of Tr,Petition for Appointment of Trustee
+Petition for Appointment of Tr,Petition for Appointment of Trustee---trust to fill vacancy-trust under will
+Petition for Formal Probate,"Petition for Formal Probate
+
+Attorney: Puciloski, Esq., Peter L"
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Formal Probate,"Petition for Formal Probate
+
+Attorney: Cook, Esq., Janice J"
+Petition for Formal Probate,"Petition for Formal Probate
+
+Attorney: Cimini, Esq., Albert J"
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Formal Probate,Petition for Formal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Informal Probate,Petition for Informal Probate
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Citation on Petition for Order of Complete Settlement requesting to approve an accounting issued.
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Petition for Order of Complete Settlement---allowables
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Order of Complete,Petition for Order of Complete Settlement
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Foreig,Petition for Probate of Foreign Will
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Probate of Will a,Petition for Probate of Will and Appointment of Executor
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Removal of Person,Petition for Removal of Personal Representative
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Sale of Real Esta,Petition for Sale of Real Estate
+Petition for Special Administr,Petition for Special Administration
+Petition for Special Administr,Petition for Special Administration
+Pre-Trial conference,"2-17-2012 5th session, 9:25 - 9:26 Pretrial conference held ( Caldwell, AC-M Valerie )."
+Pre-Trial conference,"1-27-2012 5th session, 0:22 - 9:23 Pretrial conference held ( Caldwell, AC-M Valerie )."
+Pre-Trial conference,Pretrial conference held
+Pre-Trial conference,Pretrial conference held.
+Pre-Trial conference,"Pretrial conference held ( Pierce, Hon. Laurence D. )."
+Pre-Trial conference,Pretrial conference held
+Pre-Trial conference,"Pretrial conference held ( Hadley, Hon. William P. )."
+Pre-Trial conference,"Pretrial conference held ( Dalton, Jr., AC-M John T. )."
+Pre-Trial conference,Pretrial conference held
+Pre-Trial conference,"Pretrial conference held ( Brennan, Hon. Martha A. )."
+Pre-Trial Memorandum,2-17-2012 Pre-Trial Memorandum filed jointly by all parties.
+Pre-Trial Memorandum,1-27-2012 Pre-Trial Memorandum filed jointly by all parties.
+Pre-Trial Memorandum,"Defendant's Pre-Trial Memorandum filed by Kristin A. Santangelo, alias. #23"
+Pre-Trial Memorandum,Plaintiff's Pre-Trial Memorandum filed by Attorney Joseph McIntyre. #24
+Pre-Trial Memorandum,Joint Pre-Trial Memorandum filed by the parties. #25
+Pre-Trial Memorandum,Proposed joint pre-trial Memorandum filed 1-18-12  jointly by all parties.
+Pre-Trial Memorandum,Misc Entry:Joint Pre-Trial Memorandum filed
+Pre-Trial Memorandum,Pre-trial Memorandum filed 3-9-12  jointly by all parties.
+Pre-Trial Memorandum,Joint Pre-Trial Memorandum filed.
+Pre-Trial Memorandum,"Joint Pre-Trial Memorandum filed by P01  PALISADES COLLECTION, LLC AND D02  KATHERINE HAYDEN."
+Request for admissions filed,"Request for admissions filed by P01  EMCC, INC., ASSIGNEE OF JORDAN'S FURNITURE (Mass.R.Civ.P. 36)."
+Request for admissions filed,"Request for admissions filed by Portfolio Recovery Associates, LLC As Assignee of GE Capital Retail Bank (Mass.R.Civ.P. 36)"
+Request for admissions filed,Request for admissions filed by Midland Funding LLC As Assignee of GE Money Bank/Care Credit Dental (Mass.R.Civ.P. 36)
+Request for admissions filed,"Request for admissions filed by ANJ Corp. (Mass.R.Civ.P. 36)
+"
+Request for admissions filed,"Request for admissions filed by Midland Funding LLC As Assignee of Cit Bank (Mass.R.Civ.P. 36)
+"
+Request for admissions filed,"Request for admissions filed by Midland Funding LLC As Assignee of Cit Bank (Mass.R.Civ.P. 36)
+"
+Request for admissions filed,"Request for admissions filed by FIA Card Services, N.A. (Mass.R.Civ.P. 36)
+
+"
+Request for admissions filed,Request for admissions filed by Cach LLC (Mass.R.Civ.P. 36)
+Request for admissions filed,Request for admissions filed by Discover Bank (Mass.R.Civ.P. 36)
+Request for admissions filed,"Request for admissions filed by LVNV Funding LLC As Assignee of Citibank / Sears Gold Mastercard (Mass.R.Civ.P. 36)
+
+
+
+
+
+filed on 11/8/11"
+Request for continuance,Plaintiff requests that case be continued while payment is being made.
+Request for continuance,Plaintiff requests that case be continued while payment is being made.
+Request for continuance,Plaintiff requests that case be continued while payment is being made.
+Request for continuance,Plaintiff requests that case be continued while payment is being made.
+Request for Temporary Restrain,Misc Entry: Plff files request for TRO for breach of quiet enjoyment for unlawful eviction.
+Request for Temporary Restrain,Misc Entry: Plff files request for TRO for breach of quiet enjoyment for unlawful eviction.
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).  #8
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Request to not dismiss,Plaintiff reports that case is active and requests that it not be dismissed for failure to act on default (Joint Standing Order 1-04(V)(B)).
+Return of Execution,Return of Execution
+Return of Service,"Return of service on complaint and summons to D01  THOMAS IRBY, JR.: Officer service SERVED at last and usual abode."
+Return of Service,Return of service on small claim notice of trial to D01  STEVEN JONES: First class mail returned UNDELIVERED: unable to forward.
+Return of Service,Return of service on 5/18/11  complaint and summons to D01  ROSA T. HUYNH: Officer service SERVED at last and usual abode.
+Return of Service,Return of service on 3rd party summons on defendant D02  ALEXANDRO CABRERA: Officer service SERVED at last and usual abode.
+Return of Service,Return of service on 5/16/11  complaint and summons to D01  PATRICIA ROSSER: Officer service SERVED at last and usual abode.
+Return of Service,Return of service on 5/21/11  complaint and summons to D01  JORGE D. LACERA: Officer service SERVED at last and usual abode.
+Return of Service,Return of service on small claim notice of trial to D01  JOHNNY YOUNG: First class mail returned UNDELIVERED: unknown.
+Return of Service,Return of service on attachment writ against D01  GREGORY BURTON: Officer service SERVED in hand.
+Return of Service,Return of service on small claim notice of trial to D01  DOLPHUS C. JUDGE: First class mail returned UNDELIVERED: unable to forward.
+Return of Service,Return of service on 5/7/11  complaint and summons to D01  ELOUISE WASHINGTON: Officer service SERVED at last and usual abode.
+Satisfaction of judgment,Satisfaction of judgment filed satisfied in full.
+Satisfaction of judgment,Satisfaction of judgment filed: satisfied in full.
+Satisfaction of judgment,"Satisfaction of judgment filed: satisfied in full.
+"
+Satisfaction of judgment,"Satisfaction of judgment filed: satisfied in full.
+"
+Satisfaction of judgment,pltff present reports judgment satisfied acm john clough
+Satisfaction of judgment,Satisfaction of judgment filed satisfied in full.
+Satisfaction of judgment,Satisfaction of judgment filed: satisfied in full.
+Satisfaction of judgment,Satisfaction of judgment filed satisfied in full.
+Satisfaction of judgment,Satisfaction of judgment filed: satisfied in full.
+Satisfaction of judgment,Satisfaction of judgment filed satisfied in full.
+Settlement agreement,5/23/11 CHILD CARE CENTER BOTH PARTIES PRESENT MEDIATED SETTLEMENT AGREEMENT REACHED CONT TIL 8/15/11 FOR STATUS / COMPLIANCE ACM JOHN CLOUGH
+Settlement agreement,5/23/11 child care center both parties present mediated agreement cont til 8/8/11 for compliance w/agreement acm john clough
+Settlement agreement,"4-29-2011 5th session, 12:41 - 12:44 Settlement approved between P01  AYAN MOHAMED, A MINOR, BY HER PARENTS QADAR M. SEE and D01  COMMERCE INSURANCE COMPANY for personal injuries to minor or incompetent person (G.L. c.231 §140CË) ( Justice of the Boston M
+unic Ct, Frison )."
+Settlement Agreement,5/23/11 CHILD CARE CENTER BOTH PARTIES PRESENT MEDIATED SETTLEMENT REACHED CONT TIL 8/8/11 FOR COMPLIANCE ACM JOHN CLOUGH
+Settlement agreement,Settlement reported by parties. Court orders dismissal if no settlement agreement is filed within 30 days; parties notified.
+Settlement agreement,Settlement reported by parties. Court orders dismissal if no settlement agreement is filed within 0 days; parties notified.
+Settlement agreement,Settlement reported by parties. Court orders dismissal if no settlement agreement is filed within 30 days; parties notified.
+Settlement agreement,Settlement reported by parties. Court orders dismissal if no settlement agreement is filed within 30 days; parties notified.
+Settlement agreement,"Settlement reported by parties. Court orders dismissal if no settlement agreement is filed within 30 days; parties notified.
+
+"
+Settlement agreement,"Settlement reported by parties. Court orders dismissal if no settlement agreement is filed within 60 days ( Livingston, Hon. D. Dunbar ); parties notified."
+Statement of damages filed,Statement of damages filed by P01  AMERICAN EXPRESS (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  DOROTHY CARTWRIGHT (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  CHRISTOPHER HANBERRY (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  AMERCIAN EXPRESS CENTURION BANK (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  AMERICAN EXPRESS CENTURION BANK (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  DISCOVER BANK (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  DISCOVER BANK (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,Statement of damages filed by P01  DISCOVER BANK (Dist./Mun.Cts.Supp.R.Civ.P. 102A).
+Statement of damages filed,"Statement of damages filed by P01  FIA CARD SERVICES, N.A (Dist./Mun.Cts.Supp.R.Civ.P. 102A)."
+Statement of damages filed,"Statement of damages filed by P01  FIA CARD SERVICES, N.A (Dist./Mun.Cts.Supp.R.Civ.P. 102A)."
+Statement of small claim filed,"Statement of Small Claim entered on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed.
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed.
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed
+Waiver of Award of Pre-Judgmen,Waiver of Award of Pre-Judgment Interest filed by Plaintiff.
+Waiver of Award of Pre-Judgmen,"Waiver of Award of Pre-Judgment Interest filed."
+Witness list filed,Plaintiff's Witness List filed
+Witness list filed,Deft's Witness List filed
+Witness list filed,Plaintiff's Witness List filed.
+Witness list filed,Defendant's Witness List filed.
+Witness list filed,Defendant's Witness List filed.
+Witness list filed,Plaintiff's Witness List filed.
+Witness list filed,Deft's witness list filed.
+Witness list filed,Pltff's witness list filed.
+Witness list filed,Deft's witness list filed.
+Witness list filed,Trial Witness List filed by Paul Leblanc.
+Waiver of jury trial,1-27-2012 Waiver of jury filed by D01  BELFIELD D. CAMPBELL (Mass.R.Civ.P. 39(a)).
+Waiver of jury trial,"Waiver of jury filed by Deborah Perry.
+DEFENDANT WAIVES RIGHT TO APPEAL - JURY TRIAL CANCELLED"
+Waiver of jury trial,"Waiver of jury filed by Leandro C Yiana.(in Open Court)"
+Waiver of jury trial,Waiver of jury filed by all parties.
+Waiver of jury trial,"Waiver of jury filed by Clifford Johnson.and by Defendant, Fabrizia Macchiavelli"
+Waiver of jury trial,Waiver of jury filed by Latoya Horton A/K/A Latoya M Horton.
+Waiver of jury trial,Waiver of jury filed by all parties (Mass.R.Civ.P. 39(a)) filed in court.
+Waiver of jury trial,Waiver of jury filed by P01  JOHN MCNICHOLAS.
+Waiver of jury trial,Waiver of jury filed by Jay Sidman (Mass.R.Civ.P. 39(a)).
+Waiver of jury trial,Waiver of jury filed by all parties (Mass.R.Civ.P. 39(a)).
+Waiver of Attorneys Fees filed,Misc Entry:  Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Misc Entry:  Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files waiver of attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files Waiver of Attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files waiver of attorneys fees.
+Waiver of Attorneys Fees filed,Plaintiff files waiver of attorneys fees.
+Under Advisement,"11-4-11 Motions Taken under advisement ( Baylor, Hon. Robert E. )."
+Under Advisement,Taken under advisement.
+Under Advisement,"8-12-2011 Motion for attachment by trustee process (Mass.R.Civ.P. 4.2[g]) heard ( Baylor, Hon. Robert E. ) (Tape 5th session  ). TAKEN UNDER ADVISEMENT"
+Under Advisement,"9-9-2011 Motion to assess damages (Mass.R.Civ.P. 55[b][4]) heard ( Baylor, Hon. Robert E. ) (Tape 5th session from 11:51 to 12:00 ). TAKEN UNDER ADVISEMENT"
+Under Advisement,Taken under advisement.
+Under Advisement,Taken under advisement.
+Under Advisement,Taken under advisement.
+Under Advisement,Taken under advisement.
+Under Advisement,Taken under advisement.
+Under Advisement,Taken under advisement.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+UCC filed,ADR Uniform Counsel Certifcation filed by plainfiff's attorney.
+Trial,"5-19-2011 First appearance in trial session held at which both plaintiff and defendant were present ( Baylor, Hon. Robert E. ) (Tape 1st session from 10:56 to 11:08 ).Mr. Castillo not part of this action as per motion allowed by Judge Lyons on 5-5-2011 Tr
+ial on the merits held Findings reserved"
+Trial,"1-13-2011 Jury trial held ( Coffey, Hon. James W. ) (Tape 3rd session from 10:36 - 10:58 ).both parties present, Decision taken under advisement"
+Trial,"6-21-2011 Jury trial held ( Donnelly, Hon. David T. ) (Tape 2nd session)."
+Trial,8/9/10 both parties present 3rd session 10:00am trial on the merits begins parties wish to suspend trial and talk about a possible resolution acm john clough
+Trial,"Order: Jury trial held, plaintiff present and defendant not present. Defendant attorney requests a continuance which is denied after hearing. Appeal is dismissed and original small claims judgment of $2,128.77 issued on 11/12/2010 stands. ( Sullivan, Hon.
+Mary Hogan ); parties notified."
+Trial,Trial
+Trial,Misc Entry: Jury Trial Held on 09/11/13 - Tape # 13-390  Start: 8:46:42 End: 8:47:00  Start: 9:44:45 End: 9:49:06 Start: 9:58:51 End: 11:09:45  Start: 11:17:49 End: 12:12:02 Start: 1:23:41 End: 1:56:26    Start:  2:32:25  End: 2:34:15
+Trial,"Jury trial held ( Cremens, Hon. J. Elizabeth ) (Tape 2nd session from 9:00 to 3:00 )."
+Trial,"Jury trial held ( McGovern, Hon. James J. ) (Tape 5/24/11 (Ctrm 2) from 10:39 to 1:15 )."
+Trial,"Jury trial held ( Rutberg, Hon. Fredric D. ) (Tape 0 from 0 to 0 )."
+Transfer of case,"Case received at Boston Municipal Court, Dorchester Div. from trial session at Taunton District Court."
+Transfer of case,Case transferred out from BMC - Dorchester to Hingham District Court: Transfer by Dist Ct Chief Justice/Reg Adm Justice.
+Transfer of case,Case ordered transferred to BMC - East Boston (G.L. c.211B §10; 218 §43A).
+Transfer of case,Case transferred out from Quincy District Court to Leominster District Court: Transfer by Dist Ct Chief Justice/Reg Adm Justice.
+Transfer of case,"Case transferred out from Salem District Court to Peabody District Court: Transfer by Dist Ct Chief Justice/Reg Adm Justice."
+Transfer of case,Case transferred out from Quincy District Court to Framingham District Court: Transfer by Dist Ct Chief Justice/Reg Adm Justice.
+Transfer of case,"Case transferred out from Lawrence District Court to Lowell District Court: .By allowed motion."
+Transfer of case,Case ordered transferred to Springfield District Court (G.L. c.211B 10; 218 43A).
+Transfer of case,Misc Entry:Case transferred to Superior Court to be consolidated with PLCV2011-01167B
+Transfer of case,transfered from 1112SC529
+Third-party cross-claim filed,Third-party cross-claim filed by D01  JOSEFINA ROQUE against D02  ALEXANDRO CABRERA (Mass.R.Civ.P. 14).
+Third-party cross-claim filed,"Third-party cross-claim filed by D06  SOTIR PAPALILO AS TRUSTEE OF P.G. REALTY TRUST against D07  TWO BROTHERS CONSTRUCTION CORP., 3RD PARTY DEFT. (Mass.R.Civ.P. 14)."
+Third-party cross-claim filed,"Third-party cross-claim filed by D06  SOTIR PAPALILO AS TRUSTEE OF P.G. REALTY TRUST against D08  GERALD C. OLIVEIRA, 3RD PARTY DEFT. (Mass.R.Civ.P. 14)."
+Third-party cross-claim filed,"Third-party cross-claim filed by D06  SOTIR PAPALILO AS TRUSTEE OF P.G. REALTY TRUST against D09  TWO BROTHERS CONSTRUCTION & CARPENTRY CORP., 3RD PARTY DEFT. (Mass.R.Civ.P. 14)."
+Third-party cross-claim filed,Third-party cross-claim filed by Yves Dorelien against Edson C. Deoliveira As he is Defendant in Cross-Claim (Mass.R.Civ.P. 14).
+Third-party cross-claim filed,Third-party cross-claim filed by Joseph Bissanti against Diane M Morlino (Mass.R.Civ.P. 14).
+Third-party cross-claim filed,"Third-party cross-claim filed by Gregory Amedee against Nicole T Fontaine, Comerce Insurance Company (Mass.R.Civ.P. 14)."
+Third-party cross-claim filed,"Third-party cross-claim filed by Anouska Joassaint, James F Carter against Jean Baguidy (Mass.R.Civ.P. 14)."
+Third-party cross-claim filed,"Third-party cross-claim filed by Andrew M. Collins d/b/a Collins Construction As he is 3rd Party Plaintiff against Karl H Spilhaus As he is 3rd Party Defendant (Mass.R.Civ.P. 14).
+and statement of damages"
+Third-party cross-claim filed,Third-party cross-claim filed by D02  THOMAS SHANKS against JEFFREY C. FIORENTINO (Mass.R.Civ.P. 14).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+Termination notice filed,Termination notice filed (Uniform Summary Process Rule 2).
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+System Notes,This Case Converted from Civil BasCOT application.
+Summons,Return of service on complaint and summons to D01  KEVIN T. PHAN: Officer service SERVED at last and usual abode.
+Summons,"Return of service on complaint and summons to D01  JOANN ROJAS, ON 5-6-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  NGU HUYNH, ON 5-14-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  KEITH MCLEOD, ON 5-14-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  GEORGE C. EDWARDS, ON 7-26-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  ERROL I. COARD, ON 7-22-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  VALENTINA S. STEWART, ON 5-14-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  ALBERT WILLIS, ON 5-14-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  LUIS G. DIAZ, ON 5-12-2011: Officer service SERVED at last and usual abode."
+Summons,"Return of service on complaint and summons to D01  MAURICE BROOMES, ON 5-13-2011: Officer service SERVED at last and usual abode."
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Summary Process Summons and Co,SP Summons and Complaint - Non-payment of Rent
+Suggestion of death filed,Suggestion of Death of Laura Ellen Monahan
+Suggestion of death filed,Suggestion of Death of Patricia Farrel Morris
+Suggestion of death filed,Suggestion of Death of Irene Aherne
+Suggestion of death filed,Suggestion of Death of
+Suggestion of death filed,Suggestion of Death of Annette I McLeish
+Suggestion of death filed,Suggestion of Death of Eleanor t. Gately
+Suggestion of death filed,Suggestion of Death of Nancy K. Cassidy
+Suggestion of death filed,Suggestion of Death of John Britwell
+Suggestion of death filed,Suggestion of Death of ANTONETTA MAZZINI
+Suggestion of death filed,Suggestion of Death of
+Suggestion of bankruptcy filed,Suggestion of bankruptcy of D01  CRYSTAL JONES filed (11 U.S.C. §362).
+Suggestion of bankruptcy filed,Suggestion of banruptcy of Joanne V Sacilotto filed (11 U.S.C. §362).
+Suggestion of bankruptcy filed,Suggestion of bankruptcy of D01  JEAN GUSTAVE VILMRE filed (11 U.S.C. §362).
+Suggestion of bankruptcy filed,Misc Entry: Notice of Chapter 7 Meeting filed from Bankruptcy Court.
+Suggestion of bankruptcy filed,Suggestion of banruptcy of Sandra Minelli A/K/A Sandra J Minelli filed (11 U.S.C. §362).
+Suggestion of bankruptcy filed,Suggestion of banruptcy of Lynne Richmond filed (11 U.S.C. §362).
+Suggestion of bankruptcy filed,Suggestion of banruptcy of Lynne Richmond filed (11 U.S.C. §362).
+Suggestion of bankruptcy filed,Suggestion of banruptcy of Gary Gauthier D/B/A Rusty G'S Place filed (11 U.S.C. 362).
+Suggestion of bankruptcy filed,Suggestion of bankruptcy of Michael Youngs filed (11 U.S.C. 362).
+Suggestion of bankruptcy filed,"On 10/7/10, Suggestion of bankruptcy of D01  YVONNE DUMONT STELLE filed (11 U.S.C. 362)."
+Status Review,"Status review held at which both plaintiff and defendant were present ( Coffey, Hon. James W. ) (Tape 1st session from 10:15 to 10:20 )."
+Status Review,"9-23-2011 Status review held ( Justice of the Boston Munic Ct, Saranson ) (Tape 5th session from 10:13   11:04 to 10:14   11:05 )."
+Status Review,"10-7-2011 Status review held ( Baylor, Hon. Robert E. ) (Tape 5th session  ).Pltff. present, Deft. no show, monies never deposited into escrow"
+Status Review,"12-17-2010 Status review held ( Dougan, Jr., Hon. Raymond G. ) (Tape 5th session from 9:20  )."
+Status Review,"Status review held at which plaintiff was present and defendant was not present ( Walsh, Hon. Maureen E. ) (Tape Courtroom 1 from - to - )."
+Status Review,status review held agreement filed by parties
+Status Review,"Status review held ( Flynn III, Hon. Maurice R. ) (Tape no report of settlement from first trial out 11/19/10 to. )."
+Status Review,"Status review held at which both plaintiff and defendant were present ( Gailey, Hon. Timothy H. )"
+Status Review,"Status review held ( Cunningham, Hon. Kevan J. ) (Tape courtroom 4 from 10:20 to 10:27 )."
+Status Review,"Status review held ( Flynn III, Hon. Maurice R. ) settlement reported by parties.  Jury trial canceled."
+Statement of Voluntary Adminis,Statement of Voluntary Administration
+Statement of Voluntary Adminis,Statement of Voluntary Administration mailed 7/2/14
+Statement of Voluntary Adminis,Statement of Voluntary Administration 7/2/14
+Statement of Voluntary Adminis,Statement of Voluntary Administration
+Statement of Voluntary Adminis,Statement of Voluntary Administration 7/2/14
+Statement of Voluntary Adminis,Statement of Voluntary Administration
+Statement of Voluntary Adminis,Statement of Voluntary Administration mailed 7/2/14
+Statement of Voluntary Adminis,Statement of Voluntary Administration
+Statement of Voluntary Adminis,Statement of Voluntary Administration mailed out 7/2/14
+Statement of Voluntary Adminis,Statement of Voluntary Administration given to Angela M Andrews on 7/2/14 in registry
+Statement of small claim filed,"Statement of Small Claim entered on 04/27/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/26/2011 at Boston Municipal Court, Dorchester Div.."
+Statement of small claim filed,"Statement of Small Claim entered on 04/25/2011 at Boston Municipal Court, Dorchester Div.."
