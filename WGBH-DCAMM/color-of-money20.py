@@ -11,40 +11,40 @@ def main(arg):
     debug = False
     os.system("pwd")
     print("================================")
-    csv_file = "data20/WorkforceUtilizationSummaryReport"
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportJan2020.pdf"
+    csv_file = "data2020/WorkforceUtilizationSummaryReport"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportJan2020.pdf"
     #  The above pdf file has an apprentice section shifted to the right one cell for Ceiling
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportFeb2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportFeb2020.pdf"
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportMar2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportMar2020.pdf"
     #  The above pdf file has a field with over 1000 hours for Manafort-Precision, LLC
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportApr2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportApr2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportMay2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportMay2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportJun2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportJun2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportJul2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportJul2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportAug2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportAug2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportSep2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportSep2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportOct2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportOct2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportNov2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportNov2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
-    pdf_file = "data2020/WorkforceUtilizationSummaryReportDec2020.pdf"
+    pdf_file = "data20/WorkforceUtilizationSummaryReportDec2020.pdf"
        #  Next Month
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
     print("================================")
