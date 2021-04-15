@@ -51,7 +51,7 @@ import html_parser
 
 
 # Upload table containing list of companies and their corresponding risk text
-data = pd.read_csv("data/10k_2019.csv")
+data = pd.read_csv("data/10k_2020_original.csv")
 
 
 # Specify list of stop words
