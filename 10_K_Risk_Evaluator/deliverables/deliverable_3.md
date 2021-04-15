@@ -25,4 +25,5 @@ LDA_and_revenue_v0.csv : preliminary dataset which contains LDA output, topic as
 - [x] Submit a PR with the above report and modifications to original proposal (*here it is*)
  
  -- Evie Wan, Nick Mosca, Eric South
+ 
 
