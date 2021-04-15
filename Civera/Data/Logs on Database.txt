@@ -1,0 +1,6 @@
+﻿Database Relations: 
+https://docs.google.com/document/d/1eh2QDq7t0A3MUiNMu6Tj8JaaHfwpgzVdZeOajRwjyiQ/edit?fbclid=IwAR0u6bcVvSXAomWWfj0FxZeLZ0fH5r7yvg1_kjplvKkSYjXSXUNdz6sU-0o
+
+
+Distinct Data Values for specific fields: 
+https://docs.google.com/document/d/1DviiCHbg7FtP7spmDW7-077czLTXu48u8IjY_dwMBcU/edit

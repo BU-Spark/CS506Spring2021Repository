@@ -1,0 +1,273 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+4118,2020-01-05 20:50:28.736934+00:00,"b""G\x7f\x04'""",0.6265458760735669,35.82,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+4711,2020-01-06 01:11:49.465328+00:00,b'G\x7f\x04\x87',0.3053441119281387,15.512,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+5415,2020-01-07 20:36:53.935646+00:00,b'G\x7f\x07\x1e',0.7059835727417949,48.911,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+5944,2020-01-07 20:31:00.306438+00:00,b'G\x7f\x07\x1e',0.7126804712650933,50.828,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7245,2020-01-09 17:15:26.757381+00:00,b'G\x7f\x08\x02',0.7151993336328123,48.243,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7345,2020-01-09 13:07:48.538781+00:00,b'G\x7f\x08\x02',0.406469080001614,50.744,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7468,2020-01-09 13:06:26.024811+00:00,b'G\x7f\x08\x02',0.6910084163195259,49.218,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+7503,2020-01-09 01:11:01.416790+00:00,b'G\x7f\x027',0.8933911830148535,31.515,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9650,2020-01-11 13:28:50.428897+00:00,b'G\x7f\x05\xe7',0.5587090248875278,39.16,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9797,2020-01-12 20:37:58.157711+00:00,b'G\x7f\x06p',0.6353915300599876,334.871,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+9846,2020-01-12 20:50:13.148149+00:00,b'G\x7f\x06p',0.6599028308467234,273.31,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10157,2020-01-12 20:34:59.039280+00:00,b'G\x7f\x06p',0.5432663991768161,254.709,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10313,2020-01-12 20:38:35.939268+00:00,b'G\x7f\x06p',0.6434923847591403,298.511,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10335,2020-01-12 20:39:46.827191+00:00,b'G\x7f\x06p',0.5674589147982241,222.98,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10533,2020-01-12 20:35:35.040034+00:00,b'G\x7f\x06p',0.6382182305889749,372.312,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+10659,2020-01-12 20:46:37.014438+00:00,b'G\x7f\x06p',0.6499502171287139,272.1,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+11136,2020-01-13 13:28:48.820293+00:00,b'G\x7f\x05\xe7',0.5575571265766732,37.89,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+11258,2020-01-13 01:02:57.691383+00:00,b'G\x7f\x07\xd2',0.6656623837567022,287.42,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+11362,2020-01-13 20:47:38.375954+00:00,b'G\x7f\t\xf8',0.6979124191955722,55.196,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+11660,2020-01-13 20:47:02.294286+00:00,b'G\x7f\t\xf8',0.7001342194839391,68.658,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+13239,2020-01-15 13:28:50.177723+00:00,b'G\x7f\x05\xe7',0.5577408033366644,37.927,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14705,2020-01-17 20:35:46.092130+00:00,b'G\x7f\x04\x04',0.7093815600528094,33.696,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14891,2020-01-17 20:44:13.748617+00:00,b'G\x7f\x04\x04',0.6866698053291888,33.28,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14911,2020-01-17 20:43:39.091776+00:00,b'G\x7f\x04\x04',0.7029733891413386,29.588,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+14999,2020-01-17 20:33:58.194362+00:00,b'G\x7f\x04\x04',0.704875270768651,31.335,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+15046,2020-01-17 17:29:20.063337+00:00,b'G\x7f\n\x8a',0.3581690752013633,35.947,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16102,2020-01-19 13:29:02.261040+00:00,b'G\x7f\x05\x88',0.472981472615736,51.473,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16103,2020-01-19 13:08:18.494450+00:00,b'G\x7f\x04J',0.6679155822089773,191.181,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16300,2020-01-19 13:10:55.110530+00:00,b'G\x7f\x04J',0.7079859145027173,51.65,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16441,2020-01-19 13:07:33.032436+00:00,b'G\x7f\x04J',0.7103135626637447,52.63,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+16863,2020-01-19 13:28:50.085861+00:00,b'G\x7f\x05\xe7',0.5552515494279316,35.448,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+18140,2020-01-21 13:28:50.147855+00:00,b'G\x7f\x00\xde',0.5932651686080908,35.15,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19265,2020-01-22 13:05:56.250076+00:00,b'G\x7f\x0b\xf7',0.3853552419410447,52.343,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+19268,2020-01-22 13:10:51.817940+00:00,b'G\x7f\x0b\xf7',0.6217075063848928,56.413,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+20114,2020-01-23 01:06:07.570068+00:00,b'G\x7f\x08\xfc',0.8900931892873389,14.568,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+20326,2020-01-23 13:28:49.742113+00:00,b'G\x7f\x00\xde',0.5944222701396289,36.331,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+20400,2020-01-23 17:26:18.086399+00:00,b'G\x7f\n\x9f',0.2002650425283741,824.422,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21039,2020-01-24 13:29:24.691087+00:00,b'G\x7f\x08@',0.7035195405003034,30.372,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+21182,2020-01-24 01:08:46.523131+00:00,b'G\x7f\x01\x13',0.704532890857826,31.795,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+22590,2020-01-26 20:52:40.104451+00:00,b'G\x7f\t\xd0',0.1702951596703619,1246.738,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23537,2020-01-27 17:28:29.766742+00:00,b'G\x7f\n\x0b',0.8197403068713294,33.502,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+23853,2020-01-27 13:29:07.707109+00:00,b'G\x7f\x00\xde',0.5967261541974735,39.15,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+26934,2020-01-31 13:28:20.420542+00:00,b'G\x7f\x00\xde',0.5932684091964359,39.137,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+28419,2020-02-01 17:11:21.990670+00:00,b'`\xe9\xa7\xc4',0.6006082399500441,19.406,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+38533,2020-02-13 13:01:36.271749+00:00,b'\xc7\xa7\x7f\x13',1.5009274614048902,23.107,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+38842,2020-02-13 13:02:03.106645+00:00,b'\xc7\xa7\x7f\x13',1.5465810597644851,19.344,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+39927,2020-02-14 20:51:16.144076+00:00,b'\x98\xb3\x01Z',88.94809324045704,10.54,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+41216,2020-02-16 20:31:42.006561+00:00,b'\xc7\xa7\x7f\x13',1.7147192339693271,31.177,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+51618,2020-02-28 13:21:50.502636+00:00,b'`\xe9\xaeG',0.0701463436698652,1577.053,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+57172,2020-03-06 12:03:16.380944+00:00,b'G\x7f\x08\xc1',0.6682717446194081,57.153,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+58963,2020-03-08 16:07:59.533202+00:00,b'\xa1M)D',0.4153715091057489,14.34,Ashfield,42.5213,-72.8108,7849.0,CROCKERCOM - CROCKER COMMUNICATIONS
+62935,2020-03-12 16:22:05.041721+00:00,b'`\xe9\xa8\t',0.4534199448274628,427.72,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+64141,2020-03-13 19:58:32.744180+00:00,b'G\x7f\x08\x19',0.6956136389399931,19.825,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+66063,2020-03-15 19:57:29.989895+00:00,b'G\x7f\x03\xdf',0.1299556727313822,20.011,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+68456,2020-03-16 00:14:02.725486+00:00,b'G\x7f\x02\xd2',0.6241697586752949,226.389,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71060,2020-03-18 00:17:13.386120+00:00,b'G\x7f\x05S',0.235601184330246,20.064,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71348,2020-03-18 00:14:54.750340+00:00,b'G\x7f\n\x14',0.3614968167753439,84.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+72446,2020-03-19 00:23:56.797534+00:00,b'G\x7f\x08\xeb',0.5654154143993684,75.282,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+72527,2020-03-19 00:24:28.039896+00:00,b'G\x7f\x08\xeb',0.6875580561185529,47.073,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+73336,2020-03-19 00:19:25.573313+00:00,b'G\x7f\x08\xeb',0.0362914379828296,778.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+74985,2020-03-20 00:03:58.093457+00:00,b'`\xe9\xa8@',0.5888719061534365,41.417,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+75025,2020-03-20 00:00:10.006249+00:00,b'`\xe9\xa8@',0.596343737294837,162.551,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+75254,2020-03-20 00:01:22.646501+00:00,b'`\xe9\xa8@',0.5858048114958512,132.511,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+77710,2020-03-22 00:10:15.686177+00:00,b'G\x7f\x08\x92',0.4762497142223253,47.613,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+78345,2020-03-23 00:13:53.107308+00:00,b'\xc7\xa7\x7f\x13',1.4394246536936908,21.686,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+79185,2020-03-23 00:14:16.327443+00:00,b'\xc7\xa7\x7f\x13',1.384564762978296,20.485,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+82293,2020-03-25 19:30:26.455645+00:00,b'\xa1M))',2.666601201030306,14.596,Ashfield,42.5213,-72.8108,7849.0,CROCKERCOM - CROCKER COMMUNICATIONS
+86029,2020-03-27 16:02:42.932479+00:00,b'\xa1M)X',57.48473405911734,14.889,Ashfield,42.5213,-72.8108,7849.0,CROCKERCOM - CROCKER COMMUNICATIONS
+86485,2020-03-27 12:21:20.045949+00:00,b'`\xe9\xa6\xaf',0.6499619171985984,47.8,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+89799,2020-03-29 16:21:28.125988+00:00,b'`\xe9\xa71',0.5803816576161696,33.468,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+91539,2020-03-30 19:52:10.312103+00:00,b'\xc7\xa7\x7f\x13',0.5675454988732231,122.219,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+92069,2020-03-31 00:23:15.997617+00:00,b'G\x7f\x00\x7f',0.6431053221448727,260.45,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+92670,2020-03-31 00:00:38.696485+00:00,b'G\x7f\x00^',0.2854849022176675,164.002,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+99311,2020-04-04 12:20:03.696581+00:00,b'G\x7f\x07N',0.622325691214329,36.941,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+100734,2020-04-05 19:45:20.244536+00:00,b'G\x7f\n\xd8',0.1013835090837788,1974.776,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101054,2020-04-05 12:22:32.074466+00:00,b'G\x7f\n\x80',0.6963014913345112,34.053,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101185,2020-04-05 19:48:54.579993+00:00,b'G\x7f\n\xf0',0.233775366592913,1579.958,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101347,2020-04-05 16:20:09.222667+00:00,b'\xa1M)\x05',3.5594935646382457,126.351,Ashfield,42.5213,-72.8108,7849.0,CROCKERCOM - CROCKER COMMUNICATIONS
+101703,2020-04-05 12:21:13.046217+00:00,b'G\x7f\n\x80',0.7102040882325052,32.95,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+102227,2020-04-06 00:18:29.451035+00:00,b'`\xe9\xa8\xc8',0.5106372403726487,316.179,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103225,2020-04-06 00:08:19.356499+00:00,b'`\xe9\xa8\xc8',0.5791899729719505,341.66,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+103297,2020-04-06 12:06:53.842067+00:00,b'G\x7f\x079',0.5773269421436197,16.26,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+108957,2020-04-09 19:31:37.745314+00:00,b'G\x7f\t\x1d',0.7097885471644866,86.048,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+111219,2020-04-11 19:38:51.517980+00:00,b'G\x7f\t\xbd',0.5874244614644011,17.588,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+111617,2020-04-11 00:26:10.385585+00:00,b'`\xe9\xa89',0.2129397040916353,1130.417,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+114812,2020-04-14 19:49:02.301696+00:00,b'G\x7f\x08$',0.1219586481791264,70.517,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+122864,2020-04-19 16:29:29.063731+00:00,b'G\x7f\x06\xb1',0.5957396094247414,23.366,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+123248,2020-04-19 16:28:50.681295+00:00,b'G\x7f\x06\xb1',0.7002186765355473,17.283,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+126370,2020-04-21 19:32:46.543613+00:00,b'`\xe9\xa8\xa0',0.5112431681438767,35.772,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+130224,2020-04-23 00:07:39.276775+00:00,b'G\x7f\x02)',0.510765921365852,33.481,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+132645,2020-04-24 19:41:55.139233+00:00,b'G\x7f\x04[',0.5994807944261016,94.11,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+132679,2020-04-25 19:47:31.296858+00:00,b'G\x7f\x05c',0.3751021883913741,38.928,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+135325,2020-04-27 16:06:16.640941+00:00,b'\xc7\xa7\x7f\x13',1.059728356772128,39.717,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+135900,2020-04-27 00:23:19.418903+00:00,b'G\x7f\x00\xe9',0.6106699027949979,19.324,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+143856,2020-05-02 00:05:31.258479+00:00,b'\xc7\xa7\x7f\x13',1.7942695287325054,46.244,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+144432,2020-05-02 00:06:44.544131+00:00,b'\xc7\xa7\x7f\x13',1.6583949093171613,38.848,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+144643,2020-05-02 00:09:31.930966+00:00,b'\xc7\xa7\x7f\x13',0.6544092951017632,62.883,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+144754,2020-05-02 00:08:41.592500+00:00,b'\xc7\xa7\x7f\x13',1.235873643217006,43.42,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+144894,2020-05-02 00:07:18.599013+00:00,b'\xc7\xa7\x7f\x13',1.188793365858858,43.304,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+147197,2020-05-04 00:03:16.353075+00:00,b'\xc7\xa7\x7f\x13',0.8256046591429905,57.733,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+152820,2020-05-08 00:23:58.243260+00:00,b'\xc7\xa7\x7f\x13',2.549428469272988,67.616,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+156628,2020-05-11 19:45:10.935053+00:00,b'\xc7\xa7\x7f\x13',0.7724385681973635,23.152,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+157544,2020-05-11 19:48:06.246524+00:00,b'\xc7\xa7\x7f\x13',0.687938010908113,21.392,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+157576,2020-05-11 19:44:42.064200+00:00,b'\xc7\xa7\x7f\x13',0.2917038920820157,22.938,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+157707,2020-05-11 19:58:02.077048+00:00,b'\xc7\xa7\x7f\x13',0.6230048048556781,23.245,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+157743,2020-05-11 19:58:26.606260+00:00,b'\xc7\xa7\x7f\x13',0.6971393426076783,22.986,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+158017,2020-05-11 19:40:04.734594+00:00,b'\xc7\xa7\x7f\x13',0.2073841726170391,23.653,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+160453,2020-05-13 19:50:49.768332+00:00,b' \x01\x05\xb0E\xdb\x0c\xb8L\xb68\x04\xc2\x93Q\xf2',1.8258316022260763,56.876,Ashfield,42.5213,-72.8108,6621.0,HNS-DIRECPC - Hughes Network Systems
+166007,2020-05-17 12:07:31.476385+00:00,b' \x01\x05\xb0E\xdaB\xd8uR\xaa|\xff\xe7\xa0\x86',0.9855257349091976,54.166,Ashfield,42.5213,-72.8108,6621.0,HNS-DIRECPC - Hughes Network Systems
+170792,2020-05-20 12:01:12.942763+00:00,b' \x01\x05\xb0E\xdaHX\xaddJ\xf1\x1b\xbd\xefY',2.471554918414149,57.721,Ashfield,42.5213,-72.8108,6621.0,HNS-DIRECPC - Hughes Network Systems
+173585,2020-05-22 19:30:10.664944+00:00,b' \x01\x05\xb0E\xdb\x19\xc8\xe5\x92\xfeT\x011\xf0\xdc',1.5549635141096467,55.428,Ashfield,42.5213,-72.8108,6621.0,HNS-DIRECPC - Hughes Network Systems
+186811,2020-06-01 16:27:26.442759+00:00,b'`\xe9\xa7\xf1',0.6465046466633375,50.987,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+187449,2020-06-01 16:14:45.467529+00:00,b'`\xe9\xa7\x16',0.0251413886363457,1420.635,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+187591,2020-06-01 12:28:11.927472+00:00,b'G\x7f\x07i',0.0669988060136325,20.9,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+188231,2020-06-02 19:52:23.311607+00:00,b'`\xe9\xa8N',0.288337660608385,170.435,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+192136,2020-06-04 00:14:39.407892+00:00,b'`\xe9\xa6\xd7',0.5705925735372657,258.538,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+192325,2020-06-04 16:27:01.057459+00:00,b'`\xe9\xa1{',0.7048398097294982,120.23,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+192364,2020-06-04 00:15:22.249915+00:00,b'`\xe9\xa6\xd7',0.5969291987452274,265.652,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+193736,2020-06-05 19:42:49.157500+00:00,b'`\xe9\xa2\xd7',0.5363689721270909,78.124,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+193852,2020-06-05 16:12:53.517895+00:00,b'`\xe9\xa2\xd7',0.6484945083091642,164.541,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+196530,2020-06-08 00:10:08.799615+00:00,b'`\xe9\xa3\xc7',0.3000445250220161,43.828,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+197305,2020-06-08 00:18:23.824033+00:00,b'`\xe9\xa3\xc7',0.3182387683777967,43.849,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+197710,2020-06-08 00:15:24.383455+00:00,b'`\xe9\xa3\xc7',0.3267225548349244,46.625,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+198025,2020-06-09 16:10:47.113929+00:00,b'`\xe9\xa1\xb4',0.6645144556396736,24.127,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+200898,2020-06-11 19:32:43.074599+00:00,b'`\xe9\xa2\xad',0.5142906519139984,289.811,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+200978,2020-06-11 19:34:30.571386+00:00,b'`\xe9\xa2\xad',0.4603120270468945,284.002,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201064,2020-06-11 19:38:09.566370+00:00,b'`\xe9\xa2\xad',0.6892099853396426,191.399,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201261,2020-06-11 12:10:43.185740+00:00,b'`\xe9\xa2\x84',0.2577723049664255,50.856,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201390,2020-06-11 00:27:58.303894+00:00,b'`\xe9\xa3\x1f',0.6123983124298258,193.395,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201501,2020-06-11 19:37:21.608425+00:00,b'`\xe9\xa2\xad',0.5762823597175024,62.87,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+201549,2020-06-11 19:33:31.518802+00:00,b'`\xe9\xa2\xad',0.471279697609242,249.976,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202002,2020-06-11 19:30:49.696700+00:00,b'`\xe9\xa2\xad',0.5756997040581692,175.592,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202375,2020-06-11 19:30:24.803198+00:00,b'`\xe9\xa2\xad',0.4777378721146004,290.702,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+202378,2020-06-11 19:31:57.657793+00:00,b'`\xe9\xa2\xad',0.4909979482368458,269.276,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+203754,2020-06-12 00:18:25.664650+00:00,b'`\xe9\xa2\xad',0.6169998666318686,319.403,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+204179,2020-06-13 00:06:31.277892+00:00,b'`\xe9\xa7L',0.2080542914373532,1118.411,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+209468,2020-06-16 12:15:02.004505+00:00,b'`\xe9\xa78',0.3958341121045276,22.455,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211797,2020-06-18 19:41:18.984335+00:00,b'`\xe9\xa7 ',0.6737164606510557,45.381,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+211820,2020-06-18 00:06:05.183869+00:00,b'G\x7f\x05L',0.6845959396530941,238.002,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+212705,2020-06-18 00:05:31.939906+00:00,b'G\x7f\x05L',0.570514590372356,233.305,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+212965,2020-06-19 19:37:34.316399+00:00,b'G\x7f\x04\xad',0.7157870940203833,40.672,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+217959,2020-06-22 19:34:56.716414+00:00,b'\xc7\xa7\x7f\x13',1.3670133093912924,67.688,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+219011,2020-06-22 19:35:25.533917+00:00,b'\xc7\xa7\x7f\x13',1.4176713966896597,67.413,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+219667,2020-06-23 12:16:13.912509+00:00,b'`\xe9\xa7!',0.6556572032574566,32.064,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+222161,2020-06-24 16:22:45.393305+00:00,b'\xc7\xa7\x7f\x13',1.1724389018994552,63.862,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+225671,2020-06-26 12:07:08.689227+00:00,b'`\xe9\xa6\x1d',0.576686178815167,30.352,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+226703,2020-06-26 16:22:40.436469+00:00,b'\xc7\xa7\x7f\x13',2.282484212079344,21.281,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+226797,2020-06-26 12:08:34.898146+00:00,b'`\xe9\xa6\x1d',0.6745730889609806,98.84,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+228523,2020-06-27 19:35:14.688243+00:00,b'`\xe9\xa4\xd9',0.6967904956782961,37.74,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+229833,2020-06-28 12:04:18.083628+00:00,b'`\xe9\xa0^',0.696502808312712,56.416,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+230408,2020-06-28 16:25:25.214825+00:00,b'`\xe9\xa0z',0.3727877614566326,42.296,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+234359,2020-06-30 00:24:09.192673+00:00,b'`\xe9\xa4=',0.496012388219569,300.634,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+235615,2020-07-01 00:18:08.905827+00:00,b'\xc7\xa7\x7f\x13',0.8901447718877875,127.63,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+235848,2020-07-01 00:18:43.966406+00:00,b'\xc7\xa7\x7f\x13',0.9933277536659356,94.362,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+236965,2020-07-02 00:03:02.349184+00:00,b'G\x7f\x03[',0.5103830706196822,32.674,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+238283,2020-07-02 00:03:50.645026+00:00,b'G\x7f\x03[',0.6964796691302101,34.898,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+238542,2020-07-03 16:15:17.119581+00:00,b'`\xe9\xa5T',0.6803570320628958,19.94,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+238697,2020-07-03 00:29:42.390249+00:00,b'G\x7f\x07|',0.0727438909076196,1111.388,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+239467,2020-07-03 16:14:16.403420+00:00,b'`\xe9\xa5T',0.6976478248522158,17.241,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+239873,2020-07-03 19:57:23.676372+00:00,b'`\xe9\xa7\xfb',0.7011054774899015,19.454,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+239961,2020-07-03 19:31:33.123753+00:00,b'`\xe9\xa3\x99',0.6552767577061722,318.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240015,2020-07-03 16:06:36.498143+00:00,b'`\xe9\xa5T',0.6135505567477423,17.171,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240170,2020-07-04 00:25:39.717733+00:00,b'G\x7f\x04\x95',0.6297157583756807,81.643,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240253,2020-07-04 00:23:12.391939+00:00,b'G\x7f\x04\x95',0.2641343240803774,104.398,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240324,2020-07-04 00:15:29.248881+00:00,b'G\x7f\x03\xf9',0.274415751233711,315.776,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240405,2020-07-04 00:12:31.975292+00:00,b'G\x7f\x04\x95',0.4265777332318366,75.377,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240471,2020-07-04 00:19:32.234658+00:00,b'G\x7f\x04\x95',0.686729365258591,100.704,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+240892,2020-07-04 00:18:54.708440+00:00,b'G\x7f\x04\x95',0.4421460843695748,368.44,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+241006,2020-07-04 00:25:09.855362+00:00,b'G\x7f\x04\x95',0.6736102666071105,85.468,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243211,2020-07-06 19:58:15.974901+00:00,b'`\xe9\xa3?',0.4306166069639268,563.016,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243412,2020-07-06 16:16:06.988184+00:00,b'`\xe9\xa7\x0b',0.7875089086760796,36.141,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243649,2020-07-06 16:16:59.962553+00:00,b'`\xe9\xa7\x0b',0.5997291574017524,34.267,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243902,2020-07-06 12:19:47.830612+00:00,b'`\xe9\xa8\xe5',0.2624911665777492,40.935,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+243941,2020-07-06 16:24:57.690546+00:00,b'\xc7\xa7\x7f\x13',1.4128418525471558,82.899,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+244053,2020-07-06 16:28:59.406849+00:00,b'G\x7f\x02\x1a',0.0928847396016833,49.768,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+244197,2020-07-06 19:48:28.750253+00:00,b'`\xe9\xa75',0.6921308066433837,27.838,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+245272,2020-07-07 16:12:53.260852+00:00,b'G\x7f\x085',0.7185248446181254,21.967,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+245722,2020-07-07 16:16:57.659834+00:00,b'G\x7f\x085',0.7243244068848258,16.294,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+246780,2020-07-07 12:13:28.339529+00:00,b'G\x7f\x04\xde',0.3882557788780101,363.933,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+248494,2020-07-08 19:54:23.137638+00:00,b'G\x7f\x06\xe7',0.0767339120212867,857.876,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+249154,2020-07-09 16:14:05.633127+00:00,b'G\x7f\x00*',0.3745516549456444,36.704,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+249627,2020-07-09 16:00:33.324651+00:00,b'G\x7f\x00*',0.3701769616456528,39.516,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+250075,2020-07-09 16:18:44.841099+00:00,b'G\x7f\x03\x8a',0.3713094954944749,34.008,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+250395,2020-07-09 16:23:23.554234+00:00,b'G\x7f\x03\x8a',0.3457829202068541,34.989,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259645,2020-07-15 16:21:00.492680+00:00,b'`\xe9\xa2K',0.602029067472951,30.529,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259701,2020-07-15 16:24:25.664930+00:00,b'`\xe9\xa2K',0.6092030376268756,35.94,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259784,2020-07-15 12:21:35.221660+00:00,b'`\xe9\xa4>',0.7197089798875,23.093,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259849,2020-07-15 16:21:43.434659+00:00,b'`\xe9\xa2K',0.43986118167774,152.9,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259865,2020-07-15 16:23:45.186978+00:00,b'`\xe9\xa2K',0.0009591819666116,1926.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259908,2020-07-15 16:22:07.120306+00:00,b'`\xe9\xa2K',0.6103384008163544,51.974,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259974,2020-07-15 16:24:01.520084+00:00,b'`\xe9\xa2K',0.6088745605173862,35.346,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+259982,2020-07-15 16:22:53.224840+00:00,b'`\xe9\xa2K',0.5009162227215288,103.37,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260291,2020-07-15 16:22:52.068374+00:00,b'`\xe9\xa2K',0.0758381800143979,95.75,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260424,2020-07-15 16:23:37.544196+00:00,b'`\xe9\xa2K',0.1070232064830235,85.756,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260572,2020-07-15 16:22:54.681103+00:00,b'`\xe9\xa2K',0.0273099477527272,348.436,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260631,2020-07-15 16:22:28.905127+00:00,b'`\xe9\xa2K',0.1080580924404352,44.841,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260696,2020-07-15 16:21:43.686687+00:00,b'`\xe9\xa2K',0.1230687644199246,89.771,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260897,2020-07-15 16:23:17.863648+00:00,b'`\xe9\xa2K',0.4514755317429182,85.659,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+260938,2020-07-15 12:18:33.143980+00:00,b'\xc7\xa7\x7f\x13',0.1933543550498718,45.695,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+260950,2020-07-15 16:23:20.076930+00:00,b'`\xe9\xa2K',0.0123335075288949,518.912,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+261073,2020-07-15 16:21:44.979592+00:00,b'`\xe9\xa2K',0.0251495494577036,408.509,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+261096,2020-07-15 16:22:28.746198+00:00,b'`\xe9\xa2K',0.4951617608461217,39.159,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+261121,2020-07-15 16:23:37.064226+00:00,b'`\xe9\xa2K',0.4765672205038034,240.642,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+261183,2020-07-15 16:21:26.413612+00:00,b'`\xe9\xa2K',0.4905297558042489,295.429,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+261934,2020-07-16 00:17:48.256392+00:00,b'\xc7\xa7\x7f\x13',1.5700107139579855,91.88,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+262874,2020-07-16 19:30:56.380138+00:00,b'\xc7\xa7\x7f\x13',2.5554962550378746,44.887,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+266092,2020-07-18 12:26:56.020427+00:00,b'G\x7f\x04>',0.2817862052165462,113.666,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+266415,2020-07-18 12:24:16.717081+00:00,b'G\x7f\x04>',0.208061943829666,775.714,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+268835,2020-07-20 19:56:17.762731+00:00,b'G\x7f\x00\xdd',0.1121059855334375,291.782,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+268940,2020-07-20 19:56:20.570753+00:00,b'G\x7f\x00\xdd',0.1066584270975097,614.59,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+269355,2020-07-20 12:19:43.800844+00:00,b'\xc7\xa7\x7f\x13',0.6153703116766984,72.186,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+270222,2020-07-20 19:56:18.434721+00:00,b'G\x7f\x00\xdd',0.0331469908276459,547.297,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+271773,2020-07-21 16:20:26.707807+00:00,b'`\xe9\xa0\x80',0.586495119908547,104.459,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+272482,2020-07-22 16:17:53.188132+00:00,b'G\x7f\x06\x05',0.6951027770536583,31.079,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+274891,2020-07-23 19:58:31.374988+00:00,b'`\xe9\xa4\xca',0.7113298681632302,32.527,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+275324,2020-07-23 00:00:40.338308+00:00,b'G\x7f\x02\xcb',0.3002579436699079,17.635,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+277959,2020-07-25 12:01:32.652895+00:00,b'G\x7f\x01\xcf',0.7149467673420212,42.621,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+278665,2020-07-25 16:10:58.557856+00:00,b'`\xe9\xa2V',0.7114752020379305,36.824,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+278938,2020-07-25 12:00:38.196707+00:00,b'G\x7f\x01\xcf',0.7014942290968951,40.414,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+279212,2020-07-26 16:19:21.660382+00:00,b'`\xe9\xa8\xfb',0.1461467998565441,106.141,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+279639,2020-07-26 16:14:32.860278+00:00,b'`\xe9\xa8\xfb',0.5465765469127721,24.789,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+280137,2020-07-26 16:15:04.051182+00:00,b'`\xe9\xa8\xfb',0.2085707387048556,224.515,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+282602,2020-07-28 19:49:58.058326+00:00,b'`\xe9\xa7\xa0',0.6918411571144473,56.5,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+283300,2020-07-28 19:59:45.029351+00:00,b'`\xe9\xa1-',0.6110657790400817,142.492,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+284541,2020-07-29 00:13:24.473255+00:00,b'`\xe9\xa7\xa0',0.4603509392377837,210.404,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+284562,2020-07-29 00:14:06.848161+00:00,b'`\xe9\xa7\xa0',0.6354488589862439,284.328,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+285244,2020-07-29 00:16:15.304451+00:00,b'`\xe9\xa7\xa0',0.6542450485814982,275.318,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+285442,2020-07-29 00:14:41.392566+00:00,b'`\xe9\xa7\xa0',0.6527247580767558,198.572,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+286555,2020-07-30 00:29:40.739712+00:00,b'G\x7f\x02t',0.4531120628799692,38.729,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+290085,2020-08-02 16:27:59.660705+00:00,b'`\xe9\xa6\x8c',0.0023039459876726,3055.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+294079,2020-08-05 19:43:02.178123+00:00,b'`\xe9\xa44',0.2218771754369936,106.146,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+294082,2020-08-05 19:42:41.392561+00:00,b'`\xe9\xa44',0.4032845755761883,63.062,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+294110,2020-08-05 19:51:34.994576+00:00,b'`\xe9\xa44',0.0824872453076952,204.704,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+294750,2020-08-05 19:51:31.978552+00:00,b'`\xe9\xa44',0.292555430791404,83.054,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+294820,2020-08-05 00:19:47.819931+00:00,b'\xc7\xa7\x7f\x13',1.870799237020876,114.202,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+295007,2020-08-05 19:43:02.336736+00:00,b'`\xe9\xa44',0.2057279228382785,104.484,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+295797,2020-08-06 19:34:17.073256+00:00,b'G\x7f\x02R',0.6541443464740748,35.233,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+299203,2020-08-08 00:05:53.723473+00:00,b'`\xe9\xa8\x1c',0.1626398838261707,43.522,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+299833,2020-08-09 00:25:38.695693+00:00,b'`\xe9\xa5\xc9',0.6308417434042582,297.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+300335,2020-08-09 00:18:34.271815+00:00,b'`\xe9\xa5\xc9',0.5677349032261755,230.353,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+301133,2020-08-10 16:20:42.726643+00:00,b'`\xe9\xa1\x0f',0.714912270844504,33.936,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+301246,2020-08-10 16:21:16.114048+00:00,b'`\xe9\xa1\x0f',0.7206777761291282,34.995,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+302395,2020-08-10 19:37:48.487694+00:00,b'`\xe9\xa1\x0f',0.5311841852419966,35.587,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+303611,2020-08-11 12:12:02.285372+00:00,b'G\x7f\x079',0.6187580405851342,16.767,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+304372,2020-08-11 12:10:19.694959+00:00,b'`\xe9\xa3W',0.5815472232439165,51.202,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+310104,2020-08-15 00:10:28.738556+00:00,b'`\xe9\xa5\xbe',0.1923805010026858,52.205,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+310135,2020-08-15 00:11:05.323852+00:00,b'`\xe9\xa5\xbe',0.1699258293158386,44.963,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+318317,2020-08-21 16:09:51.598900+00:00,b'`\xe9\xaf\x1e',0.0758693152888123,1240.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+323743,2020-08-25 12:11:51.809590+00:00,b'`\xe9\xa4\xe8',0.7345041826743645,39.083,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+329122,2020-08-29 19:45:12.041578+00:00,b'G\x7f\x05>',0.364665463019281,37.936,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+329560,2020-08-30 12:22:28.789295+00:00,b'\xc7\xa7\x7f\x13',4.548448588375366,32.292,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+329645,2020-08-30 12:28:02.621981+00:00,b'\xc7\xa7\x7f\x13',3.5841170940680898,41.819,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+329680,2020-08-30 00:14:53.277799+00:00,b'G\x7f\x00\xc6',0.4280745231574122,228.0,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+329794,2020-08-30 12:29:08.641531+00:00,b'\xc7\xa7\x7f\x13',4.2706580775517775,42.172,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+329865,2020-08-30 12:29:31.826610+00:00,b'\xc7\xa7\x7f\x13',4.031666322547467,43.173,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+329899,2020-08-30 12:28:39.080473+00:00,b'\xc7\xa7\x7f\x13',4.521734232132144,23.685,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+330124,2020-08-30 12:18:14.524283+00:00,b'\xc7\xa7\x7f\x13',4.39331665650187,36.245,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+330304,2020-08-30 12:25:53.773967+00:00,b'\xc7\xa7\x7f\x13',4.300337901652382,35.81,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+330365,2020-08-30 12:17:49.478394+00:00,b'\xc7\xa7\x7f\x13',3.08052992533536,34.142,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+330870,2020-08-31 00:13:45.448183+00:00,b'\xc7\xa7\x7f\x13',4.622719783224071,36.055,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+330978,2020-08-31 00:14:21.759649+00:00,b'\xc7\xa7\x7f\x13',4.498898949147329,30.412,Ashfield,42.5213,-72.8108,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+342786,2020-09-10 19:34:16.936145+00:00,b'\xd8\xc1\xaax',362.0381313460068,9.655,Ashfield,42.5213,-72.8108,393856.0,
+344909,2020-09-12 16:08:29.073188+00:00,b'\xd8\xc1\xab$',166.67870033772698,8.423,Ashfield,42.5213,-72.8108,393856.0,
+352424,2020-09-20 19:56:39.080207+00:00,b'\xd8\xc1\xab ',41.7351390972775,18.874,Ashfield,42.5213,-72.8108,393856.0,
+354705,2020-09-22 19:49:01.146755+00:00,b'`\xe9\xa7\xd9',0.3302182680317832,35.243,Ashfield,42.5213,-72.8108,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+356242,2020-09-23 12:00:18.131011+00:00,b'\xd8\xc1\xaav',90.43037030861692,8.186,Ashfield,42.5213,-72.8108,393856.0,
+370105,2020-10-08 16:24:25.815179+00:00,b'\xd8\xc1\xaa4',74.55507354593692,20.001,Ashfield,42.5213,-72.8108,393856.0,
+386533,2020-10-27 00:08:25.334317+00:00,b'\xd8\xc1\xaa4',62.37564278819857,17.859,Ashfield,42.5213,-72.8108,393856.0,
+386970,2020-10-27 00:24:26.481819+00:00,b'\xd8\xc1\xaa4',124.48192774488332,21.045,Ashfield,42.5213,-72.8108,393856.0,
+400322,2020-11-13 13:14:23.066042+00:00,b'\xd8\xc1\xab\x13',651.1412768956232,7.638,Ashfield,42.5213,-72.8108,393856.0,
+400435,2020-11-13 13:14:46.281542+00:00,b'\xd8\xc1\xab\x13',632.5140181149668,8.199,Ashfield,42.5213,-72.8108,393856.0,
+429163,2020-12-21 01:26:43.688327+00:00,b'\xd8\xc1\xaa\xbb',77.99250313185746,10.72,Ashfield,42.5213,-72.8108,393856.0,

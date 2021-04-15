@@ -1,0 +1,5 @@
+# API Keys #
+*.json
+
+# __pycache__
+__pycache__

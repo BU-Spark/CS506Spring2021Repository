@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+219499,2020-06-23 12:00:46.127386+00:00,b'\xa6\x8f+!',1.721137977946908,39.356,Wales,42.0627,-72.2046,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless

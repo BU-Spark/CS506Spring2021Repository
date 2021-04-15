@@ -1,0 +1,2 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+71147,2020-03-18 12:17:10.382415+00:00,b'GS<:',11.325658924939372,27.882,Cherry Valley,42.2373,-71.875,20115.0,CHARTER-NET-HKY-NC - Charter Communications
