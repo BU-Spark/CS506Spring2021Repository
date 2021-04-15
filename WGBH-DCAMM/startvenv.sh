@@ -1,4 +1,6 @@
+#!/bin/bash
 
+echo "Setup the python virtual environment"
 python3 -m venv venv
 echo "CREATED the virtual environment"
 source venv/bin/activate

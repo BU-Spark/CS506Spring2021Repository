@@ -1,0 +1,121 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+861,2020-01-02 20:38:32.926419+00:00,b'\x90y-\xb2',1.0292963674114783,13.232,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+928,2020-01-02 20:34:43.397353+00:00,b'\x90y-\xb2',34.54796903569767,11.661,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+935,2020-01-02 20:40:24.856080+00:00,b'\x90y-\xb2',1.0060735493964073,18.038,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+1049,2020-01-02 20:35:27.801981+00:00,b'\x90y-\xb2',41.27847624053282,9.56,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+1134,2020-01-02 20:39:44.396883+00:00,b'\x90y-\xb2',1.0295403454012797,10.423,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+1563,2020-01-02 20:37:23.147541+00:00,b'\x90y-\xb2',1.0395933485517743,22.419,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+29855,2020-02-03 17:25:29.795674+00:00,b'HJU\x1b',8.947531985589375,19.779,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30201,2020-02-03 17:25:04.159904+00:00,b'HJU\x1b',9.154441936490183,9.859,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30285,2020-02-04 17:04:56.295732+00:00,b'HJUt',35.40413396096533,8.782,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+30605,2020-02-04 17:05:49.188617+00:00,b'l\x07ES',478.8449010688627,7.727,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+32451,2020-02-06 17:18:58.015993+00:00,b'l\x07ES',472.3529707781897,8.696,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+33554,2020-02-07 20:44:10.261979+00:00,b'\x90y-\xd2',0.7954236422203484,12.516,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+33695,2020-02-07 20:44:37.822769+00:00,b'\x90y-\xd2',0.1625951446507206,15.806,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+33845,2020-02-07 17:05:03.161186+00:00,b'l\x07ES',459.61263161197314,8.775,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+34617,2020-02-08 17:11:32.002075+00:00,b'l\x07E\x8f',173.3026934537767,10.146,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+35199,2020-02-09 17:10:43.704490+00:00,b'l\x07ES',466.2497058311063,7.152,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+36745,2020-02-11 17:06:57.417427+00:00,b'l\x07ES',458.0361785187279,9.382,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+37861,2020-02-12 17:06:24.596343+00:00,b'l\x07ES',467.1280821079248,8.735,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39201,2020-02-13 17:07:59.496717+00:00,b'l\x07ES',463.30730559510016,7.864,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+39343,2020-02-14 17:16:54.716871+00:00,"b'\x90y,\x9a'",92.74941906921636,5.874,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+39554,2020-02-14 13:09:30.928158+00:00,b'2\xcdl\xc3',13.30543055733166,38.26,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+39836,2020-02-14 13:10:40.739349+00:00,b'2\xcdl\xc3',9.866676436651764,41.0,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+40613,2020-02-15 17:21:00.150952+00:00,b'l\x07ES',473.4522310119964,13.881,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+42572,2020-02-17 17:16:23.024890+00:00,b'l\x07ES',475.6041158086082,14.883,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+44091,2020-02-19 17:10:38.703895+00:00,b'&\x00\x10\x00\xb0w\xd54\x8c\x96-\xc6\xcd|\x81\xcc',0.2081802824830596,92.521,Needham Heights,42.2945,-71.2328,22394.0,CELLCO - Cellco Partnership DBA Verizon Wireless
+45654,2020-02-21 17:16:22.090144+00:00,b'l\x07ES',473.6555788705487,9.467,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+46221,2020-02-22 17:01:27.605986+00:00,b'l\x07ES',459.93950380522,8.646,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49072,2020-02-25 17:03:58.640216+00:00,b'l\x07ES',460.62511198007854,8.736,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+49915,2020-02-26 20:45:20.542597+00:00,b'\x90y-\xd2',107.65331268844598,19.403,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+51264,2020-02-27 17:09:29.667841+00:00,b'l\x07ES',463.6002007262059,10.276,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+51592,2020-02-28 17:01:38.444663+00:00,b'l\x07ES',468.3374658206494,9.497,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+61561,2020-03-11 12:07:47.382330+00:00,b'\x90y-b',9.158914448621866,38.46,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+61624,2020-03-11 12:03:44.967121+00:00,b'\x90y-b',3.5418846231990164,40.282,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+66525,2020-03-15 16:06:37.268604+00:00,b'Jh\x9b.',94.631424113081,11.036,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+67000,2020-03-15 16:15:19.677683+00:00,b'Jh\x9b.',95.9821820335012,9.646,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70549,2020-03-18 19:58:08.648532+00:00,b'Jh\x9b\x92',40.75870734010044,17.176,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70631,2020-03-18 19:58:46.550519+00:00,b'Jh\x9b\x92',23.552236104583823,18.062,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70676,2020-03-18 19:57:45.607944+00:00,b'Jh\x9b\x92',35.48873101608208,15.051,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+70693,2020-03-18 19:44:09.838647+00:00,b'Jh\x9b\x92',98.97583734404584,14.404,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71102,2020-03-18 19:58:49.865384+00:00,b'Jh\x9b\x92',1.3007801955282376,18.388,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71566,2020-03-18 19:54:13.476979+00:00,b'Jh\x9b\x92',0.9757440786464512,17.057,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+71624,2020-03-18 19:59:12.100453+00:00,b'Jh\x9b\x92',48.35743330197927,14.451,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+78759,2020-03-23 16:04:08.040609+00:00,b'Jh\x9b\xa6',53.6875312791691,20.468,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+82784,2020-03-25 12:08:29.570080+00:00,b'\x90y-\x05',8.51755632948798,10.453,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+83977,2020-03-25 16:20:04.007263+00:00,b'\x90y-\x05',26.781672219626888,10.633,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+88408,2020-03-28 16:06:30.979353+00:00,b'l\x07ES',326.8681899724612,8.605,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+89943,2020-03-29 19:42:27.166098+00:00,b'l\x07E\xfb',19.568348200475675,33.494,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+93062,2020-03-31 00:19:52.518332+00:00,b'Jh\x9bc',317.6762571418683,9.401,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+95686,2020-04-02 19:44:27.354649+00:00,b'\x90y-b',75.49500374068752,19.501,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+96495,2020-04-02 12:16:45.291109+00:00,b'K\x96[\xa5',20.74512423592129,23.288,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+96645,2020-04-02 16:27:36.198853+00:00,b'\x90y-\x06',0.2557764722372626,34.118,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+96885,2020-04-02 12:24:38.133118+00:00,b'K\x96[\xa5',21.798810644680387,23.573,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+97079,2020-04-02 12:27:40.387701+00:00,b'K\x96[\xa5',19.16825213764834,23.605,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+97327,2020-04-02 00:17:09.431598+00:00,b'l\x14\xa2\xe9',13.57816711022863,15.569,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101445,2020-04-05 19:33:35.152600+00:00,b'l\x14\xa2/',8.397109449068955,14.681,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101577,2020-04-05 19:35:23.851852+00:00,b'l\x14\xa2/',20.396586504595533,10.145,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101779,2020-04-05 19:34:09.823717+00:00,b'l\x14\xa2/',14.47217189635166,8.378,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+101919,2020-04-05 19:34:54.154677+00:00,b'l\x14\xa2/',2.484554512757025,11.151,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+112358,2020-04-12 00:10:44.278386+00:00,b'Jh\x9b\r',37.3728439290776,19.495,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+113927,2020-04-13 00:16:22.487843+00:00,b'K\x96[\xa5',20.248454267962607,25.204,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+114467,2020-04-13 00:13:10.568491+00:00,b'K\x96[\xa5',21.83557090646521,25.364,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+125226,2020-04-20 00:15:09.994049+00:00,b'Jh\x9b\xd0',191.4380658298765,11.17,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+132636,2020-04-24 16:11:29.430701+00:00,b'\x90y/r',10.789795103365377,21.037,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+163118,2020-05-15 19:57:17.604258+00:00,b'\x90y-i',17.51031802452671,38.891,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+168880,2020-05-19 16:17:34.490800+00:00,b'HJU\x1b',22.723452934272675,9.196,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+169232,2020-05-19 16:17:03.596300+00:00,b'HJU\x1b',20.627950628005813,9.891,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+181198,2020-05-27 16:16:40.069606+00:00,b'HJUC',80.85771464353515,14.973,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+184298,2020-05-29 16:08:19.128349+00:00,b'2\xea\xb4\n',15.57227282062222,26.177,Needham Heights,42.2945,-71.2328,395928.0,
+212754,2020-06-18 16:12:42.980952+00:00,b'2\xe84n',85.18592105376831,1.637,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+235725,2020-07-01 19:45:10.295562+00:00,b'&\x030\x056\r.\x00\xb5B\xaa X\xa2\x1bG',5.606626175134497,23.063,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+268388,2020-07-20 16:13:14.368740+00:00,b'\x90y-\xd2',3.610915627203017,8.881,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+281291,2020-07-27 12:29:42.441695+00:00,b'2N\x0b\x19',37.47234842648434,18.031,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+292323,2020-08-03 16:18:24.836409+00:00,b'\x90y-\xd2',81.87638892249947,10.886,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+332633,2020-09-01 19:33:36.739896+00:00,b'\x90y-\x06',16.507802899919977,11.582,Needham Heights,42.2945,-71.2328,46887.0,LIGHTOWER Lightower Fiber Networks (LIGHT-141)
+349343,2020-09-16 19:42:02.676138+00:00,b'l\x14\xd9^',310.4408056899678,12.755,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+353898,2020-09-21 19:46:32.173001+00:00,b'l\x14\xd9^',354.8241413114,12.847,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+362925,2020-10-01 19:38:07.550052+00:00,b'\x17\x19\xd5\x91',40.74355062891868,22.015,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+363938,2020-10-02 19:38:07.429874+00:00,b'\x17\x19\xd5\x91',40.59415056201266,22.109,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+364645,2020-10-03 19:38:07.423996+00:00,b'\x17\x19\xd5\x91',37.92647300586667,19.667,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+366044,2020-10-04 19:38:07.174832+00:00,b'\x17\x19\xd5\x91',40.71772841578217,23.681,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+367106,2020-10-05 19:38:07.300611+00:00,b'\x17\x19\xd5\x91',38.44177797081049,25.235,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+368051,2020-10-06 19:38:07.275800+00:00,b'\x17\x19\xd5\x91',39.68688633098053,21.658,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+368393,2020-10-07 16:28:14.823034+00:00,b'l1\x12]',32.58078747247254,14.726,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+368530,2020-10-07 16:29:20.400281+00:00,b'l1\x12]',102.95338368358212,7.501,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+368585,2020-10-07 19:38:07.590589+00:00,b'\x17\x19\xd5\x91',40.169143906508815,21.538,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+369758,2020-10-08 19:38:07.237303+00:00,b'\x17\x19\xd5\x91',39.71078610352524,22.176,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+370253,2020-10-09 19:38:07.288204+00:00,b'\x17\x19\xd5\x91',40.73722211277223,21.647,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+371861,2020-10-10 19:38:07.104388+00:00,b'\x17\x19\xd5\x91',40.7301026015672,18.293,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+372052,2020-10-11 19:38:07.435959+00:00,b'\x17\x19\xd5\x91',40.47641191269493,20.122,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+372809,2020-10-12 19:38:07.356617+00:00,b'\x17\x19\xd5\x91',40.65505703134343,21.372,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+373133,2020-10-12 00:26:19.286535+00:00,b'l\x14\x95\xa1',18.724135101798904,17.538,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+374345,2020-10-13 19:38:07.359414+00:00,b'\x17\x19\xd5\x91',39.91334189451933,18.702,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+375029,2020-10-14 19:38:07.390624+00:00,b'\x17\x19\xd5\x91',38.76446082614901,21.07,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+375454,2020-10-15 19:38:07.677508+00:00,b'\x17\x19\xd5\x91',39.486054661796,17.968,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+376487,2020-10-16 19:38:07.601231+00:00,b'\x17\x19\xd5\x91',40.729791782887936,20.061,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+377554,2020-10-17 19:38:07.080022+00:00,b'\x17\x19\xd5\x91',40.66688074423782,19.989,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+378669,2020-10-18 19:38:07.537742+00:00,b'\x17\x19\xd5\x91',40.72407467165084,19.857,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+379889,2020-10-19 19:38:07.288263+00:00,b'\x17\x19\xd5\x91',40.69582517568585,20.055,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+380372,2020-10-20 19:38:07.560527+00:00,b'\x17\x19\xd5\x91',37.95066370248603,20.219,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+381058,2020-10-21 19:38:07.148539+00:00,b'\x17\x19\xd5\x91',40.67618825775017,24.105,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+382407,2020-10-22 19:38:07.548243+00:00,b'\x17\x19\xd5\x91',40.797660554552806,20.103,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+383027,2020-10-23 19:38:07.711388+00:00,b'\x17\x19\xd5\x91',40.63789802144609,19.985,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+384438,2020-10-24 19:38:07.283084+00:00,b'\x17\x19\xd5\x91',40.571475918645525,18.214,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+384923,2020-10-25 19:38:07.510849+00:00,b'\x17\x19\xd5\x91',40.84690328195385,18.128,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+386255,2020-10-26 19:38:07.434558+00:00,b'\x17\x19\xd5\x91',40.837124634352406,21.853,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+386630,2020-10-27 19:38:07.089739+00:00,b'\x17\x19\xd5\x91',39.70709517049399,19.886,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+388168,2020-10-28 19:38:07.551704+00:00,b'\x17\x19\xd5\x91',40.690734736757726,20.776,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+388301,2020-10-29 16:20:07.473832+00:00,b'l\x14\x95\xd1',9.535251962734687,11.392,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+388745,2020-10-29 19:38:07.118356+00:00,b'\x17\x19\xd5\x91',40.54767827623328,19.465,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+389893,2020-10-30 19:38:06.770295+00:00,b'\x17\x19\xd5\x91',40.67529853880812,19.894,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+390199,2020-10-31 00:09:07.163367+00:00,b'l\x14\xd9\xfb',3.940067866493355,15.724,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+390494,2020-10-31 00:06:20.847195+00:00,b'l\x14\xd9\xfb',3.9400653255773,19.915,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+390574,2020-10-31 00:07:56.712985+00:00,b'l\x14\xd9\xfb',3.9400861573244472,15.585,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+390622,2020-10-31 19:38:06.990435+00:00,b'\x17\x19\xd5\x91',40.74295653779669,19.896,Needham Heights,42.2945,-71.2328,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+390808,2020-10-31 00:11:43.363742+00:00,b'l\x14\xd9\xfb',3.614056367103681,15.722,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398153,2020-11-11 01:14:22.248846+00:00,b'l\x14\x95\xba',38.74003478149016,10.936,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398497,2020-11-11 01:12:01.718113+00:00,b'l\x14\x95\xba',7.10310797255366,32.922,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+398554,2020-11-11 01:13:42.494094+00:00,b'l\x14\x95\xba',3.720549036186287,15.989,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+404243,2020-11-18 01:26:59.233426+00:00,b'l\x07\xd0\xbe',52.13846376378885,12.978,Needham Heights,42.2945,-71.2328,701.0,"UUNET - MCI Communications Services, Inc. d/b/a Verizon Business"
+421403,2020-12-11 17:05:07.951620+00:00,b'\xcd\xad\x18\x04',309.4965058592072,10.644,Needham Heights,42.2945,-71.2328,23050.0,AS-EATONV - Eaton Vance Management

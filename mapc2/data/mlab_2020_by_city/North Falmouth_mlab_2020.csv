@@ -1,0 +1,8 @@
+Index,TestTime,IP,MeanThroughputMbps,MinRTT,City,Latitude,Longitude,ProviderNumber,ProviderName
+73361,2020-03-19 12:19:39.039554+00:00,b'\x80\x80\n\xb3',5.29236890002083,23.887,North Falmouth,41.6417,-70.623,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
+131378,2020-04-24 16:19:17.602895+00:00,b'\x80\x80\n\x98',12.65938605613688,42.346,North Falmouth,41.6417,-70.623,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
+131811,2020-04-24 16:17:47.433356+00:00,b'\x80\x80\n\x98',11.687097746482449,34.843,North Falmouth,41.6417,-70.623,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
+131937,2020-04-24 16:25:51.917339+00:00,b'\x80\x80\n\x98',3.57537365154432,31.395,North Falmouth,41.6417,-70.623,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
+132549,2020-04-24 16:20:46.342307+00:00,b'\x80\x80\n\x98',4.472178581714496,37.026,North Falmouth,41.6417,-70.623,11499.0,WHOI-WOODSHOLE - Woods Hole Oceanographic Institution
+150784,2020-05-07 19:35:19.611422+00:00,b'&\x01\x01\x8e\xc4\x02a0H\xa4\x88\xc7d\xcb\xe0@',9.437723645347791,18.716,North Falmouth,41.6468,-70.6293,7922.0,"COMCAST-7922 - Comcast Cable Communications, Inc."
+276265,2020-07-24 00:15:30.960949+00:00,b'\xcc\xed\xceH',9.531950854982767,41.609,North Falmouth,41.6468,-70.6293,3257.0,TINET-BACKBONE Tinet SpA

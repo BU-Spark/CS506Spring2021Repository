@@ -11,7 +11,11 @@ def main(arg):
     debug = False
     os.system("pwd")
     print("================================")
+<<<<<<< HEAD
     csv_file = "data2/WorkforceUtilizationSummaryReport"
+=======
+    csv_file = "data2019/WorkforceUtilizationSummaryReport"
+>>>>>>> 3adb871eeb250dcfc315d3026f3146c76e14b4b7
     pdf_file = "data/WorkforceUtilizationSummaryReportJan2019.pdf"
     #  The above pdf file has an apprentice section shifted to the right one cell for Ceiling
     os.system(f'python3 src/parsers/pd_parser.py {pdf_file} {csv_file} {debug} | tee -a proof.txt')
