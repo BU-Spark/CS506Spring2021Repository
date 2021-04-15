@@ -51,7 +51,7 @@ import html_parser
 
 
 # Upload table containing list of companies and their corresponding risk text
-data = pd.read_csv("data/10k_2019.csv")
+data = pd.read_csv("data/10k_2020_original.csv")
 
 
 # Specify list of stop words
@@ -65,7 +65,7 @@ stop_words = stop_words + more_stops_words
 # Combine all words from csv to create a total corpus of terms
 processed_text = []
 for i in range(len(data)):
-    text = data.iloc[i, 2]
+    text = data.iloc[i, 1]
     try:
         text = gensim.utils.simple_preprocess(text, deacc=True)  # Clean string
     except:
