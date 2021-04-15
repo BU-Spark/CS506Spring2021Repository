@@ -1,0 +1,1001 @@
+action,description
+,capias returned unserved
+,capias returned unserved
+,original capias returned time pending action
+,capias returned unserved plaintiff submitted explanation capias returned
+,appearance filed attorney
+,appearance filed attorney
+,misc entry capias returned court unserved
+,capias returned satisfied
+,capias returned unserved action requested
+,appearance filed attorney
+,misc entry defendants change address pine hill drive palmer ro foster street palmer
+,capias returned unexpired unserved plaintiff proceeding capias time
+,change address defendant provided plaintiff gatehouse drive east wareham
+,misc entry change address defendant broadway saugus blossom st boston
+,appearance filed attorney
+,misc entryoriginal capias returned list
+,change address city springfield code enforcement department
+,motion continuance massrcivp40b case management conference allowed maria abascal notices issued
+,capias returned unserved plaintiff proceeding capias time
+,appearance filed attorney
+,appearance filed attorney
+,motion filed constellation newenergy inc transfer continue case management conference
+,change address city springfield code enforcement department
+,change address city springfield code enforcement department
+,capias returned unserved
+,appearance filed attorney
+,case management conference deft defaulted cmc report filed dist ct standing order mckeon cm kathleen judge paul mahoney
+,amended judgment defendants capacity changed massrcivp defendants capacity amended temporary conservator permanent agreed agreement judgment
+,misc entry change address defendant marlboro rd georgetown marlboro rd georgetown
+,notice plff granting deft day extension including aug file answer filed
+,capias returned served debtor court default removed capias dismissed
+,original capias returnedunserved
+,original capias returned unserved expired
+,appearance filed attorney
+,appearance filed attorney
+,case management conference deft defaulted cmc report filed dist ct standing order mckeon cm kathleen judge paul mahoney
+,order gailey hon timothy h parties notified call case management conference defendant failed appear notice sent court defaulted ordered plaintiff shall complete necessary action including marking case hearing justice court mrcp rule case brought final judgment days said action shall dismissed
+,atty michael f ashes notice appearance deft consigli construction co inc
+,original capias returned post judgment time
+,notice limited appearance judy pagan
+,capias returned served debtor court default removed capias dismissed
+,capias returned unexpired unserved
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,hearing agreement judgment
+,capias returned pltf proceeding post judgement time
+,capias returned execution
+,misc entry original capias returned bankrupt
+,appearance filed attorney
+,motion continue case management conference filed assented partyies
+,case management conference deft defaulted dist ct standing order mckeon cm kathleen cmc report filed judge paul mahoney
+,order gailey hon timothy h parties notified call case management conference defendant failed appear notice sent court defaulted ordered plaintiff shall complete necessary action including marking case hearing justice court mrcp rule case brought final judgment days said action shall dismissed
+,misc entry change address defendant jefferson ave salem barrett st revere
+,change address thomas r hourlhan
+,capias returned unserved
+,appearance filed attorney
+,misc entry capias returned plaintiff stating proceeding time
+,final agreement judgment
+,capias returned exon requested
+,capias returned execution
+,appearance filed attorney
+,capias returned exon requested
+,appearance filed attorney
+,misc entry capias returned action time
+,misc entry capias returned court unserved proceeding post judgment time
+,change address carlos rivero
+,appearance filed attorney
+,atty robert f dionisi jr notice appearance third party defts trucking llc dba cappello heavy transport llc richard cappello jr
+,prose answer filed d01 filza sandhu
+,prose answer filed d01 cheryl moran
+,answer filed d01 plymouth rock assurance corporation
+,answer filed d01 encompass insurance company
+,capias returned unserved pltf proceeding post judgment time
+,capias returned unserved
+,appearance filed attorney
+,capias returned unserved
+,appearance filed attorney
+,misc entry copy notice case management conference mailed atty maloney
+,appearance filed attorney
+,misc entry capias returned unserved satisfied
+,motion continue case management conference filed jane ellen mcdonald assented partyies
+,change address john cavatorta
+,atty michael f ashes notice appearance defts alexander e drapos alexander e drapos trustee kouliou realty trust glickman kovago management inc
+,misc entry capias returned court
+,joint case management conference statement filed
+,agreement judgment
+,appearance filed attorney
+,capias returned served debtor court default removed capias dismissed
+,motion continue case management conference november november agreement parties filed paulette benetti assented partyies
+,agreement judgment agreed judgment may entered case richard dotolo plaintiffs herein heirs executors assigns city malden defendant herein sum hundred dollars costs interest attorneys fees agreement judgment admission liability fault defendant city malden intended speedy full final resolution abovecaptioned matter agreed agreement judgment shall full final settlement matters arising complaint parties involved parties waive right appeal agree execution shall issue forthwith
+,capias returned unserved
+,appearance filed attorney
+,answer filed d04 city lowell
+,original capias returned new capias issued plaintiffs request
+,received notice change address defendants attorney
+,capias returned court supplementary process dismissed request creditor execution returned creditor gl c224 coven hon mark
+,capias returned unserved satisfied
+,prose answer filed d01 neary chadbourne
+,assentedto letter attorney robert b gibbons requesting motion preliminary injunction held case management conference august filed
+,joint case management conference statement filed
+,capias returned unserved
+,misc entry capias returned court proceeding time
+,capias returned served debtor court default removed capias dismissed contd nisi
+,answer filed d01 jose picanco
+,change address hope street fall river
+,misc entry capias returned court
+,case mgmt conference scheduled pm rescheduled pm reason continued court tuesday case management conference session date
+,miscellaneous change address plaintiff po box attleboro falls
+,answer filed d01 heidi j tierney
+,motion continue case management conference filed heidi j tierney assented partyies
+,capias returned served debtor court default removed capias dismissed
+,misc entry change address deft north main street fall river morton street fall river
+,answer filed d01 metropolitan property casualty insurance company
+,misc entry change address atty dft filed
+,appearance deutsche ban national trust co trustee ameriquest mortgage asset backed pass certseries filed attorney david w merritt redfield street suite boston bbo
+,answer filed d01 metropolitan property casualty insurance company
+,misc entry change address defendant duck pond rd apt beverly county way beverly
+,change address city springfield code enforcement department
+,capias returned unserved
+,capias returned unserved
+,answer filed d01 metropolitan property casualty insurance company
+,letter sent counsel requesting june joint report instructed april case management conference
+,change address michael gustafson
+,appearance filed attorney
+,parties filed agreement judgment
+,findings plaintiff execution issue motion defendant defaults agreed agreement judgment
+,prose answer filed d01 wanyee waithaka
+,appearance filed attorney
+,change address city springfield code enforcement department
+,answer filed d01 action king enterprises inc
+,answer filed d02 acadia insurance company
+,agreement judgment review
+,change address derick lee
+,misc entry capias returned action time
+,misc entry change address defendant mt vernon st somerville
+,change address d01 edward kerrigan d02 mary lynn kerrigan sandpiper way nantucket po box etna nh
+,misc entry attorney james merberg present defendant edward kerrigan present cmc held case management conference report filed c ptc action taken motion
+,change address elvis gomez
+,capias returned unserved
+,capias returned unserved satisfied full
+,correspondence received party attorney defendant change address
+,misc entry original capias returned marked proceeding time
+,capias returned unserved
+,exhibits copart lot display copy check amount copart receipt sum certificate destruction invoice mercedesbenz orlando service booklet service warranty information booklet list expenditures system com corporation letter defendant atty maier dated request change address boxholder information needed service legal process filed date trial applies braun robert defendant maier esq frank j attorney behalf miller steven plaintiff
+,atty donald e frechettes notice appearance deft citi residential lending inc
+,misc entry notice change address defendant counsel cs
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,misc entry change address defendant barbara rd danvers royal crest dr apt nashua nh court longer jurisdiction
+,misc entry change address defendant royal crest dr apt nashua nh kirkbride dr danvers
+,appearance filed attorney
+,prose answer filed d01 patricia j laplante
+,misc entry defendant called capias received mail informed september date appear court none file capias issued premature next date
+,appearance filed attorney
+,prose answer filed d01 tamara splingaerd
+,prose answer filed d01 maurice richard
+,misc entry capias returned marked proceeding time
+,capias returned unserved paid full
+,misc entry capias returned marked paid full
+,answer filed d01 brian e howe
+,capias returned satisfied unserved
+,answer filed d02 gerald flynn
+,answer filed d03 daniel otero
+,appearance filed attorney
+,answer filed d01 arbella mutual insurance company
+,appearance filed attorney
+,misc entry plaiantiffs notice change address defendant lawton st
+,agreement judgment cpk
+,appearance filed attorney
+,answer filed d01 carlos quinones uniform summary process rule
+,bond sureties
+,misc entry change address defendant highland ave unit salem newbury st apt danvers
+,misc entry change address defendant newbury st apt danvers amory st lynn
+,answer filed d01 wanda morales et al uniform summary process rule
+,misc entry change address robeson street fall river danforth st fall river
+,capias returned served debtor court default removed capias dismissed
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,bond sureties
+,misc entry assented case management conference report filed parites
+,bond sureties
+,temporary bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,misc entry capias returned unservedjudgment debtor wishes pursue capias
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,atty jonathan handlers notice appearance massachusetts mutual life insurance company
+,atty miranda browns notice appearance massachusetts mutual life insurance company
+,misc entry change address defendant wayne st springfield north st feeding hills
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,original capias returned plaintiff doesnt want proceed new capias
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,case management conference report filed case reported settled day order macy j cmc wasnt scheduled
+,bond sureties
+,bond sureties
+,bond sureties
+,original capias returned court unserved issued error
+,bond sureties
+,bond sureties
+,bond sureties
+,change address city springfield code enforcement department
+,misc entry capias returned marked paid full
+,misc entry attorney wayne holmes present cmc defendant present attorney holmes reported case settled case management conference report filed reported settled day order
+,respondents motion continue case management conference filed assented toalloed
+,misc entry change address defendant empie st lynn cottage st lynn
+,misc entry change address defendant ricker rd jacksonville fl washingtonian st jacksonville fl
+,appearance filed attorney
+,answer filed d01 arbella mutual insurance company
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,answer filed d01 encompass insurance company
+,appearance filed attorney
+,capias returnedunserved
+,accidentally cancelled cmc meant cancel another case reentered cmc case management conference scheduled pm dist ct standing order
+,plaintiffs motion continue case management conference filed
+,capias returned unserved motion transfer filed
+,motion transfer filed midland funding llc assignee citibank south dakota na sears premier card lowell district court change address defendant newhall ave saugus princeton blvd apt lowell
+,answer filed d01 commerce insurance company
+,appearance filed attorney
+,motion continuance massrcivp40b case management conference filed shaun spicer maria medeiros antonio vazquez assented partyies
+,misc entry capias returned marked paid full
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,case management conference report filed discovery completed responded expert dispositions
+,appearance filed attorney
+,prose answer filed d01 frederick j carberry
+,notice change address filed
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,prose answer filed d01 renee c packard
+,misc entry capias returned court due ability
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,prose answer filed d01 sharyl natsios
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,scheduled event case management conference date time pm result continued
+,scheduled event case management conference date time result reassigned different session
+,scheduled event case management conference date time pm result continued
+,scheduled event case management conference date time pm result continued
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,misc entry capias returnedpaid full
+,answer filed d01 safety insurance company
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,misc entry agreement judgment
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,joint case management conference memorandum filed
+,defendant mrs management company llcs motion dismiss plaintiffs amended complaint filed
+,copy certificate death
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,capias returned served defendant brought deputy sheriff
+,agreement judgment
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,addendum bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,capias returned unserved
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,case management conference report filed jury trial selected discovery completed defendant may file motion summary judgment conclusion discovery discovery dispute reason continue trial date parties excluded attending pretrial conference parties excluded filing jointpretrial memo
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,agreement judgment
+,agreement judgment
+,appearance filed attorney
+,agreement judgment
+,capias returned enexpired unserved
+,misc entry original capias returned served expired proceeding capias time
+,appearance filed attorney
+,bond sureties
+,bond sureties carol aiello personal representative approved march domenic dicenso magistrate
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,answer filed d01 encompass insurance company massachusetts
+,appearance filed attorney
+,answer filed d01 commerce insurance company
+,agreement judgment
+,answer filed d01 commerce insurance company
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,appearance filed attorney
+,joint case management conference statement filed
+,agreement judgmentallowed pursuant land court rule
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,notice limited appearance david feeney
+,case management conference report filed
+,bond sureties
+,notice next eventcase management conference sent parties
+,appearance filed attorney
+,bond sureties
+,misc entry plaintiff files request case management conference taken list action takenwaiting filing discharge debtor
+,prose answer filed d01 joe e yeboah
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties approved susan beamish
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,agreement judgment
+,prose answer filed d01 allan p macgilvray
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,plaintiffs case management conference statement filed
+,appearance filed attorney
+,bond sureties
+,bond sureties approved hon randy j kaplan allowed
+,bond sureties
+,bond sureties
+,agreement judgment
+,misc entry change address defendant main st apt east rochester n main st apt rochester nh
+,bond sureties
+,bond sureties
+,agreement judgment
+,defendants change address provided court plaintiff plaintiff notified file vda form court
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,change address landy balbuena
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,appearance filed attorney
+,certification parties court case management conference filed
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,bond sureties
+,change address d01 susan hester williamsburg ct unit shrewsbury harrington farms way shrewsbury
+,defendants notice case management conference resent amended address
+,appearance filed attorney
+,misc entry change address defendant israhim claudio railroad sq apt nashua nh se rd belleview fl
+,bond sureties
+,bond sureties
+,change address d01 edmund tucker buck island w yarmouth farwell st apt newtonville
+,capias returned plaintiffs proceeding capias time
+,change address michael k lane c3 shipway place charlestown lexington street newton
+,bond sureties
+,bond sureties
+,misc entry original capias returned plaintiff proceeding capias time
+,bond sureties
+,agreement judgment
+,misc entry agreement judgment
+,scheduled event case management conference date time pm result rescheduled
+,bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties approved hon randy j kaplan dated
+,acknowledgement service air liquid systems corporation successor merger jury claim
+,acknowledgement service rapidamerican corporationdefendant
+,acknowledgement service eckel industries inc
+,acknowledgement service general electric companydefendant adopts model crossclaim defendants third party complaint defendants jury demand
+,acknowledgement service notice intent armstrong international incdefendant
+,acknowledgement service cleaverbrooks division inc
+,acknowledgement service carrier corporation fka bryant heating cooling systems inc
+,acknowledgement service chesterton co
+,acknowledgement service yarway corporation
+,acknowledgement service cbs corporation successor westinghouse electricdefendant
+,acknowledgement service union carbide corporationdefendant
+,acknowledgement service ingersollrand company
+,acknowledgement service georgiapacific corp
+,acknowledgement service burnham corporationdefendant
+,acknowledgement service crane codefendant
+,acknowledgement service foster wheeler corporation
+,acknowledgement service imo industries inc individually successor delaval
+,acknowledgement service garlock sealing technologies llc
+,acknowledgement service building materials incdefendant
+,acknowledgement service certainteed corpdefendant
+,acknowledgement service peerless industries inc fka peerless heater co eafco incdefendant
+,acknowledgement service ingersollrand company ingersoll rand co
+,acknowledgement service notice intent trane us inc fka american standard incdefendant
+,acknowledgement service metropolitan life insurance codefendant
+,acknowledgement service bayer cropscience inc successor amchem products incdefendant
+,acknowledgement service notice intent fmc corporation behalf former norhtern pump anddefendant
+,acknowledgement service notice intent sterling fluid systems usa llc fka peerless pumpsdefendant
+,acknowledgement service warren pumps llcdefendant
+,service insufficient plaintiff advised obtain better address called plaintiff insufficient service case inactivated
+,agreement judgment
+,agreement judgment
+,appearance filed attorney
+,appearance filed attorney
+,capias returned unserved new capias requested
+,agreement judgment
+,change address d01 stephen b wheildon hastings court apt clinton acre street clinton
+,agreement judgment
+,bond sureties
+,notice change address
+,bond sureties
+,change address defendant
+,answer filed d02 ronald tilley
+,answer filed d01 gdr automotive group llc aka gdr automotive parts
+,motion entry separate final judgments defendants counts ii complaint filed carparts distribution center inc filed
+,appearance filed attorney
+,agreement judgment
+,agreement judgment
+,appearance filed attorney
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,misc entry capias returned plaintiff stating proceeding time
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,final agreement judgment
+,final agreement judgment
+,appearance filed attorney
+,bond sureties
+,prose answer filed d01 richard davis
+,misc entry original capias returned satisfied
+,appearance filed attorney
+,bond sureties
+,change address jorge vanderburgh
+,change address jorge vanderburgh
+,agreement judgment
+,bond sureties
+,agreement judgment
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,prose answer filed d01 karen morin
+,bond sureties
+,change address d01 renee bay road b amherst amherst street apt granby
+,bond sureties
+,agreement judgment
+,bond sureties
+,change address d01 renee bay road b amherst amherst street apt granby
+,change address d01 american services company inc cedar road po box marlborough
+,bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,agreement judgment
+,notice limited appearance mary vardenski
+,change address d01 gerald pratt jr burnett ave south hadley maple st chicopee
+,bond sureties
+,answer filed d01 debra carroll
+,answer filed d02 arbella insurance company
+,answer filed d01 demoulas super markets inc
+,bond sureties
+,bond sureties approved jodie nolan
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties approved susan beamish
+,change address d01 melanie fillmenter tamie way pittsfield wingsap road pittsfield
+,bond sureties
+,final agreement judgment
+,agreement judgment
+,bond sureties
+,agreement judgment
+,misc entry capias returned marked paid full
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,orignnal capias returned court satisfaction judgment
+,bond sureties
+,bond sureties approved hon randy j kaplan dated
+,agreement judgment
+,bond sureties
+,appearance filed attorney
+,misc entry capias returned unserved proceeding post judgment time
+,bond sureties
+,agreement judgment
+,lorie spaulding surrendered capias returned
+,bond sureties
+,bond sureties approved hon randy j kaplan
+,bond sureties
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties approved hon randy j kaplan
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,bond sureties
+,filed date jennifer breen esq added limited appearance defendant annicka eng
+,filed date jennifer breen esq added limited appearance defendant mark gramegna
+,appearance filed attorney
+,bond sureties
+,change address d01 jonathan avis winter st hyannis iyannough rd tech bldg rm g04 w barnstable
+,change address d01 jonathan avis room go4 tech bldg rd lab assist w barnstable lewis rd hyannis
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,capias returned served ability pay
+,capias returned served
+,capias returned served
+,capias returned served
+,bond sureties
+,misc entry capias returned unserved plaintiff wish pursue case time
+,agreement judgment
+,case management conference report filed defendant amended answer leave discovery completed answered
+,bond sureties
+,appearance filed attorney
+,misc entry defts motion amend answer filed ret
+,agreement judgment
+,answer filed d01 kyle husson
+,bond sureties
+,prose answer filed d01 anthoney yusam
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties approved hon randy j kaplan
+,amended certificate death
+,bond sureties
+,change address d01 veronica velez bridge street apt hadley plainfield street springfield
+,change address d01 veronica velez plainfield street springfieldma allen park road springfield
+,atty scott j burkes notice appearance george plouffe
+,atty david deabreu notice appearance deft george plouffe
+,agreement judgment
+,bond sureties
+,bond sureties approved susan beamish
+,bond sureties
+,bond sureties approved hon gregory v roach entered
+,bond sureties
+,certification parties court case management conference filed
+,bond sureties
+,agreement judgment
+,capias returned unserved satisfied
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,misc entry capias returned name correction
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,change address d01 deborah horne river road ware morse avenue ware
+,defendant brought change address pick motion remove default default judgment
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,change address theresa walker
+,agreement judgment jap
+,bond sureties
+,bond sureties
+,bond sureties approved hon gregory v roach
+,agreement judgment
+,bond sureties
+,appearance filed attorney
+,motion continue case management conference filed
+,agreement judgment
+,case management conference report filed discovery completed parties excluded attending pretrial conference parties excluded preparing joint pretrial memo discovery disputes shall reason continue trial date
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,change address defendant filed plaintiff
+,appearance filed attorney
+,case management conference report filed plaintiff provide documentation debt amount defendant discovery completed days well
+,change address gricely rosa
+,appearance filed attorney
+,agreement judgment
+,agreement judgment
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,bond sureties
+,agreement judgmentnot signed clerk
+,appearance filed attorney
+,capias returned
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,following forms filed civil docket motion partial summary judgment count plaintiffs complaint filed cba realty group ii corp motion partial summary judgment plaintiffs claim possession filed cba realty group ii corp statement material facts cba realty group ii corp asserts genuine issue tried affidavit jeffrey kane vice president cba realty group ii corp filed support cbas motions summary judgment memorandum filed cba realty group ii corp memorandum law support motions partial summary judgment cba realty group ii corp
+,judgment issued final judgment agreement kerman hon david judgment highlands dearborn judgment manganaro gabriella terms judgment interest begins jdgmnt date days interest damages damage amt damages total orders agreement judgment judgment total execution entered
+,coa boston post rd wayland boston post rd wayland letter follow change address deft
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,change address d01 colin leddy manta drive nantucket manta drive po box nantucket
+,appearance filed attorney
+,agreement judgment
+,capias returned served debtor court default removed capias dismissed
+,bond sureties
+,atty gwen werners notice appearance deft executive office public safety
+,atty abigail fees notice appearance deft executive office public safety
+,certification parties court case management conference filed
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,misc entry capias returned unserved pltf proceeding post judgement time
+,bond sureties
+,motion continue case management conference november pm filed jose e correa assented partyies
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,case management conference report filed
+,agreement judgment
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,capias returned unserved
+,bond sureties
+,case management conference report filed
+,change address d01 jason zinser greglen ave po box nantucket equator drive nantucket
+,change address ana lopez
+,bond sureties
+,capias returned unserved
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,atty richard bradford baileys notice appearance andrew stonner
+,atty elizabeth billowitzs notice appearance andrew stonner
+,bond sureties
+,change address d01 carlos silva central st lowell pollard st lowell
+,bond sureties
+,change address d01 molyna sim pawtucket blvd unit lowell muller rd burlington
+,bond sureties
+,bond sureties
+,change address city springfield code enforcement department
+,capias returned unserved
+,bond sureties
+,bond sureties
+,change address d01 robert carye roblin realty trust goodrich road jamaica plain goodrich road jamaica plain
+,change address d02 linda carye roblin realty trust goodrich road jamaica plain goodrich road jamaica plain
+,bond sureties
+,bond sureties
+,change address d01 ashley hammond walnut street lynnfieldma wymon way lynnfield
+,change address city springfield code enforcement department
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,change address city springfield code enforcement department
+,judy ann mason surrendered capias returned
+,capias returned unserved
+,bond sureties
+,bond sureties
+,change address d01 leo j allgaier allagier s9 sycamore st lowell old main st tewksbury
+,change address d01 luis velazquez boulder dr gardner pearl st apt leominster
+,appearance filed attorney
+,change address city springfield code enforcement department
+,bond sureties
+,appearance filed attorney
+,misc entry original capias returned unserved applies fia card services na plaintiff
+,bond sureties
+,bond sureties
+,bond sureties
+,atty j laurence von barta ivs notice appearance flagstar bank fsb
+,change address city springfield code enforcement department
+,change address d01 amanda grimard sate st lowell chance pond rd franklin nh
+,misc entry capias returned court proceeding time
+,bond sureties
+,appearance filed attorney
+,misc entry capias returned court proceeding time
+,bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,change address city springfield code enforcement department
+,bond sureties
+,request continuance sp received filed note atty call list capias requested attorney appearing ecast settlement corp capias issued
+,bond sureties
+,bond sureties
+,change address d01 baisimbra kabia high st fl lowell high st fl lowell
+,appearance filed attorney
+,appearance filed attorney
+,bond sureties
+,agreement judgment
+,change address city springfield code enforcement department
+,capias returned unserved plaintiffs motion transfer
+,change address d01 kenneth kibera pine st lowell shaffer st lowell
+,capias returned unserved
+,atty thomas b farrey iii brooke p seligers notice appearance alfredo perezpadron
+,atty james manitsass notice appearance heidi sokolowski
+,bond sureties
+,agreement judgment
+,bond sureties
+,temporary bond sureties
+,motion continuance massrcivp40b case management conference filed lvnv funding llc assignee fia card services na assented partyies
+,notice limited appearance stephen e fiocca
+,notice limited appearance stephen e fiocca
+,change address city springfield code enforcement department
+,capias returned unserved
+,bond sureties personal representative
+,bond sureties special pr
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,bond sureties
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,bond sureties
+,change address city springfield code enforcement department
+,agreement judgment
+,agreement judgment
+,case management conference report filed discovery completed responded
+,agreement judgment
+,agreement judgment
+,bond sureties
+,capias returned unexpired unserved proceeding post judgment time
+,bond sureties special personal representative
+,bond sureties personal representative
+,capias returned unexpired unserved plaintiff scheduled events time
+,bond sureties
+,case management conference report filed jury trial selected discovery completed discovery dispute reason continue trial date parties excluded filing jointpretrial memo
+,capias returned unexpired unserved
+,bond sureties
+,agreement judgment
+,capias returned unserved
+,bond sureties
+,appearance filed attorney
+,appearance filed attorney
+,appearance filed attorney
+,misc entry capias returned list
+,capias returned unexpired unserved
+,motion continue case management conference filed d01 carol larkinrecd fax cm office
+,capias returned unexpired unserved
+,plaintiffs motion continue case management conference filed
+,bond sureties
+,misc entry agreement judgment
+,new agreement judgment filed allowed
+,misc entry notice case management conference mailed karla nordquist returned
+,bond sureties
+,bond sureties ronlad l taylor executor approved march daniel l gibson asstreg
+,bond sureties
+,bond sureties
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,agreement judgment
+,agreement judgment
+,case management conference report filed discovery completed responded continuance trial date
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,pretial order mediation case management conference necessary occur copies mailed
+,bond sureties
+,agreement judgment
+,agreement judgment
+,agreement judgment
+,temporary bond sureties dated
+,agreement judgment
+,case management conference report filed
+,case management conference report filed
+,bond sureties
+,temporary bond sureties
+,agreement judgment
+,joint case management conference statement filed
+,bond sureties
+,capias returned unserved
+,appearance filed attorney
+,misc entry plaintiff failed appear case management conference case dismissed
+,appearance filed attorney
+,capias returned unserved satisfied full
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,agreement judgment
+,agreement judgment
+,plaintiffs letter filed plaintiffs request continuance case management conference parties continue settlement efforts
+,plaintiffs case management conference filed
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,bond sureties
+,bond sureties
+,joint case management conference statement filed
+,appearance filed attorney
+,capias returned unexpired unserved plaintiff proceeding post judgment time
+,bond sureties
+,agreement judgment
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,capias returned unserved satisfied
+,agreement judgment
+,misc entry original capias returned served expired
+,change address d01 brett cogill cypress st providence ri taft street pawtucket ri
+,defendants motion file late answer filed
+,appearance filed attorney
+,misc entry case management conference report filed
+,capias returned unserved
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,change address nicole b caprioli esq main st ste worcester main st floor worcester
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,capias returned unserved
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,bond sureties james e troy jr deborah dibona coexecutors approved march daniel l gibson asstreg
+,change address d01 susan heavey foral sreet taunton massassoit ave brockton
+,bond sureties
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,appearance filed attorney
+,misc entry plaintiff faxed request take case list agreement judgment
+,agreement judgment
+,capias returned courtexecution requested plaintiff
+,bond sureties
+,bond sureties spr
+,bond sureties
+,bond sureties approved dated
+,appearance filed attorney
+,agreement judgment
+,bond sureties
+,bond sureties approved
+,agreement judgment
+,bond sureties
+,temporary bond sureties
+,capias returned unserved
+,agreement judgment
+,bond sureties
+,bond sureties dated july approved
+,bond sureties
+,bond sureties
+,temporary bond sureties
+,appearance filed attorney
+,capias returned served
+,bond sureties
+,bond sureties approved hon randy j kaplan
+,bond sureties
+,agreement judgment
+,bond sureties
+,change address d01 karen correira pisces lane plymouthmass raymond rd plymouthmass
+,appearance filed attorney
+,bond sureties
+,bond sureties
+,agreement judgment
+,agreement judgment
+,bond sureties
+,bond sureties
