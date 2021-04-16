@@ -65,7 +65,7 @@ total weight of Printing ink:  17267.526  g
 total weight of bleached Kraft paper:  79180.3656  g
 ```
 
-![plastic-coffee-pods-waste-components](SustainablePurchasing/Deliverable 2/image/plastic-coffee-pods-waste-components.png)
+![plastic-coffee-pods-waste-components](../Deliverable%202/image/plastic-coffee-pods-waste-components.png)
 
 ```
 Total waste weight for the top two creams: ITD102042 + NES753032
