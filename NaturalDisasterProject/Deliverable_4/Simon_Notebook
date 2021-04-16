@@ -1,0 +1,358 @@
+{
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.8"
+  },
+  "orig_nbformat": 2,
+  "kernelspec": {
+   "name": "python3",
+   "display_name": "Python 3.8.8 64-bit ('base': conda)",
+   "metadata": {
+    "interpreter": {
+     "hash": "dca0ade3e726a953b501b15e8e990130d2b7799f14cfd9f4271676035ebe5511"
+    }
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2,
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 101,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "\n",
+    "import matplotlib.pyplot as plt\n",
+    "import matplotlib.cm as cm\n",
+    "import matplotlib\n",
+    "\n",
+    "from scipy import stats\n",
+    "from sklearn.linear_model import LogisticRegression\n",
+    "from sklearn.model_selection import train_test_split"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 102,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "NUMBER_TORNADOS = 111 #Number of Tornado Events\n",
+    "NUMBER_RANDOM = 110 #Number of Random Events\n",
+    "NUMBER_DAYS = 14 #Number of days of data per Tornado/Event (Max: 57)\n",
+    "FILE_NAME = \"historical_data_2.csv\" #CSV file that contains the data"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 103,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "<class 'pandas.core.frame.DataFrame'>\n"
+     ]
+    }
+   ],
+   "source": [
+    "#Field 0: 'datatime'\n",
+    "#Field 1: 'temperature'\n",
+    "#Field 2: 'windspeed'\n",
+    "#Field 3: 'surface solar radiation' -Alvaro\n",
+    "#Field 4: 'relative humidity' -Abdullah\n",
+    "#Field 5: 'surface pressure' -Frazier\n",
+    "#Field 6: 'total precipitation' -Simon\n",
+    "#Field 7: 'city'\n",
+    "#Field 8: 'event_id'\n",
+    "#Field 9: 'latitude'\n",
+    "#Field 10: 'longitude'\n",
+    "#Field 11: 'outcome'\n",
+    "\n",
+    "df = pd.read_csv(FILE_NAME)\n",
+    "print(type(df))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 104,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "         datetime  temperature (degC)  wind_speed (m/s)  \\\n",
+       "0      2009-11-25                9.91              2.76   \n",
+       "1      2009-11-26                9.35              2.11   \n",
+       "2      2009-11-27               13.11              3.30   \n",
+       "3      2009-11-28               16.85              3.27   \n",
+       "4      2009-11-29               12.53              3.04   \n",
+       "...           ...                 ...               ...   \n",
+       "16867  2017-02-24                4.32              5.83   \n",
+       "16868  2017-02-25                2.52              1.58   \n",
+       "16869  2017-02-26                9.50              2.33   \n",
+       "16870  2017-02-27               15.56              4.96   \n",
+       "16871  2017-02-28               20.36              6.07   \n",
+       "\n",
+       "       surface_solar_radiation (W/m^2)  relative_humidity (0-1)  \\\n",
+       "0                                  160                     0.47   \n",
+       "1                                  145                     0.60   \n",
+       "2                                  111                     0.63   \n",
+       "3                                   71                     0.83   \n",
+       "4                                   98                     0.79   \n",
+       "...                                ...                      ...   \n",
+       "16867                              187                     0.49   \n",
+       "16868                              155                     0.46   \n",
+       "16869                              183                     0.61   \n",
+       "16870                               54                     0.77   \n",
+       "16871                               18                     0.82   \n",
+       "\n",
+       "       surface_pressure (Pa)  total_precipitation (mm of water equivalent)  \\\n",
+       "0                  101257.58                                          0.00   \n",
+       "1                  101181.89                                          0.00   \n",
+       "2                  100649.88                                          0.00   \n",
+       "3                  100267.40                                          0.26   \n",
+       "4                  100664.11                                          0.92   \n",
+       "...                      ...                                           ...   \n",
+       "16867               99717.88                                          0.00   \n",
+       "16868              100450.42                                          0.00   \n",
+       "16869              100341.69                                          0.04   \n",
+       "16870               99730.39                                          0.01   \n",
+       "16871               99075.00                                          0.00   \n",
+       "\n",
+       "       latitude  longitude  event_id  \n",
+       "0       32.4869   -94.1689    203448  \n",
+       "1       32.4869   -94.1689    203448  \n",
+       "2       32.4869   -94.1689    203448  \n",
+       "3       32.4869   -94.1689    203448  \n",
+       "4       32.4869   -94.1689    203448  \n",
+       "...         ...        ...       ...  \n",
+       "16867   37.9392   -89.1503    677492  \n",
+       "16868   37.9392   -89.1503    677492  \n",
+       "16869   37.9392   -89.1503    677492  \n",
+       "16870   37.9392   -89.1503    677492  \n",
+       "16871   37.9392   -89.1503    677492  \n",
+       "\n",
+       "[16872 rows x 10 columns]"
+      ],
+      "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>datetime</th>\n      <th>temperature (degC)</th>\n      <th>wind_speed (m/s)</th>\n      <th>surface_solar_radiation (W/m^2)</th>\n      <th>relative_humidity (0-1)</th>\n      <th>surface_pressure (Pa)</th>\n      <th>total_precipitation (mm of water equivalent)</th>\n      <th>latitude</th>\n      <th>longitude</th>\n      <th>event_id</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>2009-11-25</td>\n      <td>9.91</td>\n      <td>2.76</td>\n      <td>160</td>\n      <td>0.47</td>\n      <td>101257.58</td>\n      <td>0.00</td>\n      <td>32.4869</td>\n      <td>-94.1689</td>\n      <td>203448</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2009-11-26</td>\n      <td>9.35</td>\n      <td>2.11</td>\n      <td>145</td>\n      <td>0.60</td>\n      <td>101181.89</td>\n      <td>0.00</td>\n      <td>32.4869</td>\n      <td>-94.1689</td>\n      <td>203448</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>2009-11-27</td>\n      <td>13.11</td>\n      <td>3.30</td>\n      <td>111</td>\n      <td>0.63</td>\n      <td>100649.88</td>\n      <td>0.00</td>\n      <td>32.4869</td>\n      <td>-94.1689</td>\n      <td>203448</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>2009-11-28</td>\n      <td>16.85</td>\n      <td>3.27</td>\n      <td>71</td>\n      <td>0.83</td>\n      <td>100267.40</td>\n      <td>0.26</td>\n      <td>32.4869</td>\n      <td>-94.1689</td>\n      <td>203448</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>2009-11-29</td>\n      <td>12.53</td>\n      <td>3.04</td>\n      <td>98</td>\n      <td>0.79</td>\n      <td>100664.11</td>\n      <td>0.92</td>\n      <td>32.4869</td>\n      <td>-94.1689</td>\n      <td>203448</td>\n    </tr>\n    <tr>\n      <th>...</th>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n      <td>...</td>\n    </tr>\n    <tr>\n      <th>16867</th>\n      <td>2017-02-24</td>\n      <td>4.32</td>\n      <td>5.83</td>\n      <td>187</td>\n      <td>0.49</td>\n      <td>99717.88</td>\n      <td>0.00</td>\n      <td>37.9392</td>\n      <td>-89.1503</td>\n      <td>677492</td>\n    </tr>\n    <tr>\n      <th>16868</th>\n      <td>2017-02-25</td>\n      <td>2.52</td>\n      <td>1.58</td>\n      <td>155</td>\n      <td>0.46</td>\n      <td>100450.42</td>\n      <td>0.00</td>\n      <td>37.9392</td>\n      <td>-89.1503</td>\n      <td>677492</td>\n    </tr>\n    <tr>\n      <th>16869</th>\n      <td>2017-02-26</td>\n      <td>9.50</td>\n      <td>2.33</td>\n      <td>183</td>\n      <td>0.61</td>\n      <td>100341.69</td>\n      <td>0.04</td>\n      <td>37.9392</td>\n      <td>-89.1503</td>\n      <td>677492</td>\n    </tr>\n    <tr>\n      <th>16870</th>\n      <td>2017-02-27</td>\n      <td>15.56</td>\n      <td>4.96</td>\n      <td>54</td>\n      <td>0.77</td>\n      <td>99730.39</td>\n      <td>0.01</td>\n      <td>37.9392</td>\n      <td>-89.1503</td>\n      <td>677492</td>\n    </tr>\n    <tr>\n      <th>16871</th>\n      <td>2017-02-28</td>\n      <td>20.36</td>\n      <td>6.07</td>\n      <td>18</td>\n      <td>0.82</td>\n      <td>99075.00</td>\n      <td>0.00</td>\n      <td>37.9392</td>\n      <td>-89.1503</td>\n      <td>677492</td>\n    </tr>\n  </tbody>\n</table>\n<p>16872 rows × 10 columns</p>\n</div>"
+     },
+     "metadata": {},
+     "execution_count": 104
+    }
+   ],
+   "source": [
+    "df "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 105,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#df = data.drop(columns=['Unnamed: 0'])\n",
+    "# Get a seto of the event Id's\n",
+    "event_ids = set(df['event_id'].to_numpy())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 106,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "## Helper function\n",
+    "def rolling_average():\n",
+    "    '''\n",
+    "    '''"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 120,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "## Produces a list of dfs\n",
+    "# Each df has the rolling means of the fundamental features\n",
+    "list_of_dfs = []\n",
+    "#Use IDs to loop over events \n",
+    "for i in event_ids:\n",
+    "    # We initialize a df per event\n",
+    "    event_df = pd.DataFrame()\n",
+    "    # Get data for that event \n",
+    "    event = df.loc[df['event_id'] == i]s\n",
+    "    # We only want the features we are processing\n",
+    "    fundamental_features = event.drop(columns=['datetime', 'latitude', 'longitude', 'event_id'\t], axis = 1)\n",
+    "    # Compute the rolling mean\n",
+    "    event_df = fundamental_features.expanding().mean()\n",
+    "    # Add to list\n",
+    "    list_of_dfs.append(event_df)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 122,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "57"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 122
+    }
+   ],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 108,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "error",
+     "ename": "IndentationError",
+     "evalue": "unindent does not match any outer indentation level (<tokenize>, line 4)",
+     "traceback": [
+      "\u001b[0;36m  File \u001b[0;32m\"<tokenize>\"\u001b[0;36m, line \u001b[0;32m4\u001b[0m\n\u001b[0;31m    original_indexes = fundamental_features.index.tolist()\u001b[0m\n\u001b[0m    ^\u001b[0m\n\u001b[0;31mIndentationError\u001b[0m\u001b[0;31m:\u001b[0m unindent does not match any outer indentation level\n"
+     ]
+    }
+   ],
+   "source": [
+    " def computeWindow():\n",
+    "     ''' Generates window values for mean computationssssss\n",
+    "     '''\n",
+    "    original_indexes = fundamental_features.index.tolist()\n",
+    "    window_values_wrong = []\n",
+    "    for i in range(len(original_indexes)):\n",
+    "        window_value = original_indexes[0]\n",
+    "        window_values_wrong.append(original_indexes[i] - window_value)\n",
+    "    window_values = [x + 1 for x in window_values_wrong ]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 111,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "dfb = pd.DataFrame()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 112,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "pandas.core.frame.DataFrame"
+      ]
+     },
+     "metadata": {},
+     "execution_count": 112
+    }
+   ],
+   "source": [
+    "type(dfb)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 113,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "dfb['b'] = [0, 1, 2, 3, 4]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 114,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "dfb['c'] = [0, 1, 2, 3, 4]"
+   ]
+  },
+  {
+   "source": [],
+   "cell_type": "markdown",
+   "metadata": {}
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 116,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "   b  c\n",
+       "0  0  0\n",
+       "1  1  1\n",
+       "2  2  2\n",
+       "3  3  3\n",
+       "4  4  4"
+      ],
+      "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>b</th>\n      <th>c</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>1</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>2</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>3</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>4</td>\n      <td>4</td>\n    </tr>\n  </tbody>\n</table>\n</div>"
+     },
+     "metadata": {},
+     "execution_count": 116
+    }
+   ],
+   "source": [
+    "dfb"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 117,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "execute_result",
+     "data": {
+      "text/plain": [
+       "     b    c\n",
+       "0  0.0  0.0\n",
+       "1  0.5  0.5\n",
+       "2  1.0  1.0\n",
+       "3  1.5  1.5\n",
+       "4  2.0  2.0"
+      ],
+      "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>b</th>\n      <th>c</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>0.0</td>\n      <td>0.0</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>0.5</td>\n      <td>0.5</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>1.0</td>\n      <td>1.0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>1.5</td>\n      <td>1.5</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>2.0</td>\n      <td>2.0</td>\n    </tr>\n  </tbody>\n</table>\n</div>"
+     },
+     "metadata": {},
+     "execution_count": 117
+    }
+   ],
+   "source": [
+    "dfb.expanding().mean()"
+   ]
+  }
+ ]
+}
