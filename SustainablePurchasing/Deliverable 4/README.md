@@ -100,7 +100,9 @@ Procedure:
 
 We get the top-10 K-Cup shopped by the university. Due to our research, we found that although the ten products are from different companies, they have the same supplier -Keurig Dr Pepper. From Keurig Dr Pepper’s sustainability report 2019 , we found that all the K-cups are made of 100%  Polypropylene(PP). (source not input yet)1 g of pp = 1.886g of carbon emissions. From the product description, we investigated that Weight of a K-cup (g) is 14g. Using this information, we calculated that the carbon emissions of a K-Cup is 26.4g.
 
-![](../Deliverable%203/image/top-10-k-cup-carbon-emission.png)
+![](../Deliverable%203/image/top-10-k-cup-carbon-emission-v2.png)
+
+![](../Deliverable%203/image/top-10-k-cup-carbon-emission-distribution.png)
 
 ##### Carbon emission estimate of top 10 consumed ground coffee
 
@@ -110,6 +112,8 @@ We compute the carbon emission of this packing bag is 1.886g CO2.  Finally we ad
 By collecting carbon emissions of producing the packing materials(eg. plastic bag) and coffee itself, we compute the carbon emission of top 10 consumed ground coffee is about 233.52616kg carbon dioxide.
 
 ![](../Deliverable%203/image/top-10-ground-coffee-carbon-emission.png)
+
+![](../Deliverable%203/image/top-10-ground-coffee-carbon-emission-distribution.png)
 
 
 ##### Carbon emission estimate of top 10 consumed coffee creamer 
@@ -121,7 +125,9 @@ By collecting carbon emission of producing the packing materials(eg. carton or c
 
 ![](../Deliverable%203/image/top-10-coffee-creamer-carbon-emission.png)
 
-#### More analysis
+![](../Deliverable%203/image/top-10-coffee-creamer-carbon-emission-distribution.png)
+
+#### Ordering time gap analysis
 
 - We calculated the cost that different departments spent on K-cups and Bagged Coffee. 54 departments spend a total of 3021641.13 dollars on buying K-cups. To elaborate, SCHOOL OF MEDICINE (BUSM) , SCHOOL OF PUBLIC HEALTH (SPH) ,SCHOOL OF LAW (LAW), SCHOOL OF THEOLOGY (STH), SCHOOL OF SOCIAL WORK (SSW), and SCHOOL OF HOSPITALITY (SHA) spent the most on the K-cups, with 210348.56 dollars. SUMMER TERM (SUM) spent the least, with 54.39 dollars. 7 departments spent a total of 11861.11 dollars on the Bagged Coffee. COLLEGE OF ARTS AND SCIS (CAS) spent the most with 10296.19 dollars. SUMMER TERM (SUM) and ACADEMIC INSTITUTES & CENTERS spent the least with 96.5 dollars. 
 
