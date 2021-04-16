@@ -46,6 +46,9 @@ class MhiMbpsScatter:
     joined = pd.merge(df_mhi, mlab_avg_mbps, on="City")
     joined = joined[['mhi', 'City', self.speed_col]]
 
+    if joined.shape[0] < 5:
+      return
+
     # Filter outliers
     joined = joined[joined[self.speed_col]<150]
 
@@ -53,6 +56,7 @@ class MhiMbpsScatter:
     # It would be interesting to have a list of these.
 
     # Add a new column that indicates if the city is in MAPC munis, and build a color array from it
+    # breakpoint()
     joined['InMapc'] = joined.apply(lambda row: city_in_mapc(row['City'], mapc_cities), axis=1)
     out_color = '#7d7975'
     in_color = '#eba134'
@@ -93,18 +97,22 @@ class MhiMbpsScatter:
     # Add trendlines for each of the two categories of municipalities
     in_mapc_data = joined[joined['InMapc'] == 1]
     out_mapc_data = joined[joined['InMapc'] != 1]
+
     # In MAPC trendline
-    x_in = in_mapc_data['mhi']
-    y_in = in_mapc_data[self.speed_col]
-    z_in = np.polyfit(x_in, y_in, 1)
-    p_in = np.poly1d(z_in)
-    ax.plot(x_in,p_in(x_in),"--", c=in_color, label='MAPC Tracked Municipalities')
+    if not in_mapc_data.empty:
+      x_in = in_mapc_data['mhi']
+      y_in = in_mapc_data[self.speed_col]
+      z_in = np.polyfit(x_in, y_in, 1)
+      p_in = np.poly1d(z_in)
+      ax.plot(x_in,p_in(x_in),"--", c=in_color, label='MAPC Tracked Municipalities')
+    
     # Not in MAPC trendline
-    x_out = out_mapc_data['mhi']
-    y_out = out_mapc_data[self.speed_col]
-    z_out = np.polyfit(x_out, y_out, 1)
-    p_out = np.poly1d(z_out)
-    ax.plot(x_out,p_out(x_out),"--", c=out_color, label='Non-Tracked Municipalities')
+    if not out_mapc_data.empty:
+      x_out = out_mapc_data['mhi']
+      y_out = out_mapc_data[self.speed_col]
+      z_out = np.polyfit(x_out, y_out, 1)
+      p_out = np.poly1d(z_out)
+      ax.plot(x_out,p_out(x_out),"--", c=out_color, label='Non-Tracked Municipalities')
 
     # Finally, show the plot
     ax.legend()
@@ -117,7 +125,7 @@ def scatter_for_provider(df_mlab, provider_name, short_name):
   df_provider = df_mlab[df_mlab.ProviderName == provider_name]
 
   speed_col = "MeanThroughputMbps"
-  output = "../output/mlab_by_provider_{}_2020.html".format(short_name)
+  output = "../output/providers/mlab_by_provider_{}_2020.html".format(short_name)
   title = "MLAB {}: Mean Throughput Broadband Speed against Median Household Income".format(short_name)
   xlabel = "Median Household Income, 2014-2018, Dollars"
   ylabel = "Mean Throughput Mbps, MLAB {} 2020 data".format(short_name)
@@ -147,8 +155,16 @@ df_mlab = pd.read_csv("../data/mlab_2020.csv")
 
 # Example with Comcast
 # scatter_for_provider(df_mlab, "ATT-INTERNET4 - AT&T Services, Inc.", "AT&T")
-scatter_for_provider(df_mlab, "ATT-INTERNET4 - AT&T Services, Inc.", "AT&T")
+# scatter_for_provider(df_mlab, "ATT-INTERNET4 - AT&T Services, Inc.", "AT&T")
 
+df_providers = pd.read_csv("../data/providers.csv")
+# Generate a scatter plot for each provider
+for _, row in df_providers.iterrows():
+  provider_name = row[0].strip()
+  short_name = row[1].strip()
+  print("Generating plot for {}".format(short_name))
+  scatter_for_provider(df_mlab, provider_name, short_name)
+  
 
 
 # Some ideas:
