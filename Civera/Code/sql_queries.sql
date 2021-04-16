@@ -41,6 +41,22 @@ FROM (
 	WHERE wp_courtdocs.cdocs_case_action_index.actor = " " or wp_courtdocs.cdocs_case_action_index.action = " " 
     ) sub
 
+
+-- ROW NUMBER with UNIQUE CASE_ACTION_ID  (Action = NULL or Actor = NULL) --
+-- saved data in  table "wp_court_docs_NORMALIZED.case_index_num"  -- 
+SELECT row_num, case_action_id 
+FROM wp_court_docs_NORMALIZED.case_index_num
+
+-- Total Rows: 38159737 -- 
+
+-- Dividing Work/Chunking -- 
+-- example query: let's call this Query1 --
+SELECT c_n.row_num, c_i.* 
+FROM wp_courtdocs.cdocs_case_action_index as c_i 
+INNER JOIN wp_court_docs_NORMALIZED.case_index_num as c_n on c_i.case_action_id = c_n.case_action_id 
+WHERE row_num < 50000 
+
+
 -- Just In case Unsupervised Learning doesn't work -- 
 -- Training Set -- 
 
@@ -78,4 +94,13 @@ FROM wp_courtdocs_NORMALIZED.distinct_case_actions)
 -- mycursor = mydb.cursor() -- 
 
 -- query1 = ''' SELECT FROM ''' -- 
--- pd.read_sql_query(query1,mydb)-- 
+-- pd.read_sql_query(query1,mydb)--
+
+-- Dividing Work/Chunking -- 
+-- example query: let's call this Query1 --
+SELECT c_n.row_num, c_i.* 
+FROM wp_courtdocs.cdocs_case_action_index as c_i 
+INNER JOIN wp_court_docs_NORMALIZED.case_index_num as c_n on c_i.case_action_id = c_n.case_action_id 
+WHERE row_num < 50000 
+
+-- pd.read_sql_query(Query1,mydb)--
