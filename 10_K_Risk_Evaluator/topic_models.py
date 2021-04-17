@@ -65,7 +65,7 @@ stop_words = stop_words + more_stops_words
 # Combine all words from csv to create a total corpus of terms
 processed_text = []
 for i in range(len(data)):
-    text = data.iloc[i, 2]
+    text = data.iloc[i, 1]
     try:
         text = gensim.utils.simple_preprocess(text, deacc=True)  # Clean string
     except:
