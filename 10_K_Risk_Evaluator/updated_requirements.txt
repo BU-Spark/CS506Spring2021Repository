@@ -19,10 +19,12 @@ cffi                      1.14.5           py38h2125817_0
 chardet                   4.0.0           py38hecd8cb5_1003  
 click                     7.1.2              pyhd3eb1b0_0  
 cryptography              3.4.7            py38h2fd3fbb_0  
+cycler                    0.10.0                   py38_0  
 cymem                     2.0.5            py38h23ab428_0  
 cython-blis               0.7.4            py38h9ed2024_1  
 decorator                 4.4.2              pyhd3eb1b0_0  
 en-core-web-sm            2.3.1                    pypi_0    pypi
+freetype                  2.10.4               ha233b18_0  
 gensim                    3.8.3            py38h23ab428_2  
 google-api-core           1.25.1             pyhd3eb1b0_0  
 google-auth               1.21.3                     py_0  
@@ -41,16 +43,24 @@ ipython_genutils          0.2.0              pyhd3eb1b0_1
 jedi                      0.17.0                   py38_0  
 jmespath                  0.10.0                     py_0  
 joblib                    1.0.1              pyhd3eb1b0_0  
+jpeg                      9b                   he5867d9_2  
 jsonschema                3.0.2                    py38_0  
 jupyter_client            6.1.7                      py_0  
 jupyter_core              4.7.1            py38hecd8cb5_0  
+kiwisolver                1.3.1            py38h23ab428_0  
+lcms2                     2.12                 hf1fd2bf_0  
 libcrc32c                 1.1.1                hb1e8313_2  
 libcxx                    10.0.0                        1  
 libffi                    3.3                  hb1e8313_2  
 libgfortran               3.0.1                h93005f0_2  
+libpng                    1.6.37               ha441bb4_0  
 libprotobuf               3.14.0               h2842e9f_0  
 libsodium                 1.0.18               h1de35cc_0  
+libtiff                   4.1.0                hcb84e12_1  
 lxml                      4.6.3                    pypi_0    pypi
+lz4-c                     1.9.3                h23ab428_0  
+matplotlib                3.3.4            py38hecd8cb5_0  
+matplotlib-base           3.3.4            py38h8b3ea08_0  
 mkl                       2019.4                      233  
 mkl-service               2.3.0            py38h9ed2024_0  
 mkl_fft                   1.3.0            py38ha059aab_0  
@@ -61,11 +71,13 @@ ncurses                   6.2                  h0a44026_1
 nltk                      3.5                        py_0  
 numpy                     1.19.2           py38h456fd55_0  
 numpy-base                1.19.2           py38hcfb5961_0  
+olefile                   0.46                       py_0  
 openssl                   1.1.1k               h9ed2024_0  
 pandas                    1.2.3            py38hb2f4e1b_0  
 parso                     0.8.1              pyhd3eb1b0_0  
 pexpect                   4.8.0              pyhd3eb1b0_3  
 pickleshare               0.7.5           pyhd3eb1b0_1003  
+pillow                    8.2.0            py38h5270095_0  
 pip                       21.0.1           py38hecd8cb5_0  
 plac                      1.1.0                    py38_1  
 preshed                   3.0.2            py38h23ab428_1  
@@ -77,6 +89,7 @@ pyasn1-modules            0.2.8                      py_0
 pycparser                 2.20                       py_2  
 pygments                  2.8.1              pyhd3eb1b0_0  
 pyopenssl                 20.0.1             pyhd3eb1b0_1  
+pyparsing                 2.4.7              pyhd3eb1b0_0  
 pyrsistent                0.17.3           py38haf1e3a3_0  
 pysocks                   1.7.1                    py38_1  
 python                    3.8.8                h88f2d9e_4  
@@ -89,6 +102,7 @@ requests                  2.25.1             pyhd3eb1b0_0
 rsa                       4.7.2              pyhd3eb1b0_1  
 s3transfer                0.3.6              pyhd3eb1b0_0  
 scipy                     1.6.2            py38h2515648_0  
+seaborn                   0.11.1             pyhd3eb1b0_0  
 sec-edgar-downloader      4.0.2                    pypi_0    pypi
 setuptools                52.0.0           py38hecd8cb5_0  
 six                       1.15.0           py38hecd8cb5_0  
@@ -106,8 +120,10 @@ urllib3                   1.26.4             pyhd3eb1b0_0
 wasabi                    0.8.2              pyhd3eb1b0_0  
 wcwidth                   0.2.5                      py_0  
 wheel                     0.36.2             pyhd3eb1b0_0  
+wordcloud                 1.8.1                    pypi_0    pypi
 xz                        5.2.5                h1de35cc_0  
 yarl                      1.5.1            py38haf1e3a3_0  
 zeromq                    4.3.4                h23ab428_0  
 zipp                      3.4.1              pyhd3eb1b0_0  
 zlib                      1.2.11               h1de35cc_3  
+zstd                      1.4.9                h322a384_0  

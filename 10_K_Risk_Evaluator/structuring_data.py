@@ -90,9 +90,9 @@ DF_2020v2 = pd.DataFrame(Dict_2020v2.items(),columns = ['Ticker', "Risk Text"])
 
 #write to csv
 
-DF_2019.to_csv('data/10k_2019.csv')
-DF_2020.to_csv('data/10k_2020.csv')
+# DF_2019.to_csv('data/10k_2019.csv')
+# DF_2020.to_csv('data/10k_2020.csv')
 
-#v2
-DF_2019v2.to_csv('data/10k_2019v2.csv')
-DF_2020v2.to_csv('data/10k_2020v2.csv')
+# #v2
+# DF_2019v2.to_csv('data/10k_2019v2.csv')
+# DF_2020v2.to_csv('data/10k_2020v2.csv')
