@@ -3,7 +3,6 @@ from numpy.core.fromnumeric import size
 import pandas as pd
 import numpy as np
 from collections import Counter
-
 import matplotlib.pyplot as plt
 # %%
 df = pd.read_csv('40U Tickets 2015-2020.csv',sep=',')
