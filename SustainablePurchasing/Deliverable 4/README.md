@@ -159,6 +159,12 @@ By collecting carbon emission of producing the packing materials(eg. carton or c
 
 ![](../Deliverable%203/image/most-commonly-used-paper-ordering-interval.png)
 
+- We also included the break down graph by college for top 5 most used coffee and toner.
+
+![](../Deliverable%203/image/top-10-coffee-by-college.png)
+
+![](../Deliverable%203/image/top-10-toner-by-college.png)
+
 #### Attempt to answering overarching project questions
 
 We found out that School of Medicine and School of Public Health behold one place in top 3 among the rank of ordering numbers and ordering spends from different departments of BU. It may contains some double ordering or some excessive requests based on the time interval of each same request from the department.
