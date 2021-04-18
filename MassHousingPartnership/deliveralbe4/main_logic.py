@@ -9,18 +9,23 @@ from datetime import datetime
 # Verify the code
 def get_addresss_list_to_remove(add_df, keyword='CENTROID_ID'):
     index_res = []
-    for _, df_ in add_df.groupby(keyword):
+    gp = add_df.groupby(keyword)
+    for i, (_, df_) in enumerate(gp):
+        progress = int(len(gp) / 100)
+        if i % (10 * progress) == 0 and i != 0:
+            print("Finished {}%".format(i/progress))
         if len(df_) <= 1: continue
         else:
             index_to_drop = df_.index[[v_ is None for v_ in df_['UNIT']]]
-            if len(index_to_drop) > 0:
-                index_res = index_res + index_to_drop.tolist()
-            #     index_res.append(index_to_drop)
+            index_res += index_to_drop.tolist()
     return index_res
 
 def clean_addresses(add_df, keyword='CENTROID_ID'):
-    indices_to_remove = get_addresss_list_to_remove(add_df, keyword=keyword)
+    indices_to_remove = benchmark(get_addresss_list_to_remove, (add_df, keyword))
     return add_df.drop(indices_to_remove)
+
+def filter_out_residential_parcels(df, res_usecode_set):
+    return df[[v[:3] in res_usecode_set if v else False for v in df['USE_CODE']]]
 
 # Count value in dataframes
 def count_value_in_df(df, dict_):
@@ -30,6 +35,7 @@ def count_value_in_df(df, dict_):
             count += dict_[val]
     return count
 
+## TODO: groupby.apply function may be better here. Need to read and understand API.
 def count_parcels(parcel_df, usecode_dict):
     id_ = []
     count_by_usecode = []
@@ -37,32 +43,44 @@ def count_parcels(parcel_df, usecode_dict):
     style_desc = []
     geometry_ = []
     area = []
+    city_name = []
 
-    for loc_id_, df_ in parcel_df.groupby("LOC_ID"):
+    gp = parcel_df.groupby("LOC_ID")
+
+    for i, (loc_id_, df_) in enumerate(gp):
+        progress = int(len(gp) / 100)
+        if i % (10 * progress) == 0 and i != 0:
+            print("Finished {}%".format(i/progress))
         # count_temp_style = 0
-        # string_set = set()
-        # for style_ in df_["STYLE"]:
-        #     string_set.add(str(style_))
-        #     if style_ in usecode_dict.keys():
-        #         count_temp += usecode_dict[style_]
+        style_set = set()
+        for style_ in df_["STYLE"]:
+            style_set.add(str(style_))
+            # if style_ in usecode_dict.keys():
+            #     count_temp += usecode_dict[style_]
         
         count_temp_usecode = 0
         usecode_set = set()
         for uc in df_["USE_CODE"]:
             usecode_set.add(str(uc))
-            if uc in usecode_dict.keys():
-                count_temp_usecode += usecode_dict[uc]
+            if uc:
+                if uc[:3] in usecode_dict.keys():
+                    count_temp_usecode += usecode_dict[uc[:3]]
+                    continue
+                if uc in usecode_dict.keys():
+                    count_temp_usecode += usecode_dict[uc]
+                    continue
             else:
                 count_temp_usecode = -1
 
         id_.append(loc_id_)
         count_by_usecode.append(count_temp_usecode)
-        # style_desc.append(compose_string(string_set))
+        style_desc.append(compose_string(style_set))
         usecode_str.append(compose_string(usecode_set))
+        city_name.append(df_["CITY"].iloc[0])
         area.append(df_["SHAPE_AREA"].iloc[0])
         geometry_.append(df_['geometry'].iloc[0])
 
-    return (id_, count_by_usecode, usecode_str, style_desc, area, geometry_)
+    return [id_, city_name, style_desc, count_by_usecode, usecode_str, area, geometry_]
 
 # TODO: Duplicated function. Need to be merged
 def count_parcels_by_usecode(parcel_df, usecode_dict):
@@ -135,3 +153,50 @@ def join_two_dataset_state_map(parcel_df, address_df_map, keyword="CITY"):
     end_time = datetime.now()
     print("Time cost: %.2fms" %((end_time - start_time).total_seconds() * 1000))
     return m
+
+# No style yet
+def do_assumption(df, parcel_confidence_set, countable_usecode_set):
+    count_by_usecode = df['COUNT_USECODE']
+    count_by_add = df['ADD_COUNT']
+    usecode = df['USE_CODE']
+
+    assumption = []
+    anomalies = []
+
+    for i, u in enumerate(usecode):
+        uu = u[:3]
+        if uu in parcel_confidence_set or u in parcel_confidence_set:
+            assumption.append(count_by_usecode[i])
+            continue
+        if uu not in countable_usecode_set and u not in countable_usecode_set:
+            assumption.append(count_by_add[i])
+            continue
+        if count_by_usecode[i] == count_by_add[i]:
+            assumption.append(count_by_usecode[i])
+            continue
+        # TODO： possibile?
+        # Two people live in a two family house?
+        # if count_by_add[i] < count_by_usecode[i]:
+        #     assumption.append(count_by_add[i])
+        #     continue
+
+        assumption.append(-1)
+        anomalies.append((count_by_usecode[i], count_by_add[i]))
+    return assumption, anomalies
+
+# Update anomaliy values
+def update_anomaly(df, anomalies, reg):
+    anomalies_list = list(zip(*anomalies))
+    predict_value = reg.predict([[x] for x in anomalies_list[0]])
+    
+    assumption_list = list(df["ASSUMPTION"])
+    usecode_count = list(df["COUNT_USECODE"])
+    is_anomaly_list = df["IS_ANOMALY"]
+
+    anomaly_count = 0
+    for i, (asump, is_anomal, ucc) in enumerate(zip(assumption_list, is_anomaly_list, usecode_count)):
+        if is_anomal: 
+            temp_res = int(predict_value[anomaly_count][0])
+            assumption_list[i] = max(ucc, temp_res)
+            anomaly_count += 1
+    df['ASSUMPTION'] = assumption_list

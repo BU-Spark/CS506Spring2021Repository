@@ -64,6 +64,51 @@ def generate_residential_usecode_set(usecode_desc_dict):
                 res_usecode_set.add(codes[0])
     return res_usecode_set
 
-def filter_out_residential_parcels(df, res_usecode_set):
-    return df[[v[:3] in res_usecode_set if v else False for v in df['USE_CODE']]]
+def filter_out_style_by_keywords(style_set, keywords=["apt"], do_print=False):
+    output = set()
+    for v in style_set:
+        for k in keywords:
+            if k in v: 
+                output.add(v)
+                break
+    print(len(output))
+    if do_print:
+        print(output)
+    return output
 
+def delete_from_set(style_set, not_desired_set):
+    output = set()
+    for v in style_set:
+        if v not in not_desired_set: output.add(v)
+    print(len(output))
+    return output
+
+# Generate residential usecode
+def generate_residential_usecode_set():
+    res = set()
+
+    mixuse_usecode_set = generate_mixuse_residential_usecode_set()
+    res_usecode_set = generate_res_residential_usecode_set()
+    tax_exempt_usecode_set = generate_tax_exempt_residential_usecode_set()
+    
+    for usecode_set in [mixuse_usecode_set, res_usecode_set, tax_exempt_usecode_set]:
+        for uc in usecode_set:
+            res.add(uc)
+    return res
+
+def generate_mixuse_residential_usecode_set():
+    res = set()
+    for i in range(0, 10):
+        res.add(pad_str(str(10 + i)))
+        res.add(pad_str(str(i * 10 + 1)))
+    return res
+
+def generate_res_residential_usecode_set():
+    res = set()
+    for i in range(0, 20):
+        res.add(pad_str(str(100 + i)))
+    return res
+
+def generate_tax_exempt_residential_usecode_set():
+    res = set(["945", "959", "970"])
+    return res

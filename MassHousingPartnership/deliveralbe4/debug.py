@@ -78,12 +78,12 @@ def check_mix_usecode(df, mix_usecode_set):
 def print_use_code_classes(usecode_df):
     index_to_keep = usecode_df.index[[len(v) == 3 for v in usecode_df['USE_CODE']]]
     df_ = usecode_df.loc[index_to_keep]
-    print_by_usecode(df_)
+    return print_by_usecode(df_)
 
 def print_usecode_subclass(df, usecode, is_class=True, print_all_desc=True):
-    print_by_usecode(get_record_by_usecode(df, usecode, is_class), print_all_desc=print_all_desc)
+    return print_by_usecode(get_record_by_usecode(df, usecode, is_class), print_all_desc=print_all_desc)
 
-def print_by_usecode(df, headers=["USE_CODE", "USE_DESC", "COUNT", "INDEX"], print_all_desc = False):
+def print_by_usecode(df, headers=["USE_CODE", "TOWN_ID", "USE_DESC", "COUNT", "INDEX"], print_all_desc = False):
     count = 1
     t = Texttable()
     t.set_cols_dtype(['t'] * len(headers))
@@ -92,13 +92,14 @@ def print_by_usecode(df, headers=["USE_CODE", "USE_DESC", "COUNT", "INDEX"], pri
     for code_, df_ in df.groupby("USE_CODE"):
         # print(type(code_))
         if not print_all_desc:
-            t.add_row([code_, df_['USE_DESC'].iloc[0], len(df_), count])
+            t.add_row([code_, df_['TOWN_ID'].iloc[0], df_['USE_DESC'].iloc[0], len(df_), count])
             count += 1
         else:
-            for desc in df_['USE_DESC']:
-                t.add_row([code_, desc, len(df_), count])
+            for desc, tid in zip(df_['USE_DESC'], df_['TOWN_ID']):
+                t.add_row([code_, tid, desc, len(df_), count])
                 count += 1
     print(t.draw())
+    return t.draw()
 
 def get_record_by_usecode(df, usecode, is_class=True):
     end = 3
@@ -122,3 +123,32 @@ def find_use_value_by_keyword(df, style, keyword="STYLE", target="USE_CODE"):
     for uc, dff_ in df_.groupby(target):
         t.add_row([uc, len(dff_)])
     print(t.draw())
+
+def print_by_keywords(parcel_df, cnt=10, keywords=["LOC_ID", "STYLE", "USE_CODE", "SITE_ADDR"]):
+    print("There are {} records".format(len(parcel_df)))
+    print("-" * 100)
+    
+    t = Texttable()
+    t.set_cols_dtype(['t'] * len(keywords))
+    t.add_row(keywords)
+
+    count = 0
+
+    for i in range(len(parcel_df.index)):
+        t.add_row([parcel_df.iloc[i][k] for k in keywords])
+        count += 1
+        if count > cnt: break
+    
+    print(t.draw())
+    return t.draw()
+
+def print_anomaly_set(df):
+    anomaly_data = df[df['ASSUMPTION'] == -1]
+
+    print("Anomaly percentage: {}%".format(round((len(anomaly_data) / len(df) * 100, 2))))
+
+    print("All anomalies are:")
+    # for ano in set(anomaly_data['Data'])
+    
+
+    return anomaly_data
