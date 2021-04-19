@@ -72,3 +72,95 @@ How will we extract data from our PDF files?
 Is there a difference between state-paid contractual hours based on color and/or sex?
 What are the factors, e.g. location of the project, that fair in hiring working crews?
 How state-wise elections affect hiring decisions across projects?
+
+## PROOF
+The way the system works. Because we found ounly 2% participation for some ethnicities, we wanted to write a parse that could prove that it consumed every row of the file correctly. Due to time limitations, we could not check every line,
+therefore, what we did was randomly select a few hundred data frames and compare the numbers and quantities of rows consumbed. 
+
+Below is an example.  Note the pattern, every data frame lists its number of rows and columns: [22 rows x 12 columns]
+This number can easily be compared with the last section of the parser print lines.  By adding together the row number processed and the number of lines in the group, the tester can validate that the number of rows were all parsed. 
+For instance, row number 17 + trade 5 = 22 and the data frame rows states there were 22 rows.
+
+"Processing row number: 17
+ trade 5"
+
+The full data rows were verified separately and no misallignment was found when running group by commands on the pandas dataframes. Again, this was not tested exhaustively and instead a random set of a hundred rows were sampled and verified.
+
+
+The proof.txt file allows one to verify individual rows on the pdf with the page parsed on atleast two values per row.
+
+--------------- excerpt from proof2020.txt
+ Processing row number: 0
+['MONTH', 'YEAR', 'PROJECT', 'PROJECT_CODE', 'CONTRACTOR', 'CONSTRUCTION_TRADE', 'CRAFT_LEVEL', 'TOTAL_EMPLOYEE', 'CAUCASIAN', 'AFRICAN_AMERICAN', 'HISPANIC', 'ASIAN', 'NATIVE_AMERICAN', 'OTHER', 'NOT_SPECIFIED', 'TOTAL_FEMALE', 'TOTAL_MALE', 'HOURS_WORKED_PER_MONTH']
+ Processing DF number: 1
+                                     0           1   ...     10        11
+0   Arden Engineering Constructors, LLC         NaN  ...    NaN       NaN
+1                            PIPEFITTER     Journey  ...    0.0      0.00
+2                                   NaN  Apprentice  ...    0.0    117.00
+3                                   NaN   A/J Ratio  ...    0.0      0.00
+4                                   NaN    New Hire  ...    0.0      0.00
+5                                   NaN    Subtotal  ...    0.0    117.00
+6              PIPEFITTER & STEAMFITTER     Journey  ...  168.0    989.00
+7                                   NaN  Apprentice  ...    0.0      0.00
+8                                   NaN   A/J Ratio  ...    0.0      0.00
+9                                   NaN    New Hire  ...    0.0      0.00
+10                                  NaN    Subtotal  ...  168.0    989.00
+11                 Total for Contractor     Journey  ...  168.0    989.00
+12                                  NaN  Apprentice  ...    0.0    117.00
+13                                  NaN   A/J Ratio  ...    0.0      0.12
+14                                  NaN    New Hire  ...    0.0      0.00
+15                                  NaN    Subtotal  ...  168.0  1,106.00
+16          Axion Specialty Contracting         NaN  ...    NaN       NaN
+17   ASBESTOS INSULATOR (PIPES & TANKS)     Journey  ...    0.0      0.00
+18                           Apprentice        2.00  ...    2.0       NaN
+19                            A/J Ratio        0.00  ...    0.0       NaN
+20                             New Hire        0.00  ...    0.0       NaN
+21                             Subtotal        2.00  ...    2.0       NaN
+
+[22 rows x 12 columns]
+
+ Processing row number: 0
+ complete grp cj  Arden engineering constructors, llc  1 
+ complete grp contractor
+
+ Processing row number: 1
+ trade 5
+ process grp j
+ process grp a
+ process grp aj
+ process grp nh
+ process grp sub
+ complete grp trade
+
+ Processing row number: 6
+ trade 5
+ process grp j
+ process grp a
+ process grp aj
+ process grp nh
+ process grp sub
+ complete grp trade
+
+ Processing row number: 11
+ contr_total 5
+ process grp j
+ process grp a
+ process grp aj
+ process grp nh
+ process grp sub
+ complete grp contr_total
+
+ Processing row number: 16
+ complete grp cj  Axion specialty contracting  1 
+ complete grp contractor
+
+ Processing row number: 17
+ trade 5
+ process grp j
+ process grp a
+ process grp aj
+ process grp nh
+ process grp sub
+ complete grp trade
+ 
+ --------------------
