@@ -2,9 +2,9 @@
 
 Description goes here
 
-## Team Name and Contributers
+## Team Name and Contributors
 
-Team name and list of contributers for this PR goes here.
+Team name and list of contributors for this PR goes here.
 
 ## Checklist
 
