@@ -54,17 +54,29 @@ The by_trade.csv file in the main directory gives an example of saved work compi
 
 
 ## Commands 
+Step 1- Create Environment
 Create your virtual environment as you like it. 
-The bash script "startenv.sh" can be run at the command line to create your virtual environment.
+The bash script "startenv.sh" can be run at the command line to create your virtual environment. You can also run the commands bellow in your terminal. Make sure the requirements.txt is on the correct directory.
+```
+cd to working directory
+conda create -n env_name
+conda activate env_name
+pip install -r requirements.txt
+```
 
-*** Before running the parser commands be sure to use a 3 letter abreviation for the month in the pdf file name. Capitalize the first letter of the abbreviation.
+Step 2- Run parser
+Before running the parser commands be sure to use a 3 letter abreviation for the month in the pdf file name. Capitalize the first letter of the abbreviation. Also, make sure all the pdfs are in the same directory as the color-of-money files.
 
-Run the command 'python3 color-of-money.py' to parse the 2019 data.
+Run the command python3 ```color-of-money.py``` to parse the 2019 data.
 
-Run the command 'python3 color-of-money20.py' to parse the 2020 data. 
+Run the command ```python3 color-of-money20.py``` to parse the 2020 data. 
 
-Each command produces a proof file: proof_2019.txt and proof_2020.txt respectively.
+Each command produces a proof file: proof_2019.txt and proof_2020.txt respectively. They will also provide the correctly formatted CSV file, named like:  WorkforceUtilizationSummary2020.csv.
 
+Step 3- Later years
+add here the change sto do in color-of-money to parse 21 data.
+There is no guarantee it will work for 2021 data. If the formatting is the same as 2019 and 2020, our parser should work.
+ 
 
 ## Discussion and Limitations
 Note: The client wanted the data extracted from PDF files and said we would discuss specific questions for analysis after this was completed. Fortunately, we were able to convert PDF files into pandas dataframes for analysis and graphing. Then, we found patterns or trends to answers questions revolving around race, sex, and opportunities for state contracts. Specific questions that will be answered: 
