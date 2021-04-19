@@ -118,10 +118,13 @@ ss_all_words= [ele for ele in ss_all_words if ele not in test_stop_words]
 
 #replacing trials with 
 ss_all_words = [word if word != 'trials' else 'trial' for word in ss_all_words]
+ss_all_words = [word if word != 'patent' else 'patents' for word in ss_all_words]
+ss_all_words = [word if word != 'result' else 'results' for word in ss_all_words]
 
-for word in range(len(ss_all_words)):
-    if ss_all_words[word] == 'result':
-        ss_all_words[word] = "results"
+
+
+
+
 
 
 
@@ -149,6 +152,7 @@ test_model = gensim.models.LdaModel(corpus = ss_corpus, id2word = ss_lda_dict,
                                     minimum_probability = 0.03,)
 
 ###############################################
+
 ''' post processing'''
 
 topics_test = test_model.show_topics(formatted=False,num_words=20)

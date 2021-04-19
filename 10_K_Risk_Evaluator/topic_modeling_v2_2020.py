@@ -113,10 +113,12 @@ ss_all_words= [ele for ele in ss_all_words if ele not in test_stop_words]
 
 #replacing trials with 
 ss_all_words = [word if word != 'trials' else 'trial' for word in ss_all_words]
+ss_all_words = [word if word != 'patent' else 'patents' for word in ss_all_words]
+ss_all_words = [word if word != 'result' else 'results' for word in ss_all_words]
 
-for word in range(len(ss_all_words)):
-    if ss_all_words[word] == 'result':
-        ss_all_words[word] = "results"
+
+
+
 
 
 # Form Bigrams with bigram
