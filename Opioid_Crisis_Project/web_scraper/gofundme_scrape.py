@@ -5,9 +5,12 @@ import requests
 import time
 import pandas as pd
 import numpy as np
+import os
 
+# set cwd to main folder
+cwd = getcwd()
+os.chdir("..")
 PATH = getcwd() + '/chromedriver'
-
 
 def get_urls(keywords_list):
     '''
