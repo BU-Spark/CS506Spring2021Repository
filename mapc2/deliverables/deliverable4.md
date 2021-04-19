@@ -403,16 +403,16 @@ There are a number of results which we present here. First, for the Ookla datase
 
 ##### Ookla Upload and Download Speeds
 
-<img src="/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/output/ookla_download.png" style="zoom:200%;" />
+![](/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/Download_Speed.png)
 
-Here, we chart the download speeds in kilo-bits-per-second (Kbps), per municipality. Each city is colored by the average download speed across 2020, where darker green means faster speeds (up to 200,000 Kbps), and lighter green/white means slower download speeds. As can be seen, there is a significant difference in observed speeds for the various municipalities.
+Here, we chart the download speeds in mega-bits-per-second (Mbps), per municipality. Each city is colored by the average download speed across 2020, where darker green means faster speeds (up to 200 Mbps), and lighter green/white means slower download speeds. As can be seen, there is a significant difference in observed speeds for the various municipalities.
 
-<img src="/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/output/ookla_upload.png" style="zoom:200%;" />
+![](/Users/nathanlauer/Documents/BU/Projects/CS506Spring2021Repository/mapc2/Upload_Speed.png)
 
 Here, we see the upload speeds, per municipality in MA. There are a number of items to note:
 
 - There are large discrepancies between download and upload speed, in many cities.
-- In general, upload speeds are much slower than download speeds. The max download speed was near ~200,000 Kbps, while the max upload speed is closer to ~140,000 Kbps, nearly 60Mpbs slower!
+- In general, upload speeds are much slower than download speeds. The max download speed was near 200 Mbps, while the max upload speed is closer to 140 Mbps, nearly 60Mpbs slower!
 - There is an entire section in the middle of the state where there is effectively no upload broadband available. Within this region, many of the municipalities have respectable download speeds, despite the lack of upload abilities.
 
 The MAPC was concerned that there has existed an imbalance between download and upload speeds for some time, because people often care more about download speed than upload speed. Unfortunately, this problem is particularly important during the present time, since the due to the pandemic, there is an extensive amount of video communication ongoing for both business and education.
