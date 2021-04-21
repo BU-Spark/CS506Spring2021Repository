@@ -16,7 +16,7 @@ The goal for the project is to explore the working supplies requests and expend
 
 ### Data description
 
-We have received [three batch of data](https://drive.google.com/drive/u/0/folders/1dXfd1e3VJ8bvrM_g_4fOpsyM90UHhyFw) from our clients and processed and augmented [five batch of supplemented](https://drive.google.com/drive/u/0/folders/1f33F4wpTuIkZ6FU09ZoY6xBySCWtpRR3) data on our own.
+We have received [three batch of data](https://drive.google.com/drive/u/0/folders/1dXfd1e3VJ8bvrM_g_4fOpsyM90UHhyFw) from our clients and processed and augmented [five batch of supplemented data](https://drive.google.com/drive/u/0/folders/1f33F4wpTuIkZ6FU09ZoY6xBySCWtpRR3) on our own.
 * First batch of data is about the toner and coffee purchases from WB Mason including requisition ID, requisitioning date, description (of product), shopper ID and supplier part number. Based on it, we gathered data of waste volume and CO2 emission data for different types of coffee products in four batch of data and waste volume for toner products in the last supplemented data.
 * Second batch of data focuses on the spend of each request including department unit name, total invoice quantity and total paid etc.
 * Third batch of data is about paper and toner requests from different departments and their branches including requisition ID, requisitioning date, description, unit name, fc name, etc.
