@@ -175,6 +175,7 @@ We found out that School of Medicine and School of Public Health behold one plac
 
 - For the printing paper filtered out, it just provided us the total dollar spending on each request but it varied by the spend from 23 to 27300 ish dollars, and different printing paper products have different price units. It would be really hard to find out each unit price and converted it to a specific quantity. It would be better if the ordering request data was pulled out with quantity attributes at firsthand.
 
+
 Conclusion: 
 * The carbon emissions of a K-Cup is 26.4g.
 * The carbon emission of top 10 consumed ground coffee is about 233.52616kg carbon dioxide.
