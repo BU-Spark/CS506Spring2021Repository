@@ -99,6 +99,8 @@ for _, r in gdf.iterrows():
 
 base_map
 # %%
+###Function to generate maps
+###what parameters do i want, shape_file, geometry column name, type of map, 
 
 # %%
 base_map.save('Revere_tract_base_percentages.html')

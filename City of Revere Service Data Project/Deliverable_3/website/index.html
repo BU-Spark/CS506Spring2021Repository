@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All DPW Data</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen"/>
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+     <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"> 
+</head>
+
+<body>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <div id="root"> <h1>All DPW Data</h1> </div>
+    <div id="wrapper"></div>
+    <script src="load-script.js"></script>
+    <script>
+        function newPlot(fileName) {
+            //console.log(fileName);
+            fetch('./out/' + fileName + '.div')
+                .then(function (response) {
+                    return response.text();
+                })
+                .then(function (body) {
+                    //console.log(body);
+                    let removeMe = document.querySelector("div#map")
+                    if(removeMe) removeMe.remove();
+
+                    var div = document.createElement("div");
+                    div.innerHTML = body;
+                    div.id = 'map';
+
+                    document.body.appendChild(div);
+                    runScripts(document.querySelector("div#map"));
+
+                });
+        }
+    </script>
+    <script src="index.js"></script>
+
+</body>
+
+</html>

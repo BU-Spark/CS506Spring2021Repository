@@ -1,0 +1,36 @@
+[10:59:34.259] Global cache location '/Users/xavierruiz/Library/Caches/typescript/4.2', safe file path '/users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json
+[10:59:34.262] Processing cache location '/Users/xavierruiz/Library/Caches/typescript/4.2'
+[10:59:34.262] Trying to find '/Users/xavierruiz/Library/Caches/typescript/4.2/package.json'...
+[10:59:34.263] Loaded content of '/Users/xavierruiz/Library/Caches/typescript/4.2/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.535"},"devDependencies":{"@types/react":"^17.0.3"}}
+[10:59:34.263] Loaded content of '/Users/xavierruiz/Library/Caches/typescript/4.2/package-lock.json'
+[10:59:34.276] Adding entry into typings cache: 'react' => '/Users/xavierruiz/Library/Caches/typescript/4.2/node_modules/@types/react/index.d.ts'
+[10:59:34.276] Finished processing cache location '/Users/xavierruiz/Library/Caches/typescript/4.2'
+[10:59:34.276] Process id: 34629
+[10:59:34.276] NPM location: /usr/local/bin/npm (explicit '--npmLocation' not  provided)
+[10:59:34.276] validateDefaultNpmLocation: false
+[10:59:34.277] Npm config file: /Users/xavierruiz/Library/Caches/typescript/4.2/package.json
+[10:59:34.277] Updating types-registry npm package...
+[10:59:34.277] Exec: /usr/local/bin/npm install --ignore-scripts types-registry@latest
+[10:59:35.720]     Succeeded. stdout:
+    
+    up to date, audited 6 packages in 1s
+
+found 0 vulnerabilities
+
+[10:59:35.720] Updated types-registry npm package
+[10:59:36.504] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/Users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/App.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src","kind":"discover"}
+[10:59:36.521] Loaded safelist from types map file '/users/xavierruiz/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesmap.json'
+[10:59:36.522] Explicitly included types: []
+[10:59:36.522] Inferred typings from unresolved imports: []
+[10:59:36.523] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/bower_components","/Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/node_modules"]}
+[10:59:36.523] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/bower_components","/Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/node_modules"]}
+[10:59:36.523] DirectoryWatcher:: Added:: WatchInfo: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/bower_components
+[10:59:36.524] DirectoryWatcher:: Added:: WatchInfo: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[10:59:36.525] Elapsed:: 0.8115530014038086ms DirectoryWatcher:: Added:: WatchInfo: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[10:59:36.525] DirectoryWatcher:: Added:: WatchInfo: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/node_modules
+[10:59:36.525] DirectoryWatcher:: Added:: WatchInfo: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[10:59:36.525] Elapsed:: 0.08708399534225464ms DirectoryWatcher:: Added:: WatchInfo: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[10:59:36.525] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[10:59:36.526] Response has been sent.
+[10:59:36.526] No new typings were requested as a result of typings discovery
