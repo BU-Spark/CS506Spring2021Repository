@@ -16,8 +16,8 @@ The goal for the project is to explore the working supplies requests and expend
 
 ### Data description
 
-We have received three batch of data from clients and collected two batch of supplemented data on our own.
-* First batch of data is about the toner and coffee purchases from WB Mason including requisition ID, requisitioning date, description (of product), shopper ID and supplier part number. Based on it, we gathered data of waste volume and CO2 emission data for different types of coffee products.
+We have received [three batch of data](https://drive.google.com/drive/u/0/folders/1dXfd1e3VJ8bvrM_g_4fOpsyM90UHhyFw) from our clients and processed and augmented [five batch of supplemented data](https://drive.google.com/drive/u/0/folders/1f33F4wpTuIkZ6FU09ZoY6xBySCWtpRR3) on our own.
+* First batch of data is about the toner and coffee purchases from WB Mason including requisition ID, requisitioning date, description (of product), shopper ID and supplier part number. Based on it, we gathered data of waste volume and CO2 emission data for different types of coffee products in four batch of data and waste volume for toner products in the last supplemented data.
 * Second batch of data focuses on the spend of each request including department unit name, total invoice quantity and total paid etc.
 * Third batch of data is about paper and toner requests from different departments and their branches including requisition ID, requisitioning date, description, unit name, fc name, etc.
 
@@ -175,9 +175,14 @@ We found out that School of Medicine and School of Public Health behold one plac
 
 - For the printing paper filtered out, it just provided us the total dollar spending on each request but it varied by the spend from 23 to 27300 ish dollars, and different printing paper products have different price units. It would be really hard to find out each unit price and converted it to a specific quantity. It would be better if the ordering request data was pulled out with quantity attributes at firsthand.
 
+
 Conclusion: 
 * The carbon emissions of a K-Cup is 26.4g.
 * The carbon emission of top 10 consumed ground coffee is about 233.52616kg carbon dioxide.
 * The carbon emission of the top 10 consumed coffee creamer is about 14021.788kg carbon dioxide.
 * School of Medicine and School of Public Health behold one place in top 3 among the rank of ordering numbers and ordering spends from different departments of BU.
 * K-Cup coffee pods is ordered every 0.7 days on average, toner cartridge is ordered every 5.1 days on average and paper is ordered every 1.12 days on average. 
+
+### Suggestions for BU Sustainbility
+
+* Based on huge orderings from WB Mason Company, it would be better to have a "price discrimination" by dealing the products contributing larger waste volume or CO2 emission with a lower discount in price and those which are made of all (or most) recycled materials and considered less enviromental impact with a higher discount. At result, BU staff may change their purchasing behaviour and request those products which are good for sustainbility.
