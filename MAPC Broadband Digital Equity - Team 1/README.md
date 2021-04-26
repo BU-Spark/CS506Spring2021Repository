@@ -18,7 +18,9 @@ Things to install before running our program:
 
 https://sqlitebrowser.org/
 
-
+Steps:
+1. Download the entire directory
+2. Go to the data folder and extract the file from fcc_data_june2019.zip
 
 Things to run:
 1. Run the importdata.py
