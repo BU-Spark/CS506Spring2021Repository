@@ -1,9 +1,13 @@
 
 # Supporting Libaries
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 from itertools import chain
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
+from collections import Counter
+import numpy as np
 from wordcloud import WordCloud, STOPWORDS
 
 # Pre-processing; string cleaning
@@ -282,3 +286,64 @@ plt.tight_layout()
 plt.show()
 
 ###################################################################
+
+# Additional EDA with clean_topics -- Eric South 04-24-21
+doc_counts = []  # Populated with tuples that detail topic-specific word counts
+for document in processed_text:  # Iterate through each document in corpera
+    word_counts = Counter(document)  # Create dict of word occurances
+    temp_counts = []  # Populated with word counts, per topic, for single doc
+    for topic in range(len(clean_topics)):  # Iterate through each topic group
+        words = list(clean_topics[topic][1].keys())  # Top words for each topic
+        total_counts = 0
+        for word in words:
+            try:
+                total_counts += word_counts[word]
+            except:
+                continue
+        temp_counts.append(total_counts)
+    doc_counts.append(tuple(temp_counts))
+
+df = pd.DataFrame(doc_counts, columns =['t0', 't1', 't2'])
+
+for col in df.columns:  # Replace 0 with Nan prior to normalization
+    df[col] = df[col].replace(np.nan, 0)
+
+
+# Normalize topic-specific word counts by converting to proportions in doc
+df = df.div(df.sum(axis=1), axis=0)
+
+# Visualize
+sns.set_style("ticks")
+
+# plotting both distibutions on the same figure
+fig, ax = plt.subplots()
+sns.kdeplot(df['t0'], shade=True, color="r")
+sns.kdeplot(df['t1'], shade=True, color="g")
+sns.kdeplot(df['t2'], shade=True, color="b")
+ax.set_xlabel("Prevalence of Topic in 10-K Risk Text", fontsize=12,
+              fontweight='bold')
+ax.set_ylabel('Frequency', fontsize=12, fontweight='bold')
+ax.set_xlim(-.1, 1.2)
+ax.set_ylim(0, 6)
+plt.legend(['Operational', 'Evaluation', 'Regulatory'])
+plt.show()
+
+my_pal = {"t0": "g", "t1": "r", "t2": "b"}
+
+df = df[['t1', 't0', 't2']]
+
+fig, ax = plt.subplots()
+sns.violinplot(data=df, palette=my_pal)
+ax.set_ylabel("Prevalence of Topic in 10-K Risk Text",
+              fontsize=12, fontweight='bold')
+ax.set_xticklabels(['Operational', 'Evaluation', 'Regulatory'])
+plt.show()
+
+
+
+
+
+
+
+
+
