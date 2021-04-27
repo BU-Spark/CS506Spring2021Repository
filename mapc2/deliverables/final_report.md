@@ -33,6 +33,52 @@ In this deliverable, we present our work for MAPC regarding the MLAB and Ookla d
 
 <div style="page-break-after: always;"></div>
 
+# Table of Contents
+- [Abstract](#abstract)
+- [Motivation](#motivation)
+- [Ookla Dataset](#ookla-dataset)
+      - [Initial Steps](#initial-steps)
+      - [AWS and Programmatic Access](#aws-and-programmatic-access)
+      - [Date Pre-Processing](#date-pre-processing)
+      - [Labeling by Municipality](#labeling-by-municipality)
+      - [Data Schema](#data-schema)
+      - [Data Size](#data-size)
+  * [Ookla Geographical Density](#ookla-geographical-density)
+  * [Ookla Basic Statistics](#ookla-basic-statistics)
+      - [Top 25 Cities with Fastest Average Download Speed](#top-25-cities-with-fastest-average-download-speed)
+      - [Cities with the Most Average Number of Devices](#cities-with-the-most-average-number-of-devices)
+- [MLAB Dataset](#mlab-dataset)
+      - [Data Access and DownSampling](#data-access-and-downsampling)
+      - [MLAB Automated Scripts](#mlab-automated-scripts)
+      - [Data Schema](#data-schema-1)
+      - [Data Size](#data-size-1)
+  * [Labeling MLAB Data](#labeling-mlab-data)
+  * [MLAB Descriptive Statistics](#mlab-descriptive-statistics)
+      - [Basic Statistics](#basic-statistics)
+      - [Top 5 Fastest Providers on Average, with at least 1,000 Measurements](#top-5-fastest-providers-on-average--with-at-least-1-000-measurements)
+      - [Botton 5 Slowest Providers on Average, with at least 1,000 Measurements](#botton-5-slowest-providers-on-average--with-at-least-1-000-measurements)
+      - [Counts of Measurements per Provider, with at least 1,000 Measurements](#counts-of-measurements-per-provider--with-at-least-1-000-measurements)
+      - [Top 25 Cities by Measurement Count](#top-25-cities-by-measurement-count)
+  * [Splitting MLAB Data into Sub-Datasets by Municipality](#splitting-mlab-data-into-sub-datasets-by-municipality)
+  * [Computing the Average Broadband Speed Per Provider Per Municipality](#computing-the-average-broadband-speed-per-provider-per-municipality)
+- [Results](#results)
+      - [Ookla Upload and Download Speeds](#ookla-upload-and-download-speeds)
+      - [Ookla Interactive HTML Map](#ookla-interactive-html-map)
+      - [MLAB Data and Median Household Income](#mlab-data-and-median-household-income)
+      - [Ookla Data and Median Household Income](#ookla-data-and-median-household-income)
+      - [Provider Mean Throughput Mbps and Median Household Income](#provider-mean-throughput-mbps-and-median-household-income)
+- [Conclusion and Discussion](#conclusion-and-discussion)
+    + [Realistic Internet Measurements](#realistic-internet-measurements)
+      - [A Note on MLAB Tests](#a-note-on-mlab-tests)
+    + [Ookla Download Speeds vs MLAB Mean Throughput Speeds](#ookla-download-speeds-vs-mlab-mean-throughput-speeds)
+    + [Failure to Reach 100/100 Mark](#failure-to-reach-100-100-mark)
+    + [Disparity between Upload and Download Speeds](#disparity-between-upload-and-download-speeds)
+    + [Disparity amongst Individual Providers](#disparity-amongst-individual-providers)
+    + [Correlations Between Broadband Speed and Median Household Income](#correlations-between-broadband-speed-and-median-household-income)
+- [Final Note](#final-note)
+
+<div style="page-break-after: always;"></div>
+
 ## Abstract
 
 In this work, we construct datasets of measured internet speeds from two different organizations, MLAB and Ookla, in the year 2020, for the state of Massachusetts. MLAB measures speed when someone queries Google along the lines of "how fast is my internet," and measures a simulated network request as if it propagated across a significant portion of the larger internet network. Ookla, on the other hand, measures speed at speedtest.net, and presents a measurement of someone's local ISP server's speed. We further analyze this data on a per municipality basis, and the MLAB data on a per provider basis. We present descriptive statistics of internet speeds during 2020 for the state of Massachusetts, and maps of upload and download speeds for each municipality in the state of Massachusetts. We also present this data as correlated against household income data from the 2014-2018 census. Finally, we discuss a number of key findings in the analysis of these datasets. First, there is a significant difference between measured Ookla speeds and measured MLAB speeds. Second, there exists an upwards correlation between MLAB broadband speeds and median household income; as median household income increases, average broadband speed increases as well. Third, the vast majority of municipalities are significantly under the desired 100/100 download/upload speeds in mega-bits-per-second (Mbps), with many not even reaching 50 Mbps. Fourth, there exists significant disparity in broadband coverage across the state.
