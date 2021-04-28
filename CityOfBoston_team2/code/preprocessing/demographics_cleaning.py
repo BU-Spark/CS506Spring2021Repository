@@ -2,6 +2,6 @@ import pandas as pd
 
 demographics = pd.read_csv('../../dataset_ignore/census/Zip Codes Black Labels/GISDATA.ZIPCODES_POLY.csv')
 demographics.drop(columns=['FID', 'objectid', 'state', 'pop10_sqmi', 'pop13_sqmi', 'hse_units', 'vacant', 'owner_occ', 'renter_occ', 'sqmi', 'shape_leng', 'gdb_geomattr_data', 'shape'], inplace=True)
-demographics = demographics[demographics['po_name'].isin(['Allston', 'Boston', 'Brighton', 'Charlestown', 'Chestnut Hill', 'Dorchester', 'Hyde Park', 'Jamaica Plain', 'Mattapan', 'Roslindale', 'Roxbury', 'West Roxbury'])]
+demographics = demographics[demographics['po_name'].isin(['Allston', 'Boston', 'Brighton', 'Charlestown', 'Dorchester', 'Hyde Park', 'Jamaica Plain', 'Mattapan', 'Roslindale', 'Roxbury', 'West Roxbury'])]
 
 demographics.to_csv('../../datasets_clean/demographics.csv')
