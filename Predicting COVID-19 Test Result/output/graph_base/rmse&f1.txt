@@ -1,0 +1,8 @@
+before feature selection
+RMSE for Random Forest Classifier =  0.01583726332089815
+f1_macro for Random Forest Classifier =  0.5330435685765635
+
+
+before oversampling
+RMSE for Random Forest Classifier =  0.015485324135989301
+f1_macro for Random Forest Classifier =  0.5006026883864568
