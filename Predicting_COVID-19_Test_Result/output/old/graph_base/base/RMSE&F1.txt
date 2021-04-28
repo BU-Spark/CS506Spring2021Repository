@@ -10,7 +10,7 @@ RMSE for Decision Tree model =  0.018713013808178282
 f1_macro for Decision Tree =  0.5640665029459596
 
 
-RMSE for Complement Naive Bayes model =  0.12667270885536067
+RMSE for Categorical Naive Bayes model =  0.12667270885536067
 f1_macro for Categorical Naive Bayes Classifier =  0.515595293052105
 
 

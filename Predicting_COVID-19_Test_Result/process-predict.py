@@ -27,7 +27,7 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import IsolationForest
 from sklearn.neighbors import LocalOutlierFactor
 import xgboost as xgb
-from sklearn.metrics import mean_squared_error, confusion_matrix, f1_score
+from sklearn.metrics import mean_squared_error, confusion_matrix, f1_score, precision_score, plot_roc_curve
 from datetime import datetime
 
 # Output file location
@@ -37,12 +37,13 @@ wdir = "./output/dict_log.txt"
 # Setting Random Seed
 seed = 0
 
-# # Concatenating Subsets
-# print("Concatenating subsets...")
-# path = r'./data/carbon'
-# all_files = glob.glob(os.path.join(path, "*.csv"))
-# concat_df = pd.concat((pd.read_csv(f) for f in all_files))
-# concat_df.to_csv('./data/raw_concatenated.csv', index=False)
+
+# Concatenating Subsets
+print("Concatenating subsets...")
+path = r'./data/carbon'
+all_files = glob.glob(os.path.join(path, "*.csv"))
+concat_df = pd.concat((pd.read_csv(f) for f in all_files))
+concat_df.to_csv('./data/raw_concatenated.csv', index=False)
 
 
 # Loading
@@ -136,23 +137,6 @@ print("Train/Validation Split...")
 # raw_df['covid19_test_results'], test_size=0.20, random_state=seed, stratify=raw_df['covid19_test_results'])
 X_train_full, X_validation_full, y_train_full, y_validation_full = train_test_split(raw_df_full.drop(['covid19_test_results'], axis=1), 
 raw_df_full['covid19_test_results'], test_size=0.2, random_state=seed, stratify=raw_df_full['covid19_test_results'])
-
-def rfc(train_x, train_y, test_x, test_y):
-    rforest = RandomForestClassifier(n_jobs=-1)
-    rforest.fit(train_x, train_y)
-    y_predictions = rforest.predict(test_x)
-    print("RMSE for Random Forest Classifier = ", mean_squared_error(test_y, y_predictions))
-    my_f1 = f1_score(test_y, y_predictions, average='macro')
-    print("f1_macro for Random Forest Classifier = ", my_f1)
-    cm = confusion_matrix(test_y, y_predictions, normalize='true')
-    sns.heatmap(cm, annot=True)
-    plt.title('Confusion matrix of the Random Forest classifier Before Feature Selection')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    plt.savefig('./output/Random_Forest_0.png')
-    plt.show()
-print("RFC...")
-rfc(X_train_full, y_train_full, X_validation_full, y_validation_full)
 
 
 # Feature Selection
@@ -259,22 +243,6 @@ print(X_train_full_fs.columns)
 # plt.savefig('./output/Random_Forest.png')
 # plt.show()
 
-def rfc(train_x, train_y, test_x, test_y):
-    rforest = RandomForestClassifier(n_jobs=-1)
-    rforest.fit(train_x, train_y)
-    y_predictions = rforest.predict(test_x)
-    print("RMSE for Random Forest Classifier = ", mean_squared_error(test_y, y_predictions))
-    my_f1 = f1_score(test_y, y_predictions, average='macro')
-    print("f1_macro for Random Forest Classifier = ", my_f1)
-    cm = confusion_matrix(test_y, y_predictions, normalize='true')
-    sns.heatmap(cm, annot=True)
-    plt.title('Confusion matrix of the Random Forest classifier')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    plt.savefig('./output/Random_Forest_fs.png')
-    plt.show()
-print("RFC...")
-rfc(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
 
 # Oversampling by SMOTEN (Variant of SMOTE on categorical, using VDM)
 print("Oversampling...")
@@ -334,138 +302,7 @@ y_train_full = y_train_full.astype(int)
 y_validation_full = y_validation_full.astype(int)
 
 
-def dict_to_txt(payload, title, wodir = wdir):
-    def add_txt_to_file(filename, content):
-        res = open(filename, "a")
-        for i in content:
-            res.write(str(i))
-            res.write("\n")
-        res.close()
-    #generate payload list
-    res = []
-    res.append("##########" + title + "##########")
-    t1 = str(datetime.now())
-    res.append("Report Created: " + t1)
-    res.append("\n")
-    #loop through the dict
-    for key in payload:
-        stro = str(key) + " : " + str(payload[key])
-        res.append(stro)
-    res.append("#"*(len(title)+20))
-    #write file
-    add_txt_to_file(wodir, res)
-
-'''
-def rfc(train_x, train_y, test_x, test_y):
-    rforest = RandomForestClassifier(n_jobs=-1)
-    rforest.fit(train_x, train_y)
-    y_predictions = rforest.predict(test_x)
-    print("RMSE for Random Forest Classifier = ", mean_squared_error(test_y, y_predictions))
-    my_f1 = f1_score(test_y, y_predictions, average='macro')
-    print("f1_macro for Random Forest Classifier = ", my_f1)
-    cm = confusion_matrix(test_y, y_predictions, normalize='true')
-    sns.heatmap(cm, annot=True)
-    plt.title('Confusion matrix of the Random Forest classifier')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    plt.savefig('./output/Random_Forest.png')
-    plt.show()
-print("RFC...")
-rfc(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
-'''
-
-'''
-# Testing best parameters
-def rfc(train_x, train_y, test_x, test_y):
-    rforest = RandomForestClassifier(n_jobs=-1, n_estimators=922, min_samples_split=2, min_samples_leaf=1, max_features='auto', max_depth=20, 
-    bootstrap=True)
-    rforest.fit(train_x, train_y)
-    y_predictions = rforest.predict(test_x)
-    print("RMSE for Random Forest Classifier = ", mean_squared_error(test_y, y_predictions))
-    my_f1 = f1_score(test_y, y_predictions, average='macro')
-    print("f1_macro for Random Forest Classifier = ", my_f1)
-    cm = confusion_matrix(test_y, y_predictions, normalize='true')
-    sns.heatmap(cm, annot=True)
-    plt.title('Confusion matrix of the Random Forest classifier')
-    plt.xlabel('Predicted')
-    plt.ylabel('True')
-    plt.savefig('./output/Random_Forest.png')
-    plt.show()
-print("RFC...")
-rfc(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
-'''
-
-
-'''
-# Random Forest Random Search CV
-print("RF Random Search CV...")
-rf_model = RandomForestClassifier()
-# repeated KFold repeats a single KFold process for n_repeats number of times
-# on each repeat, the KFolds are partitioned randomly 
-rf_cv = RepeatedStratifiedKFold(n_splits=4, n_repeats=3, random_state=seed)
-# space defines the search space of your hyperparameters of interest
-rf_space = dict()
-# whatever you're interested in tuning, add it to the search space as a dictionary item
-rf_space['n_estimators'] = [int(x) for x in np.linspace(start = 200, stop = 1500, num = 10)]
-rf_space['max_features'] = ['auto', 'sqrt']
-my_depth = [int(x) for x in np.linspace(10, 110, num = 11)]
-my_depth.append(None)
-rf_space['max_depth'] = my_depth
-rf_space['min_samples_split'] = [2, 5, 10]
-rf_space['min_samples_leaf'] = [1, 2, 4]
-rf_space['bootstrap'] = [True, False]
-rf_space['n_jobs'] = [-1]
-# a total of 4320 settings, calculated by multiplying the number of elements in each of the parameters
-pprint(rf_space)
-# define a scoring that suits the problem of interest
-# randomized search CV runs for n_iter number of times, each time with a set of parameters randomly picked from the search space defined earlier
-# (or that the set of parameter setting tried by the algorithm is given by n_iter). Each set of parameters is a random sample from the grid/search space
-# since we're ysing repeated k folds, each set of parameters is cross validated for n_repeats number of times (defined in cv), and each time it is
-# a KFold cross validation
-rf_search = RandomizedSearchCV(estimator=rf_model, param_distributions=rf_space, n_iter=2000, scoring='f1_micro', n_jobs=-1, cv=rf_cv, random_state=seed)
-# after everything is defined, fit the random search CV to training data to initiate the random search cv process
-# the output would 
-s_time = time.perf_counter()
-rf_result = rf_search.fit(X_train_full_fs, y_train_full.values.ravel())
-f_time = time.perf_counter()
-print('random search took: ' + str(f_time - s_time) + ' seconds')
-print('Best Score: %s' % rf_result.best_score_)
-print('Best Hyperparameters: %s' % rf_result.best_params_)
-# code be prints the parameters currently in use by a model
-# print('Parameters currently in use:\n')
-# pprint(rf.get_params())
-dict_to_txt(rf_result.best_params_, "rf_best_params")
-'''
-
-'''
-# Grid Search CV
-print("Concentrated Grid Search CV from Random Search CV results...")
-# Set up Grid Search CV parameters by expanding in, both directions, the best parameter settings obtained in random search cv
-# e.g. best min_sample_leaf values is 4, check 3 and 5 in grid search
-# grid search searches every possible combination of parameter values that you specified
-rf_model = RandomForestClassifier()
-# repeated KFold repeats a single KFold process for n_repeats number of times
-# on each repeat, the KFolds are partitioned randomly 
-rf_cv = RepeatedStratifiedKFold(n_splits=4, n_repeats=3, random_state=seed)
-grid_space = {}
-grid_space['n_estimators'] = [922]
-grid_space['max_features'] = ['auto']
-grid_space['max_depth'] = [16, 17, 18, 19, 20, 21, 22, 23, 24]
-grid_space['min_samples_split'] = [1, 2, 3]
-grid_space['min_samples_leaf'] = [1, 2]
-grid_space['bootstrap'] = [True]
-grid_space['n_jobs'] = [-1]
-grid_search = GridSearchCV(estimator=rf_model, param_grid=grid_space, scoring='f1_macro', n_jobs=-1, cv=rf_cv)
-grid_result = grid_search.fit(X_train_full_fs, y_train_full)
-print('Best Score: %s' % grid_result.best_score_)
-print('Best Hyperparameters: %s' % grid_result.best_params_)
-best_params = grid_result.best_params_
-dict_to_txt(grid_result.best_params_, "grid_rf_best_params")
-'''
-
-'''
-# KNN & Logistic & Decision Tree & Complement Naive Bayes & Random Forest
-# X_train_full, X_validation_full, y_train_full, y_validation_full
+# Spot Checking
 # KNN
 print("Running Models...")
 def knn(train_x, train_y, test_x, test_y):
@@ -572,4 +409,117 @@ def xgboo(train_x, train_y, test_x, test_y):
     plt.show()
 print("XGBoost...")
 xgboo(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
-'''
+
+
+# Helper Function for Saving Parameters to Local
+def dict_to_txt(payload, title, wodir = wdir):
+    def add_txt_to_file(filename, content):
+        res = open(filename, "a")
+        for i in content:
+            res.write(str(i))
+            res.write("\n")
+        res.close()
+    #generate payload list
+    res = []
+    res.append("##########" + title + "##########")
+    t1 = str(datetime.now())
+    res.append("Report Created: " + t1)
+    res.append("\n")
+    #loop through the dict
+    for key in payload:
+        stro = str(key) + " : " + str(payload[key])
+        res.append(stro)
+    res.append("#"*(len(title)+20))
+    #write file
+    add_txt_to_file(wodir, res)
+
+
+# Random Forest Random Search CV
+print("RF Random Search CV...")
+rf_model = RandomForestClassifier()
+# repeated KFold repeats a single KFold process for n_repeats number of times
+# on each repeat, the KFolds are partitioned randomly 
+rf_cv = RepeatedStratifiedKFold(n_splits=4, n_repeats=3, random_state=seed)
+# space defines the search space of your hyperparameters of interest
+rf_space = dict()
+# whatever you're interested in tuning, add it to the search space as a dictionary item
+rf_space['n_estimators'] = [int(x) for x in np.linspace(start = 200, stop = 1500, num = 10)]
+rf_space['max_features'] = ['auto', 'sqrt']
+my_depth = [int(x) for x in np.linspace(10, 110, num = 11)]
+my_depth.append(None)
+rf_space['max_depth'] = my_depth
+rf_space['min_samples_split'] = [2, 5, 10]
+rf_space['min_samples_leaf'] = [1, 2, 4]
+rf_space['bootstrap'] = [True, False]
+rf_space['n_jobs'] = [-1]
+# a total of 4320 settings, calculated by multiplying the number of elements in each of the parameters
+pprint(rf_space)
+# define a scoring that suits the problem of interest
+# randomized search CV runs for n_iter number of times, each time with a set of parameters randomly picked from the search space defined earlier
+# (or that the set of parameter setting tried by the algorithm is given by n_iter). Each set of parameters is a random sample from the grid/search space
+# since we're ysing repeated k folds, each set of parameters is cross validated for n_repeats number of times (defined in cv), and each time it is
+# a KFold cross validation
+rf_search = RandomizedSearchCV(estimator=rf_model, param_distributions=rf_space, n_iter=2000, scoring='f1_micro', n_jobs=-1, cv=rf_cv, random_state=seed)
+# after everything is defined, fit the random search CV to training data to initiate the random search cv process
+# the output would 
+s_time = time.perf_counter()
+rf_result = rf_search.fit(X_train_full_fs, y_train_full.values.ravel())
+f_time = time.perf_counter()
+print('random search took: ' + str(f_time - s_time) + ' seconds')
+print('Best Score: %s' % rf_result.best_score_)
+print('Best Hyperparameters: %s' % rf_result.best_params_)
+# code be prints the parameters currently in use by a model
+# print('Parameters currently in use:\n')
+# pprint(rf.get_params())
+dict_to_txt(rf_result.best_params_, "rf_best_params")
+
+
+# Grid Search CV
+print("Concentrated Grid Search CV from Random Search CV results...")
+# Set up Grid Search CV parameters by expanding in, both directions, the best parameter settings obtained in random search cv
+# e.g. best min_sample_leaf values is 4, check 3 and 5 in grid search
+# grid search searches every possible combination of parameter values that you specified
+rf_model = RandomForestClassifier()
+# repeated KFold repeats a single KFold process for n_repeats number of times
+# on each repeat, the KFolds are partitioned randomly 
+rf_cv = RepeatedStratifiedKFold(n_splits=4, n_repeats=3, random_state=seed)
+grid_space = {}
+grid_space['n_estimators'] = [922]
+grid_space['max_features'] = ['auto']
+grid_space['max_depth'] = [16, 17, 18, 19, 20, 21, 22, 23, 24]
+grid_space['min_samples_split'] = [1, 2, 3]
+grid_space['min_samples_leaf'] = [1, 2]
+grid_space['bootstrap'] = [True]
+grid_space['n_jobs'] = [-1]
+grid_search = GridSearchCV(estimator=rf_model, param_grid=grid_space, scoring='f1_macro', n_jobs=-1, cv=rf_cv)
+grid_result = grid_search.fit(X_train_full_fs, y_train_full)
+print('Best Score: %s' % grid_result.best_score_)
+print('Best Hyperparameters: %s' % grid_result.best_params_)
+best_params = grid_result.best_params_
+dict_to_txt(grid_result.best_params_, "grid_rf_best_params")
+
+
+# Generate model based on best hyperparameters
+def rfc(train_x, train_y, test_x, test_y):
+    rforest = RandomForestClassifier(n_jobs=-1, n_estimators=922, min_samples_split=3, min_samples_leaf=1, max_features='auto', max_depth=16, 
+    bootstrap=True)
+    rforest.fit(train_x, train_y)
+    y_predictions = rforest.predict(test_x)
+    print("RMSE for Random Forest Classifier = ", mean_squared_error(test_y, y_predictions))
+    my_f1 = f1_score(test_y, y_predictions, average='macro')
+    print("f1_macro for Random Forest Classifier = ", my_f1)
+    prec_score = precision_score(test_y, y_predictions, average='macro')
+    print("precision_macro for Random Forest Classifier = ", prec_score)
+    cm = confusion_matrix(test_y, y_predictions, normalize='true')
+    sns.heatmap(cm, annot=True)
+    plt.title('Confusion matrix of the Random Forest classifier')
+    plt.xlabel('Predicted')
+    plt.ylabel('True')
+    plt.savefig('./output/rf_final.png')
+    plt.show()
+    plt.close()
+    myroc = plot_roc_curve(rforest, test_x, test_y)
+    plt.savefig('./output/rf_final_roc.png')
+    plt.show()
+print("RFC...")
+rfc(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
