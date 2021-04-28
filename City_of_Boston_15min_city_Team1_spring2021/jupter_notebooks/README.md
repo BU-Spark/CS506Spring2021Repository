@@ -4,7 +4,7 @@ To reproduce our results, you need to first run the notebooks in "preprocess" fo
 
 The sequence is: CS506_open_space_annotated.ipynb -> CSDATA_combine_datasets_V2_annotated.ipynb -> CS506_combineParcels_V2_annotated.ipynb.
 
-All 3 notebooks involve datasets in the "datasets" folder. You do not need to run CS506_raw_parcels.ipynb because the dataset it uses is too big to upload to Github and its output file is already in "datasets". If you really want to run it, the link for dataset it requires is:
+All 3 notebooks involve datasets in the "datasets" folder. You do not need to run CS506_raw_parcels.ipynb and parcel_to_coord.ipynb because the dataset they use is too big to upload to Github and their final output file (final_parcels_coords.csv) is already in "datasets". If you really want to run those codes, the link for dataset they require is:
 https://koordinates.com/layer/96130-boston-massachusetts-parcels/
 
 After that, you need to run the codes in "distance_matrix". You can run parcel_service_distance_v2.ipynb, DMA_process.ipynb and DMA_process_2.ipynb (follow this order) to get all the distances (between parcels and essential services), and run CS506DATA_View_DMA_annotated.ipynb to visualize the data.
