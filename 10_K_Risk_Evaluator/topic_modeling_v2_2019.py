@@ -25,7 +25,7 @@ import html_parser_modified
 
 #reading in data
 # Upload table containing list of companies and their corresponding risk text
-data = pd.read_csv("data/10k_2019_original.csv")
+data = pd.read_csv("data/10k_2020_original.csv")
 
 
 
@@ -317,9 +317,9 @@ sns.set_style("ticks")
 
 # plotting both distibutions on the same figure
 fig, ax = plt.subplots()
-sns.kdeplot(df['t0'], shade=True, color="r")
-sns.kdeplot(df['t1'], shade=True, color="g")
-sns.kdeplot(df['t2'], shade=True, color="b")
+sns.kdeplot(df['t0'], shade=True, color="g")
+sns.kdeplot(df['t1'], shade=True, color="b")
+sns.kdeplot(df['t2'], shade=True, color="r")
 ax.set_xlabel("Prevalence of Topic in 10-K Risk Text", fontsize=12,
               fontweight='bold')
 ax.set_ylabel('Frequency', fontsize=12, fontweight='bold')
@@ -328,9 +328,9 @@ ax.set_ylim(0, 6)
 plt.legend(['Operational', 'Evaluation', 'Regulatory'])
 plt.show()
 
-my_pal = {"t0": "g", "t1": "r", "t2": "b"}
+my_pal = {"t0": "r", "t1": "b", "t2": "g"}
 
-df = df[['t1', 't0', 't2']]
+df = df[['t2', 't0', 't1']]
 
 fig, ax = plt.subplots()
 sns.violinplot(data=df, palette=my_pal)
