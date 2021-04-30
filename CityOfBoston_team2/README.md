@@ -2,6 +2,8 @@
 
 Final project for CAS CS 506 through Spark! BU and the City of Boston.
 
+The final report can be found [here](deliverables/final_report.pdf).
+
 ## Team Members
 
 Katelyn Lee (ktllee@bu.edu, ktllee)<br>
