@@ -1,4 +1,0 @@
-- Clean address dataset. If there are more than one records within a parcel, remove the records with none unit value. (May represent garage)
-- Peform counting using usecode and style.
-- Perform sjoin and count by addresses' number
-- perform approximation using decision rules.
