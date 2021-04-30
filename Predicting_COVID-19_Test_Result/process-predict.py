@@ -27,7 +27,7 @@ from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import IsolationForest
 from sklearn.neighbors import LocalOutlierFactor
 import xgboost as xgb
-from sklearn.metrics import mean_squared_error, confusion_matrix, f1_score, precision_score, plot_roc_curve
+from sklearn.metrics import mean_squared_error, confusion_matrix, f1_score, precision_score, recall_score, plot_roc_curve
 from datetime import datetime
 
 # Output file location
@@ -273,15 +273,6 @@ print("After NCR undersampling, the class distribution is:")
 print(counter)
 
 
-# # make a small set
-# train_temp = X_train_full_fs
-# train_temp['target'] = y_train_full
-# X_train_temp, X_validation_temp, y_train_temp, y_validation_temp = train_test_split(train_temp.drop(['target'], axis=1), 
-# train_temp['target'], test_size=0.003, random_state=seed, stratify=train_temp['target'])
-# X_train_full_fs = X_validation_temp
-# y_train_full = y_validation_temp
-
-
 # Saving to Local
 print("Saving to Local in csv...")
 X_train_full_fs.to_csv("./data/X_train.csv", index=False)
@@ -303,6 +294,10 @@ y_validation_full = y_validation_full.astype(int)
 
 
 # Spot Checking
+train_temp = X_train_full_fs
+train_temp['target'] = y_train_full
+X_train_temp, X_validation_temp, y_train_temp, y_validation_temp = train_test_split(train_temp.drop(['target'], axis=1), 
+train_temp['target'], test_size=0.2, random_state=seed, stratify=train_temp['target'])
 # KNN
 print("Running Models...")
 def knn(train_x, train_y, test_x, test_y):
@@ -320,7 +315,7 @@ def knn(train_x, train_y, test_x, test_y):
     plt.savefig('./output/KNN.png')
     plt.show()
 print("KNN...")
-knn(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
+knn(X_train_temp, y_train_temp, X_validation_temp, y_validation_temp)
 
 # Logistic
 def log(train_x, train_y, test_x, test_y):
@@ -338,7 +333,7 @@ def log(train_x, train_y, test_x, test_y):
     plt.savefig('./output/Logistic.png')
     plt.show()
 print("LR...")
-log(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
+log(X_train_temp, y_train_temp, X_validation_temp, y_validation_temp)
 
 # Decision Tree
 def dectree(train_x, train_y, test_x, test_y):
@@ -356,7 +351,7 @@ def dectree(train_x, train_y, test_x, test_y):
     plt.savefig('./output/Decision_Tree.png')
     plt.show()
 print("DT...")   
-dectree(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
+dectree(X_train_temp, y_train_temp, X_validation_temp, y_validation_temp)
 
 # Complement Naive Bayes
 def cnb(train_x, train_y, test_x, test_y):
@@ -374,7 +369,7 @@ def cnb(train_x, train_y, test_x, test_y):
     plt.savefig('./output/CompNB.png')
     plt.show()
 print("CNB..") 
-cnb(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
+cnb(X_train_temp, y_train_temp, X_validation_temp, y_validation_temp)
 
 def rfc(train_x, train_y, test_x, test_y):
     rforest = RandomForestClassifier(n_jobs=-1)
@@ -391,7 +386,7 @@ def rfc(train_x, train_y, test_x, test_y):
     plt.savefig('./output/Random_Forest.png')
     plt.show()
 print("RFC...")
-rfc(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
+rfc(X_train_temp, y_train_temp, X_validation_temp, y_validation_temp)
 
 def xgboo(train_x, train_y, test_x, test_y):
     xgb_model = xgb.XGBClassifier()
@@ -408,7 +403,7 @@ def xgboo(train_x, train_y, test_x, test_y):
     plt.savefig('./output/xgboost.png')
     plt.show()
 print("XGBoost...")
-xgboo(X_train_full_fs, y_train_full, X_validation_full_fs, y_validation_full)
+xgboo(X_train_temp, y_train_temp, X_validation_temp, y_validation_temp)
 
 
 # Helper Function for Saving Parameters to Local
@@ -452,6 +447,7 @@ rf_space['min_samples_split'] = [2, 5, 10]
 rf_space['min_samples_leaf'] = [1, 2, 4]
 rf_space['bootstrap'] = [True, False]
 rf_space['n_jobs'] = [-1]
+rf_space['class_weight'] = ['balanced']
 # a total of 4320 settings, calculated by multiplying the number of elements in each of the parameters
 pprint(rf_space)
 # define a scoring that suits the problem of interest
@@ -459,7 +455,7 @@ pprint(rf_space)
 # (or that the set of parameter setting tried by the algorithm is given by n_iter). Each set of parameters is a random sample from the grid/search space
 # since we're ysing repeated k folds, each set of parameters is cross validated for n_repeats number of times (defined in cv), and each time it is
 # a KFold cross validation
-rf_search = RandomizedSearchCV(estimator=rf_model, param_distributions=rf_space, n_iter=2000, scoring='f1_micro', n_jobs=-1, cv=rf_cv, random_state=seed)
+rf_search = RandomizedSearchCV(estimator=rf_model, param_distributions=rf_space, n_iter=2000, scoring='recall_macro', n_jobs=-1, cv=rf_cv, random_state=seed)
 # after everything is defined, fit the random search CV to training data to initiate the random search cv process
 # the output would 
 s_time = time.perf_counter()
@@ -486,12 +482,13 @@ rf_cv = RepeatedStratifiedKFold(n_splits=4, n_repeats=3, random_state=seed)
 grid_space = {}
 grid_space['n_estimators'] = [922]
 grid_space['max_features'] = ['auto']
-grid_space['max_depth'] = [16, 17, 18, 19, 20, 21, 22, 23, 24]
-grid_space['min_samples_split'] = [1, 2, 3]
+grid_space['max_depth'] = [9, 10, 11]
+grid_space['min_samples_split'] = [4, 5, 6]
 grid_space['min_samples_leaf'] = [1, 2]
 grid_space['bootstrap'] = [True]
 grid_space['n_jobs'] = [-1]
-grid_search = GridSearchCV(estimator=rf_model, param_grid=grid_space, scoring='f1_macro', n_jobs=-1, cv=rf_cv)
+grid_space['class_weight'] = ['balanced']
+grid_search = GridSearchCV(estimator=rf_model, param_grid=grid_space, scoring='recall_macro', n_jobs=-1, cv=rf_cv)
 grid_result = grid_search.fit(X_train_full_fs, y_train_full)
 print('Best Score: %s' % grid_result.best_score_)
 print('Best Hyperparameters: %s' % grid_result.best_params_)
@@ -501,15 +498,15 @@ dict_to_txt(grid_result.best_params_, "grid_rf_best_params")
 
 # Generate model based on best hyperparameters
 def rfc(train_x, train_y, test_x, test_y):
-    rforest = RandomForestClassifier(n_jobs=-1, n_estimators=922, min_samples_split=3, min_samples_leaf=1, max_features='auto', max_depth=16, 
-    bootstrap=True)
+    rforest = RandomForestClassifier(n_jobs=-1, n_estimators=922, min_samples_split=5, min_samples_leaf=1, max_features='auto', max_depth=10, 
+    bootstrap=True, class_weight='balanced')
     rforest.fit(train_x, train_y)
     y_predictions = rforest.predict(test_x)
     print("RMSE for Random Forest Classifier = ", mean_squared_error(test_y, y_predictions))
     my_f1 = f1_score(test_y, y_predictions, average='macro')
     print("f1_macro for Random Forest Classifier = ", my_f1)
-    prec_score = precision_score(test_y, y_predictions, average='macro')
-    print("precision_macro for Random Forest Classifier = ", prec_score)
+    rec_score = recall_score(test_y, y_predictions, average='macro')
+    print("recall_macro for Random Forest Classifier = ", rec_score)
     cm = confusion_matrix(test_y, y_predictions, normalize='true')
     sns.heatmap(cm, annot=True)
     plt.title('Confusion matrix of the Random Forest classifier')
