@@ -1,8 +1,5 @@
-# Need to format Xs and Y
-# Going to use just 2017 -- avoid the whole over time dilemma
-
 '''
-DEFINE SUCCESS AS >80% of goal reached?
+Starting point: Do we DEFINE SUCCESS AS >80% of goal reached?
 -- go through percent_reached_goal column and generate
 new column based on whether it classifies as successful 
 '''
@@ -14,11 +11,12 @@ new column based on whether it classifies as successful
 -- 'Followers'
 -- 'Num_Updates'
 -- 'Num_Comments'
--- 'Is_Charity' --> need to encode to 1 or 0 if TRUE or FALSE
--- 'Is_Business' --> need to encode to 1 or 0 if TRUE or FALSE
--- 'Is_Team' --> need to encode to 1 or 0 if TRUE or FALSE
+-- 'Is_Charity' --> need to encode to 1 or 0 if TRUE or FALSE --> REMOVE
+-- 'Is_Business' --> need to encode to 1 or 0 if TRUE or FALSE --> REMOVE
+-- 'Is_Team' --> need to encode to 1 or 0 if TRUE or FALSE --> REMOVE
 -- 'Description_Length'
 -- 'Title_Length'
+-- ''Weighted_keyowords'
 _________________________sentiment analysis_______________________
 Note, to skip a row, they all have to be zero
 -- 'Compound_Description'
@@ -36,6 +34,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import datetime
 import sys
+import os
 
 from sklearn.linear_model import LogisticRegression
 
@@ -43,14 +42,35 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, confusion_matrix
 
 import statsmodels.api as sm
+from scipy.stats import zscore
 
-columns = ['Donors','Shares','Followers','Num_Updates','Num_Comments', 'Description_Length', 'Title_Length',
+columns = ['Donors','Shares','Followers',
+'Num_Updates','Num_Comments', 
+'Description_Length', 'Title_Length',
 'Compound_Description', 'Neg_Description', 'Neu_Description', 'Pos_Description',
-'Compound_Title', 'Neg_Title', 'Neu_Title', 'Pos_Title']
+'Compound_Title', 'Neg_Title', 'Neu_Title', 'Pos_Title',
+'Weighted_keyowords'
+]
 
-def format_data(data, year):
+# #Uncomment if you'd like to take out columns if their P>|t| was not <0.05, pre-normalized run of the logistic regression
+# columns = ['Donors', 'Followers',
+# 'Description_Length',
+# 'Pos_Description',
+# 'Pos_Title', 
+# 'Weighted_keyowords'
+# ]
+
+def format_data(data, year, success_metric):
     '''
-    Only want campaigns from input year (2017) (datetime.year)
+    Want campaigns from input year (datetime.year)
+    Check if campaigns meet a threshold of a certain success and classify as
+    1 (success) if they meet that threshold or 0 (not successful) otherwise
+
+    data = pandas dataframe of full dataset, read from a csv
+    year = year to focus on (int)
+    --(ex. 2017 or 2020)
+    success_metric = decimal representing the percent of campaign goal reached (float)
+    --(ex. 0.7  or 0.8)
 
     '''
     # Drop campaigns not in the specified year
@@ -58,12 +78,12 @@ def format_data(data, year):
     campaigns_to_drop = []
     success_classifications = []
     num_key_words = []
-    TF_dict = {'Is_Charity':[],'Is_Business': [], 'Is_Team':[]}
+    #TF_dict = {'Is_Charity':[],'Is_Business': [], 'Is_Team':[]}
 
     for index, row in data.iterrows():
         date_time_obj = datetime.datetime.strptime(row['Campaign_Date'],'%Y-%m-%d %H:%M:%S')
         
-        if date_time_obj.year != 2017:
+        if date_time_obj.year != year:
             campaigns_to_drop.append(index)
         elif pd.isna(row['Donors']) or pd.isna(row['Shares']) or pd.isna(row['Followers']):
             campaigns_to_drop.append(index)
@@ -76,53 +96,64 @@ def format_data(data, year):
             campaigns_to_drop.append(index)
         
         else: 
-            if float(row['Percent_Reached']) >= 0.7:
+            if float(row['Percent_Reached']) >= success_metric:
                 success_classifications.append(1)
             else:
                 success_classifications.append(0)
 
             num_key_words.append(len(row['All_Keywords']))
 
-            for attribute in ['Is_Charity','Is_Business','Is_Team']:
-                if (row[attribute]) == True:
-                    TF_dict[attribute].append(1)
-                elif (row[attribute]) == False:
-                    TF_dict[attribute].append(0)
+            # These attributes were not helpful to the model so they are commented out
+            # for attribute in ['Is_Charity','Is_Business','Is_Team']:
+            #     if (row[attribute]) == True:
+            #         TF_dict[attribute].append(1)
+            #     elif (row[attribute]) == False:
+            #         TF_dict[attribute].append(0)
 
 
     data = pd.DataFrame(data.drop(data.index[campaigns_to_drop]))
     data = data[columns]
     data['Num_Key_Words'] = num_key_words
     data['Success'] = success_classifications
-    for key in TF_dict:
-        data[key] = TF_dict[key]
+    #for key in TF_dict:
+    #    data[key] = TF_dict[key]
 
     Xs = data.drop(columns=['Success'], axis=1)
+    Xs = zscore(Xs.values)
     Y = data['Success'].values#.reshape(-1,1)
 
-    #print(Xs)
-    print("Total number of successful campagins",np.sum(Y))
+    print("\nTotal number of successful campagins",np.sum(Y))
     print("Final length of dataset",len(Y))
 
     return Xs, Y
 
 def reduce_dimensions(Xs):
+    '''
+    Uses Principle Component Analysis (PCA) to reduce highly correlated
+    attributes in Xs
+    '''
     from sklearn.decomposition import PCA
-    Xs = Xs.drop(columns=['Is_Charity','Is_Business','Is_Team'])
+    #Xs = Xs.drop(columns=['Is_Charity','Is_Business','Is_Team']) #drop attributes deemed irrelevant
     pca = PCA(16).fit(Xs)
     variance_ratios = pca.explained_variance_ratio_.cumsum()
+
+    # plot a line and use the elbow method to determine a proper number to plug into PCA()
     plt.plot([i for i in range(0, 16)], variance_ratios*100)
-    plt.axvline(4, c='red')
+    plt.axvline(4, c='red') # draw a line at the number of compressed features determined by elbow method
     plt.title("Explained Variance By Principal Components")
     plt.show()
 
-    pca_data = PCA(4).fit_transform(Xs)
+    pca_data = PCA(4).fit_transform(Xs) #transform using PCA
     print(pca_data)
 
     return pca_data
 
 
 def print_logit_model(Xs, Y):
+    '''
+    Computes and prints logit summary to describe how each variable impacts
+    the overall success of the model
+    '''
 
     #logit_model = sm.Logit(Y, Xs, missing='drop')
     #result = logit_model.fit()
@@ -136,24 +167,27 @@ def print_logit_model(Xs, Y):
 def create_print_regressor_validated(Xs, Y, n_test):
     """
     Creates a logistic regressor and returns Y_test, Y_pred, X_test
-    Also prints the accuracy of the logistic regression
+    Also prints the accuracy of the logistic regression and generates an ROC Curve
     
     n_test : float between 0.0-1.0
         Input the proportion of the dataset to include in the test split
     """
     X_train, X_test, Y_train, Y_test = train_test_split(Xs, Y, test_size = n_test, random_state = 0)
     logreg = LogisticRegression()
-    #print(X_train, Y_train)
-    logreg.fit(X_train, Y_train)
-
-    
+    logreg.fit(X_train, Y_train)    
     Y_pred = logreg.predict(X_test)
     
     print('Accuracy of logistic regression classifier on test set: {:.2f}'.format(logreg.score(X_test, Y_test)))
     
-    return logreg, Y_test, Y_pred, X_test                           #don't need Y_train or X_train beyond here
+    return logreg, Y_test, Y_pred, X_test    #don't need Y_train or X_train beyond here
 
 def print_confusion_matrix(y_test, y_pred):
+    '''
+    Generates a confusion matrix to analyze the performance of the model by
+    comparing the y_test set and the predictions y_pred
+
+    also prints/returns the accuracy, sensitivity, and specificity of the model
+    '''
     
     confus_matrix = confusion_matrix(y_test, y_pred)
     print(confus_matrix)
@@ -169,9 +203,20 @@ def print_confusion_matrix(y_test, y_pred):
     specificity1 = confus_matrix[1,1]/(confus_matrix[1,0]+confus_matrix[1,1])  # proportion of actual negatives, predicted correctly
     print('Specificity : ', specificity1)
 
+    return accuracy1, sensitivity1, specificity1
+
+def return_accuracy(y_test,y_pred):
+    '''
+    A function that only computes and returns the accuracy of the model
+    '''
+    confus_matrix = confusion_matrix(y_test, y_pred)
+    total1 = sum(sum(confus_matrix))
+
+    return (confus_matrix[0,0]+confus_matrix[1,1])/total1
+
 def print_diagnostic_abilities(logreg, y_test, y_pred, x_test):
     """
-    Prints... precision, recall, F-measure and support (not yet)
+    Prints... 
         ROC curve-- illustrates the diagnostic ability of a binary classifier system 
                 as its discrimination threshold is varied. The ROC curve is created by plotting 
                 the true positive rate against the false positive rate at various threshold 
@@ -195,18 +240,74 @@ def print_diagnostic_abilities(logreg, y_test, y_pred, x_test):
     plt.show() 
 
 def main():
-    data = pd.read_csv('./data/GFM_Data_VADER_Sentiment.csv')
-    Xs,Y = format_data(data, 2017)
-    Xs = reduce_dimensions(Xs)
-    print_logit_model(Xs,Y)
-    logreg, Y_test, Y_pred, X_test = create_print_regressor_validated(Xs,Y,0.3)
+    '''
+    Use this if you are looking to make a single run of the logistic regreesion based on 
+    the attributes from an input file and print the ROC Curve
+    '''
+    # Navigate from /analysis folder to the parent directory, to access /data folder
+    cwd = os.getcwd()
+    os.chdir("..")
+    
+    # Read in most processed file, with sentiment analysis
+    data = pd.read_csv('./data/GFM_Data_Sentiment_Keywords_Weighted.csv') 
+
+    # Format the data into Xs (attributes) and Y (whether each campaign was successful)
+    Xs,Y = format_data(data, 2017, 0.7)
+    #Xs = reduce_dimensions(Xs) #comment out if you want to analyze results of all attributes, uncompressed
+
+    # Print summary of the results from logistic regression, how each variable contributes to the model
+    print_logit_model(Xs,Y) 
+    
+    # Generate logistic regression using a train-test-split validation
+    logreg, Y_test, Y_pred, X_test = create_print_regressor_validated(Xs,Y,0.3) 
     print_confusion_matrix(Y_test, Y_pred)
     # print("Confusion matrix key:")
     # cm_key_1 = [['TP','FP']]
     # cm_key_2 = [['FN','TN']]
     # print(cm_key_1,cm_key_2)
-    print_diagnostic_abilities(logreg, Y_test, Y_pred, X_test)
+    print_diagnostic_abilities(logreg, Y_test, Y_pred, X_test) #plots an ROC Curve
     
+def main2():
+    '''
+    Use this if you are looking to loop through different success thresholds (specified in list 
+    'success metrics') over a range of years (specified in list 'years') to determine which
+    has the highest accuracy, with good sensitivity and specificity as well
+    '''
+    cwd = os.getcwd()
+    os.chdir("..")
+    
+    data = pd.read_csv('./data/GFM_Data_Sentiment_Keywords_Weighted.csv')
+    
+    years = [2017, 2019, 2020, 2021] #define what years you want to iterate over
+    success_metrics = [0.7,0.8,0.9,1.0,1.1] #define what range of success metrics you hope to test
+    
+    for year in years:
+        
+        # These lists will collect each metric for each success metric so they can be compared at the end
+        accuracies = []
+        sensitivities = []
+        specificities = []
+
+        for s in success_metrics:
+            Xs,Y = format_data(data, year, s) #format the data to run Logistic Regression
+            logreg, Y_test, Y_pred, X_test = create_print_regressor_validated(Xs,Y,0.3)
+            print('--->YEAR:',year,'--->SUCCESS METRIC:',s)
+            accuracy, sensitivity, specificity = print_confusion_matrix(Y_test, Y_pred) #compute the sensitivity, specificity, and accuracy for this run of the model
+            accuracies.append(accuracy)
+            sensitivities.append(sensitivity)
+            specificities.append(specificity)
+        
+        #For each year, you can use this figure to compare how accuracy, sensitivity, specificity
+        # changed depending on the success metric-- note that even if the accuracy is quite high, when 
+        # sensitivity or specificity are very unbalanced, it's a sign the training parameters are not ideal.
+        plt.figure
+        plt.plot(success_metrics, accuracies, label = 'accuracy')
+        plt.plot(success_metrics, specificities, label = 'specificity')
+        plt.plot(success_metrics, sensitivities, label = 'sensitivity')
+        plt.legend()
+        plt.xlabel('success threshold (% campaign goal reached)')
+        plt.title(year)
+        plt.show()
 
 if __name__ == '__main__':
-    main()
+    main2()
