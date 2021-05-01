@@ -59,5 +59,3 @@ data_formatting.py:
 5) To generate graphs and visualize results from a logistic regression model predicting campaign success, see the analysis folder-- includes all code used to generate figures for data analysis
 
 
-
-

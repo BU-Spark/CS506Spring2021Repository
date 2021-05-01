@@ -91,6 +91,50 @@ def convert_datetime(dataframe):
     
     return dataframe
 
+def weight_keywords(dataframe):
+    '''
+    Based on a dictionary of scores assigned to each key term, this function iterates over all
+    campaigns and computes a weighted sum for that campaign based on the key terms associated with
+    it
+
+    Returns dataframe with a column containing this extra attribute for each campaign
+    '''
+    weight_dict = {
+        'recovery':1 ,
+        'rehabilitation': 0.5997,
+        'heroin': 0.5969,
+        'drugs': 0.5490,
+        'opioid': 0.5435,
+        'rehab': 0.3456,
+        'opiate': 0.2774,
+        'overdose': 0.2211,
+        'addiction': 0.1176,
+        'dependency': 0.0223,
+        'demon': 0.0089,
+        'addict': 0.0056
+    }
+    weighted_sums = []
+
+    for index,row in dataframe.iterrows():
+        sum = 0
+        for keyword in _string_to_list(row['All_Keywords']):
+            sum += weight_dict[keyword]
+        weighted_sums.append(sum)
+
+    dataframe['Weighted_keyowords'] = weighted_sums
+
+    return dataframe
+
+def _string_to_list(s_list):
+    '''
+    Helper function to turn a string that looks like a list (s_list) into an actual
+    list type (l) and return that list l
+    '''
+    s = s_list[1:-1]
+    s = s.replace("'","")
+    s = s.replace(" ","")
+    l = s.split(',')
+    return l
 
 def main():
     '''
@@ -131,10 +175,14 @@ def main():
     # -Convert campaign dates to datetime objects, so we can perform computations and visualize data over time
     updated_csv = convert_datetime(updated_csv) 
 
+    # -Generate a column with representing a weighted sum of scores for each campaign based on what key words they contain
+    updated_csv = weight_keywords(updated_csv)
+
     # -Create new csv with filtered data, this file will be further processed in 'processing_sentiment_local.py'
     
-    updated_csv.to_csv('updated_csv_filtered_FINAL.csv',index=False)
-    
+    #updated_csv.to_csv('updated_csv_filtered_FINAL.csv',index=False)
+    updated_csv.to_csv('GFM_Data_Sentiment_Keywords_Weighted_rural.csv')
+
+
 if __name__ == '__main__':
     main()
-
