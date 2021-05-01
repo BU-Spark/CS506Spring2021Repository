@@ -1,0 +1,1357 @@
+checking 2015 ...
+
+checking 2016 ...
+
+checking 2017 ...
+
+OT record:
+ ID                             8205
+NAME               Butler,Michael V
+RANK                            Ptl
+OTDATE                     02/07/17
+OTCODE                          478
+DESCRIPTION    PATRIOTS SUPERBOWL/P
+STARTTIME                       700
+ENDTIME                        1600
+WRKDHRS                           9
+OTHOURS                           9
+CHARGED              SPECIAL EVENTS
+Name: 471, dtype: object 
+
+Court record:
+ ID                        120925
+NAME            Butler,Michael V
+RANK                         Ptl
+ASSIGNED             DISTRICT 11
+CHARGED              DISTRICT 11
+OTDATE                  02/07/17
+DESCRIPTIONS     COURT CODE ONLY
+OTCODE                       280
+DESCRIPTION          COURT:TRIAL
+STARTTIME                    830
+ENDTIME                     1100
+WRKDHRS                      2.5
+OTHOURS                        4
+Name: 2533, dtype: object 
+
+------------------------------------------------------------ 
+
+checking 2018 ...
+
+OT record:
+ ID                      10951
+NAME            Coyne,Kevin C
+RANK                      Ptl
+OTDATE               02/23/18
+OTCODE                    466
+DESCRIPTION             POTUS
+STARTTIME                1000
+ENDTIME                  1600
+WRKDHRS                     6
+OTHOURS                     6
+CHARGED        SPECIAL EVENTS
+Name: 1612, dtype: object 
+
+Court record:
+ ID                           11805
+NAME                 Coyne,Kevin C
+RANK                           Ptl
+ASSIGNED            C-11 DCU SQUAD
+CHARGED             C-11 DCU SQUAD
+OTDATE                    02/23/18
+DESCRIPTIONS       COURT CODE ONLY
+OTCODE                         283
+DESCRIPTION     COURT:MOTIONS HRG.
+STARTTIME                      930
+ENDTIME                       1100
+WRKDHRS                        1.5
+OTHOURS                          4
+Name: 4978, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10961
+NAME                Kwok,Edward K
+RANK                          Ptl
+OTDATE                   06/08/18
+OTCODE                        409
+DESCRIPTION    BFS EVENT/ACTIVITY
+STARTTIME                     700
+ENDTIME                      1600
+WRKDHRS                         9
+OTHOURS                         9
+CHARGED            SPECIAL EVENTS
+Name: 5316, dtype: object 
+
+Court record:
+ ID                                8868
+NAME                     Kwok,Edward K
+RANK                               Det
+ASSIGNED        DOMESTIC VIOLENCE UNIT
+CHARGED         DOMESTIC VIOLENCE UNIT
+OTDATE                        06/08/18
+DESCRIPTIONS           COURT CODE ONLY
+OTCODE                             280
+DESCRIPTION                COURT:TRIAL
+STARTTIME                          830
+ENDTIME                            930
+WRKDHRS                              1
+OTHOURS                              4
+Name: 14342, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                         103784
+NAME           Samaras,William J.
+RANK                          Det
+OTDATE                   10/31/18
+OTCODE                        468
+DESCRIPTION               RED SOX
+STARTTIME                     700
+ENDTIME                      1400
+WRKDHRS                         7
+OTHOURS                         7
+CHARGED            SPECIAL EVENTS
+Name: 12157, dtype: object 
+
+Court record:
+ ID                           11294
+NAME            Samaras,William J.
+RANK                           Det
+ASSIGNED             HOMICIDE UNIT
+CHARGED              HOMICIDE UNIT
+OTDATE                    10/31/18
+DESCRIPTIONS       COURT CODE ONLY
+OTCODE                         280
+DESCRIPTION            COURT:TRIAL
+STARTTIME                      900
+ENDTIME                       1000
+WRKDHRS                          1
+OTHOURS                          4
+Name: 24075, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                         103784
+NAME           Samaras,William J.
+RANK                          Det
+OTDATE                   10/31/18
+OTCODE                        468
+DESCRIPTION               RED SOX
+STARTTIME                     700
+ENDTIME                      1400
+WRKDHRS                         7
+OTHOURS                         7
+CHARGED            SPECIAL EVENTS
+Name: 12157, dtype: object 
+
+Court record:
+ ID                            10163
+NAME             Samaras,William J.
+RANK                         SgtDet
+ASSIGNED        SEXUAL ASSAULT UNIT
+CHARGED         SEXUAL ASSAULT UNIT
+OTDATE                     10/31/18
+DESCRIPTIONS        COURT CODE ONLY
+OTCODE                          280
+DESCRIPTION             COURT:TRIAL
+STARTTIME                       900
+ENDTIME                        1400
+WRKDHRS                           5
+OTHOURS                           5
+Name: 24119, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                         103784
+NAME           Samaras,William J.
+RANK                          Det
+OTDATE                   10/31/18
+OTCODE                        468
+DESCRIPTION               RED SOX
+STARTTIME                     700
+ENDTIME                      1400
+WRKDHRS                         7
+OTHOURS                         7
+CHARGED            SPECIAL EVENTS
+Name: 12157, dtype: object 
+
+Court record:
+ ID                             11598
+NAME              Samaras,William J.
+RANK                             Det
+ASSIGNED         SEXUAL ASSAULT UNIT
+CHARGED          SEXUAL ASSAULT UNIT
+OTDATE                      10/31/18
+DESCRIPTIONS         COURT CODE ONLY
+OTCODE                           284
+DESCRIPTION     COURT:GRAND JURY TES
+STARTTIME                        900
+ENDTIME                         1400
+WRKDHRS                            5
+OTHOURS                            5
+Name: 24126, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                       126574
+NAME             Ryan,Matthew J
+RANK                        Ptl
+ASSIGNED            DISTRICT 02
+CHARGED             DISTRICT 02
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   830
+ENDTIME                    1130
+WRKDHRS                       3
+OTHOURS                       4
+Name: 23825, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                        75657
+NAME             Ryan,Matthew J
+RANK                        Ptl
+ASSIGNED            DISTRICT 02
+CHARGED             DISTRICT 02
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   900
+ENDTIME                    1200
+WRKDHRS                       3
+OTHOURS                       4
+Name: 23826, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                              9968
+NAME                  Ryan,Matthew J
+RANK                             Ptl
+ASSIGNED                 DISTRICT 11
+CHARGED                  DISTRICT 11
+OTDATE                      10/31/18
+DESCRIPTIONS         COURT CODE ONLY
+OTCODE                           284
+DESCRIPTION     COURT:GRAND JURY TES
+STARTTIME                        900
+ENDTIME                         1100
+WRKDHRS                            2
+OTHOURS                            4
+Name: 23834, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                         10004
+NAME              Ryan,Matthew J
+RANK                         Det
+ASSIGNED        E-5   DETECTIVES
+CHARGED         E-5   DETECTIVES
+OTDATE                  10/31/18
+DESCRIPTIONS     COURT CODE ONLY
+OTCODE                       286
+DESCRIPTION     COURT:CASE PREP.
+STARTTIME                    830
+ENDTIME                     1100
+WRKDHRS                      2.5
+OTHOURS                        4
+Name: 23843, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                             11097
+NAME                  Ryan,Matthew J
+RANK                             Det
+ASSIGNED             C-11 DETECTIVES
+CHARGED              C-11 DETECTIVES
+OTDATE                      10/31/18
+DESCRIPTIONS         COURT CODE ONLY
+OTCODE                           284
+DESCRIPTION     COURT:GRAND JURY TES
+STARTTIME                        900
+ENDTIME                         1030
+WRKDHRS                          1.5
+OTHOURS                            4
+Name: 23844, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                             96709
+NAME                  Ryan,Matthew J
+RANK                             Det
+ASSIGNED             C-11 DETECTIVES
+CHARGED              C-11 DETECTIVES
+OTDATE                      10/31/18
+DESCRIPTIONS         COURT CODE ONLY
+OTCODE                           281
+DESCRIPTION     COURT:CLERK MAG. HRG
+STARTTIME                       1000
+ENDTIME                         1030
+WRKDHRS                          0.5
+OTHOURS                            4
+Name: 23848, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                             10538
+NAME                  Ryan,Matthew J
+RANK                             Det
+ASSIGNED            D-4   DETECTIVES
+CHARGED             D-4   DETECTIVES
+OTDATE                      10/31/18
+DESCRIPTIONS         COURT CODE ONLY
+OTCODE                           281
+DESCRIPTION     COURT:CLERK MAG. HRG
+STARTTIME                        830
+ENDTIME                         1000
+WRKDHRS                          1.5
+OTHOURS                            4
+Name: 23877, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                             11894
+NAME                  Ryan,Matthew J
+RANK                             Det
+ASSIGNED            D-4   DETECTIVES
+CHARGED             D-4   DETECTIVES
+OTDATE                      10/31/18
+DESCRIPTIONS         COURT CODE ONLY
+OTCODE                           282
+DESCRIPTION     COURT:PRETRIAL CONF.
+STARTTIME                        830
+ENDTIME                          930
+WRKDHRS                            1
+OTHOURS                            4
+Name: 23880, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                       103538
+NAME             Ryan,Matthew J
+RANK                        Ptl
+ASSIGNED            DISTRICT 01
+CHARGED             DISTRICT 01
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   830
+ENDTIME                     930
+WRKDHRS                       1
+OTHOURS                       4
+Name: 23884, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                                    81364
+NAME                         Ryan,Matthew J
+RANK                                    Ptl
+ASSIGNED        YOUTH VIOLENCE STRIKE FORCE
+CHARGED         YOUTH VIOLENCE STRIKE FORCE
+OTDATE                             10/31/18
+DESCRIPTIONS                COURT CODE ONLY
+OTCODE                                  280
+DESCRIPTION                     COURT:TRIAL
+STARTTIME                               900
+ENDTIME                                1000
+WRKDHRS                                   1
+OTHOURS                                   4
+Name: 23889, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                                   102672
+NAME                         Ryan,Matthew J
+RANK                                    Ptl
+ASSIGNED        YOUTH VIOLENCE STRIKE FORCE
+CHARGED         YOUTH VIOLENCE STRIKE FORCE
+OTDATE                             10/31/18
+DESCRIPTIONS                COURT CODE ONLY
+OTCODE                                  280
+DESCRIPTION                     COURT:TRIAL
+STARTTIME                               900
+ENDTIME                                1600
+WRKDHRS                                   7
+OTHOURS                                   7
+Name: 23894, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                         11406
+NAME              Ryan,Matthew J
+RANK                      SgtDet
+ASSIGNED           HOMICIDE UNIT
+CHARGED            HOMICIDE UNIT
+OTDATE                  10/31/18
+DESCRIPTIONS     COURT CODE ONLY
+OTCODE                       286
+DESCRIPTION     COURT:CASE PREP.
+STARTTIME                   1300
+ENDTIME                     1700
+WRKDHRS                        4
+OTHOURS                        4
+Name: 23908, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                        51000
+NAME             Ryan,Matthew J
+RANK                        Ptl
+ASSIGNED            DISTRICT 07
+CHARGED             DISTRICT 07
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   900
+ENDTIME                    1000
+WRKDHRS                       1
+OTHOURS                       4
+Name: 23914, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                        51224
+NAME             Ryan,Matthew J
+RANK                        Ptl
+ASSIGNED            DISTRICT 07
+CHARGED             DISTRICT 07
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   900
+ENDTIME                    1000
+WRKDHRS                       1
+OTHOURS                       4
+Name: 23915, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      76151
+NAME           Ryan,Matthew J
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12161, dtype: object 
+
+Court record:
+ ID                       103567
+NAME             Ryan,Matthew J
+RANK                        Ptl
+ASSIGNED            DISTRICT 18
+CHARGED             DISTRICT 18
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   915
+ENDTIME                    1030
+WRKDHRS                    1.25
+OTHOURS                       4
+Name: 23937, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      99825
+NAME           Sanon,Serge A.
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12174, dtype: object 
+
+Court record:
+ ID                                   102955
+NAME                         Sanon,Serge A.
+RANK                                    Ptl
+ASSIGNED        YOUTH VIOLENCE STRIKE FORCE
+CHARGED         YOUTH VIOLENCE STRIKE FORCE
+OTDATE                             10/31/18
+DESCRIPTIONS                COURT CODE ONLY
+OTCODE                                  280
+DESCRIPTION                     COURT:TRIAL
+STARTTIME                               830
+ENDTIME                                1600
+WRKDHRS                                 7.5
+OTHOURS                                 7.5
+Name: 24246, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      99825
+NAME           Sanon,Serge A.
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12174, dtype: object 
+
+Court record:
+ ID                                    89907
+NAME                         Sanon,Serge A.
+RANK                                    Ptl
+ASSIGNED        YOUTH VIOLENCE STRIKE FORCE
+CHARGED         YOUTH VIOLENCE STRIKE FORCE
+OTDATE                             10/31/18
+DESCRIPTIONS                COURT CODE ONLY
+OTCODE                                  280
+DESCRIPTION                     COURT:TRIAL
+STARTTIME                               900
+ENDTIME                                1600
+WRKDHRS                                   7
+OTHOURS                                   7
+Name: 24247, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      99825
+NAME           Sanon,Serge A.
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12174, dtype: object 
+
+Court record:
+ ID                       126521
+NAME             Sanon,Serge A.
+RANK                        Ptl
+ASSIGNED            DISTRICT 02
+CHARGED             DISTRICT 02
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   830
+ENDTIME                    1030
+WRKDHRS                       2
+OTHOURS                       4
+Name: 24261, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      99825
+NAME           Sanon,Serge A.
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12174, dtype: object 
+
+Court record:
+ ID                       131212
+NAME             Sanon,Serge A.
+RANK                        Ptl
+ASSIGNED            DISTRICT 02
+CHARGED             DISTRICT 02
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   830
+ENDTIME                    1400
+WRKDHRS                     5.5
+OTHOURS                     5.5
+Name: 24262, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      99825
+NAME           Sanon,Serge A.
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 12174, dtype: object 
+
+Court record:
+ ID                       116134
+NAME             Sanon,Serge A.
+RANK                        Ptl
+ASSIGNED            DISTRICT 02
+CHARGED             DISTRICT 02
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   945
+ENDTIME                    1045
+WRKDHRS                       1
+OTHOURS                       4
+Name: 24263, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      11982
+NAME           Slamin,Richard
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1400
+WRKDHRS                     7
+OTHOURS                     7
+CHARGED        SPECIAL EVENTS
+Name: 13103, dtype: object 
+
+Court record:
+ ID                                8868
+NAME                    Slamin,Richard
+RANK                               Det
+ASSIGNED        DOMESTIC VIOLENCE UNIT
+CHARGED         DOMESTIC VIOLENCE UNIT
+OTDATE                        10/31/18
+DESCRIPTIONS           COURT CODE ONLY
+OTCODE                             280
+DESCRIPTION                COURT:TRIAL
+STARTTIME                          830
+ENDTIME                           1530
+WRKDHRS                              7
+OTHOURS                              7
+Name: 25061, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          99878
+NAME           Shaughnessy,John M
+RANK                          Det
+OTDATE                   10/31/18
+OTCODE                        468
+DESCRIPTION               RED SOX
+STARTTIME                     700
+ENDTIME                      1500
+WRKDHRS                         8
+OTHOURS                         8
+CHARGED            SPECIAL EVENTS
+Name: 13571, dtype: object 
+
+Court record:
+ ID                           97301
+NAME            Shaughnessy,John M
+RANK                           Det
+ASSIGNED          B-2   DETECTIVES
+CHARGED           B-2   DETECTIVES
+OTDATE                    10/31/18
+DESCRIPTIONS       COURT CODE ONLY
+OTCODE                         280
+DESCRIPTION            COURT:TRIAL
+STARTTIME                      900
+ENDTIME                       1600
+WRKDHRS                          7
+OTHOURS                          7
+Name: 24644, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                       106695
+NAME           Saintfort,Frantz
+RANK                        Ptl
+OTDATE                 10/31/18
+OTCODE                      468
+DESCRIPTION             RED SOX
+STARTTIME                   730
+ENDTIME                    1500
+WRKDHRS                     7.5
+OTHOURS                     7.5
+CHARGED             DISTRICT 01
+Name: 13644, dtype: object 
+
+Court record:
+ ID                                8021
+NAME                  Saintfort,Frantz
+RANK                               Det
+ASSIGNED        DOMESTIC VIOLENCE UNIT
+CHARGED         DOMESTIC VIOLENCE UNIT
+OTDATE                        10/31/18
+DESCRIPTIONS           COURT CODE ONLY
+OTCODE                             280
+DESCRIPTION                COURT:TRIAL
+STARTTIME                          900
+ENDTIME                           1000
+WRKDHRS                              1
+OTHOURS                              4
+Name: 24030, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                         11004
+NAME           Samuels,Melrose M
+RANK                         Det
+OTDATE                  10/31/18
+OTCODE                       468
+DESCRIPTION              RED SOX
+STARTTIME                    700
+ENDTIME                     1400
+WRKDHRS                        7
+OTHOURS                        7
+CHARGED           SPECIAL EVENTS
+Name: 13842, dtype: object 
+
+Court record:
+ ID                          12131
+NAME            Samuels,Melrose M
+RANK                        Sergt
+ASSIGNED              DISTRICT 02
+CHARGED               DISTRICT 02
+OTDATE                   10/31/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     830
+ENDTIME                      1000
+WRKDHRS                       1.5
+OTHOURS                         4
+Name: 24181, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                         11004
+NAME           Samuels,Melrose M
+RANK                         Det
+OTDATE                  10/31/18
+OTCODE                       468
+DESCRIPTION              RED SOX
+STARTTIME                    700
+ENDTIME                     1400
+WRKDHRS                        7
+OTHOURS                        7
+CHARGED           SPECIAL EVENTS
+Name: 13842, dtype: object 
+
+Court record:
+ ID                          98660
+NAME            Samuels,Melrose M
+RANK                          Det
+ASSIGNED         B-2   DETECTIVES
+CHARGED          B-2   DETECTIVES
+OTDATE                   10/31/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     945
+ENDTIME                      1145
+WRKDHRS                         2
+OTHOURS                         4
+Name: 24182, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      11182
+NAME           Sanders,Paul T
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 730
+ENDTIME                  1600
+WRKDHRS                   8.5
+OTHOURS                   8.5
+CHARGED        SPECIAL EVENTS
+Name: 14548, dtype: object 
+
+Court record:
+ ID                        81372
+NAME             Sanders,Paul T
+RANK                        Ptl
+ASSIGNED            DISTRICT 02
+CHARGED             DISTRICT 02
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   830
+ENDTIME                    1100
+WRKDHRS                     2.5
+OTHOURS                       4
+Name: 24195, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                       8651
+NAME             Ryle,John J.
+RANK                      Ptl
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 600
+ENDTIME                  1400
+WRKDHRS                     8
+OTHOURS                     8
+CHARGED        SPECIAL EVENTS
+Name: 14602, dtype: object 
+
+Court record:
+ ID                        11103
+NAME               Ryle,John J.
+RANK                      Sergt
+ASSIGNED            DISTRICT 05
+CHARGED             DISTRICT 05
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   900
+ENDTIME                    1600
+WRKDHRS                       7
+OTHOURS                       7
+Name: 23998, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10166
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+OTDATE                   11/29/18
+OTCODE                        479
+DESCRIPTION    XMAS WALKING BEATS
+STARTTIME                    1000
+ENDTIME                      1600
+WRKDHRS                         6
+OTHOURS                         6
+CHARGED            SPECIAL EVENTS
+Name: 14711, dtype: object 
+
+Court record:
+ ID                          11816
+NAME            Talbot,Michael G.
+RANK                          Ptl
+ASSIGNED           C-11 DCU SQUAD
+CHARGED            C-11 DCU SQUAD
+OTDATE                   11/29/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     900
+ENDTIME                      1030
+WRKDHRS                       1.5
+OTHOURS                         4
+Name: 26160, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10166
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+OTDATE                   11/29/18
+OTCODE                        479
+DESCRIPTION    XMAS WALKING BEATS
+STARTTIME                    1000
+ENDTIME                      1600
+WRKDHRS                         6
+OTHOURS                         6
+CHARGED            SPECIAL EVENTS
+Name: 14711, dtype: object 
+
+Court record:
+ ID                          96692
+NAME            Talbot,Michael G.
+RANK                          Ptl
+ASSIGNED          D-4?? DCU SQUAD
+CHARGED           D-4?? DCU SQUAD
+OTDATE                   11/29/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     830
+ENDTIME                      1030
+WRKDHRS                         2
+OTHOURS                         4
+Name: 26162, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10166
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+OTDATE                   11/29/18
+OTCODE                        479
+DESCRIPTION    XMAS WALKING BEATS
+STARTTIME                    1000
+ENDTIME                      1600
+WRKDHRS                         6
+OTHOURS                         6
+CHARGED            SPECIAL EVENTS
+Name: 14711, dtype: object 
+
+Court record:
+ ID                          11517
+NAME            Talbot,Michael G.
+RANK                          Det
+ASSIGNED          D-4?? DCU SQUAD
+CHARGED           D-4?? DCU SQUAD
+OTDATE                   11/29/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     830
+ENDTIME                      1030
+WRKDHRS                         2
+OTHOURS                         4
+Name: 26163, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10166
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+OTDATE                   11/29/18
+OTCODE                        479
+DESCRIPTION    XMAS WALKING BEATS
+STARTTIME                    1000
+ENDTIME                      1600
+WRKDHRS                         6
+OTHOURS                         6
+CHARGED            SPECIAL EVENTS
+Name: 14711, dtype: object 
+
+Court record:
+ ID                          53987
+NAME            Talbot,Michael G.
+RANK                          Ptl
+ASSIGNED          D-4?? DCU SQUAD
+CHARGED           D-4?? DCU SQUAD
+OTDATE                   11/29/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     830
+ENDTIME                      1030
+WRKDHRS                         2
+OTHOURS                         4
+Name: 26164, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10166
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+OTDATE                   11/29/18
+OTCODE                        479
+DESCRIPTION    XMAS WALKING BEATS
+STARTTIME                    1000
+ENDTIME                      1600
+WRKDHRS                         6
+OTHOURS                         6
+CHARGED            SPECIAL EVENTS
+Name: 14711, dtype: object 
+
+Court record:
+ ID                          76151
+NAME            Talbot,Michael G.
+RANK                          Ptl
+ASSIGNED          D-4?? DCU SQUAD
+CHARGED           D-4?? DCU SQUAD
+OTDATE                   11/29/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     830
+ENDTIME                      1030
+WRKDHRS                         2
+OTHOURS                         4
+Name: 26165, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                          10166
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+OTDATE                   11/29/18
+OTCODE                        479
+DESCRIPTION    XMAS WALKING BEATS
+STARTTIME                    1000
+ENDTIME                      1600
+WRKDHRS                         6
+OTHOURS                         6
+CHARGED            SPECIAL EVENTS
+Name: 14711, dtype: object 
+
+Court record:
+ ID                          10652
+NAME            Talbot,Michael G.
+RANK                       SgtDet
+ASSIGNED          D-4?? DCU SQUAD
+CHARGED           D-4?? DCU SQUAD
+OTDATE                   11/29/18
+DESCRIPTIONS      COURT CODE ONLY
+OTCODE                        280
+DESCRIPTION           COURT:TRIAL
+STARTTIME                     830
+ENDTIME                      1030
+WRKDHRS                         2
+OTHOURS                         4
+Name: 26166, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      11458
+NAME            Seoane,Juan J
+RANK                      Det
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1600
+WRKDHRS                     9
+OTHOURS                     9
+CHARGED        SPECIAL EVENTS
+Name: 15440, dtype: object 
+
+Court record:
+ ID                         8785
+NAME              Seoane,Juan J
+RANK                      Sergt
+ASSIGNED            DISTRICT 14
+CHARGED             DISTRICT 14
+OTDATE                 10/31/18
+DESCRIPTIONS    COURT CODE ONLY
+OTCODE                      280
+DESCRIPTION         COURT:TRIAL
+STARTTIME                   900
+ENDTIME                    1000
+WRKDHRS                       1
+OTHOURS                       4
+Name: 24554, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      11458
+NAME            Seoane,Juan J
+RANK                      Det
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 700
+ENDTIME                  1600
+WRKDHRS                     9
+OTHOURS                     9
+CHARGED        SPECIAL EVENTS
+Name: 15440, dtype: object 
+
+Court record:
+ ID                               11727
+NAME                     Seoane,Juan J
+RANK                               Det
+ASSIGNED        DOMESTIC VIOLENCE UNIT
+CHARGED         DOMESTIC VIOLENCE UNIT
+OTDATE                        10/31/18
+DESCRIPTIONS           COURT CODE ONLY
+OTCODE                             280
+DESCRIPTION                COURT:TRIAL
+STARTTIME                          830
+ENDTIME                            900
+WRKDHRS                            0.5
+OTHOURS                              4
+Name: 24572, dtype: object 
+
+------------------------------------------------------------ 
+
+OT record:
+ ID                      11735
+NAME             Sanchez,Rene
+RANK                    Sergt
+OTDATE               10/31/18
+OTCODE                    468
+DESCRIPTION           RED SOX
+STARTTIME                 730
+ENDTIME                  1600
+WRKDHRS                   8.5
+OTHOURS                   8.5
+CHARGED        SPECIAL EVENTS
+Name: 15454, dtype: object 
+
+Court record:
+ ID                          9378
+NAME                Sanchez,Rene
+RANK                      SgtDet
+ASSIGNED        B-2   DETECTIVES
+CHARGED         B-2   DETECTIVES
+OTDATE                  10/31/18
+DESCRIPTIONS     COURT CODE ONLY
+OTCODE                       280
+DESCRIPTION          COURT:TRIAL
+STARTTIME                   1000
+ENDTIME                     1100
+WRKDHRS                        1
+OTHOURS                        4
+Name: 24194, dtype: object 
+
+------------------------------------------------------------ 
+
+checking 2019 ...
+
+total counts:  42
+total hours:  95.75000000000001 
+

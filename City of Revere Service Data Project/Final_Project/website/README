@@ -1,0 +1,2 @@
+To start and view the website, you will need to view it from a live server. This can be easily done by running:
+`python3 -m http.server` or `python -m SimpleHTTPServer` from this directory. This can also be view by going to https://xav.ie/choropleths

@@ -1,0 +1,80 @@
+Info 0    [17:00:30.955] Starting TS Server
+Info 1    [17:00:30.956] Version: 4.2.3
+Info 2    [17:00:30.956] Arguments: /usr/local/bin/node /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/node_modules/.bin/tsserver --logFile /Users/xavierruiz/Projects/CS506Spring2021Repository/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/wd/ns9g45yd3xxf08wb0_5d5wqw0000gn/T/f299df87f2381f0d5faae8829dadce5f/tscancellation*
+Info 3    [17:00:30.956] Platform: darwin NodeVersion: 15 CaseSensitive: false
+Info 4    [17:00:30.956] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [17:00:34.036] Search path: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/comps
+Info 6    [17:00:34.038] For info: /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/comps/ALL-StreetCleaning.jsx :: No config files found.
+Info 7    [17:00:34.044] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [17:00:36.549] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2505.037847995758ms
+Info 9    [17:00:36.549] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [17:00:36.549] 	Files (138)
+
+Info 11   [17:00:36.549] -----------------------------------------------
+Info 12   [17:00:36.586] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 13   [17:00:38.197] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 1610.5783460140228ms
+Info 14   [17:00:38.197] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 15   [17:00:38.197] 	Files (86)
+
+Info 16   [17:00:38.197] -----------------------------------------------
+Info 17   [17:00:39.126] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 18   [17:00:39.494] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 368.6353949904442ms
+Info 19   [17:00:39.494] Project '/dev/null/inferredProject1*' (Inferred)
+Info 20   [17:00:39.494] 	Files (143)
+
+Info 21   [17:00:39.494] -----------------------------------------------
+Info 22   [17:00:39.495] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 23   [17:00:39.495] 	Files (86)
+
+Info 24   [17:00:39.495] -----------------------------------------------
+Info 25   [17:00:41.630] Before ensureProjectForOpenFiles:
+Info 26   [17:00:41.630] After ensureProjectForOpenFiles:
+Info 27   [17:00:41.631] got projects updated in background, updating diagnostics for /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/src/comps/ALL-StreetCleaning.jsx
+Info 28   [17:01:27.249] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 29   [17:01:27.447] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 198.0667240023613ms
+Info 30   [17:01:27.448] Different program with same set of files:: structureIsReused:: 2
+Info 31   [17:01:28.538] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 32   [17:01:28.569] Skipped loading contents of large file /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/node_modules/plotly.js-dist/plotly.js for info /Users/xavierruiz/Projects/CS506Spring2021Repository/City of Revere Service Data Project/website/node_modules/plotly.js-dist/plotly.js: fileSize: 7540527
+Info 33   [17:01:28.632] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 93.9407439827919ms
+Info 34   [17:01:28.632] Project '/dev/null/inferredProject1*' (Inferred)
+Info 35   [17:01:28.632] 	Files (144)
+
+Info 36   [17:01:28.632] -----------------------------------------------
+Info 37   [17:01:28.632] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 38   [17:01:28.632] 	Files (86)
+
+Info 39   [17:01:28.632] -----------------------------------------------
+Info 40   [17:01:34.486] Format host information updated
+Info 41   [17:01:35.404] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 42   [17:01:35.628] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 223.81430196762085ms
+Info 43   [17:01:35.628] Different program with same set of files:: structureIsReused:: 2
+Info 44   [17:01:41.748] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 45   [17:01:41.935] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 186.8900510072708ms
+Info 46   [17:01:41.935] Different program with same set of files:: structureIsReused:: 2
+Info 47   [17:01:49.802] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 48   [17:01:50.001] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 198.5874440073967ms
+Info 49   [17:01:50.001] Different program with same set of files:: structureIsReused:: 2
+Info 50   [17:01:56.910] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 51   [17:01:57.145] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 234.10719799995422ms
+Info 52   [17:01:57.145] Different program with same set of files:: structureIsReused:: 2
+Info 53   [17:02:04.682] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 54   [17:02:04.902] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 220.52401196956635ms
+Info 55   [17:02:04.916] Different program with same set of files:: structureIsReused:: 2
+Info 56   [17:02:12.328] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 57   [17:02:12.554] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 225.82948398590088ms
+Info 58   [17:02:12.554] Different program with same set of files:: structureIsReused:: 2
+Info 59   [17:02:19.520] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 60   [17:02:19.728] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 206.67479598522186ms
+Info 61   [17:02:19.728] Different program with same set of files:: structureIsReused:: 2
+Info 62   [17:02:26.691] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 63   [17:02:26.887] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 195.22475600242615ms
+Info 64   [17:02:26.887] Different program with same set of files:: structureIsReused:: 2
+Info 65   [17:02:33.961] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 66   [17:02:34.183] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 221.30132097005844ms
+Info 67   [17:02:34.183] Different program with same set of files:: structureIsReused:: 2
+Info 68   [17:02:41.365] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 69   [17:02:41.576] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 210.21085804700851ms
+Info 70   [17:02:41.576] Different program with same set of files:: structureIsReused:: 2
+Info 71   [17:02:50.258] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 72   [17:02:50.513] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 253.960864007473ms
+Info 73   [17:02:50.513] Different program with same set of files:: structureIsReused:: 2

@@ -1,0 +1,13 @@
+Xavier's Notes
+
+* General goals
+** get lat longs of DPW into census groups (or tracts?) I forget
+** use [[https://censusreporter.org/data/table/?table=B09019&geo_ids=140|06000US2502556585,150|06000US2502556585,060|05000US25025&primary_geo_id=06000US2502556585][this website]] to get shapefiles along with demographics data along with shapefiles
+** To figure out what demographics data is available, you may use [[https://www.census.gov/programs-surveys/acs/guidance/comparing-acs-data/2008/crosswalk-table.html/content/census/en/programs-surveys/acs/guidance/comparing-acs-data/2008/crosswalk-table.html][this "crosswalk" table website]]
+** Use this infographic to understand the census hierarchy
+#+DOWNLOADED: screenshot @ 2021-03-28 15:08:33
+[[file:images/20210328-150833_screenshot.png]]
+** Set up vscode and python: https://www.youtube.com/watch?v=lwN4-W1WR84
+** Example of using shapefiles by Giancarlo: https://github.com/relishyeah/CS506Spring2021Repository/blob/master/City%20of%20Revere%20Service%20Data%20Project/Deliverable_2/census_merges.py
+** Working with shapefiles video sent by linyang: https://drive.google.com/file/d/1MR1prf3yRH_FCv4SZl_3n_snlJtiWfW2/view
+** 
