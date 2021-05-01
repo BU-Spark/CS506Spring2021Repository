@@ -119,36 +119,36 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
  
  **c. Carbon emission estimates for top 10 frequently-requested coffee creamer (2016-2020)**
 
-    - We found the carbon emission for the packing carton of each boxes of coffee creamer from paper [*Calculation Method and Case Analysis of Carbon Footprint in Corrugated Carton Production*](http://www.designartj.com/bzgcgk/ch/reader/create_pdf.aspx?file_no=201205024&year_id=2012&quarter_id=5&falg=1), from which the average carbon emission for producing a 100 square meter carton is 70.7175 kg CO2, and we assume the carton used is a cube with length 6 inches, then the area of carton material used is 0.139 squared meter and then calculate the carbon emission of carton.
+   - We found the carbon emission for the packing carton of each boxes of coffee creamer from paper [*Calculation Method and Case Analysis of Carbon Footprint in Corrugated Carton Production*](http://www.designartj.com/bzgcgk/ch/reader/create_pdf.aspx?file_no=201205024&year_id=2012&quarter_id=5&falg=1), from which the average carbon emission for producing a 100 square meter carton is 70.7175 kg CO2, and we assume the carton used is a cube with length 6 inches, then the area of carton material used is 0.139 squared meter and then calculate the carbon emission of carton.
 
-    - Then we used approximate carbon emission for a creamer pod multiplying number of pods contained in a carton to get the co2 emission of a creamer product.
+   - Then we used approximate carbon emission for a creamer pod multiplying number of pods contained in a carton to get the co2 emission of a creamer product.
   
-    - Finally we summed up the carbon emission for packing and coffee creamer to obtain the total carbon emission there.
+   - Finally we summed up the carbon emission for packing and coffee creamer to obtain the total carbon emission there.
   
-    ![top-10-coffee-creamer-carbon-emission](./image/top-10-coffee-creamer-carbon-emission_v2.png)
+   ![top-10-coffee-creamer-carbon-emission](./image/top-10-coffee-creamer-carbon-emission_v2.png)
   
-    - By collecting carbon emission of producing the packing materials(eg. carton or cardboard box), and cup of the creamer, we compute the carbon emission of the top 10 consumed coffee creamer is about 12565kg carbon dioxide.
+   - By collecting carbon emission of producing the packing materials(eg. carton or cardboard box), and cup of the creamer, we compute the carbon emission of the top 10 consumed coffee creamer is about 12565kg carbon dioxide.
     
-    - Here is the distribution for carbon emission of different products:
-    ![top-10-coffee-creamer-carbon-emission-distribution](./image/top-10-coffee-creamer-carbon-emission-distribution_v2.png)
+   - Here is the distribution for carbon emission of different products:
+   ![top-10-coffee-creamer-carbon-emission-distribution](./image/top-10-coffee-creamer-carbon-emission-distribution_v2.png)
   
  **d. Carbon emission estimate for top 10 frequently-requested hot cups (2016-2020)**
  
-    - For hot-cups, we first find the data of the carbon emission for the cup of 12ounce on [a open-source website](https://www.huhtamaki.com/en/highlights/sustainability/taking-a-closer-look-at-the-carbon-footprint-of-paper-cups-for-coffee/). However, it is really difficult to find a reliable source of the 8oz and 16oz.
+   - For hot-cups, we first find the data of the carbon emission for the cup of 12ounce on [a open-source website](https://www.huhtamaki.com/en/highlights/sustainability/taking-a-closer-look-at-the-carbon-footprint-of-paper-cups-for-coffee/). However, it is really difficult to find a reliable source of the 8oz and 16oz.
     - Because they are made from the same model of the same company with different sizes, we find the weight ratio between 8oz, 12oz and 16 oz. According to the ratio, we calculate the carbon emission for hot cups.
     - According to the ground coffee part, we add the packing waste and calculate the total carbon emission for each specific category.
     ![top-10-ground-hot-cups-emission](./image/top-10-ground-hot-cups-emission.png)
     
-    - Here is the distribution for carbon emission of different products:
+   - Here is the distribution for carbon emission of different products:
     ![top-10-ground-hot-cups-emission-distribution](./image/top-10-ground-hot-cups-emission-distribution.png)
     
  **e. Weight estimate for top 10 frequently-requested int cartridges(2016-2020)**
  
-    - For the ink cartridge, we did some research on the product description and found out the total weight of the cartridge and the weight of the ink(ml) inside of it.
+   - For the ink cartridge, we did some research on the product description and found out the total weight of the cartridge and the weight of the ink(ml) inside of it.
     - Then we found that the density of ink = 1.6g/ml (standard). Using this information, we estimate the weight of each carbon cartridge using the formula: Weight of ink cartridge = total weight of the produce - ink size * ink's density.
     - However, since the composition of ink cartridges is so complicated that it’s hard to find the carbon emissions of each part of it, we failed to calculate the carbon emissions for the ink cartridge.
     
-    ![top_10_waste_volume_toners](./image/top_10_waste_volume_toners.png)
+   ![top_10_waste_volume_toners](./image/top_10_waste_volume_toners.png)
 
 **2. Data Analysis**
 
