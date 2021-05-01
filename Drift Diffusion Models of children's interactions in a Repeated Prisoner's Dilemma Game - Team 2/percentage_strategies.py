@@ -6,7 +6,7 @@ import csv
 import matplotlib.pyplot as plt
 
 # Use CS506 library to import the CSV with the twins data
-df = pd.read_csv("dataset_with_strategies.csv")
+df = pd.read_csv("analysis/dataset_with_strategies.csv")
 print(df.head())
 
 #gets the percentage of each type of strategy 
