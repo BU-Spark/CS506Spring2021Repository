@@ -142,7 +142,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
     - Here is the distribution for carbon emission of different products:
     ![top-10-ground-hot-cups-emission-distribution](./image/top-10-ground-hot-cups-emission-distribution.png)
     
- **e. Weight estimate for top 10 frequently-requested int cartridges(2016-2020) **
+ **e. Weight estimate for top 10 frequently-requested int cartridges(2016-2020)**
  
     - For the ink cartridge, we did some research on the product description and found out the total weight of the cartridge and the weight of the ink(ml) inside of it.
     - Then we found that the density of ink = 1.6g/ml (standard). Using this information, we estimate the weight of each carbon cartridge using the formula: Weight of ink cartridge = total weight of the produce - ink size * ink's density.
@@ -152,7 +152,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 **2. Data Analysis**
 
-**a. Cost that different departments spent on K-cups and Bagged Coffee **
+**a. Cost that different departments spent on K-cups and Bagged Coffee**
     
 - 54 departments spend a total of 1025780.04 dollars on buying K-cups. To elaborate, SCHOOL OF MEDICINE (BUSM) spent the most on the K-cups, with 94712.55 dollars. SUMMER TERM (SUM) spent the least, with 54.39 dollars.
 
@@ -170,7 +170,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 ![cost_on_bagged_coffee_on_different_department_distribution](./image/cost_on_bagged_coffee_on_different_department_distribution.png)
 
-** b. Number of requests on Toner and Coffee yearly for different departments **
+**b. Number of requests on Toner and Coffee yearly for different departments**
 
 - We’ve computed the top 10 departments that requested Toner and Coffee most in the last 5 years respectively.
 
@@ -180,7 +180,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 - Due to Covid-19, the demand dramatically decreases in the year 2020. However, the big picture turns out that colleges GSDM, BUSM, CAS, and GENERAL ED SUPPORT & ACADEMIC INITIATIVS have the most demands for both toner and coffee. BU could pay attention to these four colleges, and appropriately higher the price of the coffee and toner or remove several supply machines in the buildings.
 
-** c. Purchasing Pattern Analysis **
+**c. Purchasing Pattern Analysis**
 
 - We analyzed the order frequency of coffee, toner and paper, represented the top ten items in the order times in these two categories, and drew a line chart of the order frequency of that 20 most frequently used items. 
 
@@ -196,7 +196,7 @@ We have received [three batch of data](https://drive.google.com/drive/u/0/folder
 
 - We can see that the school of dental medicine has the smallest order interval with an average of 6 days, and CAS has the most of its order interval stay above other four department with average of 25 days.
 
-**Purchaseing Pattern for the most frequently-requested toner product: **
+**Purchaseing Pattern for the most frequently-requested toner product:**
 
 - For toner, using the most commonly used toner to represent the rest nine toner products, which product code is HEWCE505A, Black Original LaserJet Toner Cartridge, is ordered every 5.1 days on average. The data is mainly concentrated between ordering multiple times a day to ordering once every eight days. There are many cases where the interval between two orders exceeds eight days. Compared with the coffee category, the toner interval is more scattered. We found that toner demand is different from daily habits but is more goal-driven, for example, an event or large meeting. Therefore, it is prone to fluctuate demand changes with irregular rhythms. 2020 is the year in which large intervals frequently occur, with cases where the interval between two purchases is as long as 26 days because of the remote working/teaching pattern affected by the epidemic.
 
