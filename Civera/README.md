@@ -1,6 +1,6 @@
 ## Civera - MassCourtsPlus Project README
 
-Given the Civera court database, in order to extract actor & action fields from case descriptions, use the [extraction_pipeline.ipynb](./code/extraction_pipeline.ipynb) notebook.
+Given the Civera court database, in order to extract actor & action fields from case descriptions, use the [extraction_pipeline.ipynb](./Code/extraction_pipeline.ipynb) notebook.
   1. Open Google Colab.
   2. Upload `extraction_pipeline.ipynb` and open it.
   3. In the *Runtime* dropdown menu, select *Change Runtime Type*.
