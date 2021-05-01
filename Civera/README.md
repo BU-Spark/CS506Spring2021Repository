@@ -1,6 +1,6 @@
 ## Civera - MassCourtsPlus Project README
 
-Given the Civera court database, in order to extract actor & action fields from case descriptions, use the `extraction_pipeline.ipynb` notebook.
+Given the Civera court database, in order to extract actor & action fields from case descriptions, use the [extraction_pipeline.ipynb](./code/extraction_pipeline.ipynb) notebook.
   1. Open Google Colab.
   2. Upload `extraction_pipeline.ipynb` and open it.
   3. In the *Runtime* dropdown menu, select *Change Runtime Type*.
@@ -11,6 +11,7 @@ Given the Civera court database, in order to extract actor & action fields from 
 When `extraction_pipeline.ipynb` is running, it completes code cells 1-12 in about a minute. These cells install/download the necessary libraries & files, create helper functions (with the regex code - see `Civera Project Final Report.pdf` section on Methodology for Normalizing the Database), create a Normalizer class (that uses previous cells' functions), initialize the normalizer class, and connect to the DB in MySQLWorkbench. 
 After this, the notebook spends all of its time running the Normalize Data cell. The latency on this cell is explained in `Civera Project Final Report.pdf` section on Final Methodology, Performance Analysis.
 
+***
 
 Link to the Google Drive folder that contains all of our binary files:
 
