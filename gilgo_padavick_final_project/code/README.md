@@ -1,0 +1,2 @@
+# Project Codebase 
+Each folder is broken out into the steps performed in the project. The exploratory analysis is contained in Jupyter notebooks while common code/functions are grouped together in .py files. 
