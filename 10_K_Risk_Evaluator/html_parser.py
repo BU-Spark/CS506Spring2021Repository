@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
-# from nltk.stem.snowball import SnowballStemmer
+from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import regexp_tokenize
 nltk.download('wordnet')
 
@@ -85,7 +85,7 @@ def clean_strings(input_list):
     temp = ' '.join(input_list)  # Join elements in list into single string
     temp = regexp_tokenize(temp, "[\w']+")  # Use a regex to split words
 
-    # Lemmatization (i.e., grouping together any inflected forms of a word)
+    #Lemmatization (i.e., grouping together any inflected forms of a word)
     lemmatizer = WordNetLemmatizer()
     temp = [lemmatizer.lemmatize(word) for word in temp]
 
@@ -97,15 +97,52 @@ def clean_strings(input_list):
     stop_words = stopwords.words('english')
     temp = [w for w in temp if w not in stop_words]
 
-    # Remove digit-value and single-character strings from text
+    # # Remove digit-value and single-character strings from text
     temp = [x for x in temp if not (x.isdigit())]
     cleaned_list = [x for x in temp if len(x) > 1]
 
+    return temp
+
+
+
+<<<<<<< HEAD
+<<<<<<< HEAD
     return cleaned_list
+=======
+def main_path(path):
+    tree = import_data(str(path))  # Import html file
+    
+    # Specify a set of words that are unique to the boundaries of a section
+    start_terms = ['ITEM', '1A.', 'RISK', 'FACTORS']
+    end_terms = ['ITEM', '1B.', 'UNRESOLVED', 'STAFF', 'COMMENTS']
+
+    risk_text = grab_section_text(tree, start_terms, end_terms)
+    risk_text = clean_strings(risk_text)
+    
+
+    cleaned_list = []
+    all_text = []
+    all_text.append(risk_text)
+    cleaned_list.append(all_text)
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+    return all_text
+>>>>>>>  working on structure data branch
+=======
+    return risk_text
+>>>>>>> writing csv files
+=======
+    return cleaned_list
+>>>>>>>  updates 4.6.21
 
 
 def main():
     soup_object = import_data('filing-details.html')  # Import html file
+=======
+def main(path):
+    tree = import_data(str(path))  # Import html file
+>>>>>>>  developing function to produce bulk local file paths
 
     # Specify a set of words that are unique to the boundaries of a section
     start_terms = ['ITEM', '1A.', 'RISK', 'FACTORS']
@@ -123,5 +160,5 @@ def main():
     return all_text
 
 
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+   # main()
