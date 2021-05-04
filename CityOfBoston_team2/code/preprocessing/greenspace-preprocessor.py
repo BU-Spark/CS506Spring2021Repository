@@ -3,6 +3,8 @@ from pandas import DataFrame
 import difflib
 import re
 import shapefile
+import math
+
 #https://geospatialtraining.com/tutorial-creating-a-pandas-dataframe-from-a-shapefile/
 def read_shapefile(shp_file):
     sf_shape = shapefile.Reader(shp_file)
@@ -44,14 +46,72 @@ def output_data(dataframe,path):
     dataframe.to_csv(path, index = False)
     return
 
+# https://stackoverflow.com/questions/37885798/how-to-calculate-the-midpoint-of-several-geolocations-in-python
+def avg_coord(coords):
+
+    x = 0.0
+    y = 0.0
+    z = 0.0
+
+    for coord in coords:
+        latitude = math.radians(coord[0])
+        longitude = math.radians(coord[1])
+
+        x += math.cos(latitude) * math.cos(longitude)
+        y += math.cos(latitude) * math.sin(longitude)
+        z += math.sin(latitude)
+
+    total = len(coords)
+
+    x = x / total
+    y = y / total
+    z = z / total
+
+    central_longitude = math.atan2(y, x)
+    central_square_root = math.sqrt(x * x + y * y)
+    central_latitude = math.atan2(z, central_square_root)
+
+    mean_lat = math.degrees(central_latitude)
+    mean_long = math.degrees(central_longitude)
+    return mean_lat,mean_long
+def splitCoords(coords):
+    lat = []
+    lon = []
+    for coord in coords:
+        lat.append(coord[0])
+        lon.append(coord[1])
+    return lat,lon
+
+def map_type_to_business_type(t):
+    if t == 'Malls, Squares & Plazas' or t == 'Parks, Playgrounds & Athletic Fields':
+        return 'recreation'
+    return ''
+
 # df = import_data("../../dataset_ignore/Open_Space.csv")
 
 df = read_shapefile("../../dataset_ignore/Open_Space/Open_Space.shp")
-print(df.columns)
+# print(df.columns)
+print(df[['coords']].head())
 df = df[['SITE_NAME','ADDRESS','coords','TypeLong','ACRES']]
-print("df is \n",df.head())
+
 df['TypeLong'] = similarity_replace(df.TypeLong)
 df=df.sort_values(by=['ACRES'], ascending=False)
-print('Types are: ', columnValues(df,'TypeLong'))
+df = df.drop('ACRES', 1)
+print("df is \n",df.head())
+#creating average coordinates
+df['avg_coord'] = df['coords'].apply(lambda coords: avg_coord(coords))
+df[['lat', 'lon']] = pd.DataFrame(df['avg_coord'].tolist(), index=df.index)
+df = df.drop('avg_coord',1)
+df = df.drop('coords',1)
 
-output_data(df,"../../datasets_clean/open_space_sanitized.csv")
+
+df['business_type'] =df['TypeLong'].apply(lambda t:map_type_to_business_type(t))
+df = df.drop(['TypeLong'], axis=1)
+
+#split coords
+# df['latlon'] = df['coords'].apply(lambda coords: splitCoords(coords))
+# df[['lat', 'lon']] = pd.DataFrame(df['latlon'].tolist(), index=df.index)
+# df = df.drop(['latlon'], axis=1)
+# print('-----')
+print(df[['lat','lon']].head())
+output_data(df,"../../datasets_clean/open_space_latlon_avg.csv")

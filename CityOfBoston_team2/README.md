@@ -2,6 +2,8 @@
 
 Final project for CAS CS 506 through Spark! BU and the City of Boston.
 
+The final report can be found [here](deliverables/final_report.pdf).
+
 ## Team Members
 
 Katelyn Lee (ktllee@bu.edu, ktllee)<br>
@@ -44,19 +46,19 @@ Many cities such as [Melbourne](https://www.planning.vic.gov.au/__data/assets/pd
 		<td>Yes</td>
 	</tr>
 	<tr>
-		<td><a href='deliverables/deliverable2'>Deliverable 2</td>
+		<td><a href='deliverables/deliverable2'>Deliverable 2</a></td>
 		<td>March 24, 2021</td>
 		<td>Yes</td>
 	</tr>
 	<tr>
-		<td>Deliverable 3</td>
+		<td><a href='deliverables/deliverable3'>Deliverable 3</a></td>
 		<td>April 07, 2021</td>
-		<td>No</td>
+		<td>Yes</td>
 	</tr>
 	<tr>
-		<td>Deliverable 4</td>
-		<td>April 14, 2021</td>
-		<td>No</td>
+		<td><a href='deliverables/deliverable4'>Deliverable 4</a></td>
+		<td>April 19, 2021 <em>(revised)</em></td>
+		<td>Yes</td>
 	</tr>
 </table>
 

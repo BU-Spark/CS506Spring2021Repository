@@ -1,0 +1,22 @@
+,NAME,ADDRESS,ZIPCODE,coords,buisness_type
+0,Beth Israel Deaconess Medical Center East,330 Brookline Avenue,02215,"[[232494.09089999646, 898890.122299999]]",Healthcare
+1,Steward St. Elizabeth's Medical Center,736 Cambridge Street,02135,"[[229003.95820000023, 899958.2906000018]]",Healthcare
+2,Tufts Medical Center,800 Washington Street,02111,"[[235963.10859999806, 899998.1486000009]]",Healthcare
+4,Massachusetts Eye and Ear Infirmary,243 Charles Street,02114,"[[235396.61379999667, 901452.9054000005]]",Healthcare
+5,Shriners Hospital For Children - Boston,51 Blossom Street,02114,"[[235713.70120000094, 901489.4186999984]]",Healthcare
+6,Massachusetts General Hospital,55 Fruit Street,02114,"[[235522.40190000087, 901501.5240999982]]",Healthcare
+56,Steward Carney Hospital,2100 Dorchester Avenue,02124,"[[235794.71339999884, 892042.7076000012]]",Healthcare
+59,Brigham and Women's Faulkner Hospital,1153 Centre Street,02130,"[[230659.05839999765, 894618.2250000015]]",Healthcare
+60,New England Baptist Hospital,125 Parker Hill Avenue,02120,"[[232412.7281000018, 897770.0868000016]]",Healthcare
+62,Boston Medical Center - Menino Pavilion,830-840 Harrison Avenue,02118,"[[235193.45910000056, 898335.9362999983]]",Healthcare
+64,Brigham and Women's Hospital,75 Francis Street,02115,"[[232347.62160000205, 898476.9593999982]]",Healthcare
+65,Boston Medical Center - Newton Pavilion,88 East Newton Street,02118,"[[235363.3193999976, 898574.4957999997]]",Healthcare
+66,Boston Children's Hospital,300 Longwood Avenue,02115,"[[232561.0407000035, 898628.9343000017]]",Healthcare
+67,Dana-Farber Cancer Institute,450 Brookline Avenue,02215,"[[232281.0423000008, 898641.818]]",Healthcare
+68,Beth Israel Deaconess Medical Center West,One Deaconess Road,02215,"[[232214.942400001, 898664.4607999995]]",Healthcare
+1,Hebrew Rehabilitation Center,1200 Centre Street,02131,"[[230450.27269999683, 894089.2369000018]]",
+3,Lemuel Shattuck Hospital,170 Morton Street,02130,"[[232823.2498999983, 894423.625599999]]",
+4,Arbour Hospital,49 Robinwood Avenue,02130,"[[231964.8342999965, 896216.2897999994]]",
+5,Franciscan Children’s,30 Warren Street,02135,"[[234358.94070000201, 897785.0839000009]]",
+6,Dr. Solomon Carter Fuller Mental Health Center,85 East Newton Street,02118,"[[235356.30900000036, 898522.6796999983]]",
+10,Spaulding Rehabilitation Hospital Boston,300 First Avenue,02129,"[[237123.67390000075, 903216.6504999995]]",
