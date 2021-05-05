@@ -1,0 +1,18 @@
+RMSE for KNN model =  0.015300954310390788
+f1_macro for kNN Classifer =  0.5491012486605819
+
+
+RMSE for Logistic model =  0.014714506584208562
+f1_macro for Logistic Classifier =  0.5453107280323439
+
+
+RMSE for Decision Tree model =  0.018713013808178282
+f1_macro for Decision Tree =  0.5640665029459596
+
+
+RMSE for Categorical Naive Bayes model =  0.12667270885536067
+f1_macro for Categorical Naive Bayes Classifier =  0.515595293052105
+
+
+RMSE for Random Forest Classifier =  0.01865970037852535
+f1_macro for Random Forest Classifier =  0.5533661144011918
