@@ -3,6 +3,8 @@ tabula-py
 camelot-py
 pytest
 pytest-cov
+matplotlib
 pandera
+pandasql
 testfixtures
 tox

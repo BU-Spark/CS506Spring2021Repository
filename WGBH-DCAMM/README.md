@@ -26,6 +26,19 @@ An example of a file is April 2019: https://drive.google.com/file/d/1brxGTjfkhwK
 We have been given a file folder with files for each month Jan - Dec 2019, e.g. WorkforceUtilizationSummaryReportApril2018.pdf
 
 
+## Data Visualizations
+Reports have been parsed and a summary report shows a little dashboard of statistics on what we found to date.  The script in the src/visuals folder, 
+produce_by_trade.py, produces the base data used to produce the summary_by_trade.xlsx.  Please feel free to run the script
+using python3 src/visuals/produce_by_trade.py.
+Three versions of these reports exist. 2019, 2020 and 2019-2020 versions.
+
+WorkforceUtilizationSummaryReport20192020Trade.csv
+WorkforceUtilizationSummaryReport20192020appjour.csv
+WorkforceUtilizationSummaryReport20192020by_trade.csv
+WorkforceUtilizationSummaryReport20192020GenderAJTrade.csv
+WorkforceUtilizationSummaryReport20192020GenderTrade.csv
+WorkforceUtilizationSummaryReport20192020EthnicAJTrade.csv
+WorkforceUtilizationSummaryReport20192020EthnicTrade.csv
 
 ## Methods
 We use two python libraries and an interactive tabula desktop program to parse the workforce utilization pdf files.

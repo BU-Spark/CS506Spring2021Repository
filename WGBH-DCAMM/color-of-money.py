@@ -1,11 +1,7 @@
 import unittest
 from sys import argv
-from  src.parsers import pd_parser
 import os
 
-from src.parsers.pdf_parser import import_pdf, batch_transform, frame_import
-from src.parsers.tabula_parser import convert_reader
-from src.parsers.threetierledger import threetier_convert
 
 def main(arg):
     debug = False

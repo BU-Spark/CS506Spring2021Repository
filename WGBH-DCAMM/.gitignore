@@ -9,8 +9,12 @@ __pycache__/
 ../.DS_Store
 .idea/
 ../.idea/
-../venv/
-venv
+
+# Environments
+venv/
+
+
+
 
 # Distribution / packaging
 .Python
@@ -110,15 +114,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
-.venv
-env/
-../venv/
-ENV/
-env.bak/
-venv.bak/
-.idea/
+
 
 # Spyder project settings
 .spyderproject
