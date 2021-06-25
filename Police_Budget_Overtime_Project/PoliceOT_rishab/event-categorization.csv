@@ -1,0 +1,76 @@
+description,category
+OPERATION CLEAN SWEE,clean_sweep
+D4 COMMUNITY EVENT,community_event
+A1 COMMUNITY EVENT,community_event
+E13 COMMUNITY EVENT,community_event
+C11 COMMUNITY EVENT,community_event
+E18 COMMUNITY EVENT,community_event
+B2 COMMUNITY EVENT,community_event
+D14 COMMUNITY EVENT,community_event
+C6 COMMUNITY EVENT,community_event
+A7 COMMUNITY EVENT,community_event
+E5 COMMUNITY EVENT,community_event
+B3 COMMUNITY EVENT,community_event
+NSTAR POWER OUTAGE,emergency
+FIRST NIGHT,holiday
+CHINESE NEW YEAR,holiday
+INDEPENDENCE DAY,holiday
+HALLOWEEN,holiday
+HOLIDAY LIGHTING,holiday
+XMAS WALKING BEATS,holiday
+MARTIN LUTHER KING D,holiday
+HALLOWEEN COVERAGE,holiday
+LNG SECURITY,lng_security
+MASS / MELNEA,mass_melnea
+CARIBBEAN CARNIVAL,parade/festival
+EVACUATION DAY PARAD,parade/festival
+BEAN TOWN JAZZ FEST,parade/festival
+GREEK INDEP DAY PARA,parade/festival
+HAITIAN-AMER.UNITY P,parade/festival
+DORCHESTER DAY PARAD,parade/festival
+GAY/STRGHT YOUTH PRI,parade/festival
+MEMORIAL DAY PARADE,parade/festival
+ANC&HON ARTIL.PARADE,parade/festival
+BUNKER HILL DAY PAR.,parade/festival
+DYKE MARCH,parade/festival
+GAY PRIDE PARADE,parade/festival
+BRIGHTON DAY PARADE,parade/festival
+ROSLINDALE PARADE,parade/festival
+PUERTO RICAN FEST.,parade/festival
+NATIONAL NIGHT OUT,parade/festival
+AUGUST MOON FESTIVAL,parade/festival
+DOMINICAN FESTIVAL,parade/festival
+HEMP FEST,parade/festival
+COLUMBUS DAY PARADE,parade/festival
+VETERANS DAY PARADE,parade/festival
+SAIL BOSTON 2017,parade/festival
+CAPE VERDEAN INDEP P,parade/festival
+OUTSIDE THE BOX,parade/festival
+TSARNAEV TRIAL,political
+STATE OF THE CITY AD,political
+SECRETARY OF STATE,political
+POTUS,political
+FERGUSON VERD&PROTST,protest
+OCCUPY BOSTON 2012,protest
+BAA BOSTON MARATHON,race
+WALK FOR HUNGER,race
+RUN TO REMEMBER,race
+AIDS WALK,race
+BAA HALF MARATHON,race
+HUB ON WHEELS,race
+JIMMY FUND WALK,race
+PATRIOTS SUPERBOWL/P,sporting_event
+BRUINS,sporting_event
+RED SOX,sporting_event
+BOSTON BRUINS (4 HR,sporting_event
+BOSTON CELTICS,sporting_event
+SUPER BOWL,sporting_event
+REDSOX,sporting_event
+REDSOX PARADE,sports_parade
+PAT SUPERBOWL PARADE,sports_parade
+TD GARDEN EVENTS,td_garden
+BFS EVENT/ACTIVITY,uncategorized
+BPD EVENT/ACTIVITY,uncategorized
+BSO EVENT/ACTIVITY,uncategorized
+OPC EVENT,uncategorized
+NUISANCE PATROL,uncategorized
