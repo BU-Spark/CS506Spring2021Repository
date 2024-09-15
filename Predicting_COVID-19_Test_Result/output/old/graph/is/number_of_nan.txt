@@ -1,0 +1,11 @@
+Number of NaN values and its percentage in each column
+test_date : 0   Percentage: 0.0%
+cough : 0   Percentage: 0.0%
+fever : 0   Percentage: 0.0%
+sore_throat : 0   Percentage: 0.0%
+shortness_of_breath : 0   Percentage: 0.0%
+head_ache : 0   Percentage: 0.0%
+corona_result : 0   Percentage: 0.0%
+age_60_and_above : 0   Percentage: 0.0%
+gender : 0   Percentage: 0.0%
+test_indication : 0   Percentage: 0.0%
